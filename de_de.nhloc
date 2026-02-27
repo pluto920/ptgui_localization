@@ -4942,7 +4942,7 @@
 		},
 		{
 			"id": "fileformatsettings.packbitscompression",
-			"txt": "PackBits Komprimierung"
+			"txt": "PackBits-Komprimierung"
 		},
 		{
 			"id": "fileformatsettings.lzwcompression",
@@ -6863,7 +6863,7 @@
 		},
 		{
 				"id": "fileformatsettings.jpegxlcompression",
-				"txt": "JPEG XL-Komprimierung"
+				"txt": "JPEG-XL-Komprimierung"
 		}
 	],
 	"tooltips": [
