@@ -4061,7 +4061,8 @@
 		},
 		{
 			"id": "fileformatsettings.alpha.separate",
-			"txt": "Separato"
+			"machinetranslated": true,
+			"txt": "Con alfa (canale separato)"
 		},
 		{
 			"id": "fileformatsettings.alpha.none",

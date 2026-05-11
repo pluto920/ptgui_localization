@@ -4970,7 +4970,7 @@
 		{
 			"id": "fileformatsettings.alpha.separate",
 			"machinetranslated": true,
-			"txt": "분리"
+			"txt": "알파 포함 (별도 채널)"
 		},
 		{
 			"id": "fileformatsettings.alpha.none",

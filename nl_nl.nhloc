@@ -4008,7 +4008,8 @@
 		},
 		{
 			"id": "fileformatsettings.alpha.separate",
-			"txt": "Gescheiden"
+			"machinetranslated": true,
+			"txt": "Met alfa (apart kanaal)"
 		},
 		{
 			"id": "fileformatsettings.alpha.none",

@@ -4022,7 +4022,8 @@
 		},
 		{
 			"id": "fileformatsettings.alpha.separate",
-			"txt": "Separat"
+			"machinetranslated": true,
+			"txt": "Mit Alpha (separater Kanal)"
 		},
 		{
 			"id": "fileformatsettings.alpha.none",

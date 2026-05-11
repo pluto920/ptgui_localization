@@ -5046,7 +5046,7 @@
 		{
 			"id": "fileformatsettings.alpha.separate",
 			"machinetranslated": true,
-			"txt": "отдельный"
+			"txt": "С альфа-каналом (отдельный канал)"
 		},
 		{
 			"id": "fileformatsettings.alpha.none",

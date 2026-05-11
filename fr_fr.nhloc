@@ -4989,7 +4989,7 @@
 		{
 			"id": "fileformatsettings.alpha.separate",
 			"machinetranslated": true,
-			"txt": "Séparé"
+			"txt": "Avec alpha (canal séparé)"
 		},
 		{
 			"id": "fileformatsettings.alpha.none",

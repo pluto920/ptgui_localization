@@ -4975,7 +4975,7 @@
 		{
 			"id": "fileformatsettings.alpha.separate",
 			"machinetranslated": true,
-			"txt": "分离"
+			"txt": "含Alpha（独立通道）"
 		},
 		{
 			"id": "fileformatsettings.alpha.none",

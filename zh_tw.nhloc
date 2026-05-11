@@ -4028,7 +4028,7 @@
 		{
 			"id": "fileformatsettings.alpha.separate",
 			"machinetranslated": true,
-			"txt": "分離"
+			"txt": "含Alpha（獨立色版）"
 		},
 		{
 			"id": "fileformatsettings.alpha.none",

@@ -4062,7 +4062,8 @@
 		},
 		{
 			"id": "fileformatsettings.alpha.separate",
-			"txt": "Samostatný"
+			"machinetranslated": true,
+			"txt": "S alfa (oddělený kanál)"
 		},
 		{
 			"id": "fileformatsettings.alpha.none",

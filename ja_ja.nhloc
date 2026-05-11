@@ -4033,7 +4033,8 @@
 		},
 		{
 			"id": "fileformatsettings.alpha.separate",
-			"txt": "別々の"
+			"machinetranslated": true,
+			"txt": "アルファ付き（独立チャンネル）"
 		},
 		{
 			"id": "fileformatsettings.alpha.none",

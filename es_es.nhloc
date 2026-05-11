@@ -4864,7 +4864,7 @@
 		{
 			"id": "fileformatsettings.alpha.separate",
 			"machinetranslated": true,
-			"txt": "Separar"
+			"txt": "Con alfa (canal separado)"
 		},
 		{
 			"id": "fileformatsettings.alpha.none",
