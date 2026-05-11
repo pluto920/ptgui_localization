@@ -5163,7 +5163,7 @@
 		{
 			"id": "fileformatsettings.unassociatedalpha",
 			"machinetranslated": true,
-			"txt": "無關聯的阿爾法"
+			"txt": "含Alpha（作為透明度）"
 		},
 		{
 			"id": "fileformatsettings.separatealpha",

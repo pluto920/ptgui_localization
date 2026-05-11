@@ -6119,7 +6119,7 @@
 		{
 			"id": "fileformatsettings.unassociatedalpha",
 			"machinetranslated": true,
-			"txt": "alpha non associé"
+			"txt": "Avec alpha (comme transparence)"
 		},
 		{
 			"id": "fileformatsettings.separatealpha",

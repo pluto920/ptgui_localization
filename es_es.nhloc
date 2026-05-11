@@ -5979,7 +5979,7 @@
 		{
 			"id": "fileformatsettings.unassociatedalpha",
 			"machinetranslated": true,
-			"txt": "alfa no asociado"
+			"txt": "Con alfa (como transparencia)"
 		},
 		{
 			"id": "fileformatsettings.separatealpha",

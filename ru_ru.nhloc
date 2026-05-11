@@ -6201,7 +6201,7 @@
 		{
 			"id": "fileformatsettings.unassociatedalpha",
 			"machinetranslated": true,
-			"txt": "несвязанная альфа"
+			"txt": "С альфа-каналом (как прозрачность)"
 		},
 		{
 			"id": "fileformatsettings.separatealpha",

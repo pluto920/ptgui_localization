@@ -4022,8 +4022,7 @@
 		},
 		{
 			"id": "fileformatsettings.alpha.separate",
-			"machinetranslated": true,
-			"txt": "Mit Alpha (separater Kanal)"
+			"txt": "Mit Alpha (als separater Kanal)"
 		},
 		{
 			"id": "fileformatsettings.alpha.none",
@@ -4955,7 +4954,7 @@
 		},
 		{
 			"id": "fileformatsettings.unassociatedalpha",
-			"txt": "direkter Alphakanal"
+			"txt": "Mit Alpha (als Transparenz)"
 		},
 		{
 			"id": "fileformatsettings.separatealpha",

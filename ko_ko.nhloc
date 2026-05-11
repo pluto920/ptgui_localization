@@ -6105,7 +6105,7 @@
 		{
 			"id": "fileformatsettings.unassociatedalpha",
 			"machinetranslated": true,
-			"txt": "알파 채널 연계 않함"
+			"txt": "알파 포함 (투명도로)"
 		},
 		{
 			"id": "fileformatsettings.separatealpha",

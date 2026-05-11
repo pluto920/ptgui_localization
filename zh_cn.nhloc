@@ -6110,7 +6110,7 @@
 		{
 			"id": "fileformatsettings.unassociatedalpha",
 			"machinetranslated": true,
-			"txt": "无关联的 alpha 层"
+			"txt": "含Alpha（作为透明度）"
 		},
 		{
 			"id": "fileformatsettings.separatealpha",

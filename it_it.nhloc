@@ -4986,7 +4986,8 @@
 		},
 		{
 			"id": "fileformatsettings.unassociatedalpha",
-			"txt": "alfa non associato"
+			"machinetranslated": true,
+			"txt": "Con alfa (come trasparenza)"
 		},
 		{
 			"id": "fileformatsettings.separatealpha",

@@ -4987,7 +4987,7 @@
 		},
 		{
 			"id": "fileformatsettings.unassociatedalpha",
-			"txt": "nepřiřazené alfa"
+			"txt": "S alfa (jako průhlednost)"
 		},
 		{
 			"id": "fileformatsettings.separatealpha",

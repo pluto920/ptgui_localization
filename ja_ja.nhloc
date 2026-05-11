@@ -4960,7 +4960,8 @@
 		},
 		{
 			"id": "fileformatsettings.unassociatedalpha",
-			"txt": "関連付けられていないアルファ"
+			"machinetranslated": true,
+			"txt": "アルファ付き（透明度として）"
 		},
 		{
 			"id": "fileformatsettings.separatealpha",
