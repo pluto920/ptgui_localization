@@ -4173,7 +4173,7 @@
 },
 {
     "id": "fileformatsettings.alpha.separate",
-    "txt": "With alpha (separate channel)"
+    "txt": "With alpha (as separate channel)"
 },
 {
     "id": "fileformatsettings.alpha.none",
@@ -5112,7 +5112,7 @@
 },
 {
     "id": "fileformatsettings.unassociatedalpha",
-    "txt": "unassociated alpha"
+    "txt": "With alpha (as transparency)"
 },
 {
     "id": "fileformatsettings.separatealpha",
