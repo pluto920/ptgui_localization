@@ -1847,7 +1847,7 @@
 		},
 		{
 			"id": "mainwindow.projectsettings.hdrdefaults.hdrdefaultmode.dontlink",
-			"txt": "HDR-Modus aktivieren, aber alle Bilder einzeln ausrichten"
+			"txt": "HDR-Modus aktivieren und alle Bilder einzeln ausrichten"
 		},
 		{
 			"id": "mainwindow.projectsettings.hdrdefaults.hdrdefaultmode.nohdr",
@@ -2597,11 +2597,11 @@
 		},
 		{
 			"id": "bracketedexposureswindow.linktxt",
-			"txt": "Wählen Sie diese Option, wenn Sie die Bilder von einem Stativ aufgenommen haben und die Bilder so bereits pixelgenau ausgerichtet sind."
+			"txt": "Wählen Sie diese Option, wenn Sie ein Stativ verwendet haben und die Bilder so bereits pixelgenau ausgerichtet sind."
 		},
 		{
 			"id": "bracketedexposureswindow.dontlinktxt",
-			"txt": "Wählen Sie diese Option, wenn Sie die Bilder aus der Hand aufgenommen haben. PTGui versucht, die Bilder der Belichtungsreihen auszurichten."
+			"txt": "Wählen Sie diese Option, wenn Sie aus der Hand fotografiert haben. PTGui versucht dann, die Bilder der Belichtungsreihen auszurichten."
 		},
 		{
 			"id": "bracketedexposureswindow.nohdr",
@@ -4858,7 +4858,7 @@
 		},
 		{
 			"id": "txt.confirmlinkhdrsetsshort",
-			"txt": "Das Projekt enthält %0 Belichtungsreihen mit jeweils %1 Bildern. Was möchten Sie tun?"
+			"txt": "Das Projekt enthält %0 Belichtungsreihen mit jeweils %1 Aufnahmen. Was möchten Sie tun?"
 		},
 		{
 			"id": "err.nobracketedfound",
@@ -6695,12 +6695,12 @@
 		{
 			"id": "linkbracketcustomdialog.caption.prefix",
 			"machinetranslated": true,
-			"txt": "Verknüpfe:"
+			"txt": "Jeweils"
 		},
 		{
 			"id": "linkbracketcustomdialog.caption.postfix",
 			"machinetranslated": true,
-			"txt": "Belichtungsreihen"
+			"txt": "Bilder zu einer Belichtungsreihe verknüpfen."
 		},
 		{
 			"id": "linkbracketcustomdialog.err.toofewimages",
@@ -6715,12 +6715,12 @@
 		{
 			"id": "linkbracketcustomdialog.txt.onesetofbrackets",
 			"machinetranslated": true,
-			"txt": "Das Projekt wird einen Satz von %0 Bildern umfassen."
+			"txt": "Das Projekt wird eine Belichtungsreihe mit %0 Aufnahmen enthalten."
 		},
 		{
 			"id": "linkbracketcustomdialog.txt.multiplesetsofbrackets",
 			"machinetranslated": true,
-			"txt": "Das Projekt wird %0 Sätze von %1 Bildern umfassen."
+			"txt": "Das Projekt wird %0 Belichtungsreihen mit jeweils %1 Aufnahmen enthalten."
 		},
 		{
 			"id": "licenseinfo.upgradedtopro",
@@ -6920,7 +6920,7 @@
 		{
 			"id": "menubar.images.linkbracketed",
 			"machinetranslated": false,
-			"helptext": "Belichtungsreihen erkennen und verknüpfen."
+			"helptext": "Bilder zu Belichtungsreihen verknüpfen"
 		},
 		{
 			"id": "menubar.images.reverseorder",
