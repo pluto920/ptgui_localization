@@ -6623,6 +6623,14 @@
 		{
 			"id": "fileformatsettings.effort.best",
 			"txt": "%0 (nejmenší soubor)"
+		},
+		{
+			"id": "fileformatsettings.deflatecompression",
+			"txt": "Komprese ZIP"
+		},
+		{
+			"id": "fileformatsettings.jpegxlcompression",
+			"txt": "Komprese JPEG XL"
 		}
 	],
 	"tooltips": [
