@@ -5637,7 +5637,7 @@
 			"id": "txt.licenseinfo.reactivationwarning",
 			"machinetranslated": true,
 			"format": "html",
-			"txt": "@txt.mustbereactivated@ <a href=0>Nu activeren verlengen...</a>"
+			"txt": "@txt.mustbereactivated@ <a href=0>Verleng activatie nu...</a>"
 		},
 		{
 			"id": "mainwindow.projectsettings.templatebehavior.preservepanoramaorientation",
