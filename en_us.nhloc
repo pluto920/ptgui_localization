@@ -6760,7 +6760,12 @@
 {
     "id": "fileformatsettings.jpegxlcompression",
     "txt": "JPEG XL compression"
+},
+{
+    "id": "about.regulatoryinformation",
+    "txt": "Regulatory Information"
 }
+
 
     ],
 

@@ -7315,6 +7315,10 @@
 		{
 				"id": "fileformatsettings.jpegxlcompression",
 				"txt": "JPEG XL 壓縮"
+		},
+		{
+				"id": "about.regulatoryinformation",
+				"txt": "監管資訊"
 		}
 	],
 	"tooltips": [

@@ -6886,6 +6886,10 @@
 		{
 				"id": "fileformatsettings.jpegxlcompression",
 				"txt": "JPEG XL 圧縮"
+		},
+		{
+				"id": "about.regulatoryinformation",
+				"txt": "規制情報"
 		}
 	],
 	"tooltips": [

@@ -8241,6 +8241,10 @@
 		{
 				"id": "fileformatsettings.jpegxlcompression",
 				"txt": "Сжатие JPEG XL"
+		},
+		{
+				"id": "about.regulatoryinformation",
+				"txt": "Нормативная информация"
 		}		
 	],
 	"tooltips": [

@@ -7893,6 +7893,10 @@
 		{
 				"id": "fileformatsettings.jpegxlcompression",
 				"txt": "Compressão JPEG XL"
+		},
+		{
+				"id": "about.regulatoryinformation",
+				"txt": "Informações regulatórias"
 		}
 	],
 	"tooltips": [

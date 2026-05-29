@@ -6631,6 +6631,10 @@
 		{
 			"id": "fileformatsettings.jpegxlcompression",
 			"txt": "Komprese JPEG XL"
+		},
+		{
+			"id": "about.regulatoryinformation",
+			"txt": "Regulační informace"
 		}
 	],
 	"tooltips": [

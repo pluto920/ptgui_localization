@@ -8158,6 +8158,10 @@
 		{
 				"id": "fileformatsettings.jpegxlcompression",
 				"txt": "Compresión JPEG XL"
+		},
+		{
+				"id": "about.regulatoryinformation",
+				"txt": "Información reglamentaria"
 		}
 	],
 	"tooltips": [

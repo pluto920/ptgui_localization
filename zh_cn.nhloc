@@ -8262,6 +8262,10 @@
 		{
 				"id": "fileformatsettings.jpegxlcompression",
 				"txt": "JPEG XL 压缩"
+		},
+		{
+				"id": "about.regulatoryinformation",
+				"txt": "监管信息"
 		}
 	],
 	"tooltips": [
