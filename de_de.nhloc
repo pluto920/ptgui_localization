@@ -6490,17 +6490,17 @@
 		{
 			"id": "mainwindow.preprocesstab.notarawfile",
 			"machinetranslated": true,
-			"txt": "Dieses Bild (%0) ist keine RAW-datei."
+			"txt": "Dieses Bild (%0) ist keine RAW-Datei."
 		},
 		{
 			"id": "mainwindow.preprocesstab.hasalpha",
 			"machinetranslated": true,
-			"txt": "Dieses RAW-bild (%0) kann nicht vorverarbeitet werden, da es über einen Alphakanal verfügt."
+			"txt": "Dieses RAW-Bild (%0) kann nicht vorverarbeitet werden, weil es einen Alphakanal enthält."
 		},
 		{
 			"id": "mainwindow.preprocesstab.isfloat",
 			"machinetranslated": true,
-			"txt": "Dieses RAW-bild (%0) kann nicht vorverarbeitet werden, da es Gleitkommadaten enthält."
+			"txt": "Dieses RAW-Bild (%0) kann nicht vorverarbeitet werden, weil es Gleitkommazahlen enthält."
 		},
 		{
 			"id": "mainwindow.preprocesstab.bottomhtml",
@@ -9396,7 +9396,7 @@
 		{
 			"id": "createpanoramapanel.warnsourceimageprofilenotused.hasraw",
 			"machinetranslated": true,
-			"helptext": "Der Farbraum der Quellbilder kann nicht verwendet werden, da RAW- oder DNG-Dateien geladen werden. Für RAW- oder DNG-Dateien wählen Sie bitte das gewünschte Farbprofil in der obigen Liste."
+			"helptext": "Der Farbraum der Quellbilder kann nicht verwendet werden, weil RAW- oder DNG-Dateien geladen sind. Für RAW- oder DNG-Dateien wählen Sie bitte das gewünschte Farbprofil in der Liste oben aus."
 		},
 		{
 			"id": "createpanoramapanel.warnsourceimageprofilenotused.hasdifferent",
