@@ -243,8 +243,7 @@
 		},
 		{
 			"id": "mainwindow.tabs.mask",
-			"machinetranslated": true,
-			"txt": "蒙板"
+			"txt": "蒙版"
 		},
 		{
 			"id": "mainwindow.tabs.imageparameters",
@@ -568,8 +567,7 @@
 		},
 		{
 			"id": "menubar.mask",
-			"machinetranslated": true,
-			"txt": "蒙板"
+			"txt": "蒙版"
 		},
 		{
 			"id": "menubar.controlpoints",
@@ -698,8 +696,7 @@
 		},
 		{
 			"id": "panoramaeditor.editmask",
-			"machinetranslated": true,
-			"txt": "编辑蒙板"
+			"txt": "编辑蒙版"
 		},
 		{
 			"id": "panoramaeditor.editcontrolpoints",
@@ -1023,8 +1020,7 @@
 		},
 		{
 			"id": "menubar.controlpoints.showmask",
-			"machinetranslated": true,
-			"txt": "显示蒙板"
+			"txt": "显示蒙版"
 		},
 		{
 			"id": "menubar.controlpoints.generate",
@@ -1113,8 +1109,7 @@
 		},
 		{
 			"id": "pressshiftforhelp",
-			"machinetranslated": true,
-			"txt": "按 Shift 键获取帮助......"
+			"txt": "按 Shift 键获取帮助..."
 		},
 		{
 			"id": "pressshiftformore",
@@ -1434,28 +1429,23 @@
 		},
 		{
 			"id": "loadmask",
-			"machinetranslated": true,
-			"txt": "加载蒙板"
+			"txt": "加载蒙版"
 		},
 		{
 			"id": "savemask",
-			"machinetranslated": true,
-			"txt": "保存蒙板"
+			"txt": "保存蒙版"
 		},
 		{
 			"id": "copymask",
-			"machinetranslated": true,
-			"txt": "复制蒙板"
+			"txt": "复制蒙版"
 		},
 		{
 			"id": "pastemask",
-			"machinetranslated": true,
-			"txt": "粘贴蒙板"
+			"txt": "粘贴蒙版"
 		},
 		{
 			"id": "clearmask",
-			"machinetranslated": true,
-			"txt": "清除蒙板"
+			"txt": "清除蒙版"
 		},
 		{
 			"id": "imagelist.enablevpcorrection",
@@ -2015,8 +2005,7 @@
 		},
 		{
 			"id": "mainwindow.optimizertab.optimizeperimage",
-			"machinetranslated": true,
-			"txt": "优化每张图片："
+			"txt": "优化每张图像："
 		},
 		{
 			"id": "mainwindow.optimizertab.usecontrolpointsof",
@@ -2095,8 +2084,7 @@
 		},
 		{
 			"id": "mainwindow.exposurehdrpanel.tonemapldrpanorama",
-			"machinetranslated": true,
-			"txt": "将色调映射应用于全景"
+			"txt": "对拼接后的全景图应用色调映射"
 		},
 		{
 			"id": "mainwindow.exposurehdrpanel.autoexpadjustmentsection",
@@ -2314,8 +2302,7 @@
 		},
 		{
 			"id": "mainwindow.projectsettings.batchstitcheractions.subheading",
-			"machinetranslated": true,
-			"txt": "将此项目加载到批处理器中时，或者在批处理文件生成器中将其用作模板时："
+			"txt": "将此项目加载到批量拼接器中时，或者在批处理文件生成器中将其用作模板时："
 		},
 		{
 			"id": "mainwindow.projectsettings.batchstitcheractions.align",
@@ -2574,8 +2561,7 @@
 		},
 		{
 			"id": "mainwindow.imageparameters.warped",
-			"machinetranslated": true,
-			"txt": "扭曲"
+			"txt": "变形"
 		},
 		{
 			"id": "mainwindow.imageparameters.blendpriority",
@@ -2976,13 +2962,11 @@
 		},
 		{
 			"id": "blendplanewithev",
-			"machinetranslated": true,
-			"txt": "混合平面（ %0 ）"
+			"txt": "混合平面（%0）"
 		},
 		{
 			"id": "hdrblendplanewithev",
-			"machinetranslated": true,
-			"txt": "HDR 混合平面（ %0 ）"
+			"txt": "HDR 混合平面（%0）"
 		},
 		{
 			"id": "hdrlayerwithev",
@@ -3442,8 +3426,7 @@
 		},
 		{
 			"id": "previewappselector.openinextension",
-			"machinetranslated": true,
-			"txt": "在. %0 文件的默认应用程序中打开"
+			"txt": "在 .%0 文件的默认应用程序中打开"
 		},
 		{
 			"id": "previewappselector.openoutputfolder",
@@ -3583,18 +3566,15 @@
 		},
 		{
 			"id": "options.batchstitcher.closewhendone",
-			"machinetranslated": true,
-			"txt": "将项目发送到批处理器後："
+			"txt": "将项目发送到批量拼接器后："
 		},
 		{
 			"id": "options.batchstitcher.closewhendone.yes",
-			"machinetranslated": true,
-			"txt": "完成后关闭批处理混合器"
+			"txt": "完成后关闭批量拼接器"
 		},
 		{
 			"id": "options.batchstitcher.closewhendone.no",
-			"machinetranslated": true,
-			"txt": "让批处理器保持打开状态"
+			"txt": "让批量拼接器保持打开状态"
 		},
 		{
 			"id": "options.showintaskbar",
@@ -3984,8 +3964,7 @@
 		},
 		{
 			"id": "licenseinfo.activationcount",
-			"machinetranslated": true,
-			"txt": "您的许可证当前在 %1 机器上启用。"
+			"txt": "您的许可证当前已在 %0 台机器（共 %1 台）上激活。"
 		},
 		{
 			"id": "licenseinfo.expiretxt",
@@ -4502,8 +4481,7 @@
 		},
 		{
 			"id": "batchbuilder.asksendtobatchstitcher",
-			"machinetranslated": true,
-			"txt": "您是否要立即将生成的批处理列表发送到批处理器？"
+			"txt": "您是否要立即将生成的批处理列表发送到批量拼接器？"
 		},
 		{
 			"id": "batchbuilder.or",
@@ -4627,8 +4605,7 @@
 		},
 		{
 			"id": "batchstitcher.confirmabort",
-			"machinetranslated": true,
-			"txt": "批处理拼接器忙于处理项目；这将被中止。继续？"
+			"txt": "批量拼接器忙于处理项目；这将被中止。继续？"
 		},
 		{
 			"id": "batchstitcher.asksave",
@@ -5214,8 +5191,7 @@
 		},
 		{
 			"id": "txt.stitchingpanorama",
-			"machinetranslated": true,
-			"txt": "生成全景"
+			"txt": "正在拼接全景图"
 		},
 		{
 			"id": "txt.convertingtoqtvr",
@@ -5364,8 +5340,7 @@
 		},
 		{
 			"id": "warn.badhdrinterpolator",
-			"machinetranslated": true,
-			"txt": "所选差值器对于 HDR 源图像不是最佳的。由于源图像的高动态范围，明亮象素周围可能会出现暗晕。\n\n使用 HDR 源图像时，建议使用仅具有正系数的差值器，如@mainwindow.createpanoramatab.interpolator.bicubicsofter@或@mainwindow.createpanoramatab.interpolator.bilinear@。"
+			"txt": "所选插值器对于 HDR 源图像不是最佳的。由于源图像的高动态范围，明亮像素周围可能会出现暗晕。\n\n使用 HDR 源图像时，建议使用仅具有正系数的插值器，如@mainwindow.createpanoramatab.interpolator.bicubicsofter@或@mainwindow.createpanoramatab.interpolator.bilinear@。"
 		},
 		{
 			"id": "txt.globallensprofile",
@@ -5399,13 +5374,11 @@
 		},
 		{
 			"id": "txt.fillmask",
-			"machinetranslated": true,
-			"txt": "填充蒙板"
+			"txt": "填充蒙版"
 		},
 		{
 			"id": "txt.paintmask",
-			"machinetranslated": true,
-			"txt": "油漆蒙板"
+			"txt": "绘制蒙版"
 		},
 		{
 			"id": "err.cannotchangephysicallyrotateimages",
@@ -5864,8 +5837,7 @@
 		},
 		{
 			"id": "warn.tempcopytobatchstitcherwillnotsavegeneratecps",
-			"machinetranslated": true,
-			"txt": "对于当前项目，批处理器配置为生成控制点。您正在将当前项目的临时副本发送到批处理器；临时项目将在完成时删除，生成的控制点将丢失。建议您选择“@mainwindow.createpanoramatab.saveandsendtobatchstitcher@”。\n\n仍要继续？"
+			"txt": "对于当前项目，批量拼接器配置为生成控制点。您正在将当前项目的临时副本发送到批量拼接器；临时项目将在完成时删除，生成的控制点将丢失。建议您选择“@mainwindow.createpanoramatab.saveandsendtobatchstitcher@”。\n\n仍要继续？"
 		},
 		{
 			"id": "txt.savingproject",
@@ -5964,8 +5936,7 @@
 		},
 		{
 			"id": "warn.saveandsendtobatchstitcher.projectwillbeclosed",
-			"machinetranslated": true,
-			"txt": "对于此项目，批处理器配置为生成控制点并对齐图像。对齐后，结果将写回当前项目文件。为防止同时修改同一项目文件，将关闭此窗口中的项目。\n\n如果您不希望批处理器生成控制点并修改项目文件，请立即按@cancel@并在@mainwindow.tabs.projectsettings@选项卡中更改@mainwindow.projectsettings.batchstitcheractions@下的设置。\n\n或者按@ok@将项目发送到批处理器；将在此窗口中加载一个新的空项目。"
+			"txt": "对于此项目，批量拼接器配置为生成控制点并对齐图像。对齐后，结果将写回当前项目文件。为防止同时修改同一项目文件，将关闭此窗口中的项目。\n\n如果您不希望批量拼接器生成控制点并修改项目文件，请立即按@cancel@并在@mainwindow.tabs.projectsettings@选项卡中更改@mainwindow.projectsettings.batchstitcheractions@下的设置。\n\n或者按@ok@将项目发送到批量拼接器；将在此窗口中加载一个新的空项目。"
 		},
 		{
 			"id": "err.nothingtooptimize",
@@ -6014,8 +5985,7 @@
 		},
 		{
 			"id": "err.pastemask.nomaskonclipboard",
-			"machinetranslated": true,
-			"txt": "剪贴板不包含有效的编码。请先将蒙板复制到剪贴板。"
+			"txt": "剪贴板不包含有效的蒙版。请先将蒙版复制到剪贴板。"
 		},
 		{
 			"id": "err.removeworstcps.nocps",
@@ -6084,8 +6054,7 @@
 		},
 		{
 			"id": "err.fovtoolargeforprojection",
-			"machinetranslated": true,
-			"txt": "对于给定的透镜投影，给定的水平视场太大。"
+			"txt": "对于给定的镜头投影，给定的水平视场太大。"
 		},
 		{
 			"id": "fileformatsettings.qualitytxt",
@@ -6865,13 +6834,11 @@
 		},
 		{
 			"id": "mainwindow.createpanoramatab.stitchingongpu",
-			"machinetranslated": true,
-			"txt": "在 GPU 上处理（ %0 ）。"
+			"txt": "正在 GPU 上拼接（%0）。"
 		},
 		{
 			"id": "mainwindow.createpanoramatab.stitchingoncpu",
-			"machinetranslated": true,
-			"txt": "在CPU上处理。"
+			"txt": "正在 CPU 上拼接。"
 		},
 		{
 			"id": "err.blenderfailednooutput",
@@ -6880,24 +6847,20 @@
 		},
 		{
 			"id": "batchbuilder.alignmode.true",
-			"machinetranslated": true,
-			"txt": "在创建全景图之前，将为每个项目运行“@alignimages@”"
+			"txt": "将在拼接前为每个单独的项目运行“@alignimages@”"
 		},
 		{
 			"id": "batchbuilder.alignmode.false",
-			"machinetranslated": true,
-			"txt": "不会运行'@alignimages@'。每个全景图的创建方式与模板完全相同。"
+			"txt": "不会运行“@alignimages@”。每个全景图的拼接方式将与模板完全相同。"
 		},
 		{
 			"id": "batchstitcher.err.nocpsfoundaborting",
-			"machinetranslated": true,
-			"txt": "无法找到所有图像的控制点；不会生成全景图。"
+			"txt": "无法找到所有图像的控制点；暂不拼接该全景图。"
 		},
 		{
 			"id": "cpassistant.shouldaddcps",
-			"machinetranslated": true,
 			"format": "html",
-			"txt": "PTGui 项目中的所有图像应通过控制点直接或间接（通过其他图像之间的控制点链接）链接。<br><br>您的全景图尚未准备好生成。请转到<a href=0>@mainwindow.tabs.controlpoints@选项卡</a>并添加必要的控制点。"
+			"txt": "PTGui 项目中的所有图像应通过控制点直接或间接（通过其他图像之间的控制点链接）链接。<br><br>您的全景图尚未准备好拼接。请转到<a href=0>@mainwindow.tabs.controlpoints@选项卡</a>并添加必要的控制点。"
 		},
 		{
 			"id": "err.outputfileidenticaltosourcefile",
@@ -6921,9 +6884,8 @@
 		},
 		{
 			"id": "trialversion.txt",
-			"machinetranslated": true,
 			"format": "html",
-			"txt": "<font size=2>%0试用版</font><br><br>这是%0全景成像软件的免费试用版。此试用版允许您评估软件并具有以下限制<br><br>- 生成的全景图将包含可见的水印“www.ptgui.com”<br>- 试用版的项目文件只能由PTGui读取;无法导出到其他应用程序。<br><br>除上述限制外，试用版功能齐全。购买许可证可以消除试用限制。您的购买支持PTGui的未来发展！单击@trialversion.buyptgui@按钮以获取更多信息。<br><br><b>感谢您试用%0！</b>"
+			"txt": "<font size=2>%0试用版</font><br><br>这是%0全景拼接软件的免费试用版。此试用版允许您评估软件，并具有以下限制<br><br>- 拼接出的全景图将包含可见水印“www.ptgui.com”<br>- 试用版的项目文件只能由PTGui读取；无法导出到其他应用程序。<br><br>除上述限制外，试用版功能齐全。购买许可证可以消除试用限制。您的购买支持PTGui的未来发展！单击@trialversion.buyptgui@按钮以获取更多信息。<br><br><b>感谢您试用%0！</b>"
 		},
 		{
 			"id": "gridsetup.order",
@@ -6957,8 +6919,7 @@
 		},
 		{
 			"id": "txt.genericrectilinearlens",
-			"machinetranslated": true,
-			"txt": "通用直线透镜"
+			"txt": "通用直线镜头"
 		},
 		{
 			"id": "txt.genericfisheyelens",
@@ -7034,8 +6995,7 @@
 		},
 		{
 			"id": "batchbuilder.sendtobatchstitcher",
-			"machinetranslated": true,
-			"txt": "将生成的批处理列表发送到批处理混合器"
+			"txt": "将生成的批处理列表发送到批量拼接器"
 		},
 		{
 			"id": "options.rawfilesupport",
@@ -7099,8 +7059,7 @@
 		},
 		{
 			"id": "panoramaeditor.sidebar.blendsettings.redmaskmode",
-			"machinetranslated": true,
-			"txt": "红色蒙板："
+			"txt": "红色蒙版："
 		},
 		{
 			"id": "panoramaeditor.sidebar.blendsettings.redmaskmode.maketransparent",
@@ -7466,8 +7425,7 @@
 		},
 		{
 			"id": "panoramaeditor.sidebar.blendsettings.maskpushseams",
-			"machinetranslated": true,
-			"txt": "遮罩推回接缝"
+			"txt": "蒙版推回接缝"
 		},
 		{
 			"id": "options.monitorcolorprofile",
@@ -7616,8 +7574,7 @@
 		},
 		{
 			"id": "detailviewer.sidebar.extractsave",
-			"machinetranslated": true,
-			"txt": "保存图片"
+			"txt": "保存图像"
 		},
 		{
 			"id": "detailviewer.sidebar.patch.createpatch",
@@ -7636,8 +7593,7 @@
 		},
 		{
 			"id": "patchwindow.saveimage",
-			"machinetranslated": true,
-			"txt": "保存图片"
+			"txt": "保存图像"
 		},
 		{
 			"id": "patchwindow.autosave",
@@ -8256,23 +8212,22 @@
 			"txt": "%0（最小文件）"
 		},
 		{
-				"id": "fileformatsettings.deflatecompression",
-				"txt": "ZIP 压缩"
+			"id": "fileformatsettings.deflatecompression",
+			"txt": "ZIP 压缩"
 		},
 		{
-				"id": "fileformatsettings.jpegxlcompression",
-				"txt": "JPEG XL 压缩"
+			"id": "fileformatsettings.jpegxlcompression",
+			"txt": "JPEG XL 压缩"
 		},
 		{
-				"id": "about.regulatoryinformation",
-				"txt": "监管信息"
+			"id": "about.regulatoryinformation",
+			"txt": "监管信息"
 		}
 	],
 	"tooltips": [
 		{
 			"id": "batchstitcher.menubar.closebatchstitcherwhenfinished",
-			"machinetranslated": true,
-			"helptext": "最后一个项目完成后关闭批处理混合器。"
+			"helptext": "最后一个项目完成后关闭批量拼接器。"
 		},
 		{
 			"id": "batchstitcher.menubar.closebatchlist",
@@ -8311,8 +8266,7 @@
 		},
 		{
 			"id": "mainwindow.maskmenu.green",
-			"machinetranslated": true,
-			"helptext": "用绿色油漆。混合器将优先考虑绿色涂漆区域。"
+			"helptext": "用绿色绘制。混合器将优先考虑绿色涂漆区域。"
 		},
 		{
 			"id": "menubar.images.unlinkall",
@@ -8411,8 +8365,7 @@
 		},
 		{
 			"id": "batchstitcher",
-			"machinetranslated": true,
-			"helptext": "批处理器可用于在后台处理多个项目。"
+			"helptext": "批量拼接器可用于在后台处理多个项目。"
 		},
 		{
 			"id": "numericaltransform",
@@ -8461,8 +8414,7 @@
 		},
 		{
 			"id": "menubar.project.sendtemporarycopytobatchstitcher",
-			"machinetranslated": true,
-			"helptext": "将当前项目发送到批处理器进行处理。当前项目的副本将保存到临时文件名，并将其发送到批处理混合器。"
+			"helptext": "将当前项目发送到批量拼接器进行处理。当前项目的副本将保存到临时文件名，并将其发送到批量拼接器。"
 		},
 		{
 			"id": "menubar.project.preview",
@@ -8575,9 +8527,8 @@
 		},
 		{
 			"id": "mainwindow.toolbar.saveproject",
-			"machinetranslated": true,
 			"label": "@menubar.file.saveproject@",
-			"helptext": "将当前的 PTGui 项目保存到磁盘。这使您可以继续处理中断的全景图。<br><br>请注意，这不会保存实际的全景图；使用@mainwindow.createpanoramatab.createpanorama@功能缝合全景图像。"
+			"helptext": "将当前的 PTGui 项目保存到磁盘。这使您可以继续处理中断的全景图。<br><br>请注意，这不会保存实际的全景图；使用@mainwindow.createpanoramatab.createpanorama@功能拼接全景图像。"
 		},
 		{
 			"id": "mainwindow.toolbar.undo",
@@ -8680,8 +8631,7 @@
 		},
 		{
 			"id": "projectassistant.createpanorama",
-			"machinetranslated": true,
-			"helptext": "转到@mainwindow.tabs.createpanorama@选项卡缝合全景图像。"
+			"helptext": "转到@mainwindow.tabs.createpanorama@选项卡拼接全景图像。"
 		},
 		{
 			"id": "lensparams.globallens",
@@ -8735,8 +8685,7 @@
 		},
 		{
 			"id": "lensparams.abc",
-			"machinetranslated": true,
-			"helptext": "径向透镜失真参数（a / b / c）：补偿发条盒和pincusion失真。PTGui 自动确定这些值。",
+			"helptext": "径向镜头失真参数（a / b / c）：补偿桶形和枕形失真。PTGui 自动确定这些值。",
 			"morehelptext": "<br><br>使用三阶多项式映射函数（“a”是最高端系数）来补偿镜头失真。默认情况下启用a / b / c优化；这可以在@mainwindow.tabs.optimizer@选项卡中配置。为了精确优化，请使用没有视差的图像，并确保控制点遍布整个重叠区域。"
 		},
 		{
@@ -8846,21 +8795,18 @@
 		},
 		{
 			"id": "masktoolbar.red",
-			"machinetranslated": true,
 			"label": "@mainwindow.maskmenu.red@ [R]",
-			"helptext": "画红色蒙板。红色蒙版用于从全景图中删除图像中不需要的部分。蒙面区域将变得透明。<br><br>缝合全景时，混合器将使用其他图像的重叠部分。"
+			"helptext": "画红色蒙版。红色蒙版用于从全景图中删除图像中不需要的部分。被蒙版覆盖的区域将变得透明。<br><br>拼接全景时，混合器将使用其他图像的重叠部分。"
 		},
 		{
 			"id": "masktoolbar.green",
-			"machinetranslated": true,
 			"label": "@mainwindow.maskmenu.green@ [G]",
-			"helptext": "画绿色蒙板。绿色掩模用于指示要保留图像的哪些部分。混合器更喜欢使用绿色蒙板部件而不是其他图像的任何重叠区域。"
+			"helptext": "画绿色蒙版。绿色蒙版用于指示要保留图像的哪些部分。混合器更喜欢使用绿色蒙版部件而不是其他图像的任何重叠区域。"
 		},
 		{
 			"id": "masktoolbar.eraser",
-			"machinetranslated": true,
 			"label": "@mainwindow.maskmenu.eraser@ [E]",
-			"helptext": "使用橡皮擦去除任何红色或绿色蒙板。"
+			"helptext": "使用橡皮擦去除任何红色或绿色蒙版。"
 		},
 		{
 			"id": "masktoolbar.draw",
@@ -8900,16 +8846,14 @@
 		},
 		{
 			"id": "maskimagetoolbar.loadmask",
-			"machinetranslated": true,
 			"label": "@loadmask@",
-			"helptext": "从文件加载蒙板。",
+			"helptext": "从文件加载蒙版。",
 			"morehelptext": "蒙板应保存为包含 3 种颜色的 PNG 文件：黑色表示未蒙板的区域，完全饱和的红色和绿色表示蒙板。这是“保存蒙版”功能使用的格式。<br><br>可以同时为多个图像加载相同的蒙版：转到@mainwindow.tabs.sourceimages@选项卡，选择图像并从右键单击上下文菜单中选择@loadmask@。<br><br>加载的蒙版与任何现有蒙版合并。如果必须完全更换现有的面罩，请先使用@clearmask@功能将其取下。"
 		},
 		{
 			"id": "maskimagetoolbar.savemask",
-			"machinetranslated": true,
 			"label": "@savemask@",
-			"helptext": "将当前蒙板保存到 PNG 文件。这可以通过使用@loadmask@功能重复使用。"
+			"helptext": "将当前蒙版保存到 PNG 文件。这可以通过使用@loadmask@功能重复使用。"
 		},
 		{
 			"id": "maskimagetoolbar.clearmask",
@@ -8919,9 +8863,8 @@
 		},
 		{
 			"id": "maskimagetoolbar.copymask",
-			"machinetranslated": true,
 			"label": "@copymask@",
-			"helptext": "将当前蒙板复制到剪贴板。可以将蒙版粘贴到其他图像。它也可以粘贴在外部图像编辑程序中。"
+			"helptext": "将当前蒙版复制到剪贴板。可以将蒙版粘贴到其他图像。它也可以粘贴在外部图像编辑程序中。"
 		},
 		{
 			"id": "maskimagetoolbar.pastemask",
@@ -8958,9 +8901,8 @@
 		},
 		{
 			"id": "cptoolbar.showmask",
-			"machinetranslated": true,
 			"label": "@menubar.controlpoints.showmask@",
-			"helptext": "显示或隐藏蒙板（在@mainwindow.tabs.mask@选项卡中设置）。"
+			"helptext": "显示或隐藏蒙版（在@mainwindow.tabs.mask@选项卡中设置）。"
 		},
 		{
 			"id": "cptab.cptypetoadd",
@@ -9124,8 +9066,7 @@
 		},
 		{
 			"id": "projectsettingstab.alignimagesbehavior",
-			"machinetranslated": true,
-			"helptext": "本节控制在@mainwindow.tabs.projectassistant@选项卡中单击“@alignimages@”时，或者在批处理混合器中加载项目并在下面的@mainwindow.projectsettings.batchstitcheractions@中启用“@alignimages@”时发生的情况。",
+			"helptext": "本节控制在@mainwindow.tabs.projectassistant@选项卡中单击“@alignimages@”时，或者在批量拼接器中加载项目并在下面的@mainwindow.projectsettings.batchstitcheractions@中启用“@alignimages@”时发生的情况。",
 			"morehelptext": "<br><br>'@alignimages@'运行几个步骤以设置全景：生成第一个控制点，然后根据控制点对齐图像。可选地，将全景图拉直并根据视野选择合适的投影。<br><br>自定义此行为在使用模板时或在批量拼接中运行“@alignimages@”时尤其有用。例如，可能已经在模板中设置了所需的投影，并且在批量拼接期间不应该更改它。"
 		},
 		{
@@ -9180,14 +9121,12 @@
 		},
 		{
 			"id": "projectsettingstab.batchstitcher.align",
-			"machinetranslated": true,
-			"helptext": "如果启用，批处理拼接器将在拼接全景图之前运行“@alignimages@”。",
+			"helptext": "如果启用，批量拼接器将在拼接全景图之前运行“@alignimages@”。",
 			"morehelptext": "<br><br>如果启用，批处理混合器将首先分析图像，生成控制点，优化项目等。上面在@mainwindow.projectsettings.alignimagesbehavior@中配置的具体操作。对齐后，更新的项目文件将保存到磁盘。<br><br>如果停用，项目将与现在完全拼接。<br><br>在批处理生成器中为批处理创建模板时，必须小心地设置此复选框。基本上，批处理构建器有两种不同的用例：<br><br>1.使用完全相同的设置缝合许多全景图，而不生成控制点。这可以用于例如多相机装备，其中所有全景图保证具有相同的图像取向。在这种情况下，必须跳过“@alignimages@”。<br>2.或者通过将 PTGui 指向包含图像的文件夹来自动拼接多个全景图。例如通过在全景三脚架头上旋转相机来拍摄图像。<br><br>在后一种情况下，每个全景图中的图像位置通常会略有不同。即使全景头具有咔嗒声停止，机械公差也会导致每个全景图像中的图像方向发生微小变化。为了补偿这一点，PTGui 应分析每个全景图像并生成控制点，因此必须在拼接之前运行“@alignimages@”。<br><br>此复选框为自动清除：运行“@alignimages@”后，此复选框将被清除，磁盘上的项目文件将使用对齐的全景图进行更新。这可以防止同一项目多次运行'@alignimages@'。"
 		},
 		{
 			"id": "projectsettingstab.batchstitcher.stitch",
-			"machinetranslated": true,
-			"helptext": "缝合全景图。如果要仅将批量拼接器用于对齐全景图，请停用此选项。"
+			"helptext": "拼接全景图。如果要仅将批量拼接器用于对齐全景图，请停用此选项。"
 		},
 		{
 			"id": "projectsettingstab.batchstitcher.stitchonlyifenoughcontrolpoints",
@@ -9223,8 +9162,7 @@
 		},
 		{
 			"id": "projectsettingstab.templatebehavior.masks",
-			"machinetranslated": true,
-			"helptext": "如果启用，则所有源图像的蒙板将复制到目标项目。"
+			"helptext": "如果启用，则所有源图像的蒙版将复制到目标项目。"
 		},
 		{
 			"id": "projectsettingstab.templatebehavior.panoramasettings",
@@ -9279,8 +9217,7 @@
 		},
 		{
 			"id": "projectsettingstab.misc.switchtoequirectforwideanglesourceimages",
-			"machinetranslated": true,
-			"helptext": "启用后，只要加载了广角或全角矩形全景图，PTGui 就会切换到360°x 180°横向等长。这在运行'@alignimages@'之前发生。在重新映射已缝合的全景图时，或从1张全景照相机加载图像时非常有用。"
+			"helptext": "启用后，只要加载了广角或全角矩形全景图，PTGui 就会切换到360°x 180°横向等长。这在运行'@alignimages@'之前发生。在重新映射已拼接的全景图时，或从1张全景照相机加载图像时非常有用。"
 		},
 		{
 			"id": "previewtab.size",
@@ -9408,8 +9345,7 @@
 		},
 		{
 			"id": "createpanoramatab.components.ldrlayers",
-			"machinetranslated": true,
-			"helptext": "以扭曲格式保存单个源图像。"
+			"helptext": "以变形格式保存单个源图像。"
 		},
 		{
 			"id": "createpanoramatab.components.blendplanes",
@@ -9423,8 +9359,7 @@
 		},
 		{
 			"id": "createpanoramatab.components.hdrlayers",
-			"machinetranslated": true,
-			"helptext": "保存单个扭曲的源图像，转换为 HDR 格式。亮度将与合并的 HDR 全景图的亮度相匹配。"
+			"helptext": "保存单个变形的源图像，转换为 HDR 格式。亮度将与合并的 HDR 全景图的亮度相匹配。"
 		},
 		{
 			"id": "createpanoramatab.components.hdrblendplanes",
@@ -9438,8 +9373,7 @@
 		},
 		{
 			"id": "createpanoramatab.saveandsendtobatchstitcher",
-			"machinetranslated": true,
-			"helptext": "将全景图发送到批处理拼接器，以便在后台进行处理。",
+			"helptext": "将全景图发送到批量拼接器，以便在后台进行处理。",
 			"morehelptext": "<br><br>如果项目被修改，项目文件将首先保存到磁盘（如@menubar.file@ | @menubar.file.saveproject@）。然后打开批处理混合器，将项目添加到处理队列中。 <optional product='pro'><br><br>批量拼接器可配置为对齐全景（请参阅@mainwindow.tabs.projectsettings@ - @mainwindow.projectsettings.batchstitcheractions@）。如果是这种情况，批处理混合器将在对齐图像后更新磁盘上的项目。为防止在同一项目的不同版本上工作的风险，必须在启动批处理拼接器后在此窗口中关闭项目。</optional><br><br>或者，可以使用@menubar.project@ | @menubar.project.sendtemporarycopytobatchstitcher@将项目发送到批处理混合器。后者将项目保存在唯一的临时文件名下，并将其发送到批处理拼接器。如果您打算将同一项目的不同版本发送到批处理混合器，请使用此选项； @menubar.project.saveandsendtobatchstitcher@使用项目的当前文件名，因此将覆盖同一项目的先前版本。"
 		},
 		{
@@ -10089,8 +10023,7 @@
 		},
 		{
 			"id": "batchbuilder.savetobatchlist",
-			"machinetranslated": true,
-			"helptext": "生成的项目将添加到批处理列表中。批处理列表可以作为整体加载到批处理混合器中。这将保存在批处理列表的默认文件夹中。"
+			"helptext": "生成的项目将添加到批处理列表中。批处理列表可以作为整体加载到批量拼接器中。这将保存在批处理列表的默认文件夹中。"
 		},
 		{
 			"id": "batchbuilder.browsesavetobatchlist",
@@ -10276,21 +10209,18 @@
 		},
 		{
 			"id": "batchstitcher.toolbar.savebatchlist",
-			"machinetranslated": true,
 			"label": "保存到批处理列表",
-			"helptext": "将队列的当前状态保存到批处理列表。使用批处理列表可以关闭批量混合器并继续上次停止。"
+			"helptext": "将队列的当前状态保存到批处理列表。使用批处理列表可以关闭批量拼接器并继续上次停止。"
 		},
 		{
 			"id": "batchstitcher.toolbar.start",
-			"machinetranslated": true,
 			"label": "开始",
-			"helptext": "继续处理。 批处理器将开始处理队列中的第一个未完成的作业。"
+			"helptext": "继续处理。 批量拼接器将开始处理队列中的第一个未完成的作业。"
 		},
 		{
 			"id": "batchstitcher.toolbar.stop",
-			"machinetranslated": true,
 			"label": "停止",
-			"helptext": "停止处理。 批处理器将中止处理当前作业（如果有）。"
+			"helptext": "停止处理。 批量拼接器将中止处理当前作业（如果有）。"
 		},
 		{
 			"id": "batchstitcher.toolbar.help",
@@ -10465,8 +10395,7 @@
 		},
 		{
 			"id": "options.batchstitcher.closewhendone",
-			"machinetranslated": true,
-			"helptext": "配置是否应选择“@batchstitcher.menubar.closebatchstitcherwhenfinished@”标志启动批量混合器。仅适用于@mainwindow.createpanoramatab.saveandsendtobatchstitcher@（在@mainwindow.tabs.createpanorama@选项卡中）或@menubar.project.sendtemporarycopytobatchstitcher@（在@menubar.project@菜单中）启动批量混合器时。"
+			"helptext": "配置是否应选择“@batchstitcher.menubar.closebatchstitcherwhenfinished@”标志启动批量拼接器。仅适用于@mainwindow.createpanoramatab.saveandsendtobatchstitcher@（在@mainwindow.tabs.createpanorama@选项卡中）或@menubar.project.sendtemporarycopytobatchstitcher@（在@menubar.project@菜单中）启动批量拼接器时。"
 		},
 		{
 			"id": "options.showintaskbar",
@@ -10497,8 +10426,7 @@
 		},
 		{
 			"id": "options.foldersandfiles.batchlistfolder",
-			"machinetranslated": true,
-			"helptext": "保存批处理列表的默认位置。虽然批处理列表可以保存在任何文件夹中，但可以快速访问默认文件夹中的文件。有关批处理列表的更多信息，请打开批处理器并选择@help@。"
+			"helptext": "保存批处理列表的默认位置。虽然批处理列表可以保存在任何文件夹中，但可以快速访问默认文件夹中的文件。有关批处理列表的更多信息，请打开批量拼接器并选择@help@。"
 		},
 		{
 			"id": "options.foldersandfiles.tempfolder",
@@ -10741,8 +10669,7 @@
 		},
 		{
 			"id": "panoramaeditor.sidebar.blendsettings.redmaskmode",
-			"machinetranslated": true,
-			"helptext": "控制红色蒙板的行为（位于@mainwindow.tabs.mask@选项卡中）。",
+			"helptext": "控制红色蒙版的行为（位于@mainwindow.tabs.mask@选项卡中）。",
 			"morehelptext": "<br><br><b>@panoramaeditor.sidebar.blendsettings.redmaskmode.maketransparent@</b>：@mainwindow.tabs.mask@选项卡中的红色区域将在全景图中变为透明。如果没有其他重叠的图像，则在缝合的全景图中会出现一个孔。在分层输出（使用@mainwindow.createpanoramatab.output.individuallayers@选项创建）中，红色蒙板的区域将变为透明。<br><br><b>@panoramaeditor.sidebar.blendsettings.redmaskmode.onlyforseamplacement@</b>：红色蒙板仅用于指示哪些区域在混合全景图中不可见。搅拌器通过将接缝移开而避开这些区域。但是，如果没有其他重叠的图像可以填补空白，则红色的蒙版区域仍将出现在混合全景图中。分层输出不受红色蒙板的影响。"
 		},
 		{
@@ -11229,8 +11156,7 @@
 	"helppages": [
 		{
 			"id": "batchstitcher",
-			"machinetranslated": true,
-			"helptext": "<b>@batchstitcher@</b><br><br>拼接大型全景图可能需要相当长的时间。 批处理器允许您准备多个项目并批量缝合。使用@mainwindow.tabs.createpanorama@选项卡中的“@mainwindow.createpanoramatab.saveandsendtobatchstitcher@”按钮和@menubar.project@菜单中的@menubar.project.sendtemporarycopytobatchstitcher@将项目排队到批处理混合器。您也可以使用@menubar.tools@ | @batchstitcher@启动批处理混合器，并手动将项目添加到队列中。<br><br><b>使用批处理器</b><br><br>批处理器的主要部分（工具栏正下方）是作业队列。这将列出要处理的作业和已完成的作业。成功完成的工作由右侧的绿色复选标记表示。任何因错误而中止的工作都会以红色感叹号表示；错误消息显示在底部的“日志”窗格中。如果当前正在处理作业，则会显示进度条。<br><br>可以使用工具栏中的@batchstitcher.menubar.addprojects@按钮或通过将.pts文件拖到批处理器窗口上，使用@menubar.file@ | @batchstitcher.menubar.addprojects@添加作业。从主窗口运行'@mainwindow.createpanoramatab.saveandsendtobatchstitcher@'时也会添加作业。可以使用鼠标拖动选择一个或多个项目。可以使用Del键删除所选项目。可以通过向上或向下拖动行标题（在左侧）来重新排序项目列表。<br><br>右键点击<optional platform='mac'>（或按住Ctrl键并单击）</optional>在上下文菜单的列表中。使用'@batchstitcher.contextmenu.markasdone@'和'@batchstitcher.contextmenu.markasnotdone@'来改变项目的状态。如果项目标记为“@batchstitcher.contextmenu.deletewhendone@”，则相应的项目文件（.pts）将在完成时删除（当然将保留生成的全景图）。这被@menubar.project@ | @menubar.project.sendtemporarycopytobatchstitcher@使用。<br><br>批量拼接器可以通过@batchstitcher.menubar.process@菜单和工具栏中的按钮启动和停止。双击作业（或按Enter键）在新的 PTGui 窗口中打开项目。 <optional product='pro'><br><br><b>批量拼接器项目设置</b><br><br>批处理器不仅可以拼接全景图，还可以生成控制点并对齐图像。该行为由项目的@mainwindow.tabs.projectsettings@选项卡中的@mainwindow.projectsettings.batchstitcheractions@设置控制：如果选择<b>@mainwindow.projectsettings.batchstitcheractions.align@</b> ，批量混合器将生成控制点并设置全景图。如果选择了<b>@mainwindow.projectsettings.batchstitcheractions.createpanorama@</b> ，批量拼接器将拼接全景图。</optional><br><br><b>批处理列表</b><br><br>批处理列表保存作业列表，包括每个作业的完成/未完成状态。使用批处理列表可以关闭批量混合器并继续上次停止。批处理混合器无法恢复部分完成的作业（您需要重新启动整个作业），但它会记住批处理列表中的哪些项目已经完成，哪些项目尚未完成。<br><br>通过在批处理器中加载一个或多个作业并选择@menubar.file@ | @batchstitcher.menubar.savebatchlistas@来创建批处理列表。可以使用@batchstitcher.menubar.openbatchlist@或@batchstitcher.menubar.recentbatchlists@打开现有批处理列表。 <optional product='pro'>批处理生成器工具（见下文）还创建可以在批处理拼接器中加载的批处理列表。</optional><br><br>任何时候只能有一个批处理列表处于活动状态。当批处理列表处于活动状态且选择了“@batchstitcher.menubar.autosavebatchlist@”时，对项目列表的任何更改（例如，项目完成时或项目添加到列表中）都会立即保存到批处理列表中。如果批处理列表非常大（数千个项目或更多），则在每次更改时保存批处理列表将花费相当长的时间。在这种情况下，最好停用“@batchstitcher.menubar.autosavebatchlist@”并手动运行@batchstitcher.menubar.savebatchlist@，以便每隔一段时间将修改后的批处理列表写入磁盘。<br><br>@batchbuilder.helptext.appendbatchlist@<optional product='pro'><br><br><b>批量生成器</b><br><br>批处理器和批处理文件生成器的组合使 PTGui Pro成为几乎完全自动快速对齐和缝合数百个全景图的强大工具。有关更多信息，请运行@menubar.tools@ | @batchbuilder@并按下@help@按钮。</optional>"
+			"helptext": "<b>@batchstitcher@</b><br><br>拼接大型全景图可能需要相当长的时间。 批量拼接器允许您准备多个项目并批量拼接。使用@mainwindow.tabs.createpanorama@选项卡中的“@mainwindow.createpanoramatab.saveandsendtobatchstitcher@”按钮和@menubar.project@菜单中的@menubar.project.sendtemporarycopytobatchstitcher@将项目排队到批量拼接器。您也可以使用@menubar.tools@ | @batchstitcher@启动批量拼接器，并手动将项目添加到队列中。<br><br><b>使用批量拼接器</b><br><br>批量拼接器的主要部分（工具栏正下方）是作业队列。这将列出要处理的作业和已完成的作业。成功完成的工作由右侧的绿色复选标记表示。任何因错误而中止的工作都会以红色感叹号表示；错误消息显示在底部的“日志”窗格中。如果当前正在处理作业，则会显示进度条。<br><br>可以使用工具栏中的@batchstitcher.menubar.addprojects@按钮或通过将.pts文件拖到批量拼接器窗口上，使用@menubar.file@ | @batchstitcher.menubar.addprojects@添加作业。从主窗口运行'@mainwindow.createpanoramatab.saveandsendtobatchstitcher@'时也会添加作业。可以使用鼠标拖动选择一个或多个项目。可以使用Del键删除所选项目。可以通过向上或向下拖动行标题（在左侧）来重新排序项目列表。<br><br>右键点击<optional platform='mac'>（或按住Ctrl键并单击）</optional>在上下文菜单的列表中。使用'@batchstitcher.contextmenu.markasdone@'和'@batchstitcher.contextmenu.markasnotdone@'来改变项目的状态。如果项目标记为“@batchstitcher.contextmenu.deletewhendone@”，则相应的项目文件（.pts）将在完成时删除（当然将保留生成的全景图）。这被@menubar.project@ | @menubar.project.sendtemporarycopytobatchstitcher@使用。<br><br>批量拼接器可以通过@batchstitcher.menubar.process@菜单和工具栏中的按钮启动和停止。双击作业（或按Enter键）在新的 PTGui 窗口中打开项目。 <optional product='pro'><br><br><b>批量拼接器项目设置</b><br><br>批量拼接器不仅可以拼接全景图，还可以生成控制点并对齐图像。该行为由项目的@mainwindow.tabs.projectsettings@选项卡中的@mainwindow.projectsettings.batchstitcheractions@设置控制：如果选择<b>@mainwindow.projectsettings.batchstitcheractions.align@</b> ，批量拼接器将生成控制点并设置全景图。如果选择了<b>@mainwindow.projectsettings.batchstitcheractions.createpanorama@</b> ，批量拼接器将拼接全景图。</optional><br><br><b>批处理列表</b><br><br>批处理列表保存作业列表，包括每个作业的完成/未完成状态。使用批处理列表可以关闭批量拼接器并继续上次停止。批量拼接器无法恢复部分完成的作业（您需要重新启动整个作业），但它会记住批处理列表中的哪些项目已经完成，哪些项目尚未完成。<br><br>通过在批量拼接器中加载一个或多个作业并选择@menubar.file@ | @batchstitcher.menubar.savebatchlistas@来创建批处理列表。可以使用@batchstitcher.menubar.openbatchlist@或@batchstitcher.menubar.recentbatchlists@打开现有批处理列表。 <optional product='pro'>批处理生成器工具（见下文）还创建可以在批量拼接器中加载的批处理列表。</optional><br><br>任何时候只能有一个批处理列表处于活动状态。当批处理列表处于活动状态且选择了“@batchstitcher.menubar.autosavebatchlist@”时，对项目列表的任何更改（例如，项目完成时或项目添加到列表中）都会立即保存到批处理列表中。如果批处理列表非常大（数千个项目或更多），则在每次更改时保存批处理列表将花费相当长的时间。在这种情况下，最好停用“@batchstitcher.menubar.autosavebatchlist@”并手动运行@batchstitcher.menubar.savebatchlist@，以便每隔一段时间将修改后的批处理列表写入磁盘。<br><br>@batchbuilder.helptext.appendbatchlist@<optional product='pro'><br><br><b>批量生成器</b><br><br>批量拼接器和批处理文件生成器的组合使 PTGui Pro成为几乎完全自动快速对齐和拼接数百个全景图的强大工具。有关更多信息，请运行@menubar.tools@ | @batchbuilder@并按下@help@按钮。</optional>"
 		},
 		{
 			"id": "aligntogrid",
@@ -11239,13 +11165,11 @@
 		},
 		{
 			"id": "batchbuilder",
-			"machinetranslated": true,
-			"helptext": "<b>@batchbuilder@</b><br><br>与批处理器结合使用时，批处理文件生成器是一种用于批量拼接大量全景图的工具。您通常会为批处理文件生成器提供一个或多个包含源图像和可选模板项目的文件夹。它分析源图像文件夹以查找形成全景图像的图像组。将为每组图像创建项目文件。然后可以将生成的项目文件发送到批处理器进行处理。<br><br><b>用法</b><br><br>按<b>@batchbuilder.detectpanoramas@</b>扫描包含源图像的文件夹以查看全景图。批处理生成器然后提出项目列表。这还没有真正创建项目文件；图像组仍然可以修改。按黑色十字按钮可从项目中删除图像。按剪刀图标将项目切割为两个单独的项目。选择一个或多个项目并右键单击<optional platform='mac'>（或按住Ctrl键并单击）</optional>对于具有其他选项的上下文菜单：所选项目可以组合到单个项目中或从列表中删除。图像文件也可以手动添加到项目中。<br><br>正确设置每个项目的图像后，选择要使用的模板，然后按<b>@batchbuilder.generateprojects@</b> 。这将创建 PTGui 项目文件，每个图像组一个，并将它们发送到批处理器进行处理。<br><br><b>模板</b><br><br>通常，批处理生成器与模板结合使用。该模板配置例如输出大小，文件格式以及保存项目文件和拼接全景的位置。模板还可以覆盖默认镜头设置或配置全景中源图像的精确定位。<br><br>要创建模板，请启动新的 PTGui Pro项目，设置所需的参数并选择@menubar.file@ | @menubar.file.saveastemplate@。创建用于批处理生成器的模板的一些准则：<br><br>•请勿在@mainwindow.tabs.createpanorama@选项卡中输入输出文件名。而是选择“@mainwindow.createpanoramatab.usedefault@”作为输出文件名，并在@mainwindow.tabs.projectsettings@选项卡的@mainwindow.projectsettings.filenaming@部分中设置所需的输出文件名。否则，所有生成的项目都将写入相同的全景文件。<br><br>•在@mainwindow.tabs.projectsettings@选项卡的@mainwindow.projectsettings.filenaming@部分中，选择：'@panorama@：@mainwindow.projectsettings.filenaming.saveas@：@mainwindow.projectsettings.filenaming.sameasprojectname@'。批处理生成器将通过可选地将（1），（2）等附加到名称来确保项目名称是唯一的。因为这会生成唯一的项目文件名，所以它还会为拼接的全景图生成唯一的文件名。<br><br>•通常所有全景照片都是使用相同的已知镜头拍摄的。如果是这样，可能需要使用预定义的镜头设置，而不是让 PTGui Pro根据 EXIF 数据选择自动镜头设置。这可以通过取消选择@mainwindow.tabs.projectsettings@ - @mainwindow.projectsettings.batchbuilder@ - '@mainwindow.projectsettings.batchbuilder.useexifshort@'来实现。<br><br>•需要裁剪圆形鱼眼图像，但每个相机和镜头的裁剪圆度会有所不同。预定义裁剪圈：<br>- 在模板项目中加载一个源图像（调整项目应至少有一个图像的裁剪）<br>- 调整@mainwindow.tabs.crop@选项卡中的裁剪圆<br>- 再次从项目中删除源图像。即使删除图像，也会保留裁剪设置。<br>- 取消选择@mainwindow.tabs.projectsettings@ - @mainwindow.projectsettings.batchbuilder@ - '@mainwindow.projectsettings.batchbuilder.useexifshort@'（否则您的裁剪设置将根据 EXIF 数据被覆盖）<br><br>•如果要输出具有预定义投影和视野的全景图，请在@mainwindow.tabs.projectsettings@选项卡中停用“@mainwindow.projectsettings.alignimagesbehavior.fit@”和“@mainwindow.projectsettings.alignimagesbehavior.chooseprojection@”。在全景编辑窗口中切换到所需的投影和视野。<br><br>•如果要输出具有特定像素尺寸的全景图：转到@mainwindow.tabs.createpanorama@选项卡并选择“@mainwindow.createpanoramatab.fixsize@ ... @mainwindow.createpanoramatab.fixsize.megapixels@”。否则，PTGui 将选择最佳尺寸，由于优化的镜头参数的微小变化，每个全景可能不同。<br><br>•务必选择@mainwindow.tabs.projectsettings@的适当值 - @mainwindow.projectsettings.batchstitcheractions@ - @mainwindow.projectsettings.batchstitcheractions.align@。有关详细信息，请参阅工具提示。<br><br>•如果您想在实际缝合之前检查生成的项目，请取消选择@mainwindow.tabs.projectsettings@ - @mainwindow.projectsettings.batchstitcheractions@ - '@mainwindow.projectsettings.batchstitcheractions.createpanorama@'。因此批量拼接器将仅生成控制点，设置全景图并保存修改后的项目。在检查并可能调整项目之后，再次将它们发送到批处理器以进行最终缝合。<br><br>设置模板后，选择@menubar.file@ | @menubar.file.saveastemplate@进行保存。然后它将出现在“@batchbuilder.usetemplate@”列表的批处理生成器中。<br><br>另请参阅： <a href='helppage:workingwithtemplates'>使用模板</a><br><br>"
+			"helptext": "<b>@batchbuilder@</b><br><br>与批量拼接器结合使用时，批处理文件生成器是一种用于批量拼接大量全景图的工具。您通常会为批处理文件生成器提供一个或多个包含源图像和可选模板项目的文件夹。它分析源图像文件夹以查找形成全景图像的图像组。将为每组图像创建项目文件。然后可以将生成的项目文件发送到批量拼接器进行处理。<br><br><b>用法</b><br><br>按<b>@batchbuilder.detectpanoramas@</b>扫描包含源图像的文件夹以查看全景图。批处理生成器然后提出项目列表。这还没有真正创建项目文件；图像组仍然可以修改。按黑色十字按钮可从项目中删除图像。按剪刀图标将项目切割为两个单独的项目。选择一个或多个项目并右键单击<optional platform='mac'>（或按住Ctrl键并单击）</optional>对于具有其他选项的上下文菜单：所选项目可以组合到单个项目中或从列表中删除。图像文件也可以手动添加到项目中。<br><br>正确设置每个项目的图像后，选择要使用的模板，然后按<b>@batchbuilder.generateprojects@</b> 。这将创建 PTGui 项目文件，每个图像组一个，并将它们发送到批量拼接器进行处理。<br><br><b>模板</b><br><br>通常，批处理生成器与模板结合使用。该模板配置例如输出大小，文件格式以及保存项目文件和拼接全景的位置。模板还可以覆盖默认镜头设置或配置全景中源图像的精确定位。<br><br>要创建模板，请启动新的 PTGui Pro项目，设置所需的参数并选择@menubar.file@ | @menubar.file.saveastemplate@。创建用于批处理生成器的模板的一些准则：<br><br>•请勿在@mainwindow.tabs.createpanorama@选项卡中输入输出文件名。而是选择“@mainwindow.createpanoramatab.usedefault@”作为输出文件名，并在@mainwindow.tabs.projectsettings@选项卡的@mainwindow.projectsettings.filenaming@部分中设置所需的输出文件名。否则，所有生成的项目都将写入相同的全景文件。<br><br>•在@mainwindow.tabs.projectsettings@选项卡的@mainwindow.projectsettings.filenaming@部分中，选择：'@panorama@：@mainwindow.projectsettings.filenaming.saveas@：@mainwindow.projectsettings.filenaming.sameasprojectname@'。批处理生成器将通过可选地将（1），（2）等附加到名称来确保项目名称是唯一的。因为这会生成唯一的项目文件名，所以它还会为拼接的全景图生成唯一的文件名。<br><br>•通常所有全景照片都是使用相同的已知镜头拍摄的。如果是这样，可能需要使用预定义的镜头设置，而不是让 PTGui Pro根据 EXIF 数据选择自动镜头设置。这可以通过取消选择@mainwindow.tabs.projectsettings@ - @mainwindow.projectsettings.batchbuilder@ - '@mainwindow.projectsettings.batchbuilder.useexifshort@'来实现。<br><br>•需要裁剪圆形鱼眼图像，但每个相机和镜头的裁剪圆度会有所不同。预定义裁剪圈：<br>- 在模板项目中加载一个源图像（调整项目应至少有一个图像的裁剪）<br>- 调整@mainwindow.tabs.crop@选项卡中的裁剪圆<br>- 再次从项目中删除源图像。即使删除图像，也会保留裁剪设置。<br>- 取消选择@mainwindow.tabs.projectsettings@ - @mainwindow.projectsettings.batchbuilder@ - '@mainwindow.projectsettings.batchbuilder.useexifshort@'（否则您的裁剪设置将根据 EXIF 数据被覆盖）<br><br>•如果要输出具有预定义投影和视野的全景图，请在@mainwindow.tabs.projectsettings@选项卡中停用“@mainwindow.projectsettings.alignimagesbehavior.fit@”和“@mainwindow.projectsettings.alignimagesbehavior.chooseprojection@”。在全景编辑窗口中切换到所需的投影和视野。<br><br>•如果要输出具有特定像素尺寸的全景图：转到@mainwindow.tabs.createpanorama@选项卡并选择“@mainwindow.createpanoramatab.fixsize@ ... @mainwindow.createpanoramatab.fixsize.megapixels@”。否则，PTGui 将选择最佳尺寸，由于优化的镜头参数的微小变化，每个全景可能不同。<br><br>•务必选择@mainwindow.tabs.projectsettings@的适当值 - @mainwindow.projectsettings.batchstitcheractions@ - @mainwindow.projectsettings.batchstitcheractions.align@。有关详细信息，请参阅工具提示。<br><br>•如果您想在实际拼接之前检查生成的项目，请取消选择@mainwindow.tabs.projectsettings@ - @mainwindow.projectsettings.batchstitcheractions@ - '@mainwindow.projectsettings.batchstitcheractions.createpanorama@'。因此批量拼接器将仅生成控制点，设置全景图并保存修改后的项目。在检查并可能调整项目之后，再次将它们发送到批量拼接器以进行最终拼接。<br><br>设置模板后，选择@menubar.file@ | @menubar.file.saveastemplate@进行保存。然后它将出现在“@batchbuilder.usetemplate@”列表的批处理生成器中。<br><br>另请参阅： <a href='helppage:workingwithtemplates'>使用模板</a><br><br>"
 		},
 		{
 			"id": "workingwithtemplates",
-			"machinetranslated": true,
-			"helptext": "<b>使用模板</b><br><br>通过使用模板，可以将一组常用设置快速应用于项目。模板只是一个普通的 PTGui 项目文件（扩展名为.pts），任何项目都可以用作模板。<br><br>要从活动项目快速创建模板，并将其保存在Templates文件夹中，请使用@menubar.file@ | @menubar.file.saveastemplate@。但由于模板只是一个常规项目文件，因此也可以使用@menubar.file@ | @menubar.file.saveproject@保存。<br><br>要将模板应用于当前项目，请使用@menubar.file@ | @menubar.file.applytemplate@，或单击工具栏中的@menubar.file.applytemplate@按钮。<br><br>在@optionspreferences@中，可以为模板保存配置默认模板文件夹。默认情况下，@menubar.file.saveastemplate@和@menubar.file.applytemplate@将转到此文件夹。使用@menubar.file@ | @menubar.file.applytemplate@ | @menubar.file.applytemplate.other@，可以从任何文件夹加载模板。<br><br>默认情况下，@menubar.file.applytemplate@从模板复制除控制点和源图像之外的所有设置。控制点永远不会被复制，因为它们特定于实际源图像：指向原始项目中建筑物角落的控制点可能指向另一个项目中的纯蓝色天空。如果您想要象其他项目一样缝合项目，则控制点不是必需的：拼接器忽略控制点，仅使用图像和全景设置来创建全景图。<br><br><optional product='pro'>在@mainwindow.tabs.projectsettings@选项卡，@mainwindow.projectsettings.templatebehavior@部分中，模板可以限制为仅适用于项目的特定部分。因此，例如可以创建仅改变优化器设置的模板。<br><br></optional>如果您发现始终使用相同的模板，请考虑使用@menubar.file@ | @menubar.file.makedefault@，它会更改所有新项目的默认设置。 <optional product='pro'><br><br>另见： <a href='helppage:batchbuilder'>@batchbuilder@</a></optional>"
+			"helptext": "<b>使用模板</b><br><br>通过使用模板，可以将一组常用设置快速应用于项目。模板只是一个普通的 PTGui 项目文件（扩展名为.pts），任何项目都可以用作模板。<br><br>要从活动项目快速创建模板，并将其保存在Templates文件夹中，请使用@menubar.file@ | @menubar.file.saveastemplate@。但由于模板只是一个常规项目文件，因此也可以使用@menubar.file@ | @menubar.file.saveproject@保存。<br><br>要将模板应用于当前项目，请使用@menubar.file@ | @menubar.file.applytemplate@，或单击工具栏中的@menubar.file.applytemplate@按钮。<br><br>在@optionspreferences@中，可以为模板保存配置默认模板文件夹。默认情况下，@menubar.file.saveastemplate@和@menubar.file.applytemplate@将转到此文件夹。使用@menubar.file@ | @menubar.file.applytemplate@ | @menubar.file.applytemplate.other@，可以从任何文件夹加载模板。<br><br>默认情况下，@menubar.file.applytemplate@从模板复制除控制点和源图像之外的所有设置。控制点永远不会被复制，因为它们特定于实际源图像：指向原始项目中建筑物角落的控制点可能指向另一个项目中的纯蓝色天空。如果您想要象其他项目一样拼接项目，则控制点不是必需的：拼接器忽略控制点，仅使用图像和全景设置来创建全景图。<br><br><optional product='pro'>在@mainwindow.tabs.projectsettings@选项卡，@mainwindow.projectsettings.templatebehavior@部分中，模板可以限制为仅适用于项目的特定部分。因此，例如可以创建仅改变优化器设置的模板。<br><br></optional>如果您发现始终使用相同的模板，请考虑使用@menubar.file@ | @menubar.file.makedefault@，它会更改所有新项目的默认设置。 <optional product='pro'><br><br>另见： <a href='helppage:batchbuilder'>@batchbuilder@</a></optional>"
 		},
 		{
 			"id": "projections",
@@ -11269,8 +11193,7 @@
 		},
 		{
 			"id": "detailviewer",
-			"machinetranslated": true,
-			"helptext": "<b>@detailviewer@</b><br><br>详细信息查看器显示全景图特定部分的实时预览。使用细节查看器可放大全景图以发现可能的拼接或混合故障。此外，在“透视”模式下，细节查看器可用于在缝合之前检查球形全景图的最低点和天顶点。<br><br>要打开详细信息查看器，请选择@menubar.project@ | @detailviewer@，或按全景编辑窗口中的放大镜按钮。<br><br>通过单击并使用鼠标左键拖动来完成导航细节查看器。支持两种导航模式，请参见下文。或者，可以使用光标键。通过将全景编辑窗口中的放大镜拖动到所需位置，细节查看器也可以居中到特定点。<br><br><optional platform='windows'>通过在按住Control键的同时滚动鼠标滚轮来完成缩放，</optional><optional platform='mac'>使用两个手指捏触控板手势完成缩放，</optional>或者通过拖动左侧的滑块。您还可以使用+和 - 键盘键进行放大和缩小。<br><br>右键单击<optional platform='mac'>（或按住Ctrl键并单击）</optional>在详细信息查看器中显示上下文菜单。在此上下文菜单中，可以快速跳转到@mainwindow.tabs.crop@，@mainwindow.tabs.mask@和@mainwindow.tabs.controlpoints@选项卡中的特定图像。<br><br>可以使用工具栏按钮选择两种投影模式：<br><b>缩放模式：</b>在此模式下，细节查看器显示全景的矩形裁剪。全景显示在实际投影中。<br><b>透视模式：</b>在此模式下，全景的当前查看将重新投影到平面（直线）投影，类似于交互式全景查看器。<br><br>使用工具栏按钮选择两种使用鼠标导航的方法：<br><b>拖动移动：</b>可以在每个方向拖动图像。<br><b>拖放：</b>单击并按住鼠标按钮。拖动到所需的方向；查看将持续移动，直到释放鼠标按钮。 <optional platform='mac'>在任一模式中，也可以使用两个手指轻扫触控板手势来完成导航。</optional><br><br>在工具栏中，可以选择三种<b>混合模式中的</b>一种：@panoeditor.menubar.blended@，@panoeditor.menubar.unblended@和@panoeditor.menubar.showseams@。有关更多信息，请参阅工具提示。"
+			"helptext": "<b>@detailviewer@</b><br><br>详细信息查看器显示全景图特定部分的实时预览。使用细节查看器可放大全景图以发现可能的拼接或混合故障。此外，在“透视”模式下，细节查看器可用于在拼接之前检查球形全景图的最低点和天顶点。<br><br>要打开详细信息查看器，请选择@menubar.project@ | @detailviewer@，或按全景编辑窗口中的放大镜按钮。<br><br>通过单击并使用鼠标左键拖动来完成导航细节查看器。支持两种导航模式，请参见下文。或者，可以使用光标键。通过将全景编辑窗口中的放大镜拖动到所需位置，细节查看器也可以居中到特定点。<br><br><optional platform='windows'>通过在按住Control键的同时滚动鼠标滚轮来完成缩放，</optional><optional platform='mac'>使用两个手指捏触控板手势完成缩放，</optional>或者通过拖动左侧的滑块。您还可以使用+和 - 键盘键进行放大和缩小。<br><br>右键单击<optional platform='mac'>（或按住Ctrl键并单击）</optional>在详细信息查看器中显示上下文菜单。在此上下文菜单中，可以快速跳转到@mainwindow.tabs.crop@，@mainwindow.tabs.mask@和@mainwindow.tabs.controlpoints@选项卡中的特定图像。<br><br>可以使用工具栏按钮选择两种投影模式：<br><b>缩放模式：</b>在此模式下，细节查看器显示全景的矩形裁剪。全景显示在实际投影中。<br><b>透视模式：</b>在此模式下，全景的当前查看将重新投影到平面（直线）投影，类似于交互式全景查看器。<br><br>使用工具栏按钮选择两种使用鼠标导航的方法：<br><b>拖动移动：</b>可以在每个方向拖动图像。<br><b>拖放：</b>单击并按住鼠标按钮。拖动到所需的方向；查看将持续移动，直到释放鼠标按钮。 <optional platform='mac'>在任一模式中，也可以使用两个手指轻扫触控板手势来完成导航。</optional><br><br>在工具栏中，可以选择三种<b>混合模式中的</b>一种：@panoeditor.menubar.blended@，@panoeditor.menubar.unblended@和@panoeditor.menubar.showseams@。有关更多信息，请参阅工具提示。"
 		},
 		{
 			"id": "mainwindow.projectassistant",
@@ -11284,23 +11207,19 @@
 		},
 		{
 			"id": "mainwindow.lensparamstab",
-			"machinetranslated": true,
-			"helptext": "<b>@mainwindow.tabs.lenssettings@</b><br><br>为了精确拼接，PTGui 需要知道用于创建图像的相机和镜头的属性。在大多数情况下，PTGui 能够通过检查图像的 EXIF 数据自动确定镜头设置，然后几乎不需要触摸这些设置。仅当未找到 EXIF 数据时（例如，使用手动对焦镜头时），必须在此处输入相应的镜头设置。即便如此，PTGui 只需要知道镜头的类别和焦距的粗略猜测。优化器将能够在此处微调所有设置。<br><br>项目可以包含一个或多个镜头配置文件。这允许来自不同镜头或相机的图像在同一项目中使用。最初，所有图像都有一个名为“@txt.globallensprofile@”的镜头配置文件。如果将具有不同 EXIF 镜头数据的图像添加到项目中，则会自动创建多个镜头配置文件。每个镜头配置文件都有自己的镜头设置， <optional product='pro'>渐变和相机曲线设置，</optional> shift和@shear@参数和裁剪设置。<br><br>您可以使用镜头数据库保存并稍后检索镜头的参数。镜头数据库最初是空的，它仅用于您自己的数据。可以使用@menubar.tools@ | @lensdatabase@打开它。镜头数据库记录可以与特定的 EXIF 数据相关联，因此只要加载某个镜头的图像，您的设置就会自动加载。有关更多信息，请参阅： <a href='helppage:lensdatabase'>使用镜头数据库</a><br><br><b>镜头失真校正</b><br>所有镜头都会出现一定程度的失真（例如桶形失真或枕形失真）。为了精确缝合，必须纠正这种失真；这是在拼接时即时完成的。PTGui 使用PanoTools镜头模型进行失真校正。这使用具有三个参数a，b和c的三阶多项式函数。同样，镜头失真由优化器精确确定，因此几乎不需要触摸这些值。<br><br> PTGui 还将补偿镜头中心与图像中心的任何偏移（Shift）。对于平板扫描仪，PTGui 还可以补偿@shear@。<br><br><b>个人设置</b><br>默认情况下，相同的镜头，移位，@shear@和裁剪设置用于项目中的所有图像。通过在“@mainwindow.lensparams.useindividual@”列表中选择特定图像，可以覆盖特定图像的特定设置。"
+			"helptext": "<b>@mainwindow.tabs.lenssettings@</b><br><br>为了精确拼接，PTGui 需要知道用于创建图像的相机和镜头的属性。在大多数情况下，PTGui 能够通过检查图像的 EXIF 数据自动确定镜头设置，然后几乎不需要触摸这些设置。仅当未找到 EXIF 数据时（例如，使用手动对焦镜头时），必须在此处输入相应的镜头设置。即便如此，PTGui 只需要知道镜头的类别和焦距的粗略猜测。优化器将能够在此处微调所有设置。<br><br>项目可以包含一个或多个镜头配置文件。这允许来自不同镜头或相机的图像在同一项目中使用。最初，所有图像都有一个名为“@txt.globallensprofile@”的镜头配置文件。如果将具有不同 EXIF 镜头数据的图像添加到项目中，则会自动创建多个镜头配置文件。每个镜头配置文件都有自己的镜头设置， <optional product='pro'>渐变和相机曲线设置，</optional> shift和@shear@参数和裁剪设置。<br><br>您可以使用镜头数据库保存并稍后检索镜头的参数。镜头数据库最初是空的，它仅用于您自己的数据。可以使用@menubar.tools@ | @lensdatabase@打开它。镜头数据库记录可以与特定的 EXIF 数据相关联，因此只要加载某个镜头的图像，您的设置就会自动加载。有关更多信息，请参阅： <a href='helppage:lensdatabase'>使用镜头数据库</a><br><br><b>镜头失真校正</b><br>所有镜头都会出现一定程度的失真（例如桶形失真或枕形失真）。为了精确拼接，必须纠正这种失真；这是在拼接时即时完成的。PTGui 使用PanoTools镜头模型进行失真校正。这使用具有三个参数a，b和c的三阶多项式函数。同样，镜头失真由优化器精确确定，因此几乎不需要触摸这些值。<br><br> PTGui 还将补偿镜头中心与图像中心的任何偏移（Shift）。对于平板扫描仪，PTGui 还可以补偿@shear@。<br><br><b>个人设置</b><br>默认情况下，相同的镜头，移位，@shear@和裁剪设置用于项目中的所有图像。通过在“@mainwindow.lensparams.useindividual@”列表中选择特定图像，可以覆盖特定图像的特定设置。"
 		},
 		{
 			"id": "mainwindow.croptab",
-			"machinetranslated": true,
-			"helptext": "<b>@mainwindow.tabs.crop@</b><br><br>在这里，您可以在缝合之前裁剪源图像。裁剪是非破坏性的，您的原始图像不会被修改。<br><br>裁剪通常仅用于圆形鱼眼图像。这种透镜将圆形图像投射到图像传感器上； PTGui 将使用裁剪圆圈来确保仅使用图像圈内的数据。<br><br>使用鼠标拖动裁剪边界，或使用右侧的输入框手动输入裁剪坐标。可以在原始图像之外裁剪（使其更大）。<br><br>使用@menubar.view@菜单和工具栏中的@menubar.view.previousimage@ / @menubar.view.nextimage@快捷方式切换到上一个或下一个图像。<br><br>默认情况下，所有图像（或使用相同镜头配置文件的所有图像）将使用相同的裁剪设置。使用“@mainwindow.croptab.individualposition@”以不同方式裁剪特定图像。这对于多摄象机装备和单次360摄象机非常有用，其中每个镜头将具有相同的投影但具有不同的偏移。<br><br>请勿尝试使用裁剪功能遮挡照片中某些不需要的部分；由于镜头设置适用于图像的裁剪部分，因此您将有效地更改用于图像的焦距。 <optional product='pro'>相反，应使用@mainwindow.tabs.mask@功能。</optional>"
+			"helptext": "<b>@mainwindow.tabs.crop@</b><br><br>在这里，您可以在拼接之前裁剪源图像。裁剪是非破坏性的，您的原始图像不会被修改。<br><br>裁剪通常仅用于圆形鱼眼图像。这种镜头将圆形图像投射到图像传感器上； PTGui 将使用裁剪圆圈来确保仅使用图像圈内的数据。<br><br>使用鼠标拖动裁剪边界，或使用右侧的输入框手动输入裁剪坐标。可以在原始图像之外裁剪（使其更大）。<br><br>使用@menubar.view@菜单和工具栏中的@menubar.view.previousimage@ / @menubar.view.nextimage@快捷方式切换到上一个或下一个图像。<br><br>默认情况下，所有图像（或使用相同镜头配置文件的所有图像）将使用相同的裁剪设置。使用“@mainwindow.croptab.individualposition@”以不同方式裁剪特定图像。这对于多摄象机装备和单次360摄象机非常有用，其中每个镜头将具有相同的投影但具有不同的偏移。<br><br>请勿尝试使用裁剪功能遮挡照片中某些不需要的部分；由于镜头设置适用于图像的裁剪部分，因此您将有效地更改用于图像的焦距。 <optional product='pro'>相反，应使用@mainwindow.tabs.mask@功能。</optional>"
 		},
 		{
 			"id": "mainwindow.masktab",
-			"machinetranslated": true,
-			"helptext": "<b>@mainwindow.tabs.mask@</b><br><br>混合全景图时，PTGui 默认情况下将接缝大致放置在两个源图像之间的重叠区域的中间。特别是当全景图包含移动的物体或人时，这可能偶尔导致部分切断的物体，或缝合的全景图中没有肢体的人。这可以通过使用蒙版来防止：蒙版告诉混合器源图像的哪些部分应该或不应该在最终的全景中可见。此外，可以使用掩模来防止在某些区域中生成控制点。<br><br>有两种类别的掩模： <b>红色</b>掩模表示源图像的一部分，在最终的全景图中应该是不可见的；混合器将使用其他源图像的重叠区域来覆盖缺失的部分。 <b>绿色</b>蒙版告诉搅拌器在混合全景图中必须显示某个部分，即它将优先于其他图像像素上的绿色蒙版像素。<br><br>控制点生成器（和“@alignimages@”）不会将控制点放在红色蒙板区域中。这对于防止天空中移动的云上的控制点或放置在三脚架上的控制点是有用的。<br><br>可以在全景编辑窗口和细节查看器中实时观察蒙版绘画对混合全景的影响。如果选择@panoeditor.menubar.blended@，则会考虑掩模。在@panoeditor.menubar.showseams@模式下，红线将显示由于蒙板而导致的接缝位置变化。<br><br>要绘制蒙版，请使用鼠标左键在图像中绘制。使用Shift +单击绘制直线。可以使用下面的滑块或使用K和L键更改绘画工具的大小。可以使用@mainwindow.maskmenu.fill@工具填充封闭区域。<br><br>可以复制，粘贴，加载和保存蒙版。要一次将蒙版复制到多个图像，请转到@mainwindow.tabs.sourceimages@选项卡，选择图像，右键单击并选择@pastemask@。<br><br>使用@menubar.view@菜单和工具栏中的@menubar.view.previousimage@ / @menubar.view.nextimage@快捷方式切换到上一个或下一个图像。<br><br>可以在显示单个图像或两个图像并排显示之间切换。"
+			"helptext": "<b>@mainwindow.tabs.mask@</b><br><br>混合全景图时，PTGui 默认情况下将接缝大致放置在两个源图像之间的重叠区域的中间。特别是当全景图包含移动的物体或人时，这可能偶尔导致部分切断的物体，或拼接的全景图中没有肢体的人。这可以通过使用蒙版来防止：蒙版告诉混合器源图像的哪些部分应该或不应该在最终的全景中可见。此外，可以使用掩模来防止在某些区域中生成控制点。<br><br>有两种类别的掩模： <b>红色</b>掩模表示源图像的一部分，在最终的全景图中应该是不可见的；混合器将使用其他源图像的重叠区域来覆盖缺失的部分。 <b>绿色</b>蒙版告诉搅拌器在混合全景图中必须显示某个部分，即它将优先于其他图像像素上的绿色蒙版像素。<br><br>控制点生成器（和“@alignimages@”）不会将控制点放在红色蒙版区域中。这对于防止天空中移动的云上的控制点或放置在三脚架上的控制点是有用的。<br><br>可以在全景编辑窗口和细节查看器中实时观察蒙版绘画对混合全景的影响。如果选择@panoeditor.menubar.blended@，则会考虑掩模。在@panoeditor.menubar.showseams@模式下，红线将显示由于蒙版而导致的接缝位置变化。<br><br>要绘制蒙版，请使用鼠标左键在图像中绘制。使用Shift +单击绘制直线。可以使用下面的滑块或使用K和L键更改绘画工具的大小。可以使用@mainwindow.maskmenu.fill@工具填充封闭区域。<br><br>可以复制，粘贴，加载和保存蒙版。要一次将蒙版复制到多个图像，请转到@mainwindow.tabs.sourceimages@选项卡，选择图像，右键单击并选择@pastemask@。<br><br>使用@menubar.view@菜单和工具栏中的@menubar.view.previousimage@ / @menubar.view.nextimage@快捷方式切换到上一个或下一个图像。<br><br>可以在显示单个图像或两个图像并排显示之间切换。"
 		},
 		{
 			"id": "mainwindow.imageparamstab",
-			"machinetranslated": true,
-			"helptext": "<b>@mainwindow.tabs.imageparameters@</b><br><br>该页面包含一个表格，其中每个图像的参数可以用数字编辑。通常，此处无需更改任何设置，通常这些参数由优化程序确定。<br><br>可以一次更改多个图像的参数：通过拖动鼠标选择单元格。然后键入所需的值，该值将在所有选定的单元格中输入。<br><br><b>@mainwindow.imageparameters.image@：</b>显示源图像的缩略图。<br><br><b>@mainwindow.imageparameters.warped@：</b>这是一个扭曲的缩略图图像，显示图像在最终全景图中的外观。缩略图图像实时更新。<optional product='pro'><br><br><b>@mainwindow.imageparameters.linked@:</b>@mainwindow.imageparamstab.linkedhelptxt@</optional><br><br><b>@+yaw@，@pitch@和@roll@：</b>指示拍摄照片的查看方向，以及最终全景图像的位置。 <b>@+yaw@</b>是摄象机在水平面上的旋转， <b>@+pitch@</b>对应于上/下倾斜角度， <b>@+roll@</b>是摄象机绕镜头轴旋转。 <optional product='pro'><br><br><b>@mainwindow.imageparameters.exposure@，@mainwindow.imageparameters.aperture@，@mainwindow.imageparameters.iso@：</b>曝光时间，镜头光圈和ISO感光度。默认情况下，这些值是从图像文件的 EXIF 标头中读取的，但它们可能会被其他值覆盖。这些值用于计算用于 HDR 全景图的@mainwindow.imageparameters.ev@色谱柱。<br><br><b>@mainwindow.imageparameters.ev@：</b>图像的曝光值。该值表示相对于其他图像捕获的光量。 @mainwindow.imageparameters.ev@值为+1表示与@mainwindow.imageparameters.ev@值为0的图像相比，捕获的光量是其两倍。这可以通过将曝光时间加倍，ISO感光度加倍，将光圈值减小1.4倍来实现，或者通过这三者的组合。 @mainwindow.imageparameters.ev@色谱柱是根据@mainwindow.imageparameters.exposure@，@mainwindow.imageparameters.aperture@和@mainwindow.imageparameters.iso@色谱柱中的值计算得出的，不能直接编辑。此值用于生成 HDR 全景图： PTGui 将图像分成具有相同@mainwindow.imageparameters.ev@值的组，并从每个组中拼接完整的全景图。然后将这些中间全景图（所谓的“混合平面”）合并为 HDR 全景图。<br><br><b>@mainwindow.imageparameters.expoffset@：</b>可用于调整单个图像的亮度。例如，输入-1的值使图像变暗1曝光值（其对应于亮度减少2倍）。如果在@mainwindow.tabs.exposurehdr@选项卡中启用了曝光优化，则会自动调整此列。<br><br><b>@mainwindow.imageparameters.flare@：</b>此字段中的正值通过增加对比度从图像中删除@lensflare@。如果在@mainwindow.tabs.exposurehdr@选项卡中启用了@flare@优化，则会自动调整。<br><br><b>@mainwindow.imageparameters.blendpriority@：</b>为 PTGui 混合器设置此图像的“重要性”。混合时，具有高混合优先级的图像优先于具有低混合半径的图像。如果图像具有非常低的混合优先级（例如0.001），则混合器仅使用填充在混合其他图像之后将保留的任何间隙所需的图像部分。略微增加混合优先级可以提供更平滑的重叠，同时仍然只使用一小部分图像。混合优先级是一个相对值：混合时，混合器会比较图像的混合优先级值，并优先考虑具有最高值的图像。绝对值无关紧要。混合优先级参数对于天底拍摄特别有用：球形全景中的最低点图像通常严重对齐，摄影者的脚可能在图像中可见。对最低点图像使用低混合优先级可确保仅使用图像的中心部分。尝试使用10的混合优先级作为最低点图像，对其他图像使用100。<br><br><b>@mainwindow.imageparameters.vpprefix@参数：</b>这5个参数应用相对于其他图像的摄象机位置的图像的摄象机位置的视点偏移的校正。没有必要在这里手动输入值；在@mainwindow.tabs.optimizer@选项卡中选择@+viewpoint@进行优化时，优化程序会确定实际值。要重置视点校正，请为每个@mainwindow.imageparameters.vpprefix@参数输入值0。视点偏移校正仅适用于平面照片；在优化相机的视点教程中详细解释了该过程（参见 PTGui 网站）。</optional><br><br>如果图像配置为使用单个镜头，移位或@shear@参数，则这些值也会显示在表格中。 <optional product='pro'><br><br>对于 HDR 全景图，PTGui 可以链接包围曝光。链接的图像可以在此表格中显示，也可以折叠为单行，也可以使用小三角形按钮展开列表，以显示每个链接集合中的各个图像。</optional><br><br>使用@fillyaw@功能（在右键单击上下文菜单中）将一系列图像的@yaw@角度初始化为恒定增量。例如，对于由10个图像组成的360°全景图，@yaw@值将使用此功能初始化为0°，36°，72°......<br><br>@mainwindow.imageparamstab.helptext2@"
+			"helptext": "<b>@mainwindow.tabs.imageparameters@</b><br><br>该页面包含一个表格，其中每个图像的参数可以用数字编辑。通常，此处无需更改任何设置，通常这些参数由优化程序确定。<br><br>可以一次更改多个图像的参数：通过拖动鼠标选择单元格。然后键入所需的值，该值将在所有选定的单元格中输入。<br><br><b>@mainwindow.imageparameters.image@：</b>显示源图像的缩略图。<br><br><b>@mainwindow.imageparameters.warped@：</b>这是一个变形的缩略图图像，显示图像在最终全景图中的外观。缩略图图像实时更新。<optional product='pro'><br><br><b>@mainwindow.imageparameters.linked@:</b>@mainwindow.imageparamstab.linkedhelptxt@</optional><br><br><b>@+yaw@，@pitch@和@roll@：</b>指示拍摄照片的查看方向，以及最终全景图像的位置。 <b>@+yaw@</b>是摄象机在水平面上的旋转， <b>@+pitch@</b>对应于上/下倾斜角度， <b>@+roll@</b>是摄象机绕镜头轴旋转。 <optional product='pro'><br><br><b>@mainwindow.imageparameters.exposure@，@mainwindow.imageparameters.aperture@，@mainwindow.imageparameters.iso@：</b>曝光时间，镜头光圈和ISO感光度。默认情况下，这些值是从图像文件的 EXIF 标头中读取的，但它们可能会被其他值覆盖。这些值用于计算用于 HDR 全景图的@mainwindow.imageparameters.ev@色谱柱。<br><br><b>@mainwindow.imageparameters.ev@：</b>图像的曝光值。该值表示相对于其他图像捕获的光量。 @mainwindow.imageparameters.ev@值为+1表示与@mainwindow.imageparameters.ev@值为0的图像相比，捕获的光量是其两倍。这可以通过将曝光时间加倍，ISO感光度加倍，将光圈值减小1.4倍来实现，或者通过这三者的组合。 @mainwindow.imageparameters.ev@色谱柱是根据@mainwindow.imageparameters.exposure@，@mainwindow.imageparameters.aperture@和@mainwindow.imageparameters.iso@色谱柱中的值计算得出的，不能直接编辑。此值用于生成 HDR 全景图： PTGui 将图像分成具有相同@mainwindow.imageparameters.ev@值的组，并从每个组中拼接完整的全景图。然后将这些中间全景图（所谓的“混合平面”）合并为 HDR 全景图。<br><br><b>@mainwindow.imageparameters.expoffset@：</b>可用于调整单个图像的亮度。例如，输入-1的值使图像变暗1曝光值（其对应于亮度减少2倍）。如果在@mainwindow.tabs.exposurehdr@选项卡中启用了曝光优化，则会自动调整此列。<br><br><b>@mainwindow.imageparameters.flare@：</b>此字段中的正值通过增加对比度从图像中删除@lensflare@。如果在@mainwindow.tabs.exposurehdr@选项卡中启用了@flare@优化，则会自动调整。<br><br><b>@mainwindow.imageparameters.blendpriority@：</b>为 PTGui 混合器设置此图像的“重要性”。混合时，具有高混合优先级的图像优先于具有低混合半径的图像。如果图像具有非常低的混合优先级（例如0.001），则混合器仅使用填充在混合其他图像之后将保留的任何间隙所需的图像部分。略微增加混合优先级可以提供更平滑的重叠，同时仍然只使用一小部分图像。混合优先级是一个相对值：混合时，混合器会比较图像的混合优先级值，并优先考虑具有最高值的图像。绝对值无关紧要。混合优先级参数对于天底拍摄特别有用：球形全景中的最低点图像通常严重对齐，摄影者的脚可能在图像中可见。对最低点图像使用低混合优先级可确保仅使用图像的中心部分。尝试使用10的混合优先级作为最低点图像，对其他图像使用100。<br><br><b>@mainwindow.imageparameters.vpprefix@参数：</b>这5个参数应用相对于其他图像的摄象机位置的图像的摄象机位置的视点偏移的校正。没有必要在这里手动输入值；在@mainwindow.tabs.optimizer@选项卡中选择@+viewpoint@进行优化时，优化程序会确定实际值。要重置视点校正，请为每个@mainwindow.imageparameters.vpprefix@参数输入值0。视点偏移校正仅适用于平面照片；在优化相机的视点教程中详细解释了该过程（参见 PTGui 网站）。</optional><br><br>如果图像配置为使用单个镜头，移位或@shear@参数，则这些值也会显示在表格中。 <optional product='pro'><br><br>对于 HDR 全景图，PTGui 可以链接包围曝光。链接的图像可以在此表格中显示，也可以折叠为单行，也可以使用小三角形按钮展开列表，以显示每个链接集合中的各个图像。</optional><br><br>使用@fillyaw@功能（在右键单击上下文菜单中）将一系列图像的@yaw@角度初始化为恒定增量。例如，对于由10个图像组成的360°全景图，@yaw@值将使用此功能初始化为0°，36°，72°......<br><br>@mainwindow.imageparamstab.helptext2@"
 		},
 		{
 			"id": "mainwindow.controlpointstab",
@@ -11314,13 +11233,11 @@
 		},
 		{
 			"id": "mainwindow.exposuretab",
-			"machinetranslated": true,
-			"helptext": "<b>@mainwindow.tabs.exposurehdr@</b><br><br> PTGui Pro可以从包围曝光中缝合 HDR 全景图。这可以在 HDR 部分中启用。<br><br>在底部，配置曝光校正，渐变校正和颜色校正。<br><br>要了解更多信息，请将鼠标悬停在每个参数上方以查看工具提示。"
+			"helptext": "<b>@mainwindow.tabs.exposurehdr@</b><br><br> PTGui Pro可以从包围曝光中拼接 HDR 全景图。这可以在 HDR 部分中启用。<br><br>在底部，配置曝光校正，渐变校正和颜色校正。<br><br>要了解更多信息，请将鼠标悬停在每个参数上方以查看工具提示。"
 		},
 		{
 			"id": "mainwindow.projectsettingstab",
-			"machinetranslated": true,
-			"helptext": "<b>@mainwindow.tabs.projectsettings@</b><br><br>此页面配置了几个影响 PTGui 和批处理器行为的设置。设置将保存为当前项目（或模板）的一部分。要更改所有新项目的默认设置，请使用@menubar.file@ | @menubar.file.makedefault@。要重置 PTGui 以使用其自己的默认设置，请运行@menubar.file@ | @menubar.file.resetdefault@。<br><br>要了解更多信息，请将鼠标悬停在每个参数上方以查看工具提示。<br><br>另请参阅： <a href='helppage:workingwithtemplates'>使用模板</a>"
+			"helptext": "<b>@mainwindow.tabs.projectsettings@</b><br><br>此页面配置了几个影响 PTGui 和批量拼接器行为的设置。设置将保存为当前项目（或模板）的一部分。要更改所有新项目的默认设置，请使用@menubar.file@ | @menubar.file.makedefault@。要重置 PTGui 以使用其自己的默认设置，请运行@menubar.file@ | @menubar.file.resetdefault@。<br><br>要了解更多信息，请将鼠标悬停在每个参数上方以查看工具提示。<br><br>另请参阅： <a href='helppage:workingwithtemplates'>使用模板</a>"
 		},
 		{
 			"id": "mainwindow.previewtab",
@@ -11334,8 +11251,7 @@
 		},
 		{
 			"id": "mainwindow.createpanoramatab",
-			"machinetranslated": true,
-			"helptext": "<b>@mainwindow.tabs.createpanorama@</b><br><br>从这里可以生成拼接的全景图。PTGui 可以直接从这里创建全景图（使用@createpanorama@按钮），也可以将项目发送到批量拼接器以在后台缝合。<br><br>要了解更多信息，请将鼠标悬停在每个参数上方以查看工具提示。"
+			"helptext": "<b>@mainwindow.tabs.createpanorama@</b><br><br>从这里可以生成拼接的全景图。PTGui 可以直接从这里创建全景图（使用@createpanorama@按钮），也可以将项目发送到批量拼接器以在后台拼接。<br><br>要了解更多信息，请将鼠标悬停在每个参数上方以查看工具提示。"
 		},
 		{
 			"id": "cptable",
@@ -11364,8 +11280,7 @@
 		},
 		{
 			"id": "patchwindow",
-			"machinetranslated": true,
-			"helptext": "<b>@patchwindow@</b><br><br>使用此工具可以修饰小的拼接错误、删除不需要的对象（如三脚架）或填充全景图中缺失的部分。修饰是通过克隆图像的某些部分并将它们混合到图像的另一部分来完成的。 @patchwindow@ 可以通过两种方式打开：<br><br>在<b>@detailviewer@</b>窗口中，导航至要修饰的全景图部分，打开 @detailviewer.sidebar.patch@ 侧栏并按 @detailviewer.sidebar.patch.createpatch@ 按钮。这将创建当前视图的快照并将其作为新的源图像添加到全景图中。添加的图像将具有全绿色蒙版，以确保使用补丁图像代替原始源图像。然后 @patchwindow@ 将打开以编辑补丁图像。<br><br>或者，直接从<b>@menubar.tools@ 菜单</b>将 @patchwindow@ 作为独立工具打开。这允许打开任何 JPEG、JPEG2000 或 TIFF 图像进行编辑。<br><br>@patchwindow@ 以两种可能的模式运行：<br><br><b>@patchwindow.mode.cut@：</b>使用此模式从图像中删除不需要的对象。单击图像以围绕对象绘制形状。封闭区域将变得透明。<br><br><b>@patchwindow.mode.patch@：</b>在此模式下，单击图像以在图像中应覆盖补丁的部分周围绘制形状。然后将形状拖动到要用作面片源的区域。目标区域将被克隆的源区域替换。<br><br>可以移动或编辑补丁：在补丁内部单击以将其激活。活动补丁的源区域将由黄色虚线指示。可以通过拖动来移动补丁或其源区域。可以通过拖动其顶点来编辑面片。可以通过右键单击边来添加新顶点。右键单击顶点可将其删除。在 macOS 上，可以使用 Ctrl+单击代替鼠标右键。<br><br>默认情况下， <b>@panoramaeditor.sidebar.blendsettings.seamfinding@</b>已启用：修补图像和底层图像之间的接缝将穿过它们最相似的区域。这将创建最无缝的结果，但仅使用补丁的一部分。将鼠标指针悬停在窗口上时，接缝线由红线指示。如果原始图像中不需要的部分仍然通过补丁显示，请使用“@patchwindow.mode.cut@”模式使这些部分透明，如上所述。接缝将围绕透明区域布线。 <b>@panoramaeditor.sidebar.blendsettings.seamfinding@</b>可以在底部工具栏中禁用。如果禁用，补丁将作为一个整体覆盖。边缘仍将被混合，但结果可能不那么无缝。<br><br>如果选择<b>@patchwindow.autosave@</b> ，所有编辑都会立即保存到磁盘。否则，请使用“保存”按钮保存修补后的图像。<br><br>如果通过在 @detailviewer@ 窗口中创建补丁来启动 @patchwindow@，则编辑后的补丁映像将自动重新加载，并且项目将在几秒钟后更新。修补全景图后，不应再编辑控制点。运行优化器将修改图像的对齐方式，并且补丁图像将不再反映图像的原始对齐方式。因此，修补应作为拼接过程的最后一步进行。只需转到 @mainwindow.tabs.sourceimages@ 选项卡并从项目中删除补丁映像，即可从头开始。<br><br>无需将修补图像添加到 PTGui 项目中，还可以修饰已缝合的全景图：缝合全景图后，启动一个新项目并将缝合的全景图添加为源图像。然后打开 @detailviewer@ 窗口并从那里启动 @patchwindow@。"
+			"helptext": "<b>@patchwindow@</b><br><br>使用此工具可以修饰小的拼接错误、删除不需要的对象（如三脚架）或填充全景图中缺失的部分。修饰是通过克隆图像的某些部分并将它们混合到图像的另一部分来完成的。 @patchwindow@ 可以通过两种方式打开：<br><br>在<b>@detailviewer@</b>窗口中，导航至要修饰的全景图部分，打开 @detailviewer.sidebar.patch@ 侧栏并按 @detailviewer.sidebar.patch.createpatch@ 按钮。这将创建当前视图的快照并将其作为新的源图像添加到全景图中。添加的图像将具有全绿色蒙版，以确保使用补丁图像代替原始源图像。然后 @patchwindow@ 将打开以编辑补丁图像。<br><br>或者，直接从<b>@menubar.tools@ 菜单</b>将 @patchwindow@ 作为独立工具打开。这允许打开任何 JPEG、JPEG2000 或 TIFF 图像进行编辑。<br><br>@patchwindow@ 以两种可能的模式运行：<br><br><b>@patchwindow.mode.cut@：</b>使用此模式从图像中删除不需要的对象。单击图像以围绕对象绘制形状。封闭区域将变得透明。<br><br><b>@patchwindow.mode.patch@：</b>在此模式下，单击图像以在图像中应覆盖补丁的部分周围绘制形状。然后将形状拖动到要用作面片源的区域。目标区域将被克隆的源区域替换。<br><br>可以移动或编辑补丁：在补丁内部单击以将其激活。活动补丁的源区域将由黄色虚线指示。可以通过拖动来移动补丁或其源区域。可以通过拖动其顶点来编辑面片。可以通过右键单击边来添加新顶点。右键单击顶点可将其删除。在 macOS 上，可以使用 Ctrl+单击代替鼠标右键。<br><br>默认情况下， <b>@panoramaeditor.sidebar.blendsettings.seamfinding@</b>已启用：修补图像和底层图像之间的接缝将穿过它们最相似的区域。这将创建最无缝的结果，但仅使用补丁的一部分。将鼠标指针悬停在窗口上时，接缝线由红线指示。如果原始图像中不需要的部分仍然通过补丁显示，请使用“@patchwindow.mode.cut@”模式使这些部分透明，如上所述。接缝将围绕透明区域布线。 <b>@panoramaeditor.sidebar.blendsettings.seamfinding@</b>可以在底部工具栏中禁用。如果禁用，补丁将作为一个整体覆盖。边缘仍将被混合，但结果可能不那么无缝。<br><br>如果选择<b>@patchwindow.autosave@</b> ，所有编辑都会立即保存到磁盘。否则，请使用“保存”按钮保存修补后的图像。<br><br>如果通过在 @detailviewer@ 窗口中创建补丁来启动 @patchwindow@，则编辑后的补丁映像将自动重新加载，并且项目将在几秒钟后更新。修补全景图后，不应再编辑控制点。运行优化器将修改图像的对齐方式，并且补丁图像将不再反映图像的原始对齐方式。因此，修补应作为拼接过程的最后一步进行。只需转到 @mainwindow.tabs.sourceimages@ 选项卡并从项目中删除补丁映像，即可从头开始。<br><br>无需将修补图像添加到 PTGui 项目中，还可以修饰已拼接的全景图：拼接全景图后，启动一个新项目并将拼接的全景图添加为源图像。然后打开 @detailviewer@ 窗口并从那里启动 @patchwindow@。"
 		},
 		{
 			"id": "mainwindow.preprocesstab",
