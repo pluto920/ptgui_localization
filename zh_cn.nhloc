@@ -112,9 +112,8 @@
 		},
 		{
 			"id": "txt.finderorexplorer",
-			"machinetranslated": true,
 			"format": "html",
-			"txt": "<optional platform='windows'>Windows 资源管理器</optional><optional platform='mac'>发现者</optional><optional platform='linux'>资源管理器</optional>"
+			"txt": "<optional platform='windows'>Windows 资源管理器</optional><optional platform='mac'>访达</optional><optional platform='linux'>文件管理器</optional>"
 		},
 		{
 			"id": "txt.tb",
@@ -223,8 +222,7 @@
 		},
 		{
 			"id": "mainwindow.tabs.projectassistant",
-			"machinetranslated": true,
-			"txt": "工程助理"
+			"txt": "项目助理"
 		},
 		{
 			"id": "mainwindow.tabs.sourceimages",
@@ -437,8 +435,7 @@
 		},
 		{
 			"id": "resetdefault.confirmation",
-			"machinetranslated": true,
-			"txt": "这将删除新项目的已保存默认设置。启动新项目时，PTGui 将使用自己的默认参数。"
+			"txt": "这将删除新项目已保存的默认设置。PTGui 将使用其自身的默认参数。"
 		},
 		{
 			"id": "menubar.file.newinstance",
@@ -1551,8 +1548,7 @@
 		},
 		{
 			"id": "mainwindow.projectassistant.needoptimizemessage",
-			"machinetranslated": true,
-			"txt": "控制点或其他设置已被修改，这可能会影响图像的对齐。\n您应该再次运行优化器，使图像尽可能对齐匹配。"
+			"txt": "控制点或其他设置已修改，这可能影响图像对齐。\n您应再次运行优化器，使图像尽可能对齐。"
 		},
 		{
 			"id": "mainwindow.projectassistant.runoptimizer",
@@ -1571,14 +1567,12 @@
 		},
 		{
 			"id": "mainwindow.projectassistant.misplacedcontrolpoints",
-			"machinetranslated": true,
-			"txt": "该项目可能包含一些错位的控制点。"
+			"txt": "此项目可能包含一些错位的控制点。"
 		},
 		{
 			"id": "mainwindow.projectassistant.seecpassistantfordetails",
-			"machinetranslated": true,
 			"format": "html",
-			"txt": "有关详细信息，请参阅<a href=0>控制点助手</a> 。"
+			"txt": "有关详细信息，请参阅<a href=0>控制点助手</a>。"
 		},
 		{
 			"id": "mainwindow.projectassistant.showpanoramaeditororcreatepanorama",
@@ -1619,9 +1613,8 @@
 		},
 		{
 			"id": "mainwindow.projectassistant.bracketedexposuresmessage",
-			"machinetranslated": true,
 			"format": "html",
-			"txt": "检测到包围曝光： <a href=0>启用 HDR 模式</a>或<a href=1>不</a> <a href=0>启用</a> <a href=1> HDR </a>"
+			"txt": "检测到包围曝光：<a href=0>启用 HDR 模式</a>或<a href=1>不使用 HDR</a>"
 		},
 		{
 			"id": "mainwindow.projectassistant.createpanorama",
@@ -1815,8 +1808,7 @@
 		},
 		{
 			"id": "mainwindow.lensparams.confirmoverwritelensdatabaserecord",
-			"machinetranslated": true,
-			"txt": "是否覆盖现有的镜头数据库项目？这不能被撤消。"
+			"txt": "是否覆盖现有的镜头数据库条目？此操作无法撤消。"
 		},
 		{
 			"id": "mainwindow.lensparams.lensdatabase.newentry",
@@ -1826,7 +1818,7 @@
 		{
 			"id": "mainwindow.lensparams.setsensorsizefromdb",
 			"machinetranslated": true,
-			"txt": "将传感器尺寸设置为 %0 = %1 （来自摄象机数据库）"
+			"txt": "将传感器尺寸设置为 %0 = %1 （来自相机数据库）"
 		},
 		{
 			"id": "mainwindow.lensparams.savetocameradatabase",
@@ -2178,9 +2170,8 @@
 		},
 		{
 			"id": "mainwindow.exposurehdrpanel.warnmissingexposuredata",
-			"machinetranslated": true,
 			"format": "html",
-			"txt": "<red>部分或全部源图像不包含曝光信息。 需要知道所有源图像的曝光时间。</red>您可以在<a href=0>@mainwindow.tabs.imageparameters@</a>选项卡中输入此数据。"
+			"txt": "<red>部分或全部源图像不包含曝光信息。PTGui 需要知道所有源图像的曝光时间。</red>您可以在<a href=0>@mainwindow.tabs.imageparameters@</a>选项卡中输入此数据。"
 		},
 		{
 			"id": "mainwindow.exposurehdrpanel.warnsingleblendplane",
@@ -2189,25 +2180,21 @@
 		},
 		{
 			"id": "mainwindow.exposurehdrpanel.numbracketsinfo",
-			"machinetranslated": true,
-			"txt": "该项目包含 %0 套 %1 包围曝光。"
+			"txt": "此项目包含 %0 套 %1 张包围曝光。"
 		},
 		{
 			"id": "mainwindow.exposurehdrpanel.infolinked",
-			"machinetranslated": true,
 			"format": "html",
-			"txt": "方括号内的曝光是相互关联的；链接的曝光将完全重叠。如果图像不是从三脚架拍摄的，最好<a href=0>取消链接</a>图像。在这种情况下，PTGui 将尝试对齐括号内的曝光。"
+			"txt": "包围曝光的图像相互关联；关联的曝光将精确重叠。如果图像不是从三脚架拍摄的，最好<a href=0>取消链接</a>这些图像。在这种情况下，PTGui 将尝试对齐包围曝光的图像。"
 		},
 		{
 			"id": "mainwindow.exposurehdrpanel.infounlinked",
-			"machinetranslated": true,
 			"format": "html",
-			"txt": "方括号内的曝光没有联系； PTGui 将尝试对齐各个方括号内的曝光。如果图像是从三脚架拍摄的，您可能需要<a href=0>链接包围曝光</a> 。"
+			"txt": "包围曝光的图像没有关联；PTGui 将尝试对齐各包围曝光。如果图像是从三脚架拍摄的，您可能需要<a href=0>链接包围曝光</a>。"
 		},
 		{
 			"id": "mainwindow.exposurehdrpanel.numblendplanesinfo",
-			"machinetranslated": true,
-			"txt": "源图像是在 %0 不同的曝光水平下拍摄的。对于每个曝光级别，PTGui 将创建混合全景图。最后， %0 混合全景图合并为单个 HDR 全景图。"
+			"txt": "源图像是在 %0 个不同的曝光级别下拍摄的。对于每个曝光级别，PTGui 将创建混合平面。最后，%0 个混合平面合并为单个 HDR 全景图。"
 		},
 		{
 			"id": "mainwindow.exposurehdrpanel.warnautoexposure",
@@ -2421,8 +2408,7 @@
 		},
 		{
 			"id": "mainwindow.projectsettings.filenaming.outputfileoverriddentxt",
-			"machinetranslated": true,
-			"txt": "此默认全景文件名当前已被覆盖，请参阅@mainwindow.tabs.createpanorama@选项卡中的输出文件"
+			"txt": "此默认全景文件名当前已被覆盖，请参阅@mainwindow.tabs.createpanorama@选项卡中的“输出文件”设置。"
 		},
 		{
 			"id": "mainwindow.projectsettings.filenaming.relativesourceimagepaths",
@@ -2471,7 +2457,6 @@
 		},
 		{
 			"id": "mainwindow.projectsettings.templatebehavior.cpnotcopiedtxt",
-			"machinetranslated": true,
 			"txt": "（控制点永远不会被复制，因为它们特定于实际的源图像）"
 		},
 		{
@@ -2745,8 +2730,7 @@
 		},
 		{
 			"id": "widthxheight",
-			"machinetranslated": true,
-			"txt": "宽x高："
+			"txt": "宽 × 高："
 		},
 		{
 			"id": "pixelspostfix1",
@@ -2765,9 +2749,8 @@
 		},
 		{
 			"id": "mainwindow.metadata.latlongtxt1",
-			"machinetranslated": true,
 			"format": "html",
-			"txt": "输入以逗号分隔的纬度和经度。例如：40°46'52.92“，-73°57'58.02”<br>转到<a href=\"https://maps.google.com/\">Google地图</a>以查找位置的坐标。"
+			"txt": "输入以逗号分隔的纬度和经度。例如：40°46'52.92\", -73°57'58.02\"<br>转到<a href=\"https://maps.google.com/\">Google 地图</a>查找某个位置的坐标。"
 		},
 		{
 			"id": "mainwindow.metadata.nolatlonginexif",
@@ -3275,9 +3258,8 @@
 		},
 		{
 			"id": "philosphere.heading",
-			"machinetranslated": true,
 			"format": "html",
-			"txt": "菲洛球是将全景图像投影到多面体上，这是一种近似于真实球体的型状。这可能是打印全景图像的最佳方式。由 Philo 发明， <a href=\"http://www.philohome.com/rhombicuboctahedron/rhombicuboctahedron.htm\">访问他的网站了解更多信息。</a><br><br>要创建菲洛球，请单击<b>@philosphere.start@</b>按钮。系统将提示您输入全景图像的位置。这应该是横向等长投影的 360°x 180° 全景。PTGui 将创建两个图像，您可以打印，折叠和粘贴到菲洛球中。"
+			"txt": "菲洛球是将全景图像投影到多面体上，这是一种近似真实球体的形状。这可能是打印全景图像的最佳方式。由 Philo 发明，<a href=\"http://www.philohome.com/rhombicuboctahedron/rhombicuboctahedron.htm\">访问他的网站了解更多信息</a>。<br><br>要创建菲洛球，请单击<b>@philosphere.start@</b>按钮。系统将提示您选择全景图像的位置。这应该是等距柱状投影的 360° × 180° 全景图。PTGui 将创建两个图像，您可以打印、折叠并粘贴成菲洛球。"
 		},
 		{
 			"id": "philosphere.outputsize",
@@ -3356,8 +3338,7 @@
 		},
 		{
 			"id": "photometricsettings.optimizewhitebalance.info.disabled",
-			"machinetranslated": true,
-			"txt": "您的图像是使用固定的白平衡拍摄的。\n白平衡不会被优化。"
+			"txt": "您的图像是使用固定白平衡拍摄的。\n不会优化白平衡。"
 		},
 		{
 			"id": "photometricsettings.optimizeflare",
@@ -3598,23 +3579,19 @@
 		},
 		{
 			"id": "options.mousewheelaction.mac.scrolling",
-			"machinetranslated": true,
-			"txt": "滚动（按住Cmd键进行缩放）"
+			"txt": "滚动（按住 Cmd 键进行缩放）"
 		},
 		{
 			"id": "options.mousewheelaction.mac.zooming",
-			"machinetranslated": true,
-			"txt": "缩放（按住Cmd键进行滚动）"
+			"txt": "缩放（按住 Cmd 键进行滚动）"
 		},
 		{
 			"id": "options.mousewheelaction.nonmac.scrolling",
-			"machinetranslated": true,
-			"txt": "滚动（按住Ctrl键进行缩放）"
+			"txt": "滚动（按住 Ctrl 键进行缩放）"
 		},
 		{
 			"id": "options.mousewheelaction.nonmac.zooming",
-			"machinetranslated": true,
-			"txt": "缩放（按住Ctrl键进行滚动）"
+			"txt": "缩放（按住 Ctrl 键进行滚动）"
 		},
 		{
 			"id": "options.disablemouserepositioning",
@@ -3628,9 +3605,8 @@
 		},
 		{
 			"id": "options.defaultsettings.txt",
-			"machinetranslated": true,
 			"format": "html",
-			"txt": "您是否在寻找更改 PTGui 项目默认设置的方法，例如默认输出文件格式？这可以使用@menubar.file.makedefault@功能进行更改，如下所示：<br><br>- 使用@menubar.file@ | @menubar.file.newproject@开始一个新项目<br>- 对默认设置进行所需的更改<br>- 选择@menubar.file@ | @menubar.file.makedefault@<br><br>要将所有默认设置重置为 PTGui 自己的默认设置，请运行@menubar.file@ | @menubar.file.resetdefault@。"
+			"txt": "您是否在寻找更改 PTGui 项目默认设置的方法，例如默认输出文件格式？这可以使用@menubar.file.makedefault@功能进行更改，方法如下：<br><br>- 使用@menubar.file@ | @menubar.file.newproject@新建项目<br>- 对默认设置进行所需更改<br>- 选择@menubar.file@ | @menubar.file.makedefault@<br><br>要将所有默认设置重置为 PTGui 自身的默认值，请执行@menubar.file@ | @menubar.file.resetdefault@。"
 		},
 		{
 			"id": "options.defaultfolders",
@@ -3854,8 +3830,7 @@
 		},
 		{
 			"id": "options.gpuacceleration.noopenclcompileravailable",
-			"machinetranslated": true,
-			"txt": "没有 openCL 编译器可用于此设备。"
+			"txt": "此设备没有可用的 OpenCL 编译器。"
 		},
 		{
 			"id": "options.gpuacceleration.noimagesupport",
@@ -3869,13 +3844,11 @@
 		},
 		{
 			"id": "options.gpuacceleration.notenoughram",
-			"machinetranslated": true,
-			"txt": "该设备仅具有 %0 MB 的显存。至少需要 %1 MB。"
+			"txt": "此设备仅有 %0 MB 显存。至少需要 %1 MB。"
 		},
 		{
 			"id": "options.gpuacceleration.notenoughlocalmemory",
-			"machinetranslated": true,
-			"txt": "该器件仅具有 %0 kB 的本地保存器。至少需要 %1 kB。"
+			"txt": "此设备仅有 %0 kB 的本地内存。至少需要 %1 kB。"
 		},
 		{
 			"id": "options.gpuacceleration.notagpu",
@@ -3998,8 +3971,7 @@
 		},
 		{
 			"id": "licenseinfo.deactivatewarning",
-			"machinetranslated": true,
-			"txt": "这将在此计算机上停用您的 PTGui 许可证。如果要将 PTGui 移动到其他计算机，或者要在此计算机上使用其他许可证密钥，请运行此操作。\n\n如果你继续，PTGui 将退出，所以请先保存您的工作。"
+			"txt": "这将在当前计算机上停用您的 PTGui 许可证。如果要将 PTGui 移动到其他计算机，或在此计算机上使用其他许可证密钥，请执行此操作。\n\n如果继续，PTGui 将退出，因此请先保存您的工作。"
 		},
 		{
 			"id": "licenseinfo.manageactivations",
@@ -4053,8 +4025,7 @@
 		},
 		{
 			"id": "licenseinfo.failure",
-			"machinetranslated": true,
-			"txt": "无法启用许可证。可能是您的计算机位于防火墙后面，或者 Internet 安全软件阻止访问启用服务器。\n\n如果问题仍然存在，请使用脱机启用：取消此窗口后按@activateoffline@。\n\n错误信息： %0 "
+			"txt": "无法激活许可证。可能是您的计算机位于防火墙后面，或者网络安全软件阻止了激活服务器的访问。\n\n如果问题仍然存在，请使用离线激活：关闭此窗口后按@activateoffline@。\n\n错误信息：%0"
 		},
 		{
 			"id": "licenseinfo.deactivationfailed",
@@ -4068,8 +4039,7 @@
 		},
 		{
 			"id": "licenseinfo.offlineactivation2",
-			"machinetranslated": true,
-			"txt": "启用网页将生成响应代码；请在下面输入："
+			"txt": "激活网页将生成响应代码；请在下面输入："
 		},
 		{
 			"id": "licenseinfo.offlineactivation3",
@@ -4118,14 +4088,12 @@
 		},
 		{
 			"id": "licenseagreement.privacy",
-			"machinetranslated": true,
 			"format": "html",
-			"txt": "您的数据将根据我们的<a href=0>隐私声明处理</a> 。"
+			"txt": "您的数据将根据我们的<a href=0>隐私声明</a>处理。"
 		},
 		{
 			"id": "licenseagreement.savetofile",
-			"machinetranslated": true,
-			"txt": "（保存到文件......）"
+			"txt": "（保存到文件...）"
 		},
 		{
 			"id": "licenseagreement.thanksforusing",
@@ -4189,18 +4157,15 @@
 		},
 		{
 			"id": "txt.licensedto",
-			"machinetranslated": true,
-			"txt": "%0 被授权给 %1 "
+			"txt": "%0 授权给 %1"
 		},
 		{
 			"id": "txt.licensedtohtml",
-			"machinetranslated": true,
 			"format": "html",
-			"txt": "%0 被授权给<b> %1 </b>"
+			"txt": "%0 授权给 <b>%1</b>"
 		},
 		{
 			"id": "txt.newversiondownloadlink",
-			"machinetranslated": true,
 			"txt": "下载链接将在您的 Web 浏览器中打开。单击“确定”并切换到 Web 浏览器以继续升级。"
 		},
 		{
@@ -4694,13 +4659,12 @@
 		},
 		{
 			"id": "sensorsizedialog.alwaysuse",
-			"machinetranslated": true,
-			"txt": "始终将此数据用于 %0 "
+			"txt": "始终将此数据用于 %0"
 		},
 		{
 			"id": "sensorsizedialog.heading1",
 			"machinetranslated": true,
-			"txt": "需要知道摄象机的传感器尺寸，但图像的 EXIF 数据不包含任何信息。"
+			"txt": "需要知道相机的传感器尺寸，但图像的 EXIF 数据不包含任何信息。"
 		},
 		{
 			"id": "sensorsizedialog.heading2",
@@ -4714,9 +4678,8 @@
 		},
 		{
 			"id": "sensorsizedialog.txtsubmitexif",
-			"machinetranslated": true,
 			"format": "html",
-			"txt": "请<a href=0>提交您的相机数据，</a>以帮助我们改进 PTGui，以便我们在即将推出的版本中为您的相机提供支持。"
+			"txt": "请<a href=0>提交您的相机数据</a>，以帮助我们改进 PTGui，以便在即将推出的版本中支持您的相机。"
 		},
 		{
 			"id": "cptablewindow.images",
@@ -4879,8 +4842,7 @@
 		},
 		{
 			"id": "cpassistant.missingcontrolpointsbottomtxt",
-			"machinetranslated": true,
-			"txt": "虽然没有必要为每对重叠图像设置控制点（只要图像通过其他图像之间的控制点间接链接），它可以改善优化结果。"
+			"txt": "虽然不必为每对重叠图像设置控制点（只要图像通过其他图像之间的控制点间接链接即可），但这样做可以改善优化结果。"
 		},
 		{
 			"id": "cpassistant.multiplepairstoofewcontrolpointstxt",
@@ -4951,18 +4913,15 @@
 		},
 		{
 			"id": "fileformatsettings.alpha.separate",
-			"machinetranslated": true,
-			"txt": "含Alpha（独立通道）"
+			"txt": "含 Alpha（独立通道）"
 		},
 		{
 			"id": "fileformatsettings.alpha.none",
-			"machinetranslated": true,
-			"txt": "没有 alpha 通道"
+			"txt": "无 Alpha 通道"
 		},
 		{
 			"id": "fileformatsettings.alpha.with",
-			"machinetranslated": true,
-			"txt": "使用 alpha 通道"
+			"txt": "含 Alpha 通道"
 		},
 		{
 			"id": "fileformatsettings.layers",
@@ -5071,8 +5030,7 @@
 		},
 		{
 			"id": "focallengthdialog.alwaysusefor",
-			"machinetranslated": true,
-			"txt": "始终将此数据用于 %0 "
+			"txt": "始终将此数据用于 %0"
 		},
 		{
 			"id": "lensdatabase.xony",
@@ -5106,23 +5064,19 @@
 		},
 		{
 			"id": "lensdatabase.confirmdeletesingleitem",
-			"machinetranslated": true,
-			"txt": "删除所选项目？这不能被撤消。"
+			"txt": "删除所选条目？此操作无法撤消。"
 		},
 		{
 			"id": "lensdatabase.confirmdeletemultipleitems",
-			"machinetranslated": true,
-			"txt": "删除所选的 %0 项目？这不能被撤消。"
+			"txt": "删除所选的 %0 个条目？此操作无法撤消。"
 		},
 		{
 			"id": "lensdatabase.confirmdeletesingleassociation",
-			"machinetranslated": true,
-			"txt": "删除所选的关联？这不能被撤消。"
+			"txt": "删除所选关联？此操作无法撤消。"
 		},
 		{
 			"id": "lensdatabase.confirmdeletemultipleassociations",
-			"machinetranslated": true,
-			"txt": "删除所选的 %0 关联？这不能被撤消。"
+			"txt": "删除所选的 %0 个关联？此操作无法撤消。"
 		},
 		{
 			"id": "lensdatabase.croppingcircle",
@@ -5260,8 +5214,7 @@
 		},
 		{
 			"id": "err.notjson",
-			"machinetranslated": true,
-			"txt": "预期中的 JSON 数据"
+			"txt": "需要 JSON 数据"
 		},
 		{
 			"id": "err.invalidfileformat",
@@ -5285,13 +5238,11 @@
 		},
 		{
 			"id": "warn.compat.newerandpro",
-			"machinetranslated": true,
-			"txt": "该项目是使用较新版本的 PTGui 创建的。此外，它是使用专业版本的 PTGui 创建的，而您正在运行标准版本的 PTGui。"
+			"txt": "此项目是使用较新版本的 PTGui 创建的。此外，它是使用 PTGui Pro 版创建的，而您正在运行标准版。"
 		},
 		{
 			"id": "warn.compat.newer",
-			"machinetranslated": true,
-			"txt": "该项目是使用较新版本的 PTGui 创建的。"
+			"txt": "此项目是使用较新版本的 PTGui 创建的。"
 		},
 		{
 			"id": "warn.compat.needspro",
@@ -5310,8 +5261,7 @@
 		},
 		{
 			"id": "err.psd30000",
-			"machinetranslated": true,
-			"txt": "Photoshop（.psd）文件的宽度不能超过 30000 像素。请改为保存为其他文件格式。"
+			"txt": "Photoshop（.psd）文件的宽或高不能超过 30000 像素。请保存为其他文件格式。"
 		},
 		{
 			"id": "err.outputfoldernotexist",
@@ -5325,8 +5275,7 @@
 		},
 		{
 			"id": "err.jpg65500",
-			"machinetranslated": true,
-			"txt": "PTGui 不支持保存比 65500 像素更宽或更高的 JPEG 文件。请改为保存为其他文件格式。"
+			"txt": "PTGui 不支持保存宽度或高度超过 65500 像素的 JPEG 文件。请保存为其他文件格式。"
 		},
 		{
 			"id": "err.nooutputcomponents",
@@ -5335,8 +5284,7 @@
 		},
 		{
 			"id": "warn.cpsmodified",
-			"machinetranslated": true,
-			"txt": "控制点已被修改，但项目尚未优化。您现在应该按@cancel@并在继续之前先运行优化器。优化过程使图像对齐，使得控制点尽可能地匹配。"
+			"txt": "控制点已修改，但项目尚未优化。您可能应在继续之前按@cancel@并先运行优化器。优化器会对齐图像，使控制点尽可能匹配。"
 		},
 		{
 			"id": "warn.badhdrinterpolator",
@@ -5487,8 +5435,7 @@
 		},
 		{
 			"id": "hdrradiance.err.unsupported.encoding",
-			"machinetranslated": true,
-			"txt": "不支持的 HDR 曝光文件。仅支持 32 位_rle_rgbe编码的文件。"
+			"txt": "不支持的 HDR Radiance 文件。仅支持 32 位 rle_rgbe 编码的文件。"
 		},
 		{
 			"id": "papywizard.err.noxml",
@@ -5752,7 +5699,6 @@
 		},
 		{
 			"id": "err.openingbatchlistandotherfiles",
-			"machinetranslated": true,
 			"txt": "如果要在 PTGui 中打开批处理列表，则无法同时打开任何其他文件。"
 		},
 		{
@@ -5832,8 +5778,7 @@
 		},
 		{
 			"id": "warn.simplemodewillchangesettings",
-			"machinetranslated": true,
-			"txt": "此项目的某些高级设置已被修改。切换回简单模式会将所有高级设置重置为默认值。你想继续吗？"
+			"txt": "此项目的某些高级设置已修改。切换回简单模式会将所有高级设置重置为默认值。是否继续？"
 		},
 		{
 			"id": "warn.tempcopytobatchstitcherwillnotsavegeneratecps",
@@ -5876,8 +5821,7 @@
 		},
 		{
 			"id": "warn.overwriteptgui10",
-			"machinetranslated": true,
-			"txt": "该项目最初是在早期版本的 PTGui 中创建的。PTGui 11 及更高版本使用不同的文件格式；如果您保存项目，则无法再在 PTGui 10 或更早版本中打开它。\n\n是否要覆盖原始项目文件，或者是否要以其他名称保存成副本？"
+			"txt": "此项目最初是在早期版本的 PTGui 中创建的。PTGui 11 及更高版本使用不同的文件格式；如果您保存项目，则无法再在 PTGui 10 或更早版本中打开它。\n\n是否要覆盖原始项目文件，或者是否要以其他名称保存副本？"
 		},
 		{
 			"id": "err.dragdropmess",
@@ -5926,8 +5870,7 @@
 		},
 		{
 			"id": "warn.imageshavebeenunlinked",
-			"machinetranslated": true,
-			"txt": "该项目包含链接的图像，但只能链接相同大小的图像。一些图像必须取消链接，因为替换图像具有不同的大小。"
+			"txt": "此项目包含链接的图像，但只有尺寸相同的图像才能链接。某些图像必须取消链接，因为替换图像具有不同的大小。"
 		},
 		{
 			"id": "warn.somereplacementimagesnotfound",
@@ -5940,8 +5883,7 @@
 		},
 		{
 			"id": "err.nothingtooptimize",
-			"machinetranslated": true,
-			"txt": "该项目没有任何（主动）控制点，因此无需优化。"
+			"txt": "此项目没有任何（活动的）控制点，因此无需优化。"
 		},
 		{
 			"id": "txt.optimizing",
@@ -5955,13 +5897,11 @@
 		},
 		{
 			"id": "txt.confirmlinkhdrsets",
-			"machinetranslated": true,
-			"txt": "该项目似乎包含 %0 %1 套装曝光。您想要将包围曝光的位置链接起来，并将每个集合视为单个图像吗？\n\n这要求包围曝光已经与像素精度对齐。只有在使用三脚架时才这样做。如果不使用三脚架拍摄图像，请选择@cancel@。"
+			"txt": "此项目似乎包含 %0 套 %1 张包围曝光。您是否要将包围曝光的位置链接起来，并将每组视为一张图像？\n\n这要求包围曝光的图像已按像素精度对齐。仅在使用三脚架拍摄时才应执行此操作。如果未使用三脚架拍摄图像，请选择@cancel@。"
 		},
 		{
 			"id": "txt.confirmlinkhdrsetsshort",
-			"machinetranslated": true,
-			"txt": "该项目似乎包含 %0 套 %1 包围曝光。你想干什么？"
+			"txt": "此项目似乎包含 %0 套 %1 张包围曝光。您想怎么做？"
 		},
 		{
 			"id": "err.nobracketedfound",
@@ -5980,8 +5920,7 @@
 		},
 		{
 			"id": "txt.confirmoverwrite.many",
-			"machinetranslated": true,
-			"txt": "%0 文件将被覆盖。你确定？"
+			"txt": "将覆盖 %0 个文件。确定吗？"
 		},
 		{
 			"id": "err.pastemask.nomaskonclipboard",
@@ -5989,13 +5928,11 @@
 		},
 		{
 			"id": "err.removeworstcps.nocps",
-			"machinetranslated": true,
-			"txt": "该项目还没有任何控制点，因此无所事事。"
+			"txt": "此项目还没有任何控制点，因此无需操作。"
 		},
 		{
 			"id": "err.removeworstcps.didnothing",
-			"machinetranslated": true,
-			"txt": "没有控制点被删除。\n\n@menubar.controlpoints.deleteworst@仅删除那些具有比同一对图像中的其他控制点高得多的错误的控制点。如果许多控制点具有高错误（通常由视差引起），则不会删除任何控制点。\n\n此外，PTGui 将确保每对图像至少保留4个控制点。"
+			"txt": "未删除任何控制点。\n\n@menubar.controlpoints.deleteworst@仅删除错误远高于同一对图像中其他控制点的控制点。如果许多控制点具有高错误（通常由视差引起），则可能不会删除任何控制点。"
 		},
 		{
 			"id": "err.removeworstcps.deletingoneworstcontrolpoint",
@@ -6004,8 +5941,7 @@
 		},
 		{
 			"id": "err.removeworstcps.deletingsomeworstcontrolpoint",
-			"machinetranslated": true,
-			"txt": "最差的 %0 控制点（%1 总控制点）将被删除。您想继续并重新优化项目吗？"
+			"txt": "将删除最差的 %0 个控制点（共 %1 个）。是否继续并重新优化项目？"
 		},
 		{
 			"id": "papywizardimport.noimages",
@@ -6049,8 +5985,7 @@
 		},
 		{
 			"id": "err.psd4gb",
-			"machinetranslated": true,
-			"txt": "Photoshop（.psd）文件的大小最多可达 4 GB。生成的 Photoshop 文件的估计大小大于此最大值，从而生成不可读的文件。请切换到其他文件格式（例如 Photoshop Large Document，.psb ）。"
+			"txt": "Photoshop（.psd）文件的大小最多可达 4 GB。生成的 Photoshop 文件的估计大小超过此上限，将产生不可读的文件。请切换到其他文件格式（例如 Photoshop 大型文档格式（.psb））。"
 		},
 		{
 			"id": "err.fovtoolargeforprojection",
@@ -6078,13 +6013,11 @@
 		},
 		{
 			"id": "fileformatsettings.unassociatedalpha",
-			"machinetranslated": true,
-			"txt": "含Alpha（作为透明度）"
+			"txt": "含 Alpha（作为透明度）"
 		},
 		{
 			"id": "fileformatsettings.separatealpha",
-			"machinetranslated": true,
-			"txt": "单独的 alpha"
+			"txt": "独立 Alpha"
 		},
 		{
 			"id": "fileformatsettings.withalpha",
@@ -6178,8 +6111,7 @@
 		},
 		{
 			"id": "publishtowebsite.confirmoverwrite",
-			"machinetranslated": true,
-			"txt": "一个或多个目标文件已存在并将被覆盖。你确定？"
+			"txt": "一个或多个目标文件已存在，将被覆盖。确定吗？"
 		},
 		{
 			"id": "publishtowebsite.filename",
@@ -6333,8 +6265,7 @@
 		},
 		{
 			"id": "cubicconverter.convertto.qtvr",
-			"machinetranslated": true,
-			"txt": "QuickTime VR（遗留）"
+			"txt": "QuickTime VR（旧版）"
 		},
 		{
 			"id": "cubicconverter.convertto.cubefacestrip",
@@ -6368,8 +6299,7 @@
 		},
 		{
 			"id": "cubicconverter.multiplefilesalreadyexist",
-			"machinetranslated": true,
-			"txt": "%0 文件将被覆盖。继续？"
+			"txt": "将覆盖 %0 个文件。继续？"
 		},
 		{
 			"id": "cameradatabase.camera",
@@ -6384,17 +6314,15 @@
 		{
 			"id": "cameradatabase.toadd",
 			"machinetranslated": true,
-			"txt": "要将摄象机添加到此列表，请加载图像并转到@mainwindow.tabs.lenssettings@选项卡（PTGui 应处于高级模式）。在那里，选择@cameradatabase@ - @mainwindow.lensparams.savetocameradatabase@。"
+			"txt": "要将相机添加到此列表，请加载图像并转到@mainwindow.tabs.lenssettings@选项卡（PTGui 应处于高级模式）。在那里，选择@cameradatabase@ - @mainwindow.lensparams.savetocameradatabase@。"
 		},
 		{
 			"id": "cameradatabase.confirmdelete1",
-			"machinetranslated": true,
-			"txt": "删除所选项目？这不能被撤消。"
+			"txt": "删除所选条目？此操作无法撤消。"
 		},
 		{
 			"id": "cameradatabase.confirmdeletemultiple",
-			"machinetranslated": true,
-			"txt": "删除所选的 %0 项目？这不能被撤消。"
+			"txt": "删除所选的 %0 个条目？此操作无法撤消。"
 		},
 		{
 			"id": "qtvrsettings.cubefacesizetxt",
@@ -6618,9 +6546,8 @@
 		},
 		{
 			"id": "gridsetup.viewresult",
-			"machinetranslated": true,
 			"format": "html",
-			"txt": "在<a href=0>全景编辑窗口中</a>查看结果"
+			"txt": "在<a href=0>全景编辑器</a>中查看结果"
 		},
 		{
 			"id": "gridsetup.warn1image",
@@ -6758,9 +6685,8 @@
 		},
 		{
 			"id": "activationdialog.txt3",
-			"machinetranslated": true,
 			"format": "html",
-			"txt": "如果您丢失了注册码， <a href=0>请单击此处以获取您的密钥。</a>"
+			"txt": "如果您丢失了注册码，<a href=0>请单击此处以获取您的密钥。</a>"
 		},
 		{
 			"id": "activationdialog.txt4",
@@ -6819,8 +6745,7 @@
 		},
 		{
 			"id": "ptguiviewer.nocompatibleglsl",
-			"machinetranslated": true,
-			"txt": "未找到兼容的 GLSL 版本。\n\n支持的版本：[ %0 ]\nOpenGL 上下文版本： %1 "
+			"txt": "未找到兼容的 GLSL 版本。\n\n支持的版本：[%0]\nOpenGL 上下文版本：%1"
 		},
 		{
 			"id": "batchstitcher.menubar.closebatchstitcherwhenfinished",
@@ -6864,8 +6789,7 @@
 		},
 		{
 			"id": "err.outputfileidenticaltosourcefile",
-			"machinetranslated": true,
-			"txt": "输出文件名与其中一个源图像相同；创建全景图将覆盖其中一个源图像。请选择其他输出文件。"
+			"txt": "输出文件名与某个源图像相同；创建全景图将覆盖该源图像。请选择其他输出文件。"
 		},
 		{
 			"id": "err.stitcher.imagehasunexpectedsize",
@@ -6879,8 +6803,7 @@
 		},
 		{
 			"id": "warn.alignimagesmissingcontrolpoints",
-			"machinetranslated": true,
-			"txt": "PTGui 已分析您的图像，但无法匹配所有图像。要对齐所有图像，您需要手动添加几个控制点。这些控制点告诉指示哪些图像应该重叠。\n\n控制点助手提供有关哪些图像需要其他控制点的详细信息。\n\n你想现在添加控制点吗？"
+			"txt": "PTGui 已分析您的图像，但无法匹配所有图像。要对齐所有图像，您需要手动添加几个控制点。这些控制点指示哪些图像应该重叠。\n\n控制点助手提供有关哪些图像需要更多控制点的详细信息。\n\n您现在要添加控制点吗？"
 		},
 		{
 			"id": "trialversion.txt",
@@ -7009,8 +6932,7 @@
 		},
 		{
 			"id": "options.rawdecoder.libraw",
-			"machinetranslated": true,
-			"txt": "LibRaw 解码（推荐）"
+			"txt": "LibRaw（推荐）"
 		},
 		{
 			"id": "options.rawdecoder.dcraw",
@@ -7108,8 +7030,7 @@
 		},
 		{
 			"id": "photometricsettings.optimizeexposure.info.disabled",
-			"machinetranslated": true,
-			"txt": "图像的曝光时间是已知的。\n亮度不会被优化。"
+			"txt": "图像的曝光时间是已知的。\n不会优化亮度。"
 		},
 		{
 			"id": "mainwindow.createpanoramatab.outputcolorprofile",
@@ -7128,13 +7049,11 @@
 		},
 		{
 			"id": "txt.openiccprofile",
-			"machinetranslated": true,
-			"txt": "加载ICC颜色配置文件"
+			"txt": "加载 ICC 颜色配置文件"
 		},
 		{
 			"id": "err.iccprofilenotrgb",
-			"machinetranslated": true,
-			"txt": "不是RGB颜色配置文件。需要RGB颜色配置文件，例如不支持CMYK配置文件。"
+			"txt": "不是 RGB 颜色配置文件。需要 RGB 颜色配置文件，例如不支持 CMYK 配置文件。"
 		},
 		{
 			"id": "mainwindow.exposurehdrpanel.hdrflow",
@@ -7143,13 +7062,11 @@
 		},
 		{
 			"id": "mainwindow.exposurehdrpanel.hdrflow.mergethenblend",
-			"machinetranslated": true,
-			"txt": "将包围曝光的图像合并到HDR，然后进行融合"
+			"txt": "将包围曝光的图像合并为 HDR，然后融合"
 		},
 		{
 			"id": "mainwindow.exposurehdrpanel.hdrflow.blendthenmerge",
-			"machinetranslated": true,
-			"txt": "首先创建混合平面，然后合并到HDR"
+			"txt": "先创建混合平面，然后合并到 HDR"
 		},
 		{
 			"id": "mainwindow.exposurehdrpanel.mergemethod_short",
@@ -7188,8 +7105,7 @@
 		},
 		{
 			"id": "err.deletecameracurve_inuse",
-			"machinetranslated": true,
-			"txt": "无法删除此相机曲线，因为它被一个或多个图像使用。可以在@mainwindow.tabs.imageparameters@选项卡中选择每个图像的相机曲线。"
+			"txt": "无法删除此相机曲线，因为一个或多个图像正在使用它。可以在@mainwindow.tabs.imageparameters@选项卡中为每个图像选择相机曲线。"
 		},
 		{
 			"id": "panoramaeditor.sidebar.postprocess",
@@ -7278,8 +7194,7 @@
 		},
 		{
 			"id": "txt.startupwithshift",
-			"machinetranslated": true,
-			"txt": "您正在按Shift键。您是否要为此会话禁用GPU加速？\n\n按否继续正常进行。"
+			"txt": "您正在按 Shift 键。是否要为本次会话禁用 GPU 加速？\n\n按“否”则正常继续。"
 		},
 		{
 			"id": "panoramaeditor.sidebar.blendsettings.seamfindingprecision",
@@ -7363,13 +7278,11 @@
 		},
 		{
 			"id": "activationdialog.txt2_mac_v2",
-			"machinetranslated": true,
-			"txt": "在电子邮件应用程序中选择密钥，然后按Cmd + C进行复制。然后单击上方的文本字段，然后按Cmd + V粘贴代码。"
+			"txt": "在电子邮件应用程序中选择密钥，然后按 Cmd+C 复制。单击上方的文本字段，然后按 Cmd+V 粘贴代码。"
 		},
 		{
 			"id": "activationdialog.txt2_nonmac_v2",
-			"machinetranslated": true,
-			"txt": "在电子邮件应用程序中选择密钥，然后按Ctrl + C进行复制。然后单击上方的文本字段，然后按Ctrl + V粘贴代码。"
+			"txt": "在电子邮件应用程序中选择密钥，然后按 Ctrl+C 复制。单击上方的文本字段，然后按 Ctrl+V 粘贴代码。"
 		},
 		{
 			"id": "activationdialog.txt3_v2",
@@ -7389,9 +7302,8 @@
 		},
 		{
 			"id": "mainwindow.imageparamstab.helptext2",
-			"machinetranslated": true,
 			"format": "html",
-			"txt": "<b>@mainwindow.imageparameters.blendpriority@：（</b>仅适用于PTGui Pro）：如果禁用了@panoramaeditor.sidebar.blendsettings.seamfinding@（在@panoramaeditor@的@mainwindow.createpanoramatab.blending@面板中），则接缝通常会放置在两个图像之间的重叠中间。可以通过增加或减少源图像的@mainwindow.imageparameters.blendpriority@进行调整。这是一个相对值：如果两个图像的混合优先级分别为150和100，则将使用第一张图像的较大部分。如果启用了@panoramaeditor.sidebar.blendsettings.seamfinding@，则将忽略此值。<br><br><b>@mainwindow.imageparameters.cameracurve@：</b>一个项目可能包含多个相机响应曲线；此字段配置要用于每个源图像的摄像机响应曲线。摄像机响应曲线在@mainwindow.tabs.exposurehdr@选项卡中配置。如果项目仅包含一条相机响应曲线，则将其命名为“ @txt.globalcameracurve@”。如果选择<b>@txt.cameracurve.linear@</b> ，则假定图像包含线性数据，并且不会应用曲线。有关更多信息，请参见@mainwindow.tabs.exposurehdr@选项卡中的工具提示。<br><br>@mainwindow.imageparamstab.helptextwhitepoint@<br><br><b>@mainwindow.imageparameters.linked@：（</b>仅适用于PTGui Pro）：从包围的源图像拼接HDR全景图时，此复选框配置包围的图像是否具有相同的@yaw@，@pitch@，@roll@和@viewpoint@参数。如果括号中的图像不是从三脚架上拍摄的，则应取消选中此框，并且它们应具有独立的@yaw@，@pitch@，@roll@和@viewpoint@参数。需要提供控制点以对齐包围曝光的图像。"
+			"txt": "<b>@mainwindow.imageparameters.blendpriority@：</b>（仅适用于 PTGui Pro）：如果禁用了@panoramaeditor.sidebar.blendsettings.seamfinding@（位于@panoramaeditor@的@mainwindow.createpanoramatab.blending@面板中），接缝通常会放置在两张图像重叠区域的中间。可通过增大或减小源图像的@mainwindow.imageparameters.blendpriority@来调整。这是一个相对值：如果两张图像的混合优先级分别为 150 和 100，则将更多使用第一张图像。如果启用了@panoramaeditor.sidebar.blendsettings.seamfinding@，则忽略此值。<br><br><b>@mainwindow.imageparameters.cameracurve@：</b>一个项目可能包含多条相机响应曲线；此字段配置每个源图像使用的相机响应曲线。相机响应曲线在@mainwindow.tabs.exposurehdr@选项卡中配置。如果项目只包含一条相机响应曲线，则其名称将为“@txt.globalcameracurve@”。如果选择<b>@txt.cameracurve.linear@</b>，则假定图像包含线性数据，不应用任何曲线。有关更多信息，请参见@mainwindow.tabs.exposurehdr@选项卡中的工具提示。<br><br>@mainwindow.imageparamstab.helptextwhitepoint@<br><br><b>@mainwindow.imageparameters.linked@：</b>（仅适用于 PTGui Pro）：从包围曝光源图像拼接 HDR 全景图时，此复选框配置包围曝光的图像是否具有相同的@yaw@、@pitch@、@roll@和@viewpoint@参数。如果包围曝光的图像不是从三脚架拍摄的，请取消选中此框，使它们具有独立的@yaw@、@pitch@、@roll@和@viewpoint@参数。需要提供控制点来对齐包围曝光的图像。"
 		},
 		{
 			"id": "proxysettings.button",
@@ -7405,8 +7317,7 @@
 		},
 		{
 			"id": "proxysettings.header",
-			"machinetranslated": true,
-			"txt": "如果此计算机通过代理服务器连接到Internet，请在此处输入详细信息："
+			"txt": "如果此计算机通过代理服务器连接网络，请在此处输入详细信息："
 		},
 		{
 			"id": "proxysettings.proxyserverurl",
@@ -7529,13 +7440,11 @@
 		},
 		{
 			"id": "panoramaeditor.sidebar.exposurefusionsettings.algorithm.ptgui12",
-			"machinetranslated": true,
-			"txt": "PTGUI 12"
+			"txt": "PTGui 12"
 		},
 		{
 			"id": "err.lcms.couldntlinkprofiles",
-			"machinetranslated": true,
-			"txt": "无法使用所选的输出颜色配置文件，很可能是因为它是仅源配置文件。\n\n请转至 @mainwindow.createpanoramatab.createpanorama@ 选项卡并选择不同的输出色彩空间。建议选择宽色域配置文件（例如 ProPhoto RGB），这样图像质量不会受到影响。"
+			"txt": "无法使用所选的输出颜色配置文件，很可能是因为它是仅源配置文件。\n\n请转到@mainwindow.createpanoramatab.createpanorama@选项卡并选择不同的输出色彩空间。建议选择宽色域配置文件，例如 ProPhoto。"
 		},
 		{
 			"id": "detailviewer.sidebar.view.yaw",
@@ -7612,8 +7521,7 @@
 		},
 		{
 			"id": "patchwindow.asksave",
-			"machinetranslated": true,
-			"txt": "该图像已被修改。您想保存它吗？"
+			"txt": "图像已修改。是否保存？"
 		},
 		{
 			"id": "patchwindow.err.saveunsupportedfiletype",
@@ -7622,8 +7530,7 @@
 		},
 		{
 			"id": "patchwindow.err.multiplefilesdropped",
-			"machinetranslated": true,
-			"txt": "多个文件被删除。一次只能打开一个文件。"
+			"txt": "拖入了多个文件。一次只能打开一个文件。"
 		},
 		{
 			"id": "patchwindow.deletepoint",
@@ -7719,13 +7626,11 @@
 		},
 		{
 			"id": "err.controlpoints.deletenonadjacent.deletingonecontrolpoint",
-			"machinetranslated": true,
-			"txt": "将删除一个控制点（%0 总控制点）。您想继续并重新优化该项目吗？"
+			"txt": "将删除一个控制点（共 %0 个）。是否继续并重新优化项目？"
 		},
 		{
 			"id": "err.controlpoints.deletenonadjacent.deletingsomecontrolpoint",
-			"machinetranslated": true,
-			"txt": " %0 控制点（%1 总控制点）将被删除。您想继续并重新优化该项目吗？"
+			"txt": "将删除 %0 个控制点（共 %1 个）。是否继续并重新优化项目？"
 		},
 		{
 			"id": "mainwindow.createpanoramatab.enableblendplanes",
@@ -7754,8 +7659,7 @@
 		},
 		{
 			"id": "trialversion.whatsthedifference",
-			"machinetranslated": true,
-			"txt": "标准版和PTGui Pro有什么区别？"
+			"txt": "标准版和 PTGui Pro 有什么区别？"
 		},
 		{
 			"id": "options.spacing",
@@ -7839,19 +7743,16 @@
 		},
 		{
 			"id": "mainwindow.preprocesstab.hasalpha",
-			"machinetranslated": true,
-			"txt": "此原始图像 (%0) 无法进行预处理，因为它具有 Alpha 通道。"
+			"txt": "此原始图像 (%0) 无法预处理，因为它具有 Alpha 通道。"
 		},
 		{
 			"id": "mainwindow.preprocesstab.isfloat",
-			"machinetranslated": true,
-			"txt": "此原始图像 (%0) 无法进行预处理，因为它包含浮点数据。"
+			"txt": "此原始图像 (%0) 无法预处理，因为它包含浮点数据。"
 		},
 		{
 			"id": "mainwindow.preprocesstab.bottomhtml",
-			"machinetranslated": true,
 			"format": "html",
-			"txt": "更多调整可在<a href=0>@panoramaeditor@ 的 @panoramaeditor.sidebar.postprocess@</a>面板中进行。"
+			"txt": "更多调整可在@panoramaeditor@的<a href=0>@panoramaeditor.sidebar.postprocess@</a>面板中进行。"
 		},
 		{
 			"id": "menubar.view.gototab",
@@ -7890,8 +7791,7 @@
 		},
 		{
 			"id": "mainwindow.imageparamstab.helptextwhitepoint",
-			"machinetranslated": true,
-			"txt": "<b>@mainwindow.imageparameters.whitepoint.temperature@、@mainwindow.imageparameters.whitepoint.tint@：</b>配置每个源图像的原始白平衡。如果为全景图选择了不同的白平衡（在 @panoramaeditor@ 的 @panoramaeditor.sidebar.postprocess@ 面板中），或者如果具有不同白平衡的图像混合在全景图中，PTGui 将转换为目标白平衡。为此，需要知道源图像的原始白平衡。 <b>@mainwindow.imageparameters.whitepoint.temperature@</b> 是开尔文色温，用于调整蓝琥珀色平衡。白炽灯的常见值为 3000K，日出或日落时为 3500K，日光为 5000K，阴天为 6500K。 <b>@mainwindow.imageparameters.whitepoint.tint@</b> 调整绿色-洋红色平衡。对于源图像，通常可以将其设置为中性值 0。",
+			"txt": "<b>@mainwindow.imageparameters.whitepoint.temperature@、@mainwindow.imageparameters.whitepoint.tint@：</b>配置每个源图像的原始白平衡。如果为全景图选择了不同的白平衡（在@panoramaeditor@的@panoramaeditor.sidebar.postprocess@面板中），或者在全景图中混合了不同白平衡的图像，PTGui 将转换为目标白平衡。为此，它需要知道源图像的原始白平衡。<b>@mainwindow.imageparameters.whitepoint.temperature@</b>是以开尔文为单位的色温，用于调整蓝-琥珀平衡。常见值：白炽灯 3000K，日出或日落 3500K，日光 5000K，阴天 6500K。<b>@mainwindow.imageparameters.whitepoint.tint@</b>用于调整绿-品红平衡。对于源图像，通常可设置为中性值 0。",
 			"format": "html"
 		},
 		{
@@ -7926,8 +7826,7 @@
 		},
 		{
 			"id": "err.ptgui10projectastemplate",
-			"machinetranslated": true,
-			"txt": "该模板是 PTGui 10 项目文件。虽然 PTGui 仍然可以加载 PTGui 10 项目文件，但它们不能用作模板。请打开模板并将其保存为当前的 PTGui 格式。"
+			"txt": "此模板是 PTGui 10 项目文件。虽然 PTGui 仍可加载 PTGui 10 项目文件，但它们不能用作模板。请打开模板并将其保存为当前的 PTGui 格式。"
 		},
 		{
 			"id": "batchbuilder.generatingproject",
@@ -7971,9 +7870,8 @@
 		},
 		{
 			"id": "panoramaeditor.sidebar.hdrpostprocess.exposurereference.absolute.helptext",
-			"machinetranslated": true,
 			"format": "html",
-			"txt": "设置绝对曝光值。这被定义为在 f/1.0 和 ISO 100 下 1 秒曝光的 EV 偏移。此（假想）曝光中的白色将对应于 HDR 全景图中的 1.0。将值减少 1 将使亮度加倍。换句话说：EV = log2(光圈^2 / (曝光时间 * ISO / 100))。<br><br>为了对全景图使用绝对曝光，必须知道所有源图像的曝光。每个源图像的曝光时间、光圈和 ISO 可以在 @mainwindow.tabs.imageparameters@ 选项卡中设置。如果一张或多张图像的 ISO 未知，则所有图像均假定 ISO 100。同样，如果没有为任何源图像指定此参数，则所有图像均假定光圈为 f/1.0，曝光时间为 1 秒。"
+			"txt": "设置绝对曝光值，定义为 f/1.0、ISO 100 下 1 秒曝光的 EV 偏移。此（假想）曝光中的白色将对应 HDR 全景图中的 1.0。将值减小 1 将使亮度加倍。换句话说：EV = log2(光圈^2 / (曝光时间 × ISO / 100))。<br><br>要为全景图使用绝对曝光，必须知道所有源图像的曝光。每个源图像的曝光时间、光圈和 ISO 可以在@mainwindow.tabs.imageparameters@选项卡中设置。如果一个或多个图像的 ISO 未知，则所有图像都将假定为 ISO 100。同样，如果任何源图像未指定光圈或曝光时间，则所有图像都将假定为 f/1.0 和 1 秒。"
 		},
 		{
 			"id": "panoramaeditor.toolbar.dropper",
@@ -8050,23 +7948,19 @@
 		},
 		{
 			"id": "linkbracketcustomdialog.err.toofewimages",
-			"machinetranslated": true,
-			"txt": "该项目仅包含 %0 图像。"
+			"txt": "此项目仅包含 %0 张图像。"
 		},
 		{
 			"id": "linkbracketcustomdialog.err.notamultiple",
-			"machinetranslated": true,
-			"txt": "该项目包含 %0 图像，该图像不是 %1 的倍数。"
+			"txt": "此项目包含 %0 张图像，该数量不是 %1 的倍数。"
 		},
 		{
 			"id": "linkbracketcustomdialog.txt.onesetofbrackets",
-			"machinetranslated": true,
-			"txt": "该项目将有一组 %0 图像。"
+			"txt": "此项目将有一组 %0 图像。"
 		},
 		{
 			"id": "linkbracketcustomdialog.txt.multiplesetsofbrackets",
-			"machinetranslated": true,
-			"txt": "该项目将具有 %0 组 %1 图像。"
+			"txt": "此项目将有 %0 组 %1 图像。"
 		},
 		{
 			"id": "licenseinfo.upgradedtopro",
@@ -8100,8 +7994,7 @@
 		},
 		{
 			"id": "txt.warnoptimizepatchimages",
-			"machinetranslated": true,
-			"txt": "该项目包含补丁图像。优化项目会移动图像，导致补丁错位。你确定吗？"
+			"txt": "此项目包含补丁图像。优化项目会移动图像，导致补丁错位。确定吗？"
 		},
 		{
 			"id": "panoramaeditor.sidebar.warnifforcedhdrpreview",
@@ -8241,8 +8134,7 @@
 		},
 		{
 			"id": "batchstitcher.menubar.savebatchlist",
-			"machinetranslated": true,
-			"helptext": "将当前项目列表保存到批处理列表中。"
+			"helptext": "将当前项目列表保存为批处理列表。"
 		},
 		{
 			"id": "mainwindow.maskmenu.fill",
@@ -8295,13 +8187,11 @@
 		},
 		{
 			"id": "menubar.images.includeonlyselected",
-			"machinetranslated": true,
-			"helptext": "在全景图中包含所选图像并排除所有其他图像。"
+			"helptext": "在全景图中仅包含所选图像，排除其他所有图像。"
 		},
 		{
 			"id": "menubar.images.includeonlyunselected",
-			"machinetranslated": true,
-			"helptext": "从全景图中排除所选图像并包括所有其他图像。"
+			"helptext": "从全景图中排除所选图像，包含其他所有图像。"
 		},
 		{
 			"id": "menubar.images.include",
@@ -8330,8 +8220,7 @@
 		},
 		{
 			"id": "menubar.images.replace",
-			"machinetranslated": true,
-			"helptext": "将所选图像替换为其他图像，或者使用相同文件名但在不同文件夹中的图像。"
+			"helptext": "将所选图像替换为其他图像，或替换为文件名相同但位于不同文件夹中的图像。"
 		},
 		{
 			"id": "menubar.images.remove",
@@ -8351,7 +8240,7 @@
 		{
 			"id": "cameradatabase",
 			"machinetranslated": true,
-			"helptext": "摄象机数据库可用于保存 PTGui 无法自动识别的摄象机的传感器尺寸。"
+			"helptext": "相机数据库可用于保存 PTGui 无法自动识别的相机的传感器尺寸。"
 		},
 		{
 			"id": "ptguiviewer",
@@ -8374,13 +8263,11 @@
 		},
 		{
 			"id": "menubar.tools.openfolder.templatefolder",
-			"machinetranslated": true,
-			"helptext": "默认情况下，打开保存模板的文件夹。可以在@optionspreferences@ | @options.foldersandfileshtml@中配置此文件夹。"
+			"helptext": "打开默认保存模板的文件夹。可在@optionspreferences@ | @options.foldersandfileshtml@中配置此文件夹。"
 		},
 		{
 			"id": "menubar.tools.openfolder.batchlistfolder",
-			"machinetranslated": true,
-			"helptext": "默认情况下，打开保存批处理列表的文件夹。可以在@optionspreferences@ | @options.foldersandfileshtml@中配置此文件夹。"
+			"helptext": "打开默认保存批处理列表的文件夹。可在@optionspreferences@ | @options.foldersandfileshtml@中配置此文件夹。"
 		},
 		{
 			"id": "menubar.tools.openfolder.projectfolder",
@@ -8394,8 +8281,7 @@
 		},
 		{
 			"id": "menubar.tools.openfolder.outputfolder",
-			"machinetranslated": true,
-			"helptext": "打开将保存当前项目的输出文件的文件夹。"
+			"helptext": "打开当前项目输出文件的保存文件夹。"
 		},
 		{
 			"id": "menubar.tools.philosphere",
@@ -8473,7 +8359,6 @@
 		},
 		{
 			"id": "menubar.file.saveastemplate",
-			"machinetranslated": true,
 			"helptext": "将当前项目的副本保存到模板文件夹"
 		},
 		{
@@ -8503,8 +8388,7 @@
 		},
 		{
 			"id": "menubar.file.exit",
-			"machinetranslated": true,
-			"helptext": "退出 PTGui "
+			"helptext": "退出 PTGui"
 		},
 		{
 			"id": "mainwindow.toolbar.newproject",
@@ -8520,9 +8404,8 @@
 		},
 		{
 			"id": "mainwindow.toolbar.applytemplate",
-			"machinetranslated": true,
 			"label": "@menubar.file.applytemplate@",
-			"helptext": "将模板应用于当前项目。可以使用@menubar.file@ | @menubar.file.saveastemplate@保存模板。",
+			"helptext": "将模板应用于当前项目。可使用@menubar.file@ | @menubar.file.saveastemplate@保存模板。",
 			"morehelptext": "<br><br>请参阅<a href='helppage:workingwithtemplates'>使用模板</a>"
 		},
 		{
@@ -8572,9 +8455,8 @@
 		},
 		{
 			"id": "mainwindow.toolbar.panoramaeditor",
-			"machinetranslated": true,
 			"label": "@panoramaeditor@",
-			"helptext": "全景编辑器显示拼接全景的实时预览，并提供用于调平、裁剪、设置投影及视野的选项。"
+			"helptext": "全景编辑器显示拼接全景图的实时预览，并提供调平、裁剪、设置投影和视野的选项。"
 		},
 		{
 			"id": "mainwindow.toolbar.controlpointstable",
@@ -8584,9 +8466,8 @@
 		},
 		{
 			"id": "mainwindow.toolbar.controlpointsassistant",
-			"machinetranslated": true,
 			"label": "@controlpointassistant@",
-			"helptext": "控制点助手可帮助诊断有关控制点放置的问题。例如，它会警告没有控制点的图像或控制点错位。"
+			"helptext": "控制点助手可帮助诊断控制点放置的问题。例如，它会警告没有控制点的图像或控制点错位的图像。"
 		},
 		{
 			"id": "mainwindow.toolbar.help",
@@ -8620,8 +8501,7 @@
 		},
 		{
 			"id": "projectassistant.isprealigned",
-			"machinetranslated": true,
-			"helptext": "如果图像已经大致就位，请选择此项。全景编辑器应显示大致对齐的全景图。<br><br>控制点生成器仅在图像重叠的区域中搜索控制点。对于大型全景图，这将显着减少对齐所需的时间。它还可以最大限度地降低在类似外观但场景的不同部分上错位的控制点的风险。"
+			"helptext": "如果图像已大致就位，请选择此项。全景编辑器应显示大致对齐的全景图。<br><br>控制点生成器只在图像重叠的区域中搜索控制点。对于大型全景图，这将显著减少对齐所需的时间。它还能最大限度地降低控制点错位到外观相似但属于场景其他部分的风险。"
 		},
 		{
 			"id": "projectassistant.alignimages",
@@ -8635,9 +8515,8 @@
 		},
 		{
 			"id": "lensparams.globallens",
-			"machinetranslated": true,
 			"label": "镜头配置文件",
-			"helptext": "项目可以包含一个或多个镜头配置文件。最初，所有图像都有一个名为“@txt.globallensprofile@”的镜头配置文件。",
+			"helptext": "项目可以包含一个或多个镜头配置文件。最初，所有图像共用一个名为“@txt.globallensprofile@”的镜头配置文件。",
 			"morehelptext": "<br><br>单击下面的+按钮可添加镜头配置文件。如果将具有不同 EXIF 镜头数据的图像添加到项目中，则会自动创建多个镜头配置文件。如果有超过1个镜头配置文件，则可以在下面的“@mainwindow.lensparams.useindividual@”列表中为每个图像分配镜头配置文件。<br><br>每个镜头配置文件都有自己的镜头设置， <optional product='pro'>渐变和相机曲线设置，</optional> shift和@shear@参数和裁剪设置。"
 		},
 		{
@@ -8664,23 +8543,19 @@
 		},
 		{
 			"id": "lensparams.focallength",
-			"machinetranslated": true,
-			"helptext": "镜头的焦距（以毫米为单位）。通常，PTGui 可以从 EXIF 数据中自动确定。输入实际焦距，而不是35mm等效焦距。<br><br>价值不一定非常精确；运行'@alignimages@'时，PTGui 只需粗略估计焦距。生成控制点并运行优化程序后，将使用优化的焦距更新此值。"
+			"helptext": "镜头的焦距（以毫米为单位）。通常 PTGui 可从 EXIF 数据自动确定。请输入实际焦距，而非 35mm 等效焦距。<br><br>该值不必非常精确；运行“@alignimages@”时 PTGui 只需粗略估计焦距。生成控制点并运行优化器后，将使用优化后的焦距。"
 		},
 		{
 			"id": "lensparams.theoreticalfocallength",
-			"machinetranslated": true,
-			"helptext": "折算，由 EXIF 数据确定。可能是空的。<br><br>如果可用，@menubar.project@ | @menubar.project.initializeandoptimize@会将焦距重置为此值。"
+			"helptext": "理论焦距，由 EXIF 数据确定。可能为空。<br><br>如果可用，@menubar.project@ | @menubar.project.initializeandoptimize@会将焦距重置为此值。"
 		},
 		{
 			"id": "lensparams.horizontalfieldofview",
-			"machinetranslated": true,
-			"helptext": "图像左边缘和右边缘之间的视角（以度为单位）。<br><br>如果裁剪图像（在@mainwindow.tabs.crop@选项卡中），请输入图像裁剪部分的视野。<br><br>对于直线和鱼眼镜头，此值由焦距自动计算。"
+			"helptext": "图像左边缘与右边缘之间的视角（以度为单位）。<br><br>如果图像经过裁剪（在@mainwindow.tabs.crop@选项卡中），请输入裁剪后图像的视野。<br><br>对于直线镜头和鱼眼镜头，此值由焦距自动计算。"
 		},
 		{
 			"id": "lensparams.fisheyefactor",
-			"machinetranslated": true,
-			"helptext": "存在不同种类的鱼眼镜头投影；此参数设置使用的特定鱼眼投影。PTGui 通过 EXIF 数据识别许多常见的镜头模型并自动设置该值。如果有疑问，输入-0.5，这对应于大多数鱼眼镜头的等分投影。",
+			"helptext": "鱼眼镜头投影有多种类型；此参数设置使用的特定鱼眼投影。PTGui 可通过 EXIF 数据识别许多常见镜头模型并自动设置该值。如有疑问，请输入 -0.5，它对应于大多数鱼眼镜头的等距投影。",
 			"morehelptext": "<br><br>常见价值观是：<br>等距：0<br>立体摄影：0.5<br>正交：-1.0<br>Equisolid：-0.5<br>直线（非鱼眼）：1.0<br>市场上大多数鱼眼镜头都具有大致相等的投影。价值并不重要；自动镜头失真校正（a / b / c）将补偿任何错误..<br><br>此值可由优化器计算：为此，将a / b / c镜头失真参数设置为零。将@mainwindow.tabs.optimizer@选项卡切换到高级模式，启用鱼眼因子的优化并停用a / b / c镜头失真参数的优化。使用没有视差的图像，并确保控制点分布在整个重叠区域。<br><br>数学背景： PTGui 对鱼眼镜头使用以下投影功能：<br>R = f / k tan（kθ）[0 &lt；k≤1]<br>R =fθ[对于k = 0]<br>R = f / k sin（kθ）[对于-1≤k&lt；0]<br>R是投影半径，f焦距，θ入射光线角度，k是鱼眼因子。"
 		},
 		{
@@ -8690,8 +8565,7 @@
 		},
 		{
 			"id": "lensparams.shift",
-			"machinetranslated": true,
-			"helptext": "镜头位移补偿，以补偿镜头的光学中心和图像中心之间的偏移。PTGui 自动确定这些值。",
+			"helptext": "镜头位移补偿，用于补偿镜头光学中心与图像中心之间的偏移。PTGui 自动确定这些值。",
 			"morehelptext": "<br><br>必须相对于镜头的光学中心应用镜头失真校正和全景翘曲。由于机械公差，镜头的光轴通常不会精确指向相机传感器的中心。为了精确缝合，必须补偿该偏移。<br><br>该偏移表示为图像的长边和短边的百分比。因此，相同的值可以用于不同尺寸的图像，以及用于横向和纵向的图像。<br><br>默认情况下，PTGui 对项目中的所有图像（或使用相同镜头配置文件的所有图像）使用相同的移位值。如果使用每个图像具有不同移位设置的倾斜移位镜头，则可以在下面的“@mainwindow.lensparams.useindividual@”列表中启用每个图像的单独移位设置。"
 		},
 		{
@@ -8707,20 +8581,17 @@
 		},
 		{
 			"id": "lensparams.sensorsize",
-			"machinetranslated": true,
-			"helptext": "传感器对角线/裁剪系数：摄象机传感器的对角线尺寸。这通常表示为“作物因子”或“焦距乘数”。对于大多数相机，PTGui 可以从 EXIF 数据自动确定。",
+			"helptext": "传感器对角线/裁剪系数：相机传感器的对角线尺寸。通常表示为“裁剪系数”或“焦距乘数”。对于大多数相机，PTGui 可从 EXIF 数据自动确定。",
 			"morehelptext": "<br><br>1倍的裁剪系数对应于36 x 24 mm的经典全画幅传感器尺寸。较小的传感器将具有大于1的裁剪系数。<br><br>对于直线和鱼眼镜头，PTGui 需要知道传感器的尺寸；透镜投影由该值和焦距一起确定。"
 		},
 		{
 			"id": "lensparams.cameradatabase",
-			"machinetranslated": true,
-			"helptext": "如果 PTGui 无法识别您的相机，请将其传感器尺寸保存到相机数据库中。下次从同一台相机加载图像时，PTGui 将使用正确的传感器尺寸。",
+			"helptext": "如果 PTGui 无法识别您的相机，可将其传感器尺寸存入相机数据库。下次加载同一相机拍摄的图像时，PTGui 将使用正确的传感器尺寸。",
 			"morehelptext": "<br><br>另请参阅： <a href='helppage:cameradatabase'>使用摄象机数据库</a>"
 		},
 		{
 			"id": "lensparams.exifbutton",
-			"machinetranslated": true,
-			"helptext": "EXIF 协会：<br><br>•从 EXIF 数据初始化镜头设置或传感器尺寸。<br>•将当前图像的 EXIF 数据与特定镜头数据库记录相关联：当加载来自同一镜头的图像时，将自动应用镜头设置。",
+			"helptext": "EXIF 关联：<br><br>• 从 EXIF 数据初始化镜头设置或传感器尺寸。<br>• 将当前图像的 EXIF 数据与特定镜头数据库记录关联：加载同一镜头拍摄的图像时，将自动应用镜头设置。",
 			"morehelptext": "<br><br>另请参阅： <a href='helppage:lensdatabase'>使用镜头数据库</a>和<a href='helppage:cameradatabase'>使用摄象机数据库</a>"
 		},
 		{
@@ -8748,8 +8619,7 @@
 		},
 		{
 			"id": "croptab.cropcirclediameter",
-			"machinetranslated": true,
-			"helptext": "裁剪圆的直径。<br><br>直径以毫米表示，相对于图像传感器尺寸。可以在@mainwindow.tabs.lenssettings@选项卡中设置图像传感器大小。"
+			"helptext": "裁剪圆的直径。<br><br>直径以毫米表示，相对于图像传感器尺寸。可在@mainwindow.tabs.lenssettings@选项卡中设置图像传感器尺寸。"
 		},
 		{
 			"id": "croptab.individualcrop",
@@ -8789,9 +8659,8 @@
 		},
 		{
 			"id": "previewexposuretoolbar.exposure",
-			"machinetranslated": true,
 			"label": "预览曝光",
-			"helptext": "增加或减少亮度。在全景编辑窗口和细节查看器中影响此处显示的图像。拼接的全景不受影响。<br><br>右键单击滑块以重置为0。"
+			"helptext": "增加或减少亮度。影响全景编辑器和细节查看器中显示的图像。拼接的全景图不受影响。<br><br>右键单击滑块可重置为 0。"
 		},
 		{
 			"id": "masktoolbar.red",
@@ -8810,9 +8679,8 @@
 		},
 		{
 			"id": "masktoolbar.draw",
-			"machinetranslated": true,
 			"label": "@mainwindow.maskmenu.draw@ [D]",
-			"helptext": "通过按住鼠标左键并移动鼠标来绘制蒙版。通过按住Shift键并单击图像可以绘制直线。"
+			"helptext": "按住鼠标左键并移动鼠标来绘制蒙版。按住 Shift 键并单击图像可绘制直线。"
 		},
 		{
 			"id": "masktoolbar.fill",
@@ -8834,9 +8702,8 @@
 		},
 		{
 			"id": "masktoolbar.linkscrollbars",
-			"machinetranslated": true,
 			"label": "@menubar.controlpoints.linkscrollbars@",
-			"helptext": "链接两个图像的滚动位置，以便它们显示全景图的相同部分。PTGui 需要知道图像以何种方式重叠，因此这仅在图像通过控制点链接之后才有效。"
+			"helptext": "链接两个图像的滚动位置，使它们显示全景图的相同部分。PTGui 需要知道图像的重叠方式，因此这仅在图像通过控制点链接后才有效。"
 		},
 		{
 			"id": "masktoolbar.radius",
@@ -8889,9 +8756,8 @@
 		},
 		{
 			"id": "cptoolbar.linkscrollbars",
-			"machinetranslated": true,
 			"label": "@menubar.controlpoints.linkscrollbars@",
-			"helptext": "链接两个图像的滚动位置，以便它们显示全景图的相同部分。PTGui 需要知道图像以何种方式重叠，因此这仅在图像通过控制点链接之后才有效。"
+			"helptext": "链接两个图像的滚动位置，使它们显示全景图的相同部分。PTGui 需要知道图像的重叠方式，因此这仅在图像通过控制点链接后才有效。"
 		},
 		{
 			"id": "cptoolbar.autocontrast",
@@ -8924,8 +8790,7 @@
 		},
 		{
 			"id": "optimizertab.anchorimage",
-			"machinetranslated": true,
-			"helptext": "在优化期间，锚图像将保持锁定在适当位置。所有其他图像将与锚图像对齐。"
+			"helptext": "优化期间锚点图像保持锁定位置，其他所有图像都与它对齐。"
 		},
 		{
 			"id": "optimizertab.optimizefocallength",
@@ -8973,7 +8838,6 @@
 		},
 		{
 			"id": "optimizertab.runoptimizer",
-			"machinetranslated": true,
 			"helptext": "优化器将对齐图像并调整镜头参数，使控制点尽可能匹配。"
 		},
 		{
@@ -9029,8 +8893,7 @@
 		},
 		{
 			"id": "exposurehdrtab.lensprofile",
-			"machinetranslated": true,
-			"helptext": "为该项目定义了多个镜头配置文件。每个镜头配置文件都有自己的渐变曲线和相机曲线。选择镜头配置文件以显示右侧的曲线。"
+			"helptext": "为此项目定义了多个镜头配置文件。每个镜头配置文件都有自己渐晕曲线和相机曲线。选择镜头配置文件以在右侧显示曲线。"
 		},
 		{
 			"id": "exposurehdrtab.vignettinggraph",
@@ -9087,8 +8950,7 @@
 		},
 		{
 			"id": "projectsettingstab.alignimages.roughlyarrange",
-			"machinetranslated": true,
-			"helptext": "在找到控制点之后但在运行优化程序之前尝试粗略排列全景图。这通常是必需的。",
+			"helptext": "在找到控制点之后、运行优化器之前，尝试粗略排列全景图。这通常是必需的。",
 			"morehelptext": "<br><br>优化器需要一个合适的优化起点。如果优化器在一堆图像上从头开始运行，它可能会陷入局部最小值，从而导致全景混乱。<br><br>为了克服这个问题，将首先按图像设置全景图。当粗略地排列所有图像时，可以运行优化器以整体地调整全景图的对齐。<br><br>使用@menubar.project@ | @menubar.project.initializeandoptimize@运行相同的功能。"
 		},
 		{
@@ -9111,13 +8973,11 @@
 		},
 		{
 			"id": "projectsettingstab.alignimages.optimizeexposure",
-			"machinetranslated": true,
-			"helptext": "运行@mainwindow.tabs.exposurehdr@选项卡中的“@mainwindow.exposurehdrpanel.optimizenow@”功能，以校准渐变和曝光优化。"
+			"helptext": "运行@mainwindow.tabs.exposurehdr@选项卡中的“@mainwindow.exposurehdrpanel.optimizenow@”功能，以校准渐晕和曝光优化。"
 		},
 		{
 			"id": "projectsettingstab.alignimages.hdrdefaultdontask",
-			"machinetranslated": true,
-			"helptext": "如果取消选择，运行'@alignimages@'时将预先选择上面配置的设置，但仍会询问确认。"
+			"helptext": "取消选中后，运行“@alignimages@”时将预先选择上面配置的设置，但仍会询问确认。"
 		},
 		{
 			"id": "projectsettingstab.batchstitcher.align",
@@ -9130,8 +8990,7 @@
 		},
 		{
 			"id": "projectsettingstab.batchstitcher.stitchonlyifenoughcontrolpoints",
-			"machinetranslated": true,
-			"helptext": "如果未找到所有图像的控制点（否则可能会拼接未对齐的全景图），则跳过拼接并记录警告消息。"
+			"helptext": "如果未找到所有图像的控制点，则跳过拼接并记录警告消息（否则可能拼接出未对齐的全景图）。"
 		},
 		{
 			"id": "projectsettingstab.filenaming.projectfile",
@@ -9147,18 +9006,15 @@
 		},
 		{
 			"id": "projectsettingstab.filenaming.relativesourceimagepaths",
-			"machinetranslated": true,
-			"helptext": "如果启用，项目文件将把源图像文件名称保存为相对于项目文件位置的路径。这可确保在将项目移动到其他文件夹后仍可找到源图像。"
+			"helptext": "启用后，项目文件将把源图像文件名保存为相对项目文件位置的路径。这样项目移动到其他文件夹后仍能找到源图像。"
 		},
 		{
 			"id": "projectsettingstab.templatebehavior.lensandcrop",
-			"machinetranslated": true,
-			"helptext": "如果启用，镜头，移位，@shear@，裁剪和相机纵向方向设置将被复制到目标项目。这包括特定源图像的任何单独设置。"
+			"helptext": "启用后，镜头、位移、@shear@、裁剪和相机竖拍方向设置会复制到目标项目，包括针对特定源图像的任何单独设置。"
 		},
 		{
 			"id": "projectsettingstab.templatebehavior.imageparameters",
-			"machinetranslated": true,
-			"helptext": "如果启用，以下参数将复制到目标项目：@yaw@，@pitch@，@roll@，视点，混合重量，包含/排除状态和每图像白平衡，@flare@和曝光补偿参数。"
+			"helptext": "启用后，以下参数将复制到目标项目：@yaw@、@pitch@、@roll@、视点、混合权重、包含/排除状态以及每张图像的白平衡、@flare@和曝光补偿参数。"
 		},
 		{
 			"id": "projectsettingstab.templatebehavior.masks",
@@ -9172,8 +9028,7 @@
 		},
 		{
 			"id": "projectsettingstab.templatebehavior.pojectsettings",
-			"machinetranslated": true,
-			"helptext": "如果启用，此选项卡中的所有设置都将复制到目标项目。如果停用，将保留目标项目的@mainwindow.tabs.projectsettings@选项卡中的设置。"
+			"helptext": "启用后，此选项卡中的所有设置都会复制到目标项目。禁用时，将保留目标项目@mainwindow.tabs.projectsettings@选项卡中的设置。"
 		},
 		{
 			"id": "projectsettingstab.templatebehavior.optimizersettings",
@@ -9206,13 +9061,12 @@
 		},
 		{
 			"id": "projectsettingstab.misc.askinitializeandoptimize",
-			"machinetranslated": true,
-			"helptext": "如果图像完全未对齐，则优化程序可能会卡住。如果启用此设置，PTGui 将在这种情况下询问您是否应运行@menubar.project@ | @menubar.project.initializeandoptimize@以便再次将图像重新排列。"
+			"helptext": "如果图像完全错位，优化器可能会卡住。启用此设置后，遇到这种情况时 PTGui 会询问是否运行@menubar.project@ | @menubar.project.initializeandoptimize@。"
 		},
 		{
 			"id": "projectsettingstab.misc.supportduallenscameras",
 			"machinetranslated": true,
-			"helptext": "配置支持一次性360°摄象机。",
+			"helptext": "配置支持一次性360°相机。",
 			"morehelptext": "<br><br>存在几种类别的360°一次全景相机，生成包含两个并排的圆形鱼眼图像的单个图像文件。对于拼接，图像的每一半都需要作为单独的源图像加载到项目中。<br><br>如果启用，当 PTGui 检测到双镜头鱼眼图像添加到项目中时，它将加载相同的图像文件两次。两个副本中的每一个将具有单独的掩模和裁剪圆，以从组合图像中提取相应的部分。副本将位于-90°和+ 90°@yaw@。<br><br>批处理文件生成器支持相同的行为。<br><br>仍然需要微调：由于制造公差，相同类别的各个相机之间将存在小的差异，导致图像圆的偏移略微不同。可以通过拍摄照片（外部，没有物体靠近相机），添加控制点和优化来为每个单独的相机创建模板。然后做@menubar.file@ | @menubar.file.saveastemplate@。此模板可以通过@menubar.file@ | @menubar.file.applytemplate@使用，也可以在批处理文件生成器中使用。"
 		},
 		{
@@ -9281,13 +9135,11 @@
 		},
 		{
 			"id": "createpanoramatab.ldrfileformat",
-			"machinetranslated": true,
-			"helptext": "用于拼接全景的文件格式。 <optional product='pro'>对于 HDR 全景图，用于色调映射输出的文件格式。</optional>",
+			"helptext": "拼接全景图使用的文件格式。<optional product='pro'>对于 HDR 全景图，这是色调映射输出使用的文件格式。</optional>",
 			"morehelptext": "<br><br> PTGui 支持以下文件格式：<br><br><b> JPEG ：</b>最常用的图像格式。动态范围有限（每通道8位）。不支持透明度：全景图的空白部分将呈现为黑色。宽度和高度限制为 65000 像素。具有可配置质量的有损压缩。适合网络出版。如果要在图像编辑器中打印或后处理图像，最好使用每个通道 16 位的其他格式之一。<br><br><b> TIFF ：</b>支持多种选项的多功能图像格式。PTGui 可以输出每通道 8 或 16 位的 TIFF 文件。 <optional product='pro'>对于 HDR 全景图，还支持 32 位浮点 TIFF 。</optional>压缩会缩小文件大小并且无损耗（图像质量不会降低）。传统的 TIFF 限制为每个文件 4GB ，但只要文件变大，PTGui 就会自动使用 Big TIFF 语言。这些大文件只能在支持 Big TIFF 的应用程序中读取。 TIFF 格式支持透明度。<br><br><b> Photoshop （.psd 和 .psb）：</b>与 TIFF 一样，它支持每通道8位和16位输出<optional product='pro'>（和 HDR 的 32 位浮点）</optional>具有透明度和无损压缩。 photoshop格式的主要优点是分层输出： PTGui 可以在单独的图层中输出包含混合全景图和扭曲源图像的单个文件。这样可以在 Photoshop 中轻松修饰全景图。 .psd 格式是经典的 photoshop 文件格式，宽度和高度限制为 30000 像素。这是为了向后兼容而提供的。通常应使用 .psb ，它没有任何大小限制（尽管 Photoshop 本身无法打开超过600000像素的文件）。<br><br><b> QuickTime VR：</b> QTVR 是 Apple QuickTime .mov 视频格式的一种特殊方言，支持球形全景的交互式播放。多年来，这一直是在网页中嵌入全景图的首选格式： QuickTime 插件安装在每台Mac和许多 Windows 计算机上（它包含在iTunes for Windows中）。不幸的是，Apple已完全取消了 QuickTime 的 QTVR 支持，并且 QuickTime 浏览器插件已被放弃。因此 QTVR 应被视为传统格式。在网络上发布全景图的现代替代方案是 HTML5 。PTGui 可以使用@menubar.tools@ | @menubar.tools.publishtowebsite@将拼接的全景图发布到 HTML5 网页。"
 		},
 		{
 			"id": "createpanoramatab.ldrfileformatsettings",
-			"machinetranslated": true,
 			"helptext": "所选文件格式的其他设置"
 		},
 		{
@@ -9298,19 +9150,16 @@
 		},
 		{
 			"id": "createpanoramatab.hdrfileformatsettings",
-			"machinetranslated": true,
 			"helptext": "所选 HDR 文件格式的其他设置"
 		},
 		{
 			"id": "createpanoramatab.outputfile",
-			"machinetranslated": true,
-			"helptext": "全景图将保存到的文件名。",
+			"helptext": "全景图的保存文件名。",
 			"morehelptext": "<br><br>如果显示为灰色，将使用默认文件名。选择“@mainwindow.createpanoramatab.usedefault@”切换回默认文件名。 <optional product='pro'>可以在@mainwindow.tabs.projectsettings@选项卡的“@mainwindow.projectsettings.filenaming@”部分中配置默认​​文件命名。</optional>文件名的扩展名将根据上面选择的文件格式自动更新。<br><br>如果输入了相对路径（或没有文件夹名称的文件名），则相对于当前项目文件的位置进行解释。<br><br>单击@browse@以交互方式选择输出文件名。<br><br>如果将创建多个输出文件（例如，混合全景图和单个图层），则会在文件名中添加不同的后缀。"
 		},
 		{
 			"id": "createpanoramatab.outputfiledefault",
-			"machinetranslated": true,
-			"helptext": "将输出文件名重置为默认值。 <optional product='pro'>可以在@mainwindow.tabs.projectsettings@选项卡中配置默认​​命名。</optional>"
+			"helptext": "将输出文件名重置为默认值。<optional product='pro'>默认命名可在@mainwindow.tabs.projectsettings@选项卡中配置。</optional>"
 		},
 		{
 			"id": "createpanoramatab.outputfilebrowse",
@@ -9325,8 +9174,7 @@
 		},
 		{
 			"id": "createpanoramatab.dragoutputfile",
-			"machinetranslated": true,
-			"helptext": "通过将此图标拖放到其他应用程序，在另一个应用程序中打开生成的全景图。"
+			"helptext": "将此图标拖放到其他应用程序，即可在另一个应用程序中打开生成的全景图。"
 		},
 		{
 			"id": "createpanoramatab.components.tonemapped",
@@ -9349,13 +9197,11 @@
 		},
 		{
 			"id": "createpanoramatab.components.blendplanes",
-			"machinetranslated": true,
-			"helptext": "保存混合平面。PTGui 将为每个曝光级别创建混合全景，这些称为混合平面。然后将混合平面合并在一起以创建最终的全景图。"
+			"helptext": "保存混合平面。PTGui 为每个曝光级别创建一个混合全景图，称为混合平面，再合并成最终的全景图。"
 		},
 		{
 			"id": "createpanoramatab.components.hdrpanorama",
-			"machinetranslated": true,
-			"helptext": "以 HDR 格式保存全景（在色调映射之前）。生成的文件捕获场景中光强度的完整动态范围。"
+			"helptext": "以 HDR 格式保存全景图（色调映射之前）。生成的文件捕获场景中光强度的完整动态范围。"
 		},
 		{
 			"id": "createpanoramatab.components.hdrlayers",
@@ -9390,8 +9236,7 @@
 		},
 		{
 			"id": "createpanoramatab.blenderfeather",
-			"machinetranslated": true,
-			"helptext": "控制接缝的锐度。使用'@mainwindow.createpanoramatab.feather.soft@'进行平滑重叠，使用'@mainwindow.createpanoramatab.feather.sharp@'进行硬缝。"
+			"helptext": "控制接缝的锐度。使用“@mainwindow.createpanoramatab.feather.soft@”实现平滑重叠，使用“@mainwindow.createpanoramatab.feather.sharp@”实现锐利接缝。"
 		},
 		{
 			"id": "createpanoramatab.blendingmode",
@@ -9407,14 +9252,12 @@
 		},
 		{
 			"id": "createpanoramatab.restoredefaults",
-			"machinetranslated": true,
-			"helptext": "将此部分中的参数重置为其默认值。"
+			"helptext": "将本部分中的参数重置为默认值。"
 		},
 		{
 			"id": "panoeditor.toolbar.mouseover",
-			"machinetranslated": true,
 			"label": "在鼠标指针下选择图像",
-			"helptext": "在全景图上移动鼠标时，鼠标指针下的源图像将突出显示。"
+			"helptext": "在全景图上移动鼠标时，鼠标指针下方的源图像会高亮显示。"
 		},
 		{
 			"id": "panoeditor.toolbar.help",
@@ -9450,9 +9293,8 @@
 		},
 		{
 			"id": "panoeditor.toolbar.centerpano",
-			"machinetranslated": true,
 			"label": "全景居中",
-			"helptext": "将全景中心放在框架中。"
+			"helptext": "将全景图居中于画框中。"
 		},
 		{
 			"id": "panoeditor.toolbar.straightenpano",
@@ -9462,9 +9304,8 @@
 		},
 		{
 			"id": "panoeditor.toolbar.rectilinear",
-			"machinetranslated": true,
 			"label": "直线投影",
-			"helptext": "切换到直线投影。在直线投影中，直线保持笔直，但它仅适用于狭窄的全景图。"
+			"helptext": "切换到直线投影。在直线投影中直线保持笔直，但它仅适用于窄视角的全景图。"
 		},
 		{
 			"id": "panoeditor.toolbar.cylindrical",
@@ -9522,9 +9363,8 @@
 		},
 		{
 			"id": "panoeditor.toolbar.ontop",
-			"machinetranslated": true,
 			"label": "总在最前面",
-			"helptext": "将全景编辑器放在其他窗口的顶部。"
+			"helptext": "让全景编辑器始终位于其他窗口之上。"
 		},
 		{
 			"id": "panoeditor.gridbutton",
@@ -9557,9 +9397,8 @@
 		},
 		{
 			"id": "detailviewer.toolbar.dragandhold",
-			"machinetranslated": true,
 			"label": "导航模式：拖放",
-			"helptext": "要导航，请单击并按住鼠标按钮。拖动到所需的方向；查看将持续移动，直到释放鼠标按钮。"
+			"helptext": "要导航，请单击并按住鼠标按钮。向所需方向拖动；视图将持续移动，直到释放鼠标按钮。"
 		},
 		{
 			"id": "detailviewer.toolbar.dragtomove",
@@ -9592,9 +9431,8 @@
 		},
 		{
 			"id": "detailviewer.toolbar.ontop",
-			"machinetranslated": true,
 			"label": "保持在最前",
-			"helptext": "将详细信息查看器保持在其他窗口之上。"
+			"helptext": "让细节查看器始终位于其他窗口之上。"
 		},
 		{
 			"id": "detailviewer.toolbar.help",
@@ -9604,9 +9442,8 @@
 		},
 		{
 			"id": "detailviewer.zoomslider",
-			"machinetranslated": true,
 			"label": "放大",
-			"helptext": "向上移动以放大，向下移动以缩小。 <optional platform='windows'>也可以使用鼠标进行缩放。</optional><optional platform='mac'>也可以使用触控板上的两个手指捏合手势进行缩放。</optional>"
+			"helptext": "向上移动放大，向下移动缩小。<optional platform='windows'>也可以使用鼠标滚轮缩放。</optional><optional platform='mac'>也可以使用触控板双指捏合手势缩放。</optional>"
 		},
 		{
 			"id": "tonemapsettings.enable",
@@ -9621,13 +9458,11 @@
 		},
 		{
 			"id": "tonemapsettings.boostshadows",
-			"machinetranslated": true,
-			"helptext": "将应用的亮度最大增加。小心，增强阴影也会放大图像噪声。"
+			"helptext": "将应用的最大亮度增加量。注意，增强阴影也会放大图像噪声。"
 		},
 		{
 			"id": "tonemapsettings.reducelights",
-			"machinetranslated": true,
-			"helptext": "将应用的最大亮度降低。亮度降低太多会导致剪裁的高光变为灰色。"
+			"helptext": "将应用的最大亮度降低量。亮度降低太多会导致剪裁的高光变为灰色。"
 		},
 		{
 			"id": "tonemapsettings.autoboostreduce",
@@ -9636,8 +9471,7 @@
 		},
 		{
 			"id": "tonemapsettings.compression",
-			"machinetranslated": true,
-			"helptext": "动态范围压缩量。高压缩将允许图像的非常暗和非常明亮的区域在色调映射图像中可见，但是低压缩可能看起来更自然。"
+			"helptext": "动态范围压缩量。高压缩可让图像的极暗和极亮区域在色调映射图像中同时可见，但低压缩可能看起来更自然。"
 		},
 		{
 			"id": "tonemapsettings.contrast",
@@ -9661,13 +9495,11 @@
 		},
 		{
 			"id": "exposurefusionsettings.reducelights",
-			"machinetranslated": true,
-			"helptext": "另外还要降低高光的亮度。亮度降低太多会导致剪裁的高光变为灰色。"
+			"helptext": "另外降低高光的亮度。亮度降低太多会导致剪裁的高光变为灰色。"
 		},
 		{
 			"id": "exposurefusionsettings.sigma",
-			"machinetranslated": true,
-			"helptext": "算法的强度。在低 sigma 时，仅使用最佳曝光像素。较高的值会在混合平面之间生成更渐进的合并，从而略微降低图像对比度。太低的 sigma 值可能会导致图像伪影；增加滑块直到结果看起来很好。"
+			"helptext": "算法强度。sigma 较低时只使用曝光最佳的像素。较高的值会在混合平面之间产生更渐进的过渡，从而略微降低图像对比度。sigma 过低可能导致图像伪影；增大滑块直到结果满意为止。"
 		},
 		{
 			"id": "numericaltransform.yaw",
@@ -9716,8 +9548,7 @@
 		},
 		{
 			"id": "panoramapreviewsettingspanel.exposure",
-			"machinetranslated": true,
-			"helptext": "增加或减少预览的亮度。在@mainwindow.tabs.crop@选项卡中影响此处显示的图像， <optional product='pro'>@mainwindow.tabs.mask@标签，</optional> @mainwindow.tabs.controlpoints@选项卡和详细信息查看器。拼接的全景不受影响。<br><br>右键单击滑块以重置为0。"
+			"helptext": "增加或减少预览的亮度。影响此处显示的图像、@mainwindow.tabs.crop@选项卡中的图像，<optional product='pro'>@mainwindow.tabs.mask@选项卡中的图像、</optional>@mainwindow.tabs.controlpoints@选项卡中的图像以及细节查看器中的图像。拼接后的全景图不受影响。<br><br>右键单击滑块可重置为 0。"
 		},
 		{
 			"id": "panoramapreviewsettingspanel.blendplane",
@@ -9756,8 +9587,7 @@
 		},
 		{
 			"id": "publishtoweb.savetosamename",
-			"machinetranslated": true,
-			"helptext": "如果选择，输出文件将保存到包含源图像的文件夹中。生成的文件名将类似于源图像文件名，但具有不同的扩展名。"
+			"helptext": "选中后，输出文件将保存到包含源图像的文件夹。生成的文件名与源图像文件名相似，但扩展名不同。"
 		},
 		{
 			"id": "publishtoweb.saveas",
@@ -9800,8 +9630,7 @@
 		},
 		{
 			"id": "publishtowebsettings.jpegquality",
-			"machinetranslated": true,
-			"helptext": "生成的 .jpg 文件的质量级别（0 ... 100）。数字越小，质量越低，但下载速度越快。"
+			"helptext": "生成的 .jpg 文件的质量级别（0 .. 100）。数字越小质量越低，但下载速度越快。"
 		},
 		{
 			"id": "publishtowebsettings.angles",
@@ -9816,13 +9645,11 @@
 		},
 		{
 			"id": "publishtowebsettings.autorotate.speed",
-			"machinetranslated": true,
-			"helptext": "自动旋转速度。正值将“虚拟摄象机”向左移动，负值向相反方向移动。"
+			"helptext": "自动旋转速度。正值将“虚拟相机”向左移动，负值向相反方向移动。"
 		},
 		{
 			"id": "publishtowebsettings.autorotate.resume",
-			"machinetranslated": true,
-			"helptext": "当用户点击全景图时，自动旋转停止。如果启用此设置，它将在一段时间后恢复旋转。"
+			"helptext": "用户点击全景图时自动旋转停止。启用此设置后，将在一段时间后恢复旋转。"
 		},
 		{
 			"id": "publishtowebsettings.autorotate.resumedelay",
@@ -9912,8 +9739,7 @@
 		},
 		{
 			"id": "converttocubic.savetosamename",
-			"machinetranslated": true,
-			"helptext": "如果选择，输出文件将保存到包含源图像的文件夹中。生成的文件名将类似于源图像文件名，但具有不同的扩展名。"
+			"helptext": "选中后，输出文件将保存到包含源图像的文件夹。生成的文件名与源图像文件名相似，但扩展名不同。"
 		},
 		{
 			"id": "converttocubic.saveas",
@@ -9959,13 +9785,11 @@
 		},
 		{
 			"id": "converttocubicsettings.jpegquality",
-			"machinetranslated": true,
-			"helptext": "生成的 .jpg 文件的质量级别（0 ... 100）。数字越小，质量越低，但下载速度越快。"
+			"helptext": "生成的 .jpg 文件的质量级别（0 .. 100）。数字越小质量越低，但下载速度越快。"
 		},
 		{
 			"id": "converttocubicsettings.windowsize",
-			"machinetranslated": true,
-			"helptext": "QTVR.mov 文件首次打开时，屏幕上显示 QuickTime Player 窗口的初始大小（以像素为单位）。用户之后可以调整窗口大小。"
+			"helptext": "QTVR .mov 文件首次打开时 QuickTime Player 窗口在屏幕上显示的初始大小（以像素为单位）。之后用户可调整窗口大小。"
 		},
 		{
 			"id": "converttocubicsettings.angles",
@@ -10027,8 +9851,7 @@
 		},
 		{
 			"id": "batchbuilder.browsesavetobatchlist",
-			"machinetranslated": true,
-			"helptext": "选择要将批处理列表保存到的文件名。"
+			"helptext": "选择批处理列表的保存文件名。"
 		},
 		{
 			"id": "batchbuilder.generate",
@@ -10066,8 +9889,7 @@
 		},
 		{
 			"id": "batchbuilderdetect.secondsbetweenshots",
-			"machinetranslated": true,
-			"helptext": "两次连续拍摄之间的最长时间如果下一张图像的拍摄时间较长，则会将其添加到下一个项目中。"
+			"helptext": "两次连续拍摄之间的最大时间间隔。如果下一张图像的拍摄间隔更长，则将其添加到下一个项目中。"
 		},
 		{
 			"id": "batchbuilderdetect.focallength",
@@ -10101,7 +9923,6 @@
 		},
 		{
 			"id": "aligntogrid.allimages",
-			"machinetranslated": true,
 			"helptext": "将网格应用于当前项目中的所有图像。"
 		},
 		{
@@ -10181,13 +10002,11 @@
 		},
 		{
 			"id": "aligntogrid.modifyfov",
-			"machinetranslated": true,
-			"helptext": "如果选择此选项，则单击@txt.apply@按钮时，将调整全景查看，使全景图填满整个画面。还将选择适合于全景视野的投影。"
+			"helptext": "选中后，单击@txt.apply@按钮时，将调整全景图的视野，使其填满整个画面。还会选择适合全景视野的投影。"
 		},
 		{
 			"id": "aligntogrid.apply",
-			"machinetranslated": true,
-			"helptext": "将网格应用于全景图。打开全景编辑器以验证结果。"
+			"helptext": "将网格应用于全景图。打开全景编辑器验证结果。"
 		},
 		{
 			"id": "batchstitcher.toolbar.addproject",
@@ -10239,8 +10058,7 @@
 		},
 		{
 			"id": "philosphere.size",
-			"machinetranslated": true,
-			"helptext": "生成的可打印文文件的像素大小。例如，输入 3000 x 1860 以获得 A4 / Letter 页面尺寸的 300 dpi 可打印图像。将生成两个文文件。"
+			"helptext": "生成的可打印文档的大小（以像素为单位）。例如，输入 3000 x 1860 可得到 A4/Letter 页面尺寸的 300 dpi 可打印图像。将生成两个文档。"
 		},
 		{
 			"id": "philosphere.start",
@@ -10297,7 +10115,7 @@
 			"id": "cameradatabase.entries.remove",
 			"machinetranslated": true,
 			"label": "移除",
-			"helptext": "删除选定的摄象机数据库记录。"
+			"helptext": "删除选定的相机数据库记录。"
 		},
 		{
 			"id": "focallengthdialog.loadfromlensdb",
@@ -10313,8 +10131,7 @@
 		},
 		{
 			"id": "focallengthdialog.focallengthpreset",
-			"machinetranslated": true,
-			"helptext": "如果您不知道镜头焦距，请在此处选择默认。如果您知道焦距，请输入确切的值。"
+			"helptext": "如果您不知道镜头焦距，请在此处选择预设。如果知道焦距，请输入精确值。"
 		},
 		{
 			"id": "focallengthdialog.lenstype",
@@ -10342,7 +10159,7 @@
 		{
 			"id": "sensorsizedialog.alwaysuse",
 			"machinetranslated": true,
-			"helptext": "根据给定的传感器大小和图像的 EXIF 数据，将记录添加到摄象机数据库。",
+			"helptext": "根据给定的传感器大小和图像的 EXIF 数据，将记录添加到相机数据库。",
 			"morehelptext": "<br><br>通过向摄象机数据库添加记录，下次加载来自同一摄象机的图像时，将自动加载这些设置。有关更多信息，请参阅： <a href='helppage:cameradatabase'>使用摄象机数据库</a>"
 		},
 		{
@@ -10359,8 +10176,7 @@
 		},
 		{
 			"id": "options.showroundedvalues",
-			"machinetranslated": true,
-			"helptext": "如果启用，则未编辑的字段显示截断值。例如，当光标不在编辑框中时，28.1876将四舍五入为28.2。"
+			"helptext": "启用后，未在编辑的字段显示截断值。例如，光标不在编辑框中时，28.1876 将四舍五入为 28.2。"
 		},
 		{
 			"id": "options.checkforupdates",
@@ -10370,18 +10186,15 @@
 		},
 		{
 			"id": "options.checkforupdates.beta",
-			"machinetranslated": true,
-			"helptext": "如果您对 PTGui 的感兴趣，请选中此框。请记住，测试版仅用于测试，可能会崩溃或导致数据丢失。"
+			"helptext": "如果您对 PTGui 测试版感兴趣，请选中此框。请注意，测试版仅用于测试，可能会崩溃或导致数据丢失。"
 		},
 		{
 			"id": "options.resetwarnings",
-			"machinetranslated": true,
-			"helptext": "PTGui 显示的几条警告信息都有一个标有“@txt.dontaskthisagain@”的复选框，以便将来警告静音。使用此按钮，然后按@ok@重新启用所有警告消息。"
+			"helptext": "PTGui 显示的多条警告信息都有一个标有“@txt.dontaskthisagain@”的复选框，用于静音后续警告。使用此按钮并按@ok@可重新启用所有警告信息。"
 		},
 		{
 			"id": "options.autoaddrelatedimages.enabled",
-			"machinetranslated": true,
-			"helptext": "将单个图像添加到新项目时，如果启用此功能，PTGui 将扫描源图像文件夹以查找相同类别的其他图像，大约在同一时间拍摄。如果找到更多图像，PTGui 也会建议添加这些图像。"
+			"helptext": "向新项目添加单张图像时，启用此功能后 PTGui 会扫描源图像文件夹，查找大约在同一时间拍摄的同类型其他图像，并建议一并添加。"
 		},
 		{
 			"id": "options.autoaddrelatedimages.threshold",
@@ -10390,8 +10203,7 @@
 		},
 		{
 			"id": "options.autoaddrelatedimages.useexifdate",
-			"machinetranslated": true,
-			"helptext": "如果选择此选项，PTGui 将查看原始拍摄日期的图像的 EXIF 数据。如果未选择，PTGui 将查看图像文件的修改日期/时间。<br><br>如果在图像编辑应用程序中编辑并保存图像，则会修改文件修改日期，但原始拍摄日期保持不变。"
+			"helptext": "选中后，PTGui 将从图像的 EXIF 数据中查找原始拍摄日期。未选中时，PTGui 将查看图像文件的修改日期/时间。<br><br>如果在图像编辑应用程序中编辑并保存图像，文件修改日期会改变，但原始拍摄日期保持不变。"
 		},
 		{
 			"id": "options.batchstitcher.closewhendone",
@@ -10404,24 +10216,20 @@
 		},
 		{
 			"id": "options.mousewheelaction",
-			"machinetranslated": true,
-			"helptext": "控制@mainwindow.tabs.controlpoints@选项卡中的鼠标滚轮行为， <optional product='pro'>@mainwindow.tabs.mask@标签，</optional> @mainwindow.tabs.crop@选项卡和详细信息查看器。",
+			"helptext": "控制@mainwindow.tabs.controlpoints@选项卡、<optional product='pro'>@mainwindow.tabs.mask@选项卡、</optional>@mainwindow.tabs.crop@选项卡和全景编辑器中的鼠标滚轮行为。",
 			"morehelptext": "<br><br><optional platform='windows'><b>@options.mousewheelaction.nonmac.scrolling@</b></optional><optional platform='mac'><b>@options.mousewheelaction.mac.scrolling@</b></optional> <b>：</b>使用鼠标滚轮<optional platform='mac'>（或两指触控板轻扫）</optional>向所有方向移动图像<br><br><optional platform='windows'><b>@options.mousewheelaction.nonmac.zooming@</b></optional><optional platform='mac'><b>@options.mousewheelaction.mac.zooming@</b></optional> <b>：</b>使用鼠标滚轮<optional platform='mac'>（或两指触控板轻扫）</optional>放大或缩小。<br><br>压低了<optional platform='windows'>Ctrl键</optional><optional platform='mac'>Cmd键</optional>运行其他操作。"
 		},
 		{
 			"id": "options.disablemouserepositioning",
-			"machinetranslated": true,
-			"helptext": "对于某些功能，例如@mainwindow.tabs.controlpoints@选项卡中的@menubar.controlpoints.autojump@，PTGui 会移动鼠标指针。这仅适用于鼠标或触控板。如果您使用的是平板电脑，画笔或触摸屏，则必须停用鼠标指针重新定位。"
+			"helptext": "对于某些功能（例如@mainwindow.tabs.controlpoints@选项卡中的@menubar.controlpoints.autojump@），PTGui 会移动鼠标指针。这仅适用于鼠标或触控板。如果使用平板电脑、数位笔或触摸屏，则必须停用鼠标指针重新定位。"
 		},
 		{
 			"id": "options.foldersandfiles.templatefolder",
-			"machinetranslated": true,
-			"helptext": "保存模板的默认位置。模板可以保存在任何文件夹中，但此文件夹中的模板将列在@menubar.file.applytemplate@快捷方式列表中，以便快速访问它们。"
+			"helptext": "模板的默认保存位置。模板可保存在任何文件夹，但此文件夹中的模板会列入@menubar.file.applytemplate@快捷方式列表，方便快速访问。"
 		},
 		{
 			"id": "options.foldersandfiles.applytemplateinitialfolder",
-			"machinetranslated": true,
-			"helptext": "配置运行@menubar.file@ | @menubar.file.applytemplate@ | @menubar.file.applytemplate.other@时最初显示的文件夹。",
+			"helptext": "配置执行@menubar.file@ | @menubar.file.applytemplate@ | @menubar.file.applytemplate.other@时最初显示的文件夹。",
 			"morehelptext": "<br><br><b>模板文件夹：</b>最初显示上面配置的文件夹。<br><br><b>记住上次使用的文件夹：</b>最初显示上次应用模板的文件夹位置。"
 		},
 		{
@@ -10430,25 +10238,21 @@
 		},
 		{
 			"id": "options.foldersandfiles.tempfolder",
-			"machinetranslated": true,
-			"helptext": "PTGui 会将临时数据保存在这些文件夹中。",
+			"helptext": "PTGui 将临时数据保存在这些文件夹中。",
 			"morehelptext": "<br><br>拼接大型全景图需要保存许多千兆字节的临时数据。PTGui 最初将使用RAM内存作为临时数据。但是当内存变满时，临时数据将被写入磁盘。PTGui 不使用<optional platform='windows'>Windows交换空间。</optional><optional platform='mac'>macOS交换空间。</optional>您可以在此处配置临时数据保存在磁盘上的位置。<br><br>首先使用标记为<b>@options.defaultfolders.tempfiles.preferred@</b>的临时文件夹，然后再使用其他文件夹。如果未配置临时文件夹，则将使用操作系统的默认临时文件夹。如果配置了多个临时文件夹，PTGui 将平衡其使用情况以提高性能。<br><br>为了获得最佳性能：<br>•始终使用SSD驱动器进行临时保存<br>•请勿使用网络或USB2驱动器<br>•临时数据应保存在单独的磁盘上，与源图像和全景输出文件夹不同。"
 		},
 		{
 			"id": "options.foldersandfiles.tempfolderpreferred",
-			"machinetranslated": true,
-			"helptext": "首先，在使用其他临时文件夹之前，将使用任何标记为@options.defaultfolders.tempfiles.preferred@的临时文件夹。"
+			"helptext": "优先使用标记为@options.defaultfolders.tempfiles.preferred@的临时文件夹，然后才使用其他临时文件夹。"
 		},
 		{
 			"id": "options.viewers.viewerapp",
-			"machinetranslated": true,
-			"helptext": "配置外部应用程序以查看或编辑全景图。输入可运行文件的完整路径，或使用@browse@按钮找到该应用程序。",
+			"helptext": "配置用于查看或编辑全景图的外部应用程序。输入可执行文件的完整路径，或使用@browse@按钮找到该应用程序。",
 			"morehelptext": "<br><br>此处配置的应用程序将显示在弹出列表中：<br>•@mainwindow.tabs.preview@选项卡中的@mainwindow.previewtab.previewbutton@按钮<br>•@mainwindow.tabs.createpanorama@选项卡中的@mainwindow.createpanoramatab.view@按钮<br>•全景编辑窗口中的“在外部查看器中打开”工具栏按钮。<br><br>除了此处配置的应用程序外，还将显示选项以在 PTGui Viewer中打开（如果全景图具有equirectangular投影），用于打开输出文件夹以及在操作系统的默认图像查看器中打开文件。"
 		},
 		{
 			"id": "options.cpeditor.zoomersize",
-			"machinetranslated": true,
-			"helptext": "@mainwindow.tabs.controlpoints@选项卡中浮动放大镜窗口的尺寸。请注意，这是在源图像像素中测量的；屏幕上的实际尺寸也取决于放大系数。"
+			"helptext": "@mainwindow.tabs.controlpoints@选项卡中浮动放大镜窗口的尺寸。注意以源图像像素为单位；屏幕上的实际尺寸还取决于放大倍数。"
 		},
 		{
 			"id": "options.cpeditor.zoomermagnification",
@@ -10457,19 +10261,16 @@
 		},
 		{
 			"id": "options.cpeditor.autocontrastamount",
-			"machinetranslated": true,
 			"helptext": "如果在@mainwindow.tabs.controlpoints@选项卡中启用了@menubar.controlpoints.autocontrast@，则设置对比度调整的强度。"
 		},
 		{
 			"id": "options.cpeditor.showlabelsinzoomer",
-			"machinetranslated": true,
-			"helptext": "如果启用，控制点的编号框将显示在浮动放大镜窗口中。",
+			"helptext": "启用后，控制点的编号框会显示在浮动放大镜窗口中。",
 			"morehelptext": "<br><br>如果停用，放大镜窗口将仅显示每个控制点的微小交叉标记。只影响放大镜窗口；在@mainwindow.tabs.controlpoints@标签的实际图像中，始终显示编号标记。"
 		},
 		{
 			"id": "options.cpeditor.hidezoomerwhennothovering",
-			"machinetranslated": true,
-			"helptext": "如果选中，则浮动放大镜仅在鼠标指针悬停在图像上时显示。如果未选中，即使鼠标位于图像外，如果选择了控制点，也会显示放大镜。"
+			"helptext": "选中后，浮动放大镜仅在鼠标指针悬停在图像上时显示。未选中时，即使鼠标不在图像上，只要选中了控制点，也会显示放大镜。"
 		},
 		{
 			"id": "options.cpeditor.resetcptabwhenswitchingimages",
@@ -10479,14 +10280,12 @@
 		},
 		{
 			"id": "options.cpeditor.showimagepickerballoon",
-			"machinetranslated": true,
-			"helptext": "启用或停用将鼠标悬停在@mainwindow.tabs.controlpoints@选项卡中缩略图上方时出现的弹出气球，以进行包围曝光。",
+			"helptext": "启用或停用将鼠标悬停在@mainwindow.tabs.controlpoints@选项卡中缩略图上时出现的弹出气球，用于包围曝光。",
 			"morehelptext": "<br><br>对于 HDR 项目，默认情况下 PTGui 将链接图像（包围曝光）组合成单个合并图像。在@mainwindow.tabs.controlpoints@选项卡中，可能需要显示单个图像而不是合并图像，因为控制点位于各个图像之间，而不是在链接图像组之间。因此，当鼠标悬停在缩略图上时，PTGui 会弹出一个气球，显示各个图像。<br><br>如果您发现气球防碍了您，可以在此处停用它。使用键盘快捷键仍可在@mainwindow.tabs.controlpoints@选项卡中选择一组包围曝光中的单独曝光<optional platform='windows'>Ctrl + Alt +向上和Ctrl + Alt +向下</optional><optional platform='mac'>Cmd + Alt + Up和Cmd + Alt + Down</optional> 。"
 		},
 		{
 			"id": "options.cpgenerator.maxcpsperimagepair",
-			"machinetranslated": true,
-			"helptext": "将为每对重叠图像生成的最大控制点数。实际上，可以找到比这里配置的最大值更少的点。通常，每个图像对的25个控制点的默认值绰绰有余。"
+			"helptext": "每对重叠图像生成的最大控制点数。实际上找到的点数可能少于配置的最大值。通常，每对图像默认的 25 个控制点绰绰有余。"
 		},
 		{
 			"id": "options.cpgenerator.maxcpsperproject",
@@ -10502,8 +10301,7 @@
 		},
 		{
 			"id": "options.plugins.enblend.cmdline",
-			"machinetranslated": true,
-			"helptext": "可选的。输入必须传递给Enblend的任何命令行参数。"
+			"helptext": "可选。输入必须传递给 Enblend 的任何命令行参数。"
 		},
 		{
 			"id": "options.plugins.smartblend.application",
@@ -10524,14 +10322,12 @@
 		},
 		{
 			"id": "options.advanced.showconsolewindowforplugins",
-			"machinetranslated": true,
-			"helptext": "如果启用，混合插件Enblend和Smartblend将在拼接期间在单独的命令提示符（DOS）窗口中运行。",
+			"helptext": "启用后，混合插件 Enblend 和 Smartblend 会在拼接期间于单独的命令提示符（DOS）窗口中运行。",
 			"morehelptext": "<br><br>这可能对调试Enblend或Smartblend的问题很有用。如果启用，插件将在命令提示符窗口（“DOS框”）中运行，因此您可以看到详细的进度。<br><br>建议您停用此设置：通过让插件在后台运行，PTGui 将能够捕获并显示任何错误消息。如果在命令提示符窗口中运行插件时发生错误，PTGui 将无法捕获错误消息，并且在您有机会阅读错误消息之前将关闭窗口。"
 		},
 		{
 			"id": "options.advanced.maxram",
-			"machinetranslated": true,
-			"helptext": "PTGui 使用的最大RAM量。使用'@options.automatic@'或将其设置为远小于计算机中安装的RAM量。",
+			"helptext": "PTGui 使用的最大 RAM 量。使用“@options.automatic@”，或设置为远小于计算机中安装的 RAM 量。",
 			"morehelptext": "<br><br>在拼接和处理项目时，PTGui 需要保留大量临时数据。最初，PTGui 会将临时数据保存在RAM内存中。只有当内存使用量达到此处配置的数量时，临时数据才会开始写入临时文件。因为访问文件比访问RAM要慢得多，所以使用更多RAM将提高性能，达到极限。应注意不要为 PTGui 分配太多RAM，否则操作系统将开始将其他活动应用程序交换到磁盘。如果您发现计算机在 PTGui 拼接时锁定，这通常意味着 PTGui 正在尝试使用比可用RAM更多的RAM。在这种情况下，减少这个数字可能有所帮选择@options.automatic@让 PTGui 选择默认金额。"
 		},
 		{
@@ -10567,14 +10363,12 @@
 		},
 		{
 			"id": "photometricsettings.optimizewhitebalance",
-			"machinetranslated": true,
-			"helptext": "控制是否调整各个源图像的白平衡，以最小化图像之间的色差。",
+			"helptext": "控制是否调整单张源图像的白平衡，以最小化图像之间的颜色差异。",
 			"morehelptext": "<br><br>如果启用，将调整@mainwindow.tabs.imageparameters@选项卡中的“WB红色/绿色/蓝色”列。<br><br><b>@photometricsettings.onlyifnecessary@：</b>如果一个或多个图像的 EXIF 数据表明使用了自动白平衡，则将进行白平衡优化。如果使用固定的白平衡拍摄图像，则不会优化白平衡。<br><br><b>@photometricsettings.disabled@：</b>不会优化白平衡，并且在下一次优化时，所有图像的白平衡参数将重置为零。<br><br><b>@photometricsettings.enabled@：</b>将优化白平衡。<br><br><b>@photometricsettings.keepcurrent@：</b>将保留当前的白平衡参数。"
 		},
 		{
 			"id": "photometricsettings.optimizeflare",
-			"machinetranslated": true,
-			"helptext": "控制是否补偿各个源图像的@lensflare@。将增加单个图像的对比度以补偿由@lensflare@引起的对比度的降低。",
+			"helptext": "控制是否补偿各源图像的@lensflare@。将增加单张图像的对比度，以补偿@lensflare@造成的对比度降低。",
 			"morehelptext": "<br><br>如果启用，将调整@mainwindow.tabs.imageparameters@选项卡中的“@+flare@”列。<br><br><b>@photometricsettings.disabled@：</b> @lensflare@不会被优化，所有图像的@flare@参数将在下一次优化时重置为零。<br><br><b>@photometricsettings.enabled@：</b> @lensflare@将进行优化。<br><br><b>@photometricsettings.keepcurrent@：</b>将保留当前的@flare@参数。"
 		},
 		{
@@ -10596,7 +10390,7 @@
 		{
 			"id": "photometricsettings.optimizecameracurve",
 			"machinetranslated": true,
-			"helptext": "配置是否优化摄象机响应曲线。",
+			"helptext": "配置是否优化相机响应曲线。",
 			"morehelptext": "<br><br>常规图像文件中的像素值不代表场景的实际真实光强度。相反，每个相机根据特定曲线将每个像素的记录亮度映射为数值。曝光校正和 HDR 生成对真实世界的光强度进行操作，因此必须知道相机响应曲线。PTGui Pro可以通过分析多个重叠图像来确定响应曲线。如果在不同曝光时间下拍摄重叠图像，则可获得最准确的结果。<br><br><b>@photometricsettings.cameraresponsecurve.generate@：</b>分析图像以确定响应曲线。如果项目包含在不同曝光设置下拍摄的重叠像素，则只能准确确定相机曲线。因此，此选项仅应用于 HDR 项目。<br><br><b>@photometricsettings.cameraresponsecurve.usedefault@：</b>不要试图确定响应曲线；改为使用标准曲线。<br><br><b>@photometricsettings.keepcurrent@：</b>将保留当前响应曲线。<br><br><b>@options.automatic@（默认）：</b>对于 HDR 项目，将确定摄象机响应曲线；对于非 HDR 项目，使用默认曲线。"
 		},
 		{
@@ -10612,24 +10406,20 @@
 		},
 		{
 			"id": "options.advanced.gpuacceleration.dontaskdisableopenclifcrashed",
-			"machinetranslated": true,
-			"helptext": "如果在使用 OpenCL 时发生崩溃，重新启动 PTGui 后将询问是否应停用 GPU 加速。如果 PTGui 不再问这个，请选中此复选框。"
+			"helptext": "如果使用 OpenCL 时发生崩溃，PTGui 重启后会询问是否禁用 GPU 加速。如果 PTGui 不再询问，请选中此复选框。"
 		},
 		{
 			"id": "projectsettingstab.templatebehavior.preservepanoramaorientation",
-			"machinetranslated": true,
-			"helptext": "应用模板后，旋转整个全景图，使图像的@yaw@，@pitch@和@roll@尽可能地与原始值匹配。",
+			"helptext": "应用模板后，旋转整个全景图，使图像的@yaw@、@pitch@和@roll@尽可能与原始值匹配。",
 			"morehelptext": "<br><br>将从模板中复制图像的相对对齐，但全景图的整体方向将尽可能保持相同。<br><br>如果模板将用于预先定位的图像（例如，基于方向传感器的元数据），则启用此设置。"
 		},
 		{
 			"id": "projectsettingstab.misc.useorientationsensor",
-			"machinetranslated": true,
-			"helptext": "向项目添加图像时，图像的@yaw@，@pitch@和@roll@将根据摄像机方向传感器（对于支持的摄像机）的元数据自动初始化。"
+			"helptext": "向项目添加图像时，图像的@yaw@、@pitch@和@roll@将根据相机方向传感器（对支持的相机）的元数据自动初始化。"
 		},
 		{
 			"id": "batchbuilder.deleteprojectswhendone",
-			"machinetranslated": true,
-			"helptext": "批量拼接器将在处理后删除生成的项目文件。源图像不会被删除。"
+			"helptext": "批量拼接器处理完成后会删除生成的项目文件，但不会删除源图像。"
 		},
 		{
 			"id": "batchbuilder.sendtobatchstitcher",
@@ -10638,8 +10428,7 @@
 		},
 		{
 			"id": "menubar.file.mergeproject",
-			"machinetranslated": true,
-			"helptext": "将另一个项目合并到此项目中。来自其他项目的图像，控制点和镜头数据将附加到此项目中。"
+			"helptext": "将另一个项目合并到当前项目。另一个项目中的图像、控制点和镜头数据会附加到当前项目。"
 		},
 		{
 			"id": "menubar.tools.openfolder.configfolder",
@@ -10654,8 +10443,7 @@
 		},
 		{
 			"id": "mainwindow.lensparams.mirrored",
-			"machinetranslated": true,
-			"helptext": "水平镜像源图像。如果图像被裁剪，则将在裁剪图像后进行镜像。"
+			"helptext": "水平镜像源图像。如果图像经过裁剪，镜像在裁剪之后进行。"
 		},
 		{
 			"id": "panoramaeditor.sidebar.blendsettings.seamfinding",
@@ -10680,8 +10468,7 @@
 		},
 		{
 			"id": "photometricsettings.optimizeexposure",
-			"machinetranslated": true,
-			"helptext": "控制是否要调整单个源图像的亮度，以最小化重叠图像之间的亮度差异。",
+			"helptext": "控制是否调整单张源图像的亮度，以最小化重叠图像之间的亮度差异。",
 			"morehelptext": "<br><br>如果启用，将调整@mainwindow.tabs.imageparameters@选项卡中的“ @mainwindow.imageparameters.expoffset@”列。<br><br><b>@photometricsettings.onlyifnecessary@：</b>如果图像的EXIF数据包含曝光信息，则认为该数据正确，并且没有进行其他亮度优化。如果EXIF数据不包含曝光信息，则会优化亮度。<br><br><b>@photometricsettings.disabled@：</b>亮度不会被优化，@mainwindow.tabs.imageparameters@选项卡中所有图像的“ @mainwindow.imageparameters.expoffset@”列将在下一次优化时重置为零。<br><br><b>@photometricsettings.enabled@：</b>将调节源图像的亮度。<br><br><b>@photometricsettings.keepcurrent@：</b>将保留“ @mainwindow.imageparameters.expoffset@”列中的当前值。"
 		},
 		{
@@ -10710,8 +10497,7 @@
 		},
 		{
 			"id": "mainwindow.exposurehdrpanel.exposurefusesinglebrackets",
-			"machinetranslated": true,
-			"helptext": "为非包围式图像启用Exposure Fusion",
+			"helptext": "为非包围曝光图像启用曝光融合",
 			"morehelptext": "<br><br>通常，“曝光融合”用于将多个包围曝光的曝光组合成一个动态范围减小的图像。但是，PTGui也可以通过为同一图像创建人造的较暗和较亮的副本来对单个图像使用曝光融合。与色调映射类似，这会增加阴影和高光中的可见细节。"
 		},
 		{
@@ -10722,23 +10508,19 @@
 		},
 		{
 			"id": "createpanoramapanel.warnsourceimageprofilenotused.hasraw",
-			"machinetranslated": true,
-			"helptext": "由于已加载RAW或DNG文件，因此无法使用源图像的色彩空间。对于RAW或DNG文件，请在上面的列表中选择所需的颜色配置文件。"
+			"helptext": "由于加载了 RAW 或 DNG 文件，无法使用源图像的色彩空间。对于 RAW 或 DNG 文件，请在上面的列表中选择所需的颜色配置文件。"
 		},
 		{
 			"id": "createpanoramapanel.warnsourceimageprofilenotused.hasdifferent",
-			"machinetranslated": true,
-			"helptext": "无法使用源图像的色彩空间，因为源图像的颜色配置文件不同。在上面的列表中选择所需的输出颜色配置文件。"
+			"helptext": "无法使用源图像的色彩空间，因为源图像的颜色配置文件不同。请在上面的列表中选择所需的输出颜色配置文件。"
 		},
 		{
 			"id": "exposurehdrtab.currentcameracurveisnotusedwarning",
-			"machinetranslated": true,
-			"helptext": "目前未使用此相机曲线。必须在@mainwindow.tabs.imageparameters@选项卡的“ @mainwindow.imageparameters.cameracurve@”列中将摄像机曲线分配给一个或多个图像。"
+			"helptext": "当前未使用此相机曲线。必须在@mainwindow.tabs.imageparameters@选项卡的“@mainwindow.imageparameters.cameracurve@”列中将相机曲线分配给一个或多个图像。"
 		},
 		{
 			"id": "options.keepmultiplesidebarpanelsopen",
-			"machinetranslated": true,
-			"helptext": "如果选择，可以同时打开侧栏中的多个面板。打开另一个面板时，前一个面板不会自动关闭。"
+			"helptext": "选中后，侧栏中可同时打开多个面板。打开另一个面板时，前一个面板不会自动关闭。"
 		},
 		{
 			"id": "mainwindow.exposurehdrpanel.blenddatatype",
@@ -10760,8 +10542,7 @@
 		},
 		{
 			"id": "mainwindow.createpanoramatab.blendplanesnotavailableinfo",
-			"machinetranslated": true,
-			"helptext": "合并平面不会生成，因为包围的源图像首先合并到HDR中，然后进行拼接。",
+			"helptext": "不会生成混合平面，因为包围曝光的源图像先合并为 HDR，然后进行拼接。",
 			"morehelptext": "<br><br>PTGui可以以两种不同方式处理包围曝光。仅当在@mainwindow.tabs.exposurehdr@选项卡中配置了“ @mainwindow.exposurehdrpanel.hdrflow@ @mainwindow.exposurehdrpanel.hdrflow.blendthenmerge@”时，才会生成混合平面。有关更多信息，请参见@mainwindow.tabs.exposurehdr@选项卡中有关此设置的工具提示。"
 		},
 		{
@@ -10811,8 +10592,7 @@
 		},
 		{
 			"id": "mainwindow.projectsettings.hdrdefaults.askmode",
-			"machinetranslated": true,
-			"helptext": "确定如果检测到包围曝光的图像，则在@mainwindow.tabs.projectassistant@选项卡中单击“ @alignimages@”时的行为。",
+			"helptext": "如果在@mainwindow.tabs.projectassistant@选项卡中检测到包围曝光图像，则确定单击“@alignimages@”时的行为。",
 			"morehelptext": "<br><br><b>@mainwindow.projectsettings.hdrdefaults.askmode.ask@：</b>将显示一个对话框，询问是否应链接图像。<br><br><b>@mainwindow.projectsettings.hdrdefaults.askmode.applywithoutasking@：</b>上面配置的设置（在“ @mainwindow.projectsettings.hdrdefaults.subheading_v2@”之后）将自动应用。<br><br><b>@mainwindow.projectsettings.hdrdefaults.askmode.ignore@：</b>不执行任何操作；继续正常使用@alignimages@。"
 		},
 		{
@@ -10895,14 +10675,12 @@
 		},
 		{
 			"id": "panoramaeditor.sidebar.blendsettings.maskpushseams",
-			"machinetranslated": true,
-			"helptext": "将接缝放置在远离任何遮蔽区域的地方。",
+			"helptext": "将接缝放置在远离蒙版区域的地方。",
 			"morehelptext": "<br><br>如果启用，则接缝将与任何红色或绿色蒙版区域保持一定距离。如果禁用，则即使在附近放置遮罩，接缝也将保持在重叠区域的中间。<br><br>仅适用于@panoramaeditor.sidebar.blendsettings.blender.zerooverlap@混合器，并且如果禁用了@panoramaeditor.sidebar.blendsettings.seamfinding@。"
 		},
 		{
 			"id": "options.monitorcolorprofile",
-			"machinetranslated": true,
-			"helptext": "选择要用于 PTGui 用户界面中显示的图像的颜色配置文件。此设置仅用于显示，生成的全景图不受影响。",
+			"helptext": "选择用于 PTGui 用户界面中显示图像的颜色配置文件。此设置仅影响显示，不影响生成的全景图。",
 			"morehelptext": "<br><br>如果您的计算机具有校准显示器，您可以在此处加载其颜色配置文件，以便 PTGui PTGui 用户界面将显示正确的颜色。<br><br>在 Windows 下，同样可以通过在 Windows 颜色设置中配置颜色配置文件来实现。<br><br>如果此处未加载颜色配置文件，Linux 版 PTGui 将使用 sRGB。"
 		},
 		{
@@ -10982,8 +10760,7 @@
 		},
 		{
 			"id": "detailviewer.sidebar.patch.size",
-			"machinetranslated": true,
-			"helptext": "快照图像的大小（以像素为单位）。将结果设置为 100% 以创建最佳大小的快照。"
+			"helptext": "快照图像的大小（以像素为单位）。将分辨率设置为 100% 可创建最佳大小的快照。"
 		},
 		{
 			"id": "detailviewer.sidebar.extractsave",
@@ -11056,8 +10833,7 @@
 		},
 		{
 			"id": "options.spacing",
-			"machinetranslated": true,
-			"helptext": "配置用户界面元素之间的间距。在较小的屏幕上，这可能设置为“@options.spacing.narrow@”。"
+			"helptext": "配置用户界面元素之间的间距。在较小的屏幕上，可设置为“@options.spacing.narrow@”。"
 		},
 		{
 			"id": "panoramaeditor.sidebar.postprocess.whitebalance",
@@ -11077,13 +10853,11 @@
 		},
 		{
 			"id": "fileformatsettings.exrzipcompressionlevel",
-			"machinetranslated": true,
-			"helptext": "用于 ZIP 压缩的压缩级别。介于 0（低压缩和高图像质量）和 9（高压缩和较低质量）之间。"
+			"helptext": "ZIP 压缩使用的压缩级别。介于 0（低压缩、高图像质量）和 9（高压缩、较低质量）之间。"
 		},
 		{
 			"id": "preprocesstab.careduction",
-			"machinetranslated": true,
-			"helptext": "色差是一种镜头畸变，导致不同颜色的聚焦略有不同。这可以看作是物体边缘周围的彩色条纹。色差减少量可以调整。"
+			"helptext": "色差是一种镜头畸变，导致不同颜色的光线聚焦位置略有不同，表现为物体边缘的彩色条纹。可调整色差消除量。"
 		},
 		{
 			"id": "panoramaeditor.sidebar.hdrpostprocess.exposurereference",
@@ -11128,13 +10902,11 @@
 		},
 		{
 			"id": "panoramapreviewsettingspanel.hdrexposure",
-			"machinetranslated": true,
-			"helptext": "增加或减少预览的亮度。仅影响 @panoramaeditor@ 和 @detailviewer@ 中显示的图像，而不影响实际输出。"
+			"helptext": "增加或减少预览的亮度。仅影响@panoramaeditor@和@detailviewer@中显示的图像，不影响实际输出。"
 		},
 		{
 			"id": "fileformatsettings.exrdwacompressionlevel",
-			"machinetranslated": true,
-			"helptext": "用于 DWA 压缩的压缩级别。 0 是无损的；值越高，压缩率越高，图像质量越低。"
+			"helptext": "DWA 压缩使用的压缩级别。0 为无损；值越高压缩率越高，图像质量越低。"
 		},
 		{
 			"id": "detailviewer.sidebar.patch.openin",
@@ -11144,13 +10916,11 @@
 		},
 		{
 			"id": "preprocesstab.fringereduction",
-			"machinetranslated": true,
-			"helptext": "紫边是一种色差，在照片的高对比度区域周围呈现紫色或洋红色边缘，通常在明亮光源附近或背光拍摄时出现。选中此复选框可移除或减少紫边。"
+			"helptext": "紫边是一种色差，在高对比度区域周围（通常在明亮光源附近或逆光拍摄时）呈现为紫色或品红色边缘。选中此复选框可移除或减少紫边。"
 		},
 		{
 			"id": "fileformatsettings.effort",
-			"machinetranslated": true,
-			"helptext": "压缩图像所需的工作量。值越高，压缩效果越好（文件越小），但压缩时间越长。"
+			"helptext": "压缩图像投入的工作量。值越高压缩效果越好（文件越小），但压缩时间越长。"
 		}
 	],
 	"helppages": [
@@ -11160,8 +10930,7 @@
 		},
 		{
 			"id": "aligntogrid",
-			"machinetranslated": true,
-			"helptext": "<b>@menubar.project.aligntogrid@</b><br><br>此工具将当前项目中图像的@yaw@和@pitch@角度初始化为行和列网格。在使用电动全景头创建千兆像素全景图时，它非常有用。<br><br><b>用法</b><br><br>首先，应加载全景图像。然后，在<b>@gridsetup.grid@</b>部分中选择应该应用网格的图像范围（对于均匀网格，这将是'@gridsetup.allimages@'）。<br><br>在<b>@gridsetup.shootingconfiguration@</b>下配置移动方向。<br><br>对于水平轴和垂直轴，可以配置偏移量和重叠量。<br><br>最后按<b>@txt.apply@</b>将网格应用于项目。在全景编辑窗口中验证结果。<br><br>由于没有全景头将100％准确，在设置网格后，仍然需要做'@alignimages@'。这将微调对齐。优化器将尝试为所有没有控制点的图像保留网格结构。<br><br><b>非均匀网格</b><br><br>如果将整个全景图作为均匀网格（即每行的列数相同），则可以将网格应用于所有图像。但是也支持非均匀网格：只需将不同的网格应用于全景图的不同部分。对于每个部分，选择要应用网格的图像范围，配置网格并按@txt.apply@。然后重复下一节。<br><br>如果相同的网格将用于多个全景图，请使用@menubar.file@ - @menubar.file.saveastemplate@。然后可以通过应用模板而不是使用@menubar.project.aligntogrid@来应用网格配置。"
+			"helptext": "<b>@menubar.project.aligntogrid@</b><br><br>此工具将当前项目中图像的@yaw@和@pitch@角度初始化为行列网格。在使用电动全景云台创建千兆像素全景图时，它非常有用。<br><br><b>用法</b><br><br>首先，应加载全景图像。然后，在<b>@gridsetup.grid@</b>部分中选择应该应用网格的图像范围（对于均匀网格，这将是'@gridsetup.allimages@'）。<br><br>在<b>@gridsetup.shootingconfiguration@</b>下配置移动方向。<br><br>对于水平轴和垂直轴，可以配置偏移量和重叠量。<br><br>最后按<b>@txt.apply@</b>将网格应用于项目。在全景编辑窗口中验证结果。<br><br>由于没有全景头将100％准确，在设置网格后，仍然需要做'@alignimages@'。这将微调对齐。优化器将尝试为所有没有控制点的图像保留网格结构。<br><br><b>非均匀网格</b><br><br>如果将整个全景图作为均匀网格（即每行的列数相同），则可以将网格应用于所有图像。但是也支持非均匀网格：只需将不同的网格应用于全景图的不同部分。对于每个部分，选择要应用网格的图像范围，配置网格并按@txt.apply@。然后重复下一节。<br><br>如果相同的网格将用于多个全景图，请使用@menubar.file@ - @menubar.file.saveastemplate@。然后可以通过应用模板而不是使用@menubar.project.aligntogrid@来应用网格配置。"
 		},
 		{
 			"id": "batchbuilder",
@@ -11173,23 +10942,19 @@
 		},
 		{
 			"id": "projections",
-			"machinetranslated": true,
-			"helptext": "<b>预测</b><br><br>全景，或实际上任何照片，是相机周围场景的平面表示。有三种方法可将三维世界投射到平面上，因此 PTGui 提供多种全景投影选择。每个都有自己的属性和限制。<br><br>在全景图编辑器，侧栏的“投影”部分或使用工具栏中的投影按钮中选择所需的投影。PTGui 支持以下预测：<br><br><b>@+projection.rectilinear@（'flat'）：</b>这是全景球体投影到平面上的投影。这是我们的眼睛习惯的投影，普通相机的投影。直线投影具有保留所有直线的独特属性：任何在现实世界中直线的线在全景图中显示为直线。这使其成为建筑图像的合适投影。相同的属性限制了视野：在物理上不可能投射超过180°的视野，同时保留直线。在90°以上的视野中，在图像的侧面和角落处拉伸变得明显；直线在120°以上变得无法使用。<br><br>通过使用水平和/或垂直压缩可以减少角部拉伸效果；请参阅全景编辑器中Projection侧栏中的“@panoramaeditor.sidebar.projectionpanel.compression@”滑块。通过压缩直线查看，可以创建接近180°x 180°的全景图而不会出现极端失真。直线不再保留：水平和垂直线仍保持笔直，但使用压缩时对角线会弯曲。<br><br>对于宽度超过180°的全景图，应使用其他投影之一：<br><br><b>@+projection.cylindrical@：</b>这是将全景球投射到圆柱体表面上的结果。圆柱全景图支持360°水平视野。垂直投影的行为类似于直线：垂直视场的物理极限为180°，实际极限约为120°。因此，圆柱投影主要适用于单行360°全景图。<br><br>保留所有垂直直线。水平直线通常是弯曲的。只有地平线仍然是直的。<br><br>与直线投影一样，圆柱投影可以垂直压缩。增加垂直压缩会降低全景顶部和底部附近的拉伸效果。在完全垂直压缩时，结果等于等角投影。<br><br><b>@+projection.mercator@：</b>此投影类似于@+projection.cylindrical@，但在较高的垂直视野范围内，顶部和底部的拉伸不太严重。这是圆柱和等角形投影之间的良好折衷，适用于具有更高垂直视场（超过90°）的360°全景图。除此之外，性能与圆柱投影相同：垂直视场限制为180°；只有垂直直线和水平线在全景图中保持直线。<br><br><b>@+projection.equirectangular@：</b>这是全景球体的纬度/经度投影。 Equirectangular投影可以具有高达360°x 180°的视野，使其适用于全球面全景图。<br><br>与圆柱和墨卡托投影一样，在垂直投影中只有垂直线和水平线投影为直线。所有其他线条都变得弯曲。<br><br>360°x 180°equirectangular已成为在应用程序之间交换球形全景图的标准格式。许多交互式全景查看器直接支持equirectangular图像。<br><br><b>@+projection.transversecylindrical@，@+projection.transversemercator@和@+projection.transverseequirectangular@：</b>这些投影分别等于@+projection.cylindrical@，@+projection.mercator@和@+projection.equirectangular@，但旋转90°。它们支持高达360°的垂直视场，而水平视场限制为180°。这些投影适用于高垂直全景图。<br><br><b>@+projection.circularfisheye@和@+projection.fullframefisheye@：</b>这些投影仿真鱼眼镜头。两个投影都给出相同的结果，但@projection.circularfisheye@输出被裁剪为圆形，而@projection.fullframefisheye@输出被裁剪为矩形。所有方向的视野可达360°。<br><br>此投影可使用压缩设置。在默认的完全压缩时，结果是真正的鱼眼投影。当压缩减小（滑块向左移动）时，投影变形为直线投影。压缩减小的鱼眼查看可用作广角直线查看的折衷方案：在全景中心附近保留直线，但朝向边缘变得更加弯曲。<br><br><b>@+projection.vedutismo@：</b>以18世纪的绘画风格命名，这个投影保留了通过全景中心的所有对角直线。它最适合具有清淅“消失点”的广角场景：如果消失点移动到全景中心，则进入消失点的所有线都保持笔直。<br><br>Vedutismo投影支持高达360°的水平视野，尽管对于非常宽的全景图，边缘处的一些垂直拉伸变得明显。垂直视场限制为180°。任何不通过全景中心点的直线都会弯曲。<br><br><b>@+projection.transversevedutismo@：</b>具有相同的属性，但水平限制为180°，垂直方向限制为360°，可用于高垂直全景图。<br><br><b>@+projection.stereographic@：</b>这是从<b>球杆</b>上看到的球体在平面上的投影。它以“小星球”的视点而闻名。为了便于创建小行星，提供了另一个名为“@+projection.stereographicdown@”的投影，它是相同的投影，但是旋转使得场景的最低点位于全景的中心。<br><br>立体投影具有额外的压缩参数。在最大压缩时，结果是真实的立体投影；减小压缩将视点从极点移动到球体的中心，有效地将查看变形为直线投影。"
+			"helptext": "<b>投影</b><br><br>全景，或实际上任何照片，是相机周围场景的平面表示。有三种方法可将三维世界投射到平面上，因此 PTGui 提供多种全景投影选择。每个都有自己的属性和限制。<br><br>在全景图编辑器，侧栏的“投影”部分或使用工具栏中的投影按钮中选择所需的投影。PTGui 支持以下投影：<br><br><b>@+projection.rectilinear@（'flat'）：</b>这是全景球体投影到平面上的投影。这是我们的眼睛习惯的投影，普通相机的投影。直线投影具有保留所有直线的独特属性：任何在现实世界中直线的线在全景图中显示为直线。这使其成为建筑图像的合适投影。相同的属性限制了视野：在物理上不可能投射超过180°的视野，同时保留直线。在90°以上的视野中，在图像的侧面和角落处拉伸变得明显；直线在120°以上变得无法使用。<br><br>通过使用水平和/或垂直压缩可以减少角部拉伸效果；请参阅全景编辑器中Projection侧栏中的“@panoramaeditor.sidebar.projectionpanel.compression@”滑块。通过压缩直线查看，可以创建接近180°x 180°的全景图而不会出现极端失真。直线不再保留：水平和垂直线仍保持笔直，但使用压缩时对角线会弯曲。<br><br>对于宽度超过180°的全景图，应使用其他投影之一：<br><br><b>@+projection.cylindrical@：</b>这是将全景球投射到圆柱体表面上的结果。圆柱全景图支持360°水平视野。垂直投影的行为类似于直线：垂直视场的物理极限为180°，实际极限约为120°。因此，圆柱投影主要适用于单行360°全景图。<br><br>保留所有垂直直线。水平直线通常是弯曲的。只有地平线仍然是直的。<br><br>与直线投影一样，圆柱投影可以垂直压缩。增加垂直压缩会降低全景顶部和底部附近的拉伸效果。在完全垂直压缩时，结果等于等距柱状投影。<br><br><b>@+projection.mercator@：</b>此投影类似于@+projection.cylindrical@，但在较高的垂直视野范围内，顶部和底部的拉伸不太严重。这是圆柱和等角形投影之间的良好折衷，适用于具有更高垂直视场（超过90°）的360°全景图。除此之外，性能与圆柱投影相同：垂直视场限制为180°；只有垂直直线和水平线在全景图中保持直线。<br><br><b>@+projection.equirectangular@：</b>这是全景球体的纬度/经度投影。 等距柱状投影可以具有高达360°x 180°的视野，使其适用于全球面全景图。<br><br>与圆柱和墨卡托投影一样，在垂直投影中只有垂直线和水平线投影为直线。所有其他线条都变得弯曲。<br><br>360°x 180°equirectangular已成为在应用程序之间交换球形全景图的标准格式。许多交互式全景查看器直接支持equirectangular图像。<br><br><b>@+projection.transversecylindrical@，@+projection.transversemercator@和@+projection.transverseequirectangular@：</b>这些投影分别等于@+projection.cylindrical@，@+projection.mercator@和@+projection.equirectangular@，但旋转90°。它们支持高达360°的垂直视场，而水平视场限制为180°。这些投影适用于高垂直全景图。<br><br><b>@+projection.circularfisheye@和@+projection.fullframefisheye@：</b>这些投影仿真鱼眼镜头。两个投影都给出相同的结果，但@projection.circularfisheye@输出被裁剪为圆形，而@projection.fullframefisheye@输出被裁剪为矩形。所有方向的视野可达360°。<br><br>此投影可使用压缩设置。在默认的完全压缩时，结果是真正的鱼眼投影。当压缩减小（滑块向左移动）时，投影变形为直线投影。压缩减小的鱼眼查看可用作广角直线查看的折衷方案：在全景中心附近保留直线，但朝向边缘变得更加弯曲。<br><br><b>@+projection.vedutismo@：</b>以18世纪的绘画风格命名，这个投影保留了通过全景中心的所有对角直线。它最适合具有清淅“消失点”的广角场景：如果消失点移动到全景中心，则进入消失点的所有线都保持笔直。<br><br>Vedutismo投影支持高达360°的水平视野，尽管对于非常宽的全景图，边缘处的一些垂直拉伸变得明显。垂直视场限制为180°。任何不通过全景中心点的直线都会弯曲。<br><br><b>@+projection.transversevedutismo@：</b>具有相同的属性，但水平限制为180°，垂直方向限制为360°，可用于高垂直全景图。<br><br><b>@+projection.stereographic@：</b>这是从<b>球杆</b>上看到的球体在平面上的投影。它以“小星球”的视点而闻名。为了便于创建小行星，提供了另一个名为“@+projection.stereographicdown@”的投影，它是相同的投影，但是旋转使得场景的最低点位于全景的中心。<br><br>立体投影具有额外的压缩参数。在最大压缩时，结果是真实的立体投影；减小压缩将视点从极点移动到球体的中心，有效地将查看变形为直线投影。"
 		},
 		{
 			"id": "publishtowebsite",
-			"machinetranslated": true,
-			"helptext": "<b>@menubar.tools.publishtowebsite@</b><br><br> PTGui 包括一个 PTGui Viewer插件，用于在网站上发布360°或全球形全景图。该插件使网站访问者可以通过单击并拖动鼠标来“环顾四周”。有关此类交互式全景图的示例，请访问www.ptgui.com上的图库。<br><br> PTGui 可以生成所有必要的文件，只需点击一下即可在网站上发布全景图。PTGui Viewer兼容所有现代Web浏览器，包括移动设备上的浏览器。<br><br><b>用法</b><br><br>首先应将全景图拼接成jpeg或tiff格式的常规平面图像。在@menubar.tools.publishtowebsite@中，将拼接的全景图添加到列表中，然后按<b>@txt.convert@</b>创建Web发布所需的文件。最后，生成的文件需要上传到Web服务器。<br><br><b>拼接全景</b><br><br>通常应该使用equirectangular投影，因为这可以支持完全球形的全景图。拼接全景图时，可以在全景编辑器窗口中选择投影。使用两个滑块调整视野，直到全景图填满整个画布，或使用360°x 180°拍摄全球面全景图。不要在全景编辑器中使用黄色裁剪线：这会导致 PTGui Viewer不支持的非对称裁剪。<br><br>记下全景图的水平视野：这在全景编辑器侧栏中显示在“投影”下。建议仅将@menubar.tools.publishtowebsite@工具用于宽度超过180°的全景图：内部全景图转换为完整的360°x 180°表示；如果全景的可视部分只是一小部分，则浪费了大量空间。最后转到@mainwindow.tabs.createpanorama@并以 TIFF 或 JPEG 格式创建全景图。<br><br><b>上传到网站</b><br><br>@menubar.tools.publishtowebsite@工具生成许多文件；这些应该上传到您的Web服务器上的文件夹。通常，这是使用FTP，SFTP或SCP完成的。有关如何运行此操作的详细信息，请与您的网络托管公司联系。文件发布后，您可以链接到上传的.htm文件以显示全景图。<br><br><b>使用自定义模板</b><br><br> PTGui 将生成一个具有默认布局的基本网页。如果您知道如何编辑html和css，则可以象任何其他html文件一样自定义生成的网页。或者，可以使用模板自定义@menubar.tools.publishtowebsite@工具生成的页面布局。<br><br>选择<b>@publishtowebsite.usecustomtemplate@</b>以使用您自己的模板。单击@browse@并指向您自己的模板文件（.htm格式）。或者单击<b>@publishtowebsite.createtemplate@</b>以创建新模板文件：这将创建 PTGui 默认模板的副本，您可以自定义该模板。<br><br>该模板是一个常规.htm文件，其中包含3个自定义标记：<br><br>{{TITLE}} - 将替换为网页标题字段中输入的值<br>{{DESCRIPTION}} - 替换为在“说明”字段中输入的文本<br>{{PARAMS}} - 全景查看器插件的参数"
+			"helptext": "<b>@menubar.tools.publishtowebsite@</b><br><br> PTGui 包括一个 PTGui Viewer 插件，用于在网站上发布360° 或球形全景图。该插件使网站访问者可以通过单击并拖动鼠标来“环顾四周”。有关此类交互式全景图的示例，请访问www.ptgui.com上的图库。<br><br> PTGui 可以生成所有必要的文件，只需点击一下即可在网站上发布全景图。PTGui Viewer兼容所有现代Web浏览器，包括移动设备上的浏览器。<br><br><b>用法</b><br><br>首先应将全景图拼接成jpeg或tiff格式的常规平面图像。在@menubar.tools.publishtowebsite@中，将拼接的全景图添加到列表中，然后按<b>@txt.convert@</b>创建Web发布所需的文件。最后，生成的文件需要上传到Web服务器。<br><br><b>拼接全景</b><br><br>通常应该使用equirectangular投影，因为这可以支持完全球形的全景图。拼接全景图时，可以在全景编辑器窗口中选择投影。使用两个滑块调整视野，直到全景图填满整个画布，或使用360°x 180°拍摄全球面全景图。不要在全景编辑器中使用黄色裁剪线：这会导致 PTGui Viewer不支持的非对称裁剪。<br><br>记下全景图的水平视野：这在全景编辑器侧栏中显示在“投影”下。建议仅将@menubar.tools.publishtowebsite@工具用于宽度超过180°的全景图：内部全景图转换为完整的360°x 180°表示；如果全景的可视部分只是一小部分，则浪费了大量空间。最后转到@mainwindow.tabs.createpanorama@并以 TIFF 或 JPEG 格式创建全景图。<br><br><b>上传到网站</b><br><br>@menubar.tools.publishtowebsite@工具生成许多文件；这些应该上传到您的Web服务器上的文件夹。通常，这是使用FTP，SFTP或SCP完成的。有关如何运行此操作的详细信息，请与您的网络托管公司联系。文件发布后，您可以链接到上传的.htm文件以显示全景图。<br><br><b>使用自定义模板</b><br><br> PTGui 将生成一个具有默认布局的基本网页。如果您知道如何编辑html和css，则可以象任何其他html文件一样自定义生成的网页。或者，可以使用模板自定义@menubar.tools.publishtowebsite@工具生成的页面布局。<br><br>选择<b>@publishtowebsite.usecustomtemplate@</b>以使用您自己的模板。单击@browse@并指向您自己的模板文件（.htm格式）。或者单击<b>@publishtowebsite.createtemplate@</b>以创建新模板文件：这将创建 PTGui 默认模板的副本，您可以自定义该模板。<br><br>该模板是一个常规.htm文件，其中包含3个自定义标记：<br><br>{{TITLE}} - 将替换为网页标题字段中输入的值<br>{{DESCRIPTION}} - 替换为在“说明”字段中输入的文本<br>{{PARAMS}} - 全景查看器插件的参数"
 		},
 		{
 			"id": "converttocubic",
-			"machinetranslated": true,
-			"helptext": "<b>@menubar.tools.converttocubic@</b><br><br>使用此工具将现有全景图转换为6个立方体面或 QuickTime VR格式。<br><br>立方体面是全景投影到立方体的6个面上；许多全景查看器都需要立方体面格式的源图像。此外，立方体面可用于修饰拼接全景的最低点和天顶。<br><br> QTVR 是 QuickTime .mov视频格式的一种特殊方言，支持球形全景的交互式播放。多年来，这一直是在网页中嵌入全景图的首选格式： QuickTime 插件安装在每台Mac和许多Windows计算机上（它包含在iTunes for Windows中）。 2009年，Apple已经放弃了对 QuickTime 的 QTVR 支持，所以现在应该将其视为传统格式。<br><br><b>拼接全景</b><br><br>要生成立方体面，首先应将全景图拼接成单个平面图像。通常应该使用equirectangular投影，因为这可以支持完全球形的全景图。拼接全景图时，可以在全景编辑器窗口中选择投影。使用两个滑块调整视野，直到全景图填满整个画布，或使用360°x 180°拍摄全球面全景图。不要在全景编辑器中使用黄色裁剪线：这会导致非对称裁剪，转换工具不支持。<br><br>记下全景图的水平视野：这将显示在全景编辑器侧栏中的“投影”下。建议仅将此工具用于宽幅或球形全景图，否则大部分立方体面将为黑色，并且将浪费大量空间以实现全景图的分辨率。最后转到@mainwindow.tabs.createpanorama@并以 TIFF 或 JPEG 格式创建全景图。<br><br><b>Nadir / zenith修饰</b><br><br>立方体面是修饰天底或天顶的理想格式，PTGui 以简单的方式支持：简单地将您的equirectangular 360°x 180°全景转换为立方体面（6个单独的文件）。在立方体面部图像中进行任何必要的修饰。要重新组合equirectangular图像，只需启动一个新的 PTGui 项目，将6个立方体面添加为源图像，然后直接进入@mainwindow.tabs.createpanorama@。PTGui 将通过查看文件名来确定哪个图像对应于哪个立方体面。文件名后缀（例如panorama.left.jpg，panorama.top.jpg）应与此窗口中“@cubicconverter.cubefacenaming@”配置的后缀相匹配。"
+			"helptext": "<b>@menubar.tools.converttocubic@</b><br><br>使用此工具将现有全景图转换为 6 个立方体面或（旧版）QuickTime VR 格式。<br><br>立方体面是全景投影到立方体的6 个面上；许多全景查看器都需要立方体面格式的源图像。此外，立方体面可用于修饰拼接全景的最低点和天顶。<br><br> QTVR 是 QuickTime .mov视频格式的一种特殊方言，支持球形全景的交互式播放。多年来，这一直是在网页中嵌入全景图的首选格式： QuickTime 插件安装在每台Mac和许多Windows计算机上（它包含在iTunes for Windows中）。 2009年，Apple已经放弃了对 QuickTime 的 QTVR 支持，所以现在应该将其视为传统格式。<br><br><b>拼接全景</b><br><br>要生成立方体面，首先应将全景图拼接成单个平面图像。通常应该使用equirectangular投影，因为这可以支持完全球形的全景图。拼接全景图时，可以在全景编辑器窗口中选择投影。使用两个滑块调整视野，直到全景图填满整个画布，或使用360°x 180°拍摄全球面全景图。不要在全景编辑器中使用黄色裁剪线：这会导致非对称裁剪，转换工具不支持。<br><br>记下全景图的水平视野：这将显示在全景编辑器侧栏中的“投影”下。建议仅将此工具用于宽幅或球形全景图，否则大部分立方体面将为黑色，并且将浪费大量空间以实现全景图的分辨率。最后转到@mainwindow.tabs.createpanorama@并以 TIFF 或 JPEG 格式创建全景图。<br><br><b>Nadir / zenith修饰</b><br><br>立方体面是修饰天底或天顶的理想格式，PTGui 以简单的方式支持：简单地将您的equirectangular 360°x 180°全景转换为立方体面（6个单独的文件）。在立方体面部图像中进行任何必要的修饰。要重新组合equirectangular图像，只需启动一个新的 PTGui 项目，将6个立方体面添加为源图像，然后直接进入@mainwindow.tabs.createpanorama@。PTGui 将通过查看文件名来确定哪个图像对应于哪个立方体面。文件名后缀（例如panorama.left.jpg，panorama.top.jpg）应与此窗口中“@cubicconverter.cubefacenaming@”配置的后缀相匹配。"
 		},
 		{
 			"id": "panoramaeditor",
-			"machinetranslated": true,
-			"helptext": "<b>@panoramaeditor@</b><br><br>全景编辑器显示全景的实时预览。可以更改全景的全景投影，可以裁剪全景图并且可以在全景图中移动单个图像。全景编辑器从@menubar.tools@ | @panoramaeditor@打开，或者由<optional platform='windows'>按Ctrl + E.</optional><optional platform='mac'>按下Cmd + E.</optional> 。<br><br>全景编辑器可以在三种模式下操作，通过按相应的工具栏按钮启用：<br><b>@panoramaeditor.menubar.editindividualimages@：</b>在全景图中单独重新定位图像。<br><b>@panoramaeditor.menubar.editpano@：</b>整体移动或旋转全景图。<br><b>@panoeditor.menubar.setcenter@：</b>将全景图围绕某个点居中。<br><br>根据所选模式，可以移动整个全景图或单个图像。用鼠标左键拖动移动。用鼠标右键拖动<optional platform='mac'>（或Ctrl +拖动）</optional>旋转。<br><br>右键点击<optional platform='mac'>（或按住Ctrl键并单击）</optional>在全景图中调出上下文菜单，对鼠标指针下方的图像运行操作。<br><br>在左侧和底部是两个<b>视野滑块：</b>使用这些<b>滑块</b>加宽或缩小全景。<br><br>在右侧有一个<b>侧栏</b>提供进一步的编辑选项。可以使用箭头按钮隐藏或锁定侧边栏。<br><br>单击放大镜以显示<b>详细信息查看器</b> ，这可用于放大全景图的特定部分。<br><br>通过向右拖动小三角形按钮（在底部）可以覆盖<b>网格</b> 。<br><br>在工具栏中，可以选择三种<b>混合模式中的</b>一种：@panoeditor.menubar.blended@，@panoeditor.menubar.unblended@和@panoeditor.menubar.showseams@。有关更多信息，请参阅工具提示。"
+			"helptext": "<b>@panoramaeditor@</b><br><br>全景编辑器显示全景的实时预览。可以更改全景图的投影，可以裁剪全景图并且可以在全景图中移动单个图像。可通过@menubar.tools@ | @panoramaeditor@打开全景编辑器，或者由<optional platform='windows'>按Ctrl + E.</optional><optional platform='mac'>按下Cmd + E.</optional> 。<br><br>全景编辑器可以在三种模式下操作，通过按相应的工具栏按钮启用：<br><b>@panoramaeditor.menubar.editindividualimages@：</b>在全景图中单独重新定位图像。<br><b>@panoramaeditor.menubar.editpano@：</b>整体移动或旋转全景图。<br><b>@panoeditor.menubar.setcenter@：</b>将全景图围绕某个点居中。<br><br>根据所选模式，可以移动整个全景图或单个图像。用鼠标左键拖动移动。用鼠标右键拖动<optional platform='mac'>（或Ctrl +拖动）</optional>旋转。<br><br>右键点击<optional platform='mac'>（或按住Ctrl键并单击）</optional>在全景图中调出上下文菜单，对鼠标指针下方的图像运行操作。<br><br>在左侧和底部是两个<b>视野滑块：</b>使用这些<b>滑块</b>加宽或缩小全景。<br><br>在右侧有一个<b>侧栏</b>提供进一步的编辑选项。可以使用箭头按钮隐藏或锁定侧边栏。<br><br>单击放大镜以显示<b>详细信息查看器</b> ，这可用于放大全景图的特定部分。<br><br>通过向右拖动小三角形按钮（在底部）可以覆盖<b>网格</b> 。<br><br>在工具栏中，可以选择三种<b>混合模式中的</b>一种：@panoeditor.menubar.blended@，@panoeditor.menubar.unblended@和@panoeditor.menubar.showseams@。有关更多信息，请参阅工具提示。"
 		},
 		{
 			"id": "detailviewer",
@@ -11197,13 +10962,11 @@
 		},
 		{
 			"id": "mainwindow.projectassistant",
-			"machinetranslated": true,
-			"helptext": "<b>@mainwindow.tabs.projectassistant@</b><br><br>欢迎来到 PTGui ！您当前位于@mainwindow.tabs.projectassistant@标签中。项目助理通过三个简单的步骤指导您完成创建全景图的过程。<br><br>在窗口的左侧，您会看到Tab Bar。每个选项卡打开一个页面，其中包含不同的全景设置。最初只能看到@mainwindow.tabs.projectassistant@选项卡。在此过程中，其他选项卡在相关时将变为可见。您可以按<b>@advanced@</b>按钮显示所有选项卡，但对于大多数全景图，这不是必需的。<br><br>要拼接全景图，请按照以下三个步骤操作：<br><br><b>1. @mainwindow.projectassistant.loadimages@</b><br>按此按钮选择源图像。您可以一次打开多个文件，方法是按住<optional platform='windows'>Ctrl键</optional><optional platform='mac'>Cmd键</optional>在选择文件时。或者，可以将文件从（例如）@txt.finderorexplorer@拖放到 PTGui 窗口中<br><br>图像的顺序根本不重要：在下一步中，PTGui 将确定图像如何重叠。PTGui 可以在同一个全景图中处理多行图像，只需一次加载所有图像。<br><br>可以使用两个旋转按钮旋转图像。如果在对齐全景图后运行此操作，它将旋转整个全景图，图像将保持对齐。<br><br><b>2. @mainwindow.projectassistant.setuppanorama@</b><br>在下一步中，PTGui 将对齐图像。对齐分两步完成：首先，PTGui 将分析图像并在重叠图像中查找匹配的特征。在这种匹配功能中，添加了“控制点”。接下来将运行优化程序。优化器将尝试放置图像，使控制点尽可能匹配。<br><br>对齐图像后，打开全景编辑器以查看拼接全景的预览。如果存在未对齐，请转到@mainwindow.tabs.controlpoints@选项卡以添加或编辑控制点，然后运行优化程序。 <optional product='pro'>可以使用@mainwindow.tabs.mask@选项卡删除移动对象。</optional><br><br><b>3. @mainwindow.tabs.createpanorama@</b><br>最后，按@mainwindow.tabs.createpanorama@按钮切换到@mainwindow.tabs.createpanorama@选项卡。您可以在此处配置输出选项并拼接全景图。"
+			"helptext": "<b>@mainwindow.tabs.projectassistant@</b><br><br>欢迎使用 PTGui！您当前位于@mainwindow.tabs.projectassistant@选项卡中。项目向导通过三个简单的步骤指导您完成创建全景图的过程。<br><br>在窗口的左侧，您会看到Tab Bar。每个选项卡打开一个页面，其中包含不同的全景设置。最初只能看到@mainwindow.tabs.projectassistant@选项卡。在此过程中，其他选项卡在相关时将变为可见。您可以按<b>@advanced@</b>按钮显示所有选项卡，但对于大多数全景图，这不是必需的。<br><br>要拼接全景图，请按照以下三个步骤操作：<br><br><b>1. @mainwindow.projectassistant.loadimages@</b><br>按此按钮选择源图像。您可以一次打开多个文件，方法是按住<optional platform='windows'>Ctrl键</optional><optional platform='mac'>Cmd键</optional>在选择文件时。或者，可以将文件从（例如）@txt.finderorexplorer@拖放到 PTGui 窗口中<br><br>图像的顺序根本不重要：在下一步中，PTGui 将确定图像如何重叠。PTGui 可以在同一个全景图中处理多行图像，只需一次加载所有图像。<br><br>可以使用两个旋转按钮旋转图像。如果在对齐全景图后运行此操作，它将旋转整个全景图，图像将保持对齐。<br><br><b>2. @mainwindow.projectassistant.setuppanorama@</b><br>在下一步中，PTGui 将对齐图像。对齐分两步完成：首先，PTGui 将分析图像并在重叠图像中查找匹配的特征。在这种匹配功能中，添加了“控制点”。接下来将运行优化程序。优化器将尝试放置图像，使控制点尽可能匹配。<br><br>对齐图像后，打开全景编辑器以查看拼接全景的预览。如果存在未对齐，请转到@mainwindow.tabs.controlpoints@选项卡以添加或编辑控制点，然后运行优化程序。 <optional product='pro'>可以使用@mainwindow.tabs.mask@选项卡删除移动对象。</optional><br><br><b>3. @mainwindow.tabs.createpanorama@</b><br>最后，按@mainwindow.tabs.createpanorama@按钮切换到@mainwindow.tabs.createpanorama@选项卡。您可以在此处配置输出选项并拼接全景图。"
 		},
 		{
 			"id": "mainwindow.sourceimagestab",
-			"machinetranslated": true,
-			"helptext": "<b>@mainwindow.tabs.sourceimages@</b><br><br>在此页面上，您可以选择，删除和重新排列全景图的源图像。通过拖动鼠标选择一个或多个图像，或按住Shift并单击以选择一系列图像。右键点击<optional platform='mac'>（或按住Ctrl键并单击）</optional>在弹出菜单的选定图像上。按Delete键删除所选图像。这仅从项目中删除图像，不删除图像文件。<br><br>可以通过拖放重新排列图像：首先在源图像列表中选择一个或多个图像。然后单击左侧边框（包含图像编号），按住鼠标按钮并向上或向下拖动到所需位置。<br><br>要添加更多图像，请选择@menubar.images@ | @addimages@，或将文件拖放到 PTGui 窗口。 <optional product='pro'><br><br>对于 HDR 全景图，PTGui 可以链接包围曝光。链接的图像被迫具有相同的@yaw@，@pitch@，@roll@和其他参数，因此它们将完全重叠。链接的包围曝光显示并主要作为单个图像处理。可以使用右键单击上下文菜单或使用@menubar.images@ | @menubar.images.linkbracketed@链接图像。</optional>"
+			"helptext": "<b>@mainwindow.tabs.sourceimages@</b><br><br>在此页面上，您可以选择，删除和重新排列全景图的源图像。通过拖动鼠标选择一个或多个图像，或按住 Shift 并单击选择连续图像。右键单击<optional platform='mac'>（或按住Ctrl键并单击）</optional>在弹出菜单的选定图像上。按Delete键删除所选图像。这仅从项目中删除图像，不删除图像文件。<br><br>可以通过拖放重新排列图像：首先在源图像列表中选择一个或多个图像。然后单击左侧边框（包含图像编号），按住鼠标按钮并向上或向下拖动到所需位置。<br><br>要添加更多图像，请选择@menubar.images@ | @addimages@，或将文件拖放到 PTGui 窗口。 <optional product='pro'><br><br>对于 HDR 全景图，PTGui 可以链接包围曝光。链接的图像被迫具有相同的@yaw@，@pitch@，@roll@和其他参数，因此它们将完全重叠。链接的包围曝光显示并主要作为单个图像处理。可以使用右键单击上下文菜单或使用@menubar.images@ | @menubar.images.linkbracketed@链接图像。</optional>"
 		},
 		{
 			"id": "mainwindow.lensparamstab",
@@ -11211,7 +10974,7 @@
 		},
 		{
 			"id": "mainwindow.croptab",
-			"helptext": "<b>@mainwindow.tabs.crop@</b><br><br>在这里，您可以在拼接之前裁剪源图像。裁剪是非破坏性的，您的原始图像不会被修改。<br><br>裁剪通常仅用于圆形鱼眼图像。这种镜头将圆形图像投射到图像传感器上； PTGui 将使用裁剪圆圈来确保仅使用图像圈内的数据。<br><br>使用鼠标拖动裁剪边界，或使用右侧的输入框手动输入裁剪坐标。可以在原始图像之外裁剪（使其更大）。<br><br>使用@menubar.view@菜单和工具栏中的@menubar.view.previousimage@ / @menubar.view.nextimage@快捷方式切换到上一个或下一个图像。<br><br>默认情况下，所有图像（或使用相同镜头配置文件的所有图像）将使用相同的裁剪设置。使用“@mainwindow.croptab.individualposition@”以不同方式裁剪特定图像。这对于多摄象机装备和单次360摄象机非常有用，其中每个镜头将具有相同的投影但具有不同的偏移。<br><br>请勿尝试使用裁剪功能遮挡照片中某些不需要的部分；由于镜头设置适用于图像的裁剪部分，因此您将有效地更改用于图像的焦距。 <optional product='pro'>相反，应使用@mainwindow.tabs.mask@功能。</optional>"
+			"helptext": "<b>@mainwindow.tabs.crop@</b><br><br>在这里，您可以在拼接之前裁剪源图像。裁剪是非破坏性的，您的原始图像不会被修改。<br><br>裁剪通常仅用于圆形鱼眼图像。这种镜头将圆形图像投射到图像传感器上； PTGui 将使用裁剪圆圈来确保仅使用图像圈内的数据。<br><br>使用鼠标拖动裁剪边界，或使用右侧的输入框手动输入裁剪坐标。可以在原始图像之外裁剪（使其更大）。<br><br>使用@menubar.view@菜单和工具栏中的@menubar.view.previousimage@ / @menubar.view.nextimage@快捷方式切换到上一个或下一个图像。<br><br>默认情况下，所有图像（或使用相同镜头配置文件的所有图像）将使用相同的裁剪设置。使用“@mainwindow.croptab.individualposition@”以不同方式裁剪特定图像。这对于多相机装备和单次360相机非常有用，其中每个镜头将具有相同的投影但具有不同的偏移。<br><br>请勿尝试使用裁剪功能遮挡照片中某些不需要的部分；由于镜头设置适用于图像的裁剪部分，因此您将有效地更改用于图像的焦距。 <optional product='pro'>相反，应使用@mainwindow.tabs.mask@功能。</optional>"
 		},
 		{
 			"id": "mainwindow.masktab",
@@ -11219,17 +10982,15 @@
 		},
 		{
 			"id": "mainwindow.imageparamstab",
-			"helptext": "<b>@mainwindow.tabs.imageparameters@</b><br><br>该页面包含一个表格，其中每个图像的参数可以用数字编辑。通常，此处无需更改任何设置，通常这些参数由优化程序确定。<br><br>可以一次更改多个图像的参数：通过拖动鼠标选择单元格。然后键入所需的值，该值将在所有选定的单元格中输入。<br><br><b>@mainwindow.imageparameters.image@：</b>显示源图像的缩略图。<br><br><b>@mainwindow.imageparameters.warped@：</b>这是一个变形的缩略图图像，显示图像在最终全景图中的外观。缩略图图像实时更新。<optional product='pro'><br><br><b>@mainwindow.imageparameters.linked@:</b>@mainwindow.imageparamstab.linkedhelptxt@</optional><br><br><b>@+yaw@，@pitch@和@roll@：</b>指示拍摄照片的查看方向，以及最终全景图像的位置。 <b>@+yaw@</b>是摄象机在水平面上的旋转， <b>@+pitch@</b>对应于上/下倾斜角度， <b>@+roll@</b>是摄象机绕镜头轴旋转。 <optional product='pro'><br><br><b>@mainwindow.imageparameters.exposure@，@mainwindow.imageparameters.aperture@，@mainwindow.imageparameters.iso@：</b>曝光时间，镜头光圈和ISO感光度。默认情况下，这些值是从图像文件的 EXIF 标头中读取的，但它们可能会被其他值覆盖。这些值用于计算用于 HDR 全景图的@mainwindow.imageparameters.ev@色谱柱。<br><br><b>@mainwindow.imageparameters.ev@：</b>图像的曝光值。该值表示相对于其他图像捕获的光量。 @mainwindow.imageparameters.ev@值为+1表示与@mainwindow.imageparameters.ev@值为0的图像相比，捕获的光量是其两倍。这可以通过将曝光时间加倍，ISO感光度加倍，将光圈值减小1.4倍来实现，或者通过这三者的组合。 @mainwindow.imageparameters.ev@色谱柱是根据@mainwindow.imageparameters.exposure@，@mainwindow.imageparameters.aperture@和@mainwindow.imageparameters.iso@色谱柱中的值计算得出的，不能直接编辑。此值用于生成 HDR 全景图： PTGui 将图像分成具有相同@mainwindow.imageparameters.ev@值的组，并从每个组中拼接完整的全景图。然后将这些中间全景图（所谓的“混合平面”）合并为 HDR 全景图。<br><br><b>@mainwindow.imageparameters.expoffset@：</b>可用于调整单个图像的亮度。例如，输入-1的值使图像变暗1曝光值（其对应于亮度减少2倍）。如果在@mainwindow.tabs.exposurehdr@选项卡中启用了曝光优化，则会自动调整此列。<br><br><b>@mainwindow.imageparameters.flare@：</b>此字段中的正值通过增加对比度从图像中删除@lensflare@。如果在@mainwindow.tabs.exposurehdr@选项卡中启用了@flare@优化，则会自动调整。<br><br><b>@mainwindow.imageparameters.blendpriority@：</b>为 PTGui 混合器设置此图像的“重要性”。混合时，具有高混合优先级的图像优先于具有低混合半径的图像。如果图像具有非常低的混合优先级（例如0.001），则混合器仅使用填充在混合其他图像之后将保留的任何间隙所需的图像部分。略微增加混合优先级可以提供更平滑的重叠，同时仍然只使用一小部分图像。混合优先级是一个相对值：混合时，混合器会比较图像的混合优先级值，并优先考虑具有最高值的图像。绝对值无关紧要。混合优先级参数对于天底拍摄特别有用：球形全景中的最低点图像通常严重对齐，摄影者的脚可能在图像中可见。对最低点图像使用低混合优先级可确保仅使用图像的中心部分。尝试使用10的混合优先级作为最低点图像，对其他图像使用100。<br><br><b>@mainwindow.imageparameters.vpprefix@参数：</b>这5个参数应用相对于其他图像的摄象机位置的图像的摄象机位置的视点偏移的校正。没有必要在这里手动输入值；在@mainwindow.tabs.optimizer@选项卡中选择@+viewpoint@进行优化时，优化程序会确定实际值。要重置视点校正，请为每个@mainwindow.imageparameters.vpprefix@参数输入值0。视点偏移校正仅适用于平面照片；在优化相机的视点教程中详细解释了该过程（参见 PTGui 网站）。</optional><br><br>如果图像配置为使用单个镜头，移位或@shear@参数，则这些值也会显示在表格中。 <optional product='pro'><br><br>对于 HDR 全景图，PTGui 可以链接包围曝光。链接的图像可以在此表格中显示，也可以折叠为单行，也可以使用小三角形按钮展开列表，以显示每个链接集合中的各个图像。</optional><br><br>使用@fillyaw@功能（在右键单击上下文菜单中）将一系列图像的@yaw@角度初始化为恒定增量。例如，对于由10个图像组成的360°全景图，@yaw@值将使用此功能初始化为0°，36°，72°......<br><br>@mainwindow.imageparamstab.helptext2@"
+			"helptext": "<b>@mainwindow.tabs.imageparameters@</b><br><br>该页面包含一个表格，其中每个图像的参数可以用数字编辑。通常，此处无需更改任何设置，通常这些参数由优化程序确定。<br><br>可以一次更改多个图像的参数：通过拖动鼠标选择单元格。然后键入所需的值，该值将在所有选定的单元格中输入。<br><br><b>@mainwindow.imageparameters.image@：</b>显示源图像的缩略图。<br><br><b>@mainwindow.imageparameters.warped@：</b>这是一个变形的缩略图图像，显示图像在最终全景图中的外观。缩略图图像实时更新。<optional product='pro'><br><br><b>@mainwindow.imageparameters.linked@:</b>@mainwindow.imageparamstab.linkedhelptxt@</optional><br><br><b>@+yaw@，@pitch@和@roll@：</b>指示拍摄照片的查看方向，以及最终全景图像的位置。 <b>@+yaw@</b>是相机在水平面上的旋转， <b>@+pitch@</b>对应于上/下倾斜角度， <b>@+roll@</b>是相机绕镜头轴旋转。 <optional product='pro'><br><br><b>@mainwindow.imageparameters.exposure@，@mainwindow.imageparameters.aperture@，@mainwindow.imageparameters.iso@：</b>曝光时间，镜头光圈和ISO感光度。默认情况下，这些值是从图像文件的 EXIF 标头中读取的，但它们可能会被其他值覆盖。这些值用于计算用于 HDR 全景图的@mainwindow.imageparameters.ev@色谱柱。<br><br><b>@mainwindow.imageparameters.ev@：</b>图像的曝光值。该值表示相对于其他图像捕获的光量。 @mainwindow.imageparameters.ev@值为+1表示与@mainwindow.imageparameters.ev@值为0的图像相比，捕获的光量是其两倍。这可以通过将曝光时间加倍，ISO感光度加倍，将光圈值减小1.4倍来实现，或者通过这三者的组合。 @mainwindow.imageparameters.ev@色谱柱是根据@mainwindow.imageparameters.exposure@，@mainwindow.imageparameters.aperture@和@mainwindow.imageparameters.iso@色谱柱中的值计算得出的，不能直接编辑。此值用于生成 HDR 全景图： PTGui 将图像分成具有相同@mainwindow.imageparameters.ev@值的组，并从每个组中拼接完整的全景图。然后将这些中间全景图（所谓的“混合平面”）合并为 HDR 全景图。<br><br><b>@mainwindow.imageparameters.expoffset@：</b>可用于调整单个图像的亮度。例如，输入-1的值使图像变暗1曝光值（其对应于亮度减少2倍）。如果在@mainwindow.tabs.exposurehdr@选项卡中启用了曝光优化，则会自动调整此列。<br><br><b>@mainwindow.imageparameters.flare@：</b>此字段中的正值通过增加对比度从图像中删除@lensflare@。如果在@mainwindow.tabs.exposurehdr@选项卡中启用了@flare@优化，则会自动调整。<br><br><b>@mainwindow.imageparameters.vpprefix@参数：</b>这5个参数应用相对于其他图像的相机位置的图像的相机位置的视点偏移的校正。没有必要在这里手动输入值；在@mainwindow.tabs.optimizer@选项卡中选择@+viewpoint@进行优化时，优化程序会确定实际值。要重置视点校正，请为每个@mainwindow.imageparameters.vpprefix@参数输入值0。视点偏移校正仅适用于平面照片；在优化相机的视点教程中详细解释了该过程（参见 PTGui 网站）。</optional><br><br>如果图像配置为使用单个镜头，移位或@shear@参数，则这些值也会显示在表格中。 <optional product='pro'><br><br>对于 HDR 全景图，PTGui 可以链接包围曝光。链接的图像可以在此表格中显示，也可以折叠为单行，也可以使用小三角形按钮展开列表，以显示每个链接集合中的各个图像。</optional><br><br>使用@fillyaw@功能（在右键单击上下文菜单中）将一系列图像的@yaw@角度初始化为恒定增量。例如，对于由10个图像组成的360°全景图，@yaw@值将使用此功能初始化为0°，36°，72°......<br><br>@mainwindow.imageparamstab.helptext2@"
 		},
 		{
 			"id": "mainwindow.controlpointstab",
-			"machinetranslated": true,
-			"helptext": "<b>@mainwindow.tabs.controlpoints@</b><br><br>控制点用于指示源图像中的哪些点重合。优化器使用控制点来对齐图像：优化器修改图像位置和镜头参数，使所有控制点尽可能匹配。<br><br> PTGui 可以自动找到控制点：控制点作为“@alignimages@”的一部分生成（在@mainwindow.tabs.projectassistant@选项卡中）。也可以使用@menubar.controlpoints@ | @menubar.controlpoints.generate@生成控制点。并且可以使用@mainwindow.cptab.generatecphere@在特定区域生成控制点（参见下文）。<br><br>有时 PTGui 无法自动生成控制点，在这种情况下，您需要手动添加一些控制点。 @controlpointassistant@窗口（参见@menubar.tools@ | @controlpointassistant@）可帮助您确定哪些图像需要额外的控制点。<br><br>根据经验，每对重叠图像应至少有4个控制点。尝试尽可能地在图像对的重叠区域上扩展控制点。<br><br>编辑控制点很简单：<br><br>要<b>添加</b>控制点，请通过单击每个窗格上方的缩略图选择两个重叠的图像。然后单击左侧图像中的一个点，然后单击右侧图像中的相应点。PTGui 将为每个控制点添加一个带编号的标记。如果启用了@menubar.controlpoints.autojump@（参见底部工具栏），则在单击第一个点后，鼠标指针将跳转到另一个图像中的预期位置。<br><br>要在特定区域中<b>生成</b>控制点：在按住Shift键的同时通过鼠标拖动来选择其中一个图像中的矩形。然后右键单击<optional platform='mac'>（或按住Ctrl键并单击）</optional>在所选区域中选择@mainwindow.cptab.generatecphere@。PTGui 将尝试在其他图像中查找匹配的详细信息。这要求图像已经对齐：换句话说，全景编辑器应该已经显示了正确的全景预览。<br><br>要<b>移动</b>控制点：用鼠标抓住它并拖动到所需位置。要<b>删除</b>控制点或更改类别：右键单击标记，或右键单击控制点列表。<br><br>要删除多个控制点：在按住Shift键的同时用鼠标拖动来选择图像中的矩形区域。选定的控制点将开始闪铄。然后按Delete键，或右键单击<optional platform='mac'>（或按住Ctrl键并单击）</optional>在其中一个选定的控制点上，选择“删除”。<br><br>@mainwindow.tabs.controlpoints@选项卡中的其他鼠标和键盘命令：<br>•使用鼠标右键<optional platform='mac'>（或按Ctrl +拖动或双指滑动）</optional>拖动和滚动图像。另外，按住Alt键可快速拖动。 <optional platform='windows'><br>•移动控制点时，按住Ctrl键可使鼠标减速8倍<br>•单击鼠标中键可在100％缩放和缩放比例之间切换。</optional><br>•可以使用键盘移动控制点：单击控制点标志，然后使用箭头键移动标记。<br><br>在窗口的右侧是控制点列表。这显示了所选图像对的所有控制点的列表。 '@cptable.dist@'列显示控制点距离。控制点距离表示全景对齐的程度：较低的距离意味着更好的对齐。距离以源图像像素测量。可以通过单击列上方的标题对表进行排序。<br><br>通常，低于5的距离是好的。需要注意距离为20或更高的点；这些可能是未对齐的控制点，例如在移动物体上。<br><br>如果有很多高距离的控制点，这通常是视差的标志。具有视差的图像无法完美拼接。应该通过从完全相同的视点拍摄所有图像来避免视差。特别是在室内，使用全景三脚架头是必要的。"
+			"helptext": "<b>@mainwindow.tabs.controlpoints@</b><br><br>控制点用于指示源图像中的哪些点重合。优化器使用控制点来对齐图像：优化器修改图像位置和镜头参数，使所有控制点尽可能匹配。<br><br>PTGui 可以自动找到控制点：作为“@alignimages@”的一部分生成控制点的一部分生成（在@mainwindow.tabs.projectassistant@选项卡中）。也可以使用@menubar.controlpoints@ | @menubar.controlpoints.generate@生成控制点。并且可以使用@mainwindow.cptab.generatecphere@在特定区域生成控制点（参见下文）。<br><br>有时 PTGui 无法自动生成控制点，在这种情况下，您需要手动添加一些控制点。 @controlpointassistant@窗口（参见@menubar.tools@ | @controlpointassistant@）可帮助您确定哪些图像需要额外的控制点。<br><br>根据经验，每对重叠图像应至少有4个控制点。尝试尽可能地在图像对的重叠区域上扩展控制点。<br><br>编辑控制点很简单：<br><br>要<b>添加</b>控制点，请通过单击每个窗格上方的缩略图选择两个重叠的图像。然后单击左侧图像中的一个点，然后单击右侧图像中的相应点。PTGui 将为每个控制点添加一个带编号的标记。如果启用了@menubar.controlpoints.autojump@（参见底部工具栏），则在单击第一个点后，鼠标指针将跳转到另一个图像中的预期位置。<br><br>要在特定区域中<b>生成</b>控制点：在按住Shift键的同时通过鼠标拖动来选择其中一个图像中的矩形。然后右键单击<optional platform='mac'>（或按住Ctrl键并单击）</optional>在所选区域中选择@mainwindow.cptab.generatecphere@。PTGui 将尝试在其他图像中查找匹配的详细信息。这要求图像已经对齐：换句话说，全景编辑器应该已经显示了正确的全景预览。<br><br>要<b>移动</b>控制点：用鼠标抓住它并拖动到所需位置。要<b>删除</b>控制点或更改类别：右键单击标记，或右键单击控制点列表。<br><br>要删除多个控制点：在按住Shift键的同时用鼠标拖动来选择图像中的矩形区域。选定的控制点将开始闪铄。然后按Delete键，或右键单击<optional platform='mac'>（或按住Ctrl键并单击）</optional>在其中一个选定的控制点上，选择“删除”。<br><br>@mainwindow.tabs.controlpoints@选项卡中的其他鼠标和键盘命令：<br>•使用鼠标右键<optional platform='mac'>（或按Ctrl +拖动或双指滑动）</optional>拖动和滚动图像。另外，按住Alt键可快速拖动。 <optional platform='windows'><br>•移动控制点时，按住Ctrl键可使鼠标减速8倍<br>•单击鼠标中键可在100％缩放和缩放比例之间切换。</optional><br>•可以使用键盘移动控制点：单击控制点标志，然后使用箭头键移动标记。<br><br>在窗口的右侧是控制点列表。这显示了所选图像对的所有控制点的列表。 '@cptable.dist@'列显示控制点距离。控制点距离表示全景对齐的程度：较低的距离意味着更好的对齐。距离以源图像像素测量。可以通过单击列上方的标题对表进行排序。<br><br>通常，低于5的距离是好的。需要注意距离为20或更高的点；这些可能是未对齐的控制点，例如在移动物体上。<br><br>如果有很多高距离的控制点，这通常是视差的标志。具有视差的图像无法完美拼接。应该通过从完全相同的视点拍摄所有图像来避免视差。特别是在室内，使用全景三脚架头是必要的。"
 		},
 		{
 			"id": "mainwindow.optimizersettingstab",
-			"machinetranslated": true,
-			"helptext": "<b>@mainwindow.tabs.optimizer@</b><br><br> PTGui 使用两步处理来对齐图像：首先，在不同图像中的匹配特征上生成控制点。然后运行优化器，改变图像和镜头参数，使控制点尽可能匹配。<br><br>优化器可以通过简单或高级介面进行控制；使用@mainwindow.tabs.optimizer@选项卡顶部的@simple@或@advanced@按钮进行切换。在大多数情况下，简单的界面就足够了。PTGui 会将优化器参数设置为通常会生成良好结果的值。<br><br>使用“高级”界面可以对每个优化的参数进行详细控制。要了解更多信息，请将鼠标悬停在每个参数上方以查看工具提示。<br><br><b>优化结果</b><br>运行优化器后，PTGui 会让您知道图像的对齐情况。如果优化器报告的结果不太好，则可能存在错位的控制点。要找到这些控制点，请打开@controlpointstable@窗口（@menubar.tools@菜单）并检查具有最高距离值的控制点。双击表格中的控制点以检查@mainwindow.tabs.controlpoints@选项卡中的控制点。做@menubar.controlpoints@ | @menubar.controlpoints.deleteworst@也许会有所帮助。<br><br>如果你一直在获得平庸的优化结果，这通常是视差的标志。具有视差的图像无法完美拼接。应该通过从完全相同的视点拍摄所有图像来避免视差。特别是在室内，使用全景三脚架头是必要的。"
+			"helptext": "<b>@mainwindow.tabs.optimizer@</b><br><br>PTGui 使用两步过程来对齐图像：首先，在不同图像中的匹配特征上生成控制点。然后运行优化器，改变图像和镜头参数，使控制点尽可能匹配。<br><br>优化器可以通过简单或高级界面进行控制；使用@mainwindow.tabs.optimizer@选项卡顶部的@simple@或@advanced@按钮进行切换。在大多数情况下，简单的界面就足够了。PTGui 会将优化器参数设置为通常会生成良好结果的值。<br><br>使用“高级”界面可以对每个优化的参数进行详细控制。要了解更多信息，请将鼠标悬停在每个参数上方以查看工具提示。<br><br><b>优化结果</b><br>运行优化器后，PTGui 会让您知道图像的对齐情况。如果优化器报告的结果不太好，则可能存在错位的控制点。要找到这些控制点，请打开@controlpointstable@窗口（@menubar.tools@菜单）并检查具有最高距离值的控制点。双击表格中的控制点以检查@mainwindow.tabs.controlpoints@选项卡中的控制点。做@menubar.controlpoints@ | @menubar.controlpoints.deleteworst@也许会有所帮助。<br><br>如果你一直在获得平庸的优化结果，这通常是视差的标志。具有视差的图像无法完美拼接。应该通过从完全相同的视点拍摄所有图像来避免视差。特别是在室内，使用全景三脚架头是必要的。"
 		},
 		{
 			"id": "mainwindow.exposuretab",
@@ -11241,13 +11002,11 @@
 		},
 		{
 			"id": "mainwindow.previewtab",
-			"machinetranslated": true,
-			"helptext": "<b>@mainwindow.tabs.preview@</b><br><br>创建全景预览以查看最终全景图的外观。结果是一个特定大小的jpeg文件，否则与在@mainwindow.tabs.createpanorama@选项卡中生成的全景图相同。拼接之前，PTGui 会询问您使用哪个应用程序进行预览。<br><br>可以在@optionspreferences@ | @options.foldersandfileshtml@中配置其他预览应用程序。 <optional product='pro'><br><br>对于 HDR 全景图，仅生成色调映射或曝光融合全景图。</optional>"
+			"helptext": "<b>@mainwindow.tabs.preview@</b><br><br>创建全景预览以查看最终全景图的外观。结果是一个特定大小的 JPEG 文件，否则与在@mainwindow.tabs.createpanorama@选项卡中生成的全景图相同。拼接前，PTGui 会询问您使用哪个应用程序进行预览。<br><br>可以在@optionspreferences@ | @options.foldersandfileshtml@中配置其他预览应用程序。 <optional product='pro'><br><br>对于 HDR 全景图，仅生成色调映射或曝光融合全景图。</optional>"
 		},
 		{
 			"id": "mainwindow.metadatatab",
-			"machinetranslated": true,
-			"helptext": "<b>@mainwindow.tabs.metadata@</b><br><br>图像可以包含嵌入数据，提供有关图像的其他信息。这叫做@mainwindow.tabs.metadata@。默认情况下，PTGui 会将源图像中的某些元数据复制到生成的全景图：<br><br>•全景拍摄日期： PTGui 将使用全景图的所有源图像中找到的最早时间戳。<br><br>•曝光数据：曝光时间，光圈和ISO感光度。仅当所有图像具有相同曝光时才会嵌入此数据。 <optional product='pro'>如果输出单独的 HDR 混合平面，则混合平面将具有用于该混合平面的源图像的曝光数据。</optional><br><br>•ICC颜色配置文件：将从源图像复制颜色配置文件，但前提是所有图像具有相同的配置文件。<br><br>•GPS位置：如果可用，则从源图像复制相机GPS坐标。如果源图像具有不同的坐标，则取平均值。如果源图像中没有可用的GPS数据，则可以在此选项卡中输入坐标。<br><br>•图像方向：如果一个或多个源图像中有拍摄方向（罗盘角度），则会将其嵌入全景中。PTGui 将校正每个源图像的X 轴偏移，因此图像方向元数据指的是全景中心的观察方向。如果源图像中没有可用的方向数据，则可以在此选项卡中输入值。<br><br>•Google PhotoSphere元数据：对于equirectangular投影中的全景图，PTGui 将嵌入'gpano'xmp元数据。这将确保Facebook，Google和其他网站将图像识别为球形全景图。<br><br>•对于直线全景图，PTGui 将嵌入FocalLength和FocalLengthIn35mm标记。<br><br> PTGui 当前只将元数据写入 JPEG 和 TIFF 文件。计划对其他格式的元数据支持。"
+			"helptext": "<b>@mainwindow.tabs.metadata@</b><br><br>图像可以包含嵌入的数据，提供有关图像的附加信息，这称为@mainwindow.tabs.metadata@。默认情况下，PTGui 会将源图像中的某些元数据复制到生成的全景图：<br><br>•全景拍摄日期： PTGui 将使用全景图的所有源图像中找到的最早时间戳。<br><br>•曝光数据：曝光时间，光圈和ISO感光度。仅当所有图像具有相同曝光时才会嵌入此数据。 <optional product='pro'>如果输出单独的 HDR 混合平面，则混合平面将具有用于该混合平面的源图像的曝光数据。</optional><br><br>•ICC颜色配置文件：将从源图像复制颜色配置文件，但前提是所有图像具有相同的配置文件。<br><br>•GPS位置：如果可用，则从源图像复制相机GPS坐标。如果源图像具有不同的坐标，则取平均值。如果源图像中没有可用的GPS数据，则可以在此选项卡中输入坐标。<br><br>•图像方向：如果一个或多个源图像中有拍摄方向（罗盘角度），则会将其嵌入全景中。PTGui 将校正每个源图像的X 轴偏移，因此图像方向元数据指的是全景中心的观察方向。如果源图像中没有可用的方向数据，则可以在此选项卡中输入值。<br><br>•Google PhotoSphere元数据：对于equirectangular投影中的全景图，PTGui 将嵌入'gpano'xmp元数据。这将确保Facebook，Google和其他网站将图像识别为球形全景图。<br><br>•对于直线全景图，PTGui 将嵌入FocalLength和FocalLengthIn35mm标记。<br><br> PTGui 当前只将元数据写入 JPEG 和 TIFF 文件。计划对其他格式的元数据支持。"
 		},
 		{
 			"id": "mainwindow.createpanoramatab",
@@ -11255,28 +11014,23 @@
 		},
 		{
 			"id": "cptable",
-			"machinetranslated": true,
-			"helptext": "<b>@controlpointstable@</b><br><br>此窗口显示项目中所有控制点的列表。通过使用顶部的过滤器选项，可以对其进行过滤以仅显示某些类别的控制点或某些图像的控制点。<br><br>默认情况下，表按距离排序。距离显示控制点在全景图中的好坏：距离越远，对齐越好。<br><br>通常，低于5的距离是好的。需要注意距离为20或更高的点；这些可能是未对齐的控制点，例如在移动物体上。<br><br>如果有很多高距离的控制点，这通常是视差的标志。具有视差的图像无法完美拼接。应该通过从完全相同的视点拍摄所有图像来避免视差。特别是在室内，使用全景三脚架头是必要的。<br><br>单击表顶部的标题列可按该列对表进行排序。再次单击可反转排序顺序。<br><br>双击控制点，将所选点聚焦在主窗口的@mainwindow.tabs.controlpoints@选项卡中。<br><br>通过鼠标拖动或按住Shift键单击可以选择多个控制点。右键点击<optional platform='mac'>（或按住Ctrl键并单击）</optional>删除选定的点或更改其类别。"
+			"helptext": "<b>@controlpointstable@</b><br><br>此窗口显示项目中所有控制点的列表。使用顶部的过滤器选项，可以只显示某些类别的控制点，或某些图像的控制点。<br><br>默认情况下，表格按距离排序。距离表示控制点在全景图中的匹配质量：距离越低，对齐越好。<br><br>通常距离低于 5 即为良好。距离为 20 或更高的点需要留意；这些可能是未对齐的控制点，例如出现在移动物体上的点。<br><br>如果许多控制点的距离都很高，通常是视差的标志。存在视差的图像无法完美拼接。应通过从完全相同的视点拍摄所有图像来避免视差。尤其在室内，使用全景云台是必要的。<br><br>单击表格顶部的列标题可按该列排序，再次单击可反转排序顺序。<br><br>双击控制点可在主窗口的@mainwindow.tabs.controlpoints@选项卡中聚焦该点。<br><br>可以通过拖动鼠标或按住 Shift 键单击来选择多个控制点。右键点击<optional platform=\"mac\">（或按住 Ctrl 键并单击）</optional>删除选定的点或更改其类别。"
 		},
 		{
 			"id": "cpassistant",
-			"machinetranslated": true,
-			"helptext": "<b>@controlpointassistant@</b><br><br>控制点助手可帮助您诊断有关控制点放置的问题。它将警告：<br><br>•没有任何控制点的图像<br><br>•（通过控制点）链接在一起但不相互链接的图像集群<br><br>•没有控制点或控制点太少的图像<br><br>•没有定义控制点的重叠图像对"
+			"helptext": "<b>@controlpointassistant@</b><br><br>控制点助手可帮助您诊断有关控制点放置的问题。它会警告：<br><br>•没有任何控制点的图像<br><br>•（通过控制点）通过控制点链接在一起但不互相链接的图像组<br><br>•没有控制点或控制点太少的图像<br><br>•没有定义控制点的重叠图像对"
 		},
 		{
 			"id": "philosphere",
-			"machinetranslated": true,
-			"helptext": "<b>@menubar.tools.philosphere@</b><br><br>菲洛球是打印球形全景的好方法。将全景投影到由正方形和三角形组成的型状上，这些型状可以粘合在一起形成近似于球体的型状（数学家将其称为“菱形八面体”）。<br><br>您需要一个360度x 180°全景图的 JPEG 图像。该过程将创建两个 JPEG 文件。这两个文件可以打印，折叠和粘合在一起。<br><br>设置所需尺寸后，按开始按钮。系统将提示您输入全景图的位置。转换完成后，系统将提示您两次输入保存两个 JPEG 文件的位置。"
+			"helptext": "<b>@menubar.tools.philosphere@</b><br><br>菲洛球是打印球形全景图的绝佳方式。将全景图投影到一个由正方形和三角形组成的形状上，这些形状可以粘合在一起形成近似球体的形状（数学家称之为“小斜方截半立方体”）。<br><br>您需要一张等距柱状投影的 360° × 180° 全景图 JPEG 图片。转换过程将创建两个 JPEG 文件，可打印、折叠并粘合在一起。<br><br>设置所需尺寸后，按“开始”按钮。系统将提示您选择全景图的位置。转换完成后，将两次提示您选择两个 JPEG 文件的保存位置。"
 		},
 		{
 			"id": "lensdatabase",
-			"machinetranslated": true,
-			"helptext": "<b>@lensdatabase@</b><br><br>您可以使用镜头数据库来保存和检索镜头的参数。镜头数据库最初是空的，它仅用于您自己的数据。可以使用@menubar.tools@ | @lensdatabase@打开它。镜头数据库记录可以与特定的 EXIF 数据相关联，这可以配置 PTGui ，以便在加载某个镜头的图像时自动加载特定的镜头设置。<br><br>镜头数据库由两个窗格组成：左侧窗格是镜头数据库记录列表。选择记录后，右侧窗格将显示所选镜头数据库记录的属性。<br><br><b>使用镜头数据库</b><br><br>镜头数据库窗口可以通过@menubar.tools@ | @lensdatabase@打开。记录不会直接从“镜头数据库”窗口加载和保存；相反，这是通过主窗口中的@mainwindow.tabs.lenssettings@选项卡完成的。如果未显示@mainwindow.tabs.lenssettings@选项卡，请按主窗口侧栏上的@advanced@按钮。在@mainwindow.tabs.lenssettings@选项卡中，按@lensdatabase@按钮从镜头数据库加载或保存当前镜头设置。<br><br>以下参数保存在镜头数据库中：<br>•镜头投影（直线，鱼眼等）<br>•焦距（用于直线和鱼眼投影）或水平视场（用于等距矩形和圆柱投影）<br>•鱼眼镜头（用于鱼眼镜头）<br>•裁剪设置<br>•镜头失真校正<br>•镜头位移<br>•@shear@校正<br><br><b> EXIF 协会</b><br><br>镜头数据库记录可以与特定的 EXIF 数据相关联。当关联时，当加载来自该特定特定相机/镜头组合的图像时，自动应用来自镜头数据库的设置。协会可以通过两种方式进行：<br><br>如果加载了无法识别的相机/镜头的图像，PTGui 将要求您输入镜头类别和焦距。在同一个窗口中有一个复选框'始终将此数据用于... [相机/镜头组合]。如果选择，将创建新的镜头数据库记录并与图像的 EXIF 数据相关联。<br><br>并且可以从@mainwindow.tabs.lenssettings@选项卡手动进行关联：加载图像后，单击 EXIF 按钮并选择“@mainwindow.lensparams.makeexifassociation@”进行关联。<br><br>要删除关联，请打开“镜头数据库”窗口，在右侧表中选择关联，然后按“删除”按钮。"
+			"helptext": "<b>@lensdatabase@</b><br><br>您可以使用镜头数据库来保存和检索镜头的参数。镜头数据库最初是空的，它仅用于您自己的数据。可以使用@menubar.tools@ | @lensdatabase@打开它。镜头数据库记录可以与特定的 EXIF 数据相关联，这可以配置 PTGui  ，以便在加载某个镜头的图像时自动加载特定的镜头设置。<br><br>镜头数据库由两个窗格组成：左侧窗格是镜头数据库记录列表。选择记录后，右侧窗格将显示所选镜头数据库记录的属性。<br><br><b>使用镜头数据库</b><br><br>镜头数据库窗口可以通过@menubar.tools@ | @lensdatabase@打开。记录不会直接从“镜头数据库”窗口加载和保存；相反，这是通过主窗口中的@mainwindow.tabs.lenssettings@选项卡完成的。如果未显示@mainwindow.tabs.lenssettings@选项卡，请按主窗口侧栏上的@advanced@按钮。在@mainwindow.tabs.lenssettings@选项卡中，按@lensdatabase@按钮从镜头数据库加载或保存当前镜头设置。<br><br>以下参数保存在镜头数据库中：<br>•镜头投影（直线，鱼眼等）<br>•焦距（用于直线和鱼眼投影）或水平视场（用于等距矩形和圆柱投影）<br>•鱼眼镜头（用于鱼眼镜头）<br>•裁剪设置<br>•镜头失真校正<br>•镜头位移<br>•@shear@校正<br><br><b> EXIF 协会</b><br><br>镜头数据库记录可以与特定的 EXIF 数据相关联。当关联时，当加载来自该特定特定相机/镜头组合的图像时，自动应用来自镜头数据库的设置。协会可以通过两种方式进行：<br><br>如果加载了无法识别的相机/镜头的图像，PTGui 将要求您输入镜头类别和焦距。在同一个窗口中有一个复选框'始终将此数据用于... [相机/镜头组合]。如果选择，将创建新的镜头数据库记录并与图像的 EXIF 数据相关联。<br><br>并且可以从@mainwindow.tabs.lenssettings@选项卡手动进行关联：加载图像后，单击 EXIF 按钮并选择“@mainwindow.lensparams.makeexifassociation@”进行关联。<br><br>要删除关联，请打开“镜头数据库”窗口，在右侧表中选择关联，然后按“删除”按钮。"
 		},
 		{
 			"id": "cameradatabase",
-			"machinetranslated": true,
-			"helptext": "<b>@cameradatabase@</b><br><br>要计算镜头的投影，PTGui 不仅需要知道焦距，还需要知道相机的传感器尺寸。在不知道传感器尺寸的情况下，焦距是无意义的值。PTGui 知道超过2000台摄象机的传感器尺寸，但可能不包括您的摄象机。在这种情况下，您可以将此数据添加到摄象机数据库。<br><br><b>使用相机数据库</b><br><br>可以通过@menubar.tools@ | @cameradatabase@打开摄象机数据库窗口。记录不会直接从此处加载和保存；相反，这是通过主窗口中的@mainwindow.tabs.lenssettings@选项卡完成的。如果未显示@mainwindow.tabs.lenssettings@选项卡，请按主窗口侧栏上的@advanced@按钮。<br><br>在@mainwindow.tabs.lenssettings@选项卡中，按@cameradatabase@按钮从镜头数据库加载或保存当前传感器尺寸，并将此数据与 EXIF “相机型号”字段中的相机型号相关联。下次使用此 EXIF 相机型号加载图像时，PTGui 将自动初始化相机传感器尺寸数据。"
+			"helptext": "<b>@cameradatabase@</b><br><br>要计算镜头的投影，PTGui 不仅需要知道焦距，还需要知道相机的传感器尺寸。不知道传感器尺寸，焦距就是无意义的值。PTGui 知道超过 2000 台相机的传感器尺寸，但可能不包括您的相机。在这种情况下，您可以将此数据添加到相机数据库。<br><br><b>使用相机数据库</b><br><br>可通过@menubar.tools@ | @cameradatabase@打开相机数据库窗口。记录不是直接从这里加载和保存的；而是在主窗口的@mainwindow.tabs.lenssettings@选项卡中操作。如果未显示@mainwindow.tabs.lenssettings@选项卡，请按主窗口侧栏中的@advanced@按钮。<br><br>在@mainwindow.tabs.lenssettings@选项卡中，按@cameradatabase@按钮可从镜头数据库加载或保存当前传感器尺寸，并将此数据与 EXIF“相机型号”字段中的相机型号关联。下次加载具有此 EXIF 相机型号的图像时，PTGui 将自动初始化相机传感器尺寸数据。"
 		},
 		{
 			"id": "patchwindow",
@@ -11284,8 +11038,7 @@
 		},
 		{
 			"id": "mainwindow.preprocesstab",
-			"machinetranslated": true,
-			"helptext": "<b>@mainwindow.tabs.preprocess@</b><br><br>在此选项卡上可以调整 RAW 图像的显影设置：<br><br><b>降噪：</b>尤其是在较高 ISO 值时，RAW 相机数据可能包含大量噪声。 PTGui 可以在 RAW 转换过程中对 RAW 数据应用降噪。可以分别控制色度（颜色）和亮度（亮度）的降噪强度。<br><br><b>色差消除：</b>色差是一种镜头畸变，导致不同颜色的聚焦略有不同。这可以看作是物体边缘周围的彩色条纹。色差减少量可以调整。<br><br>此选项卡上的设置将在拼接之前应用于 RAW 和 DNG 源图像。可以在 @panoramaeditor.sidebar.postprocess@ 和 @panoramaeditor.sidebar.whitebalance@ 选项卡中的 @panoramaeditor@ 中进行进一步调整；这些调整将应用于拼接的全景图。"
+			"helptext": "<b>@mainwindow.tabs.preprocess@</b><br><br>在此选项卡上可以调整 RAW 图像的显影设置：<br><br><b>降噪：</b>尤其是在较高 ISO 值时，RAW 相机数据可能包含大量噪声。PTGui 可以在 RAW 转换过程中对 RAW 数据应用降噪。可以分别控制色度（颜色）和亮度（亮度）的降噪强度。<br><br><b>色差消除：</b>色差是一种镜头畸变，导致不同颜色的聚焦略有不同。这可以看作是物体边缘周围的彩色条纹。色差减少量可以调整。<br><br>此选项卡上的设置将在拼接之前应用于 RAW 和 DNG 源图像。可以在 @panoramaeditor.sidebar.postprocess@ 和 @panoramaeditor.sidebar.whitebalance@ 选项卡中的 @panoramaeditor@ 中进行进一步调整；这些调整将应用于拼接的全景图。"
 		}
 	]
 }
