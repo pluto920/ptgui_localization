@@ -17,7 +17,6 @@
 		},
 		{
 			"id": "txt.yesbutton",
-			"machinetranslated": true,
 			"txt": "是（&Y）"
 		},
 		{
@@ -32,37 +31,30 @@
 		},
 		{
 			"id": "txt.applybutton",
-			"machinetranslated": true,
 			"txt": "应用（&P）"
 		},
 		{
 			"id": "txt.apply",
-			"machinetranslated": true,
 			"txt": "应用"
 		},
 		{
 			"id": "txt.convert",
-			"machinetranslated": true,
 			"txt": "转换"
 		},
 		{
 			"id": "txt.convertbutton",
-			"machinetranslated": true,
 			"txt": "转换（&O）"
 		},
 		{
 			"id": "txt.savebutton",
-			"machinetranslated": true,
 			"txt": "保存（&S）"
 		},
 		{
 			"id": "txt.dontsavebutton",
-			"machinetranslated": true,
 			"txt": "不保存（&D）"
 		},
 		{
 			"id": "txt.nobutton",
-			"machinetranslated": true,
 			"txt": "否（&N）"
 		},
 		{
@@ -92,22 +84,18 @@
 		},
 		{
 			"id": "txt.bytes",
-			"machinetranslated": true,
 			"txt": "字节"
 		},
 		{
 			"id": "txt.kb",
-			"machinetranslated": true,
 			"txt": "KB"
 		},
 		{
 			"id": "txt.mb",
-			"machinetranslated": true,
 			"txt": "MB"
 		},
 		{
 			"id": "txt.gb",
-			"machinetranslated": true,
 			"txt": "GB"
 		},
 		{
@@ -117,7 +105,6 @@
 		},
 		{
 			"id": "txt.tb",
-			"machinetranslated": true,
 			"txt": "TB"
 		},
 		{
@@ -217,7 +204,6 @@
 		},
 		{
 			"id": "txt.error",
-			"machinetranslated": true,
 			"txt": "错误"
 		},
 		{
@@ -226,17 +212,14 @@
 		},
 		{
 			"id": "mainwindow.tabs.sourceimages",
-			"machinetranslated": true,
-			"txt": "图像"
+			"txt": "源图像"
 		},
 		{
 			"id": "mainwindow.tabs.lenssettings",
-			"machinetranslated": true,
 			"txt": "镜头设置"
 		},
 		{
 			"id": "mainwindow.tabs.crop",
-			"machinetranslated": true,
 			"txt": "剪裁"
 		},
 		{
@@ -245,173 +228,139 @@
 		},
 		{
 			"id": "mainwindow.tabs.imageparameters",
-			"machinetranslated": true,
 			"txt": "图像参数"
 		},
 		{
 			"id": "mainwindow.tabs.controlpoints",
-			"machinetranslated": true,
 			"txt": "控制点"
 		},
 		{
 			"id": "mainwindow.tabs.optimizer",
-			"machinetranslated": true,
 			"txt": "优化器"
 		},
 		{
 			"id": "mainwindow.tabs.exposurehdr",
-			"machinetranslated": true,
-			"txt": "曝光 / HDR "
+			"txt": "曝光 / HDR"
 		},
 		{
 			"id": "mainwindow.tabs.exposurehdr_nonpro",
-			"machinetranslated": true,
 			"txt": "曝光"
 		},
 		{
 			"id": "mainwindow.tabs.projectsettings",
-			"machinetranslated": true,
 			"txt": "项目设置"
 		},
 		{
 			"id": "mainwindow.tabs.preview",
-			"machinetranslated": true,
 			"txt": "预览"
 		},
 		{
 			"id": "mainwindow.tabs.metadata",
-			"machinetranslated": true,
 			"txt": "元数据"
 		},
 		{
 			"id": "mainwindow.tabs.createpanorama",
-			"machinetranslated": true,
 			"txt": "创建全景图"
 		},
 		{
 			"id": "menubar.file",
-			"machinetranslated": true,
 			"txt": "文件"
 		},
 		{
 			"id": "menubar.file.newproject",
-			"machinetranslated": true,
 			"txt": "新建项目"
 		},
 		{
 			"id": "menubar.file.openproject",
-			"machinetranslated": true,
 			"txt": "打开项目"
 		},
 		{
 			"id": "txt.openpapywizardfile",
-			"machinetranslated": true,
-			"txt": "加载 Papywizard 文件"
+			"txt": "打开 Papywizard 文件"
 		},
 		{
 			"id": "txt.savepanorama",
-			"machinetranslated": true,
 			"txt": "保存全景"
 		},
 		{
 			"id": "txt.replaceimage",
-			"machinetranslated": true,
 			"txt": "替换图像"
 		},
 		{
 			"id": "txt.savecameraresponsecurve",
-			"machinetranslated": true,
 			"txt": "保存相机响应曲线"
 		},
 		{
 			"id": "txt.loadcameraresponsecurve",
-			"machinetranslated": true,
 			"txt": "加载相机响应曲线"
 		},
 		{
 			"id": "txt.savevignettingcurve",
-			"machinetranslated": true,
-			"txt": "保存渐变曲线"
+			"txt": "保存渐晕曲线"
 		},
 		{
 			"id": "txt.loadvignettingcurve",
-			"machinetranslated": true,
-			"txt": "加载渐变曲线"
+			"txt": "加载渐晕曲线"
 		},
 		{
 			"id": "txt.savewebpagetemplate",
-			"machinetranslated": true,
 			"txt": "保存网页模板"
 		},
 		{
 			"id": "txt.selectwebpagetemplate",
-			"machinetranslated": true,
 			"txt": "选择网页模板"
 		},
 		{
 			"id": "txt.savetonemapsettings",
-			"machinetranslated": true,
 			"txt": "保存色调映射设置"
 		},
 		{
 			"id": "txt.loadtonemapsettings",
-			"machinetranslated": true,
 			"txt": "加载色调映射设置"
 		},
 		{
 			"id": "txt.openpanorama",
-			"machinetranslated": true,
-			"txt": "加载全景"
+			"txt": "打开全景图"
 		},
 		{
 			"id": "txt.supportedformats",
-			"machinetranslated": true,
 			"txt": "支持的格式"
 		},
 		{
 			"id": "menubar.file.recentprojects",
-			"machinetranslated": true,
 			"txt": "最近的项目"
 		},
 		{
 			"id": "menubar.file.applytemplate",
-			"machinetranslated": true,
 			"txt": "应用模板"
 		},
 		{
 			"id": "menubar.file.applytemplate.other",
-			"machinetranslated": true,
 			"txt": "其他"
 		},
 		{
 			"id": "menubar.file.import",
-			"machinetranslated": true,
 			"txt": "导入"
 		},
 		{
 			"id": "menubar.file.saveproject",
-			"machinetranslated": true,
 			"txt": "保存项目"
 		},
 		{
 			"id": "menubar.file.saveprojectas",
-			"machinetranslated": true,
 			"txt": "另存项目"
 		},
 		{
 			"id": "menubar.file.saveastemplate",
-			"machinetranslated": true,
 			"txt": "另存模板"
 		},
 		{
 			"id": "menubar.file.export",
-			"machinetranslated": true,
-			"txt": "输出"
+			"txt": "导出"
 		},
 		{
 			"id": "menubar.file.export.ptgui10project",
-			"machinetranslated": true,
-			"txt": "PTGui 10项目"
+			"txt": "PTGui 10 项目"
 		},
 		{
 			"id": "ptgui10export.warning",
@@ -420,8 +369,7 @@
 		},
 		{
 			"id": "menubar.file.makedefault",
-			"machinetranslated": true,
-			"txt": "保存项目默认值"
+			"txt": "设为默认"
 		},
 		{
 			"id": "makedefault.confirmation",
@@ -430,8 +378,7 @@
 		},
 		{
 			"id": "menubar.file.resetdefault",
-			"machinetranslated": true,
-			"txt": "重置项目默认值"
+			"txt": "重置默认项目设置"
 		},
 		{
 			"id": "resetdefault.confirmation",
@@ -439,52 +386,42 @@
 		},
 		{
 			"id": "menubar.file.newinstance",
-			"machinetranslated": true,
-			"txt": "另开项目窗口"
+			"txt": "启动新实例"
 		},
 		{
 			"id": "menubar.file.closewindow",
-			"machinetranslated": true,
 			"txt": "关闭窗口"
 		},
 		{
 			"id": "menubar.file.exit",
-			"machinetranslated": true,
 			"txt": "退出"
 		},
 		{
 			"id": "menubar.edit",
-			"machinetranslated": true,
 			"txt": "编辑"
 		},
 		{
 			"id": "menubar.edit.undo",
-			"machinetranslated": true,
-			"txt": "还原"
+			"txt": "撤销"
 		},
 		{
 			"id": "menubar.edit.redo",
-			"machinetranslated": true,
 			"txt": "重做"
 		},
 		{
 			"id": "menubar.edit.cut",
-			"machinetranslated": true,
 			"txt": "剪切"
 		},
 		{
 			"id": "menubar.edit.copy",
-			"machinetranslated": true,
 			"txt": "复制"
 		},
 		{
 			"id": "menubar.edit.paste",
-			"machinetranslated": true,
 			"txt": "粘贴"
 		},
 		{
 			"id": "menubar.edit.selectall",
-			"machinetranslated": true,
 			"txt": "全选"
 		},
 		{
@@ -504,62 +441,50 @@
 		},
 		{
 			"id": "menubar.view",
-			"machinetranslated": true,
 			"txt": "查看"
 		},
 		{
 			"id": "menubar.view.zoomin",
-			"machinetranslated": true,
 			"txt": "放大"
 		},
 		{
 			"id": "menubar.view.zoomout",
-			"machinetranslated": true,
 			"txt": "缩小"
 		},
 		{
 			"id": "menubar.view.zoomtofit",
-			"machinetranslated": true,
-			"txt": "缩放至适合屏幕"
+			"txt": "缩放到适合"
 		},
 		{
 			"id": "menubar.view.zoomtopercent",
-			"machinetranslated": true,
 			"txt": "放大到"
 		},
 		{
 			"id": "menubar.view.previousimage",
-			"machinetranslated": true,
 			"txt": "上一张图像"
 		},
 		{
 			"id": "menubar.view.nextimage",
-			"machinetranslated": true,
 			"txt": "下一张图像"
 		},
 		{
 			"id": "menubar.view.previousblendplane",
-			"machinetranslated": true,
 			"txt": "上一个混合平面"
 		},
 		{
 			"id": "menubar.view.nextblendplane",
-			"machinetranslated": true,
 			"txt": "下一个混合平面"
 		},
 		{
 			"id": "menubar.view.enterfullscreen",
-			"machinetranslated": true,
 			"txt": "进入全屏幕"
 		},
 		{
 			"id": "menubar.view.exitfullscreen",
-			"machinetranslated": true,
 			"txt": "退出全屏幕"
 		},
 		{
 			"id": "menubar.images",
-			"machinetranslated": true,
 			"txt": "图像"
 		},
 		{
@@ -568,17 +493,14 @@
 		},
 		{
 			"id": "menubar.controlpoints",
-			"machinetranslated": true,
 			"txt": "控制点"
 		},
 		{
 			"id": "menubar.tools",
-			"machinetranslated": true,
 			"txt": "工具"
 		},
 		{
 			"id": "menubar.project",
-			"machinetranslated": true,
 			"txt": "项目"
 		},
 		{
@@ -588,7 +510,6 @@
 		},
 		{
 			"id": "menubar.help",
-			"machinetranslated": true,
 			"txt": "@help@"
 		},
 		{
@@ -952,68 +873,55 @@
 		},
 		{
 			"id": "menubar.help.helpforthiswindow",
-			"machinetranslated": true,
-			"txt": "帮助窗口"
+			"txt": "此窗口的帮助"
 		},
 		{
 			"id": "menubar.help.videotutorial",
-			"machinetranslated": true,
 			"txt": "视频教程"
 		},
 		{
 			"id": "menubar.help.whatsnew",
-			"machinetranslated": true,
-			"txt": "新特性"
+			"txt": "新功能"
 		},
 		{
 			"id": "menubar.help.ptgui.com",
-			"machinetranslated": true,
-			"txt": "官方网站"
+			"txt": "PTGui 网站"
 		},
 		{
 			"id": "menubar.help.checkforupdates",
-			"machinetranslated": true,
 			"txt": "检查更新"
 		},
 		{
 			"id": "menubar.help.licenseinfo",
-			"machinetranslated": true,
 			"txt": "许可证信息"
 		},
 		{
 			"id": "menubar.help.systeminfo",
-			"machinetranslated": true,
 			"txt": "系统信息"
 		},
 		{
 			"id": "menubar.help.about",
-			"machinetranslated": true,
 			"txt": "关于"
 		},
 		{
 			"id": "menubar.help.purchase",
-			"machinetranslated": true,
 			"txt": "购买 PTGui"
 		},
 		{
 			"id": "menubar.controlpoints.autojump",
-			"machinetranslated": true,
 			"txt": "自动跳转"
 		},
 		{
 			"id": "menubar.controlpoints.linkscrollbars",
-			"machinetranslated": true,
 			"txt": "链接滚动条"
 		},
 		{
 			"id": "menubar.controlpoints.autoadd",
-			"machinetranslated": true,
 			"txt": "自动添加"
 		},
 		{
 			"id": "menubar.controlpoints.autocontrast",
-			"machinetranslated": true,
-			"txt": "增加对比度"
+			"txt": "自动对比度"
 		},
 		{
 			"id": "menubar.controlpoints.showmask",
@@ -1021,32 +929,26 @@
 		},
 		{
 			"id": "menubar.controlpoints.generate",
-			"machinetranslated": true,
 			"txt": "生成控制点"
 		},
 		{
 			"id": "menubar.controlpoints.generateforoverlapping",
-			"machinetranslated": true,
 			"txt": "为所有重叠图像生成控制点"
 		},
 		{
 			"id": "menubar.controlpoints.deleteall",
-			"machinetranslated": true,
 			"txt": "删除所有控制点"
 		},
 		{
 			"id": "menubar.controlpoints.deleteworst",
-			"machinetranslated": true,
 			"txt": "删除最差控制点"
 		},
 		{
 			"id": "menubar.controlpoints.generateforselectedimages",
-			"machinetranslated": true,
 			"txt": "为所选图像生成控制点"
 		},
 		{
 			"id": "menubar.controlpoints.generatefor",
-			"machinetranslated": true,
 			"txt": "为 %0 生成控制点"
 		},
 		{
@@ -1061,22 +963,18 @@
 		},
 		{
 			"id": "menubar.project.aligntogrid",
-			"machinetranslated": true,
 			"txt": "对齐网格"
 		},
 		{
 			"id": "menubar.project.optimize",
-			"machinetranslated": true,
 			"txt": "优化"
 		},
 		{
 			"id": "menubar.project.initializeandoptimize",
-			"machinetranslated": true,
 			"txt": "初始化和优化"
 		},
 		{
 			"id": "menubar.project.preview",
-			"machinetranslated": true,
 			"txt": "预览"
 		},
 		{
@@ -1086,12 +984,10 @@
 		},
 		{
 			"id": "menubar.project.saveandsendtobatchstitcher",
-			"machinetranslated": true,
 			"txt": "保存并发送至@batchstitcher@"
 		},
 		{
 			"id": "menubar.project.sendtemporarycopytobatchstitcher",
-			"machinetranslated": true,
 			"txt": "将临时副本发送至@batchstitcher@"
 		},
 		{
@@ -1120,57 +1016,46 @@
 		},
 		{
 			"id": "options",
-			"machinetranslated": true,
 			"txt": "选项"
 		},
 		{
 			"id": "menubar.tools.publishtowebsite",
-			"machinetranslated": true,
 			"txt": "发布到网站"
 		},
 		{
 			"id": "menubar.tools.converttocubic",
-			"machinetranslated": true,
 			"txt": "转换为立方体面"
 		},
 		{
 			"id": "menubar.tools.philosphere",
-			"machinetranslated": true,
 			"txt": "创建一个菲洛球"
 		},
 		{
 			"id": "menubar.tools.openfolder",
-			"machinetranslated": true,
 			"txt": "打开文件夹"
 		},
 		{
 			"id": "menubar.tools.openfolder.sourceimages",
-			"machinetranslated": true,
 			"txt": "源图像文件夹"
 		},
 		{
 			"id": "menubar.tools.openfolder.outputfolder",
-			"machinetranslated": true,
-			"txt": "输出目录"
+			"txt": "输出文件夹"
 		},
 		{
 			"id": "menubar.tools.openfolder.projectfolder",
-			"machinetranslated": true,
 			"txt": "项目文件夹"
 		},
 		{
 			"id": "menubar.tools.openfolder.templatefolder",
-			"machinetranslated": true,
 			"txt": "模板文件夹"
 		},
 		{
 			"id": "menubar.tools.openfolder.batchlistfolder",
-			"machinetranslated": true,
-			"txt": "批量列表文件夹"
+			"txt": "批处理列表文件夹"
 		},
 		{
 			"id": "optionspreferences",
-			"machinetranslated": true,
 			"format": "html",
 			"txt": "<optional platform='windows'>@options@</optional><optional platform='mac'>@preferences@</optional>"
 		},
@@ -1181,7 +1066,6 @@
 		},
 		{
 			"id": "menubar.tools.mainwindow",
-			"machinetranslated": true,
 			"txt": "主窗口（Ctrl+F）"
 		},
 		{
@@ -1231,122 +1115,98 @@
 		},
 		{
 			"id": "menubar.images.remove",
-			"machinetranslated": true,
 			"txt": "移除"
 		},
 		{
 			"id": "menubar.images.replace",
-			"machinetranslated": true,
 			"txt": "替换"
 		},
 		{
 			"id": "menubar.images.opencontainingfolder",
-			"machinetranslated": true,
-			"txt": "打开包含文件夹"
+			"txt": "打开所在文件夹"
 		},
 		{
 			"id": "menubar.images.link",
-			"machinetranslated": true,
 			"txt": "链接所选图像"
 		},
 		{
 			"id": "menubar.images.unlink",
-			"machinetranslated": true,
 			"txt": "取消链接所选图像"
 		},
 		{
 			"id": "menubar.images.select",
-			"machinetranslated": true,
 			"txt": "选择"
 		},
 		{
 			"id": "menubar.images.select.outside",
-			"machinetranslated": true,
 			"txt": "全景图可见区域外的所有图像"
 		},
 		{
 			"id": "menubar.images.select.inside",
-			"machinetranslated": true,
 			"txt": "全景图中可见区域内的所有图像"
 		},
 		{
 			"id": "menubar.images.select.excluded",
-			"machinetranslated": true,
 			"txt": "从全景图中排除的图像"
 		},
 		{
 			"id": "menubar.images.select.included",
-			"machinetranslated": true,
 			"txt": "全景中包含的图像"
 		},
 		{
 			"id": "menubar.images.select.all",
-			"machinetranslated": true,
 			"txt": "所有图像"
 		},
 		{
 			"id": "menubar.images.select.blendplane",
-			"machinetranslated": true,
 			"txt": "混合平面"
 		},
 		{
 			"id": "menubar.images.select.exceptblendplane",
-			"machinetranslated": true,
 			"txt": "所有，混合平面除外"
 		},
 		{
 			"id": "menubar.images.moveup",
-			"machinetranslated": true,
 			"txt": "上移"
 		},
 		{
 			"id": "menubar.images.movedown",
-			"machinetranslated": true,
 			"txt": "下移"
 		},
 		{
 			"id": "menubar.images.include",
-			"machinetranslated": true,
 			"txt": "包含在全景中"
 		},
 		{
 			"id": "menubar.images.exclude",
-			"machinetranslated": true,
 			"txt": "从全景中排除"
 		},
 		{
 			"id": "menubar.images.includeonlyselected",
-			"machinetranslated": true,
 			"txt": "仅包括选定的图像"
 		},
 		{
 			"id": "menubar.images.includeonlyunselected",
-			"machinetranslated": true,
-			"txt": "包括所有但未选择的图像"
+			"txt": "仅包括未选定的图像"
 		},
 		{
 			"id": "menubar.images.removeexcluded",
-			"machinetranslated": true,
 			"txt": "删除排除的图像"
 		},
 		{
 			"id": "menubar.images.sort",
-			"machinetranslated": true,
-			"txt": "分类"
+			"txt": "排序"
 		},
 		{
 			"id": "menubar.images.reverseorder",
-			"machinetranslated": true,
-			"txt": "相反顺序"
+			"txt": "反转顺序"
 		},
 		{
 			"id": "menubar.images.linkbracketed",
-			"machinetranslated": true,
-			"txt": "链接链接 HDR 包围曝光"
+			"txt": "链接 HDR 包围曝光"
 		},
 		{
 			"id": "menubar.images.unlinkall",
-			"machinetranslated": true,
 			"txt": "取消链接所有链接图像"
 		},
 		{
@@ -1381,47 +1241,38 @@
 		},
 		{
 			"id": "mainwindow.maskmenu.fillhere",
-			"machinetranslated": true,
 			"txt": "在此填充"
 		},
 		{
 			"id": "mainwindow.maskmenu.red",
-			"machinetranslated": true,
-			"txt": "红色（隐藏全景）"
+			"txt": "红色（从全景图中隐藏）"
 		},
 		{
 			"id": "mainwindow.maskmenu.green",
-			"machinetranslated": true,
-			"txt": "绿色（包括全景）"
+			"txt": "绿色（包含在全景图中）"
 		},
 		{
 			"id": "mainwindow.maskmenu.eraser",
-			"machinetranslated": true,
-			"txt": "删除"
+			"txt": "橡皮擦"
 		},
 		{
 			"id": "mainwindow.maskmenu.draw",
-			"machinetranslated": true,
 			"txt": "画笔工具"
 		},
 		{
 			"id": "mainwindow.maskmenu.fill",
-			"machinetranslated": true,
 			"txt": "填充工具"
 		},
 		{
 			"id": "mainwindow.maskmenu.decreasepencilsize",
-			"machinetranslated": true,
 			"txt": "减少画笔尺寸"
 		},
 		{
 			"id": "mainwindow.maskmenu.increasepencilsize",
-			"machinetranslated": true,
 			"txt": "增加画笔尺寸"
 		},
 		{
 			"id": "mainwindow.maskmenu.pencilsize",
-			"machinetranslated": true,
 			"txt": "画笔大小"
 		},
 		{
@@ -1491,59 +1342,48 @@
 		},
 		{
 			"id": "mainwindow.projectassistant.loadimages",
-			"machinetranslated": true,
 			"txt": "加载图像"
 		},
 		{
 			"id": "mainwindow.projectassistant.sourceimages",
-			"machinetranslated": true,
-			"txt": "来源图像"
+			"txt": "源图像"
 		},
 		{
 			"id": "mainwindow.projectassistant.ordragdrop",
-			"machinetranslated": true,
-			"txt": "...或将图像拖放到本窗口"
+			"txt": "...或将图像拖放到此处"
 		},
 		{
 			"id": "mainwindow.projectassistant.addmoreimages",
-			"machinetranslated": true,
 			"txt": "添加更多图像"
 		},
 		{
 			"id": "mainwindow.projectassistant.removeorreorderimages",
-			"machinetranslated": true,
 			"txt": "删除或重新排列图像"
 		},
 		{
 			"id": "mainwindow.projectassistant.cameraportraitorientation",
-			"machinetranslated": true,
-			"txt": "垂直和水平方向的图像混合；垂直方向："
+			"txt": "竖幅和横幅图像混合；相机竖拍方向："
 		},
 		{
 			"id": "mainwindow.projectassistant.setuppanorama",
-			"machinetranslated": true,
 			"txt": "设置全景"
 		},
 		{
 			"id": "mainwindow.projectassistant.txtcircularcrop",
-			"machinetranslated": true,
 			"format": "html",
 			"txt": "使用圆形鱼眼镜头。确保<a href=0>@mainwindow.tabs.crop@选项卡</a>中的剪裁圆与实际图像圆相匹配。"
 		},
 		{
 			"id": "mainwindow.projectassistant.runalignimagesagain",
-			"machinetranslated": true,
 			"format": "html",
 			"txt": "再次运行<a href=0>@alignimages@</a>以查找更多控制点。"
 		},
 		{
 			"id": "mainwindow.projectassistant.isprealigned",
-			"machinetranslated": true,
 			"txt": "图像已经大致定位。仅搜索重叠区域中的控制点。"
 		},
 		{
 			"id": "mainwindow.projectassistant.alignimages",
-			"machinetranslated": true,
 			"txt": "对齐图像"
 		},
 		{
@@ -1552,17 +1392,14 @@
 		},
 		{
 			"id": "mainwindow.projectassistant.runoptimizer",
-			"machinetranslated": true,
 			"txt": "运行优化器"
 		},
 		{
 			"id": "mainwindow.projectassistant.missingcontrolpoints1",
-			"machinetranslated": true,
 			"txt": "并非所有图像都有控制点。"
 		},
 		{
 			"id": "mainwindow.projectassistant.missingcontrolpoints2",
-			"machinetranslated": true,
 			"txt": "PTGui 无法检测某些图像的控制点，因此您可能需要手动添加一些控制点。"
 		},
 		{
@@ -1576,39 +1413,32 @@
 		},
 		{
 			"id": "mainwindow.projectassistant.showpanoramaeditororcreatepanorama",
-			"machinetranslated": true,
 			"format": "html",
 			"txt": "您可以在<a href=0>全景编辑器</a>窗口中预览和调整全景图。或者立即创建全景："
 		},
 		{
 			"id": "mainwindow.projectassistant.multiplelenses",
-			"machinetranslated": true,
 			"format": "html",
 			"txt": "使用多个镜头；更改<a href=0>@mainwindow.tabs.lenssettings@</a>选项卡中的设置。"
 		},
 		{
 			"id": "mainwindow.projectassistant.projection",
-			"machinetranslated": true,
 			"txt": "投影："
 		},
 		{
 			"id": "mainwindow.projectassistant.lens",
-			"machinetranslated": true,
 			"txt": "镜头："
 		},
 		{
 			"id": "mainwindow.projectassistant.fullframelens",
-			"machinetranslated": true,
 			"txt": "全画幅"
 		},
 		{
 			"id": "mainwindow.projectassistant.timescrop",
-			"machinetranslated": true,
-			"txt": "剪裁 %0x"
+			"txt": "%0x 裁切"
 		},
 		{
 			"id": "mainwindow.projectassistant.camera",
-			"machinetranslated": true,
 			"txt": "相机："
 		},
 		{
@@ -1618,62 +1448,50 @@
 		},
 		{
 			"id": "mainwindow.projectassistant.createpanorama",
-			"machinetranslated": true,
 			"txt": "创建全景"
 		},
 		{
 			"id": "error.invalidnumber",
-			"machinetranslated": true,
-			"txt": "不是数字： %0 "
+			"txt": "不是数字：%0"
 		},
 		{
 			"id": "mainwindow.lensparams.lensprofile",
-			"machinetranslated": true,
-			"txt": "镜头简介："
+			"txt": "镜头配置文件："
 		},
 		{
 			"id": "mainwindow.lensparams.lens",
-			"machinetranslated": true,
 			"txt": "镜头"
 		},
 		{
 			"id": "mainwindow.lensparams.lens.type",
-			"machinetranslated": true,
 			"txt": "类型："
 		},
 		{
 			"id": "mainwindow.lensparams.lensdatabasebutton",
-			"machinetranslated": true,
 			"txt": "镜头数据库"
 		},
 		{
 			"id": "mainwindow.lensparams.focallength",
-			"machinetranslated": true,
 			"txt": "焦距："
 		},
 		{
 			"id": "mainwindow.lensparams.focallength.theoretical",
-			"machinetranslated": true,
-			"txt": "折算："
+			"txt": "理论值："
 		},
 		{
 			"id": "mainwindow.lensparams.focallength.hfov",
-			"machinetranslated": true,
 			"txt": "水平视野："
 		},
 		{
 			"id": "mainwindow.lensparams.fisheyefactor",
-			"machinetranslated": true,
 			"txt": "鱼眼数值："
 		},
 		{
 			"id": "mainwindow.lensparams.lenscorrection",
-			"machinetranslated": true,
 			"txt": "镜头校正"
 		},
 		{
 			"id": "mainwindow.lensparams.lenscorrection.distortion",
-			"machinetranslated": true,
 			"txt": "失真（a / b / c）："
 		},
 		{
@@ -1688,7 +1506,6 @@
 		},
 		{
 			"id": "mainwindow.lensparams.lenscorrection.shift",
-			"machinetranslated": true,
 			"txt": "位移（长/短边）："
 		},
 		{
@@ -1718,43 +1535,35 @@
 		},
 		{
 			"id": "mainwindow.lensparams.lenscorrection.shear",
-			"machinetranslated": true,
 			"txt": "@+shear@（@horz@ / @vert@）："
 		},
 		{
 			"id": "mainwindow.lensparams.camera",
-			"machinetranslated": true,
 			"txt": "相机"
 		},
 		{
 			"id": "mainwindow.lensparams.camera.sensordiagonal",
-			"machinetranslated": true,
 			"txt": "传感器对角线"
 		},
 		{
 			"id": "mainwindow.lensparams.camera.cropfactor",
-			"machinetranslated": true,
 			"txt": "剪裁"
 		},
 		{
 			"id": "mainwindow.lensparams.camera.cameradatabase",
-			"machinetranslated": true,
 			"txt": "相机数据库"
 		},
 		{
 			"id": "mainwindow.lensparams.noexifdata",
-			"machinetranslated": true,
 			"txt": "没有 EXIF 数据"
 		},
 		{
 			"id": "mainwindow.lensparams.useindividual",
-			"machinetranslated": true,
-			"txt": "使用图像的单个参数："
+			"txt": "对图像使用单独参数："
 		},
 		{
 			"id": "mainwindow.lensparams.cameraportraitorientation",
-			"machinetranslated": true,
-			"txt": "相机纵向方向："
+			"txt": "相机竖拍方向："
 		},
 		{
 			"id": "save",
@@ -1768,42 +1577,34 @@
 		},
 		{
 			"id": "mainwindow.lensparams.lensdatabase.saveasnewentry",
-			"machinetranslated": true,
 			"txt": "保存为新记录"
 		},
 		{
 			"id": "mainwindow.lensparams.lensdatabase.overwrite",
-			"machinetranslated": true,
-			"txt": "覆盖： "
+			"txt": "覆盖："
 		},
 		{
 			"id": "mainwindow.lensparams.lensdatabase.show",
-			"machinetranslated": true,
 			"txt": "显示镜头数据库"
 		},
 		{
 			"id": "mainwindow.lensparams.initializefromexif",
-			"machinetranslated": true,
 			"txt": "从 EXIF 数据初始化镜头参数"
 		},
 		{
 			"id": "mainwindow.lensparams.setfromexif",
-			"machinetranslated": true,
-			"txt": "将传感器尺寸设置为 %0 = %1 （来自 EXIF）"
+			"txt": "将传感器尺寸设置为 %0 = %1（来自 EXIF）"
 		},
 		{
 			"id": "mainwindow.lensparams.loadfromlensdatabase",
-			"machinetranslated": true,
-			"txt": "从镜头数据库加载： "
+			"txt": "从镜头数据库加载："
 		},
 		{
 			"id": "mainwindow.lensparams.makeexifassociation",
-			"machinetranslated": true,
 			"txt": "将 EXIF 与镜头数据库记录相关联"
 		},
 		{
 			"id": "mainwindow.lensparams.showlensdatabase",
-			"machinetranslated": true,
 			"txt": "显示镜头数据库"
 		},
 		{
@@ -1812,87 +1613,70 @@
 		},
 		{
 			"id": "mainwindow.lensparams.lensdatabase.newentry",
-			"machinetranslated": true,
-			"txt": "新纪录"
+			"txt": "新记录"
 		},
 		{
 			"id": "mainwindow.lensparams.setsensorsizefromdb",
-			"machinetranslated": true,
-			"txt": "将传感器尺寸设置为 %0 = %1 （来自相机数据库）"
+			"txt": "将传感器尺寸设置为 %0 = %1（来自相机数据库）"
 		},
 		{
 			"id": "mainwindow.lensparams.savetocameradatabase",
-			"machinetranslated": true,
 			"txt": "保存至相机数据库"
 		},
 		{
 			"id": "mainwindow.lensparams.confirmmakecameradbassociationforimageswithoutexif",
-			"machinetranslated": true,
 			"txt": "这将使用当前传感器尺寸来显示没有 EXIF 相机信息的所有图像。你确定？"
 		},
 		{
 			"id": "mainwindow.lensparams.cameradatabase.show",
-			"machinetranslated": true,
 			"txt": "显示相机数据库"
 		},
 		{
 			"id": "mainwindow.croptab.cropping",
-			"machinetranslated": true,
-			"txt": "剪裁"
+			"txt": "剪裁："
 		},
 		{
 			"id": "mainwindow.croptab.left",
-			"machinetranslated": true,
 			"txt": "左："
 		},
 		{
 			"id": "mainwindow.croptab.right",
-			"machinetranslated": true,
 			"txt": "右："
 		},
 		{
 			"id": "mainwindow.croptab.top",
-			"machinetranslated": true,
 			"txt": "上："
 		},
 		{
 			"id": "mainwindow.croptab.bottom",
-			"machinetranslated": true,
 			"txt": "下："
 		},
 		{
 			"id": "mainwindow.croptab.width",
-			"machinetranslated": true,
 			"txt": "宽度："
 		},
 		{
 			"id": "mainwindow.croptab.height",
-			"machinetranslated": true,
 			"txt": "高度："
 		},
 		{
 			"id": "mainwindow.croptab.diameter",
-			"machinetranslated": true,
 			"txt": "直径："
 		},
 		{
 			"id": "mainwindow.croptab.pixelspostfix",
-			"machinetranslated": true,
-			"txt": "像素"
+			"txt": "px"
 		},
 		{
 			"id": "mainwindow.croptab.individualposition",
-			"machinetranslated": true,
-			"txt": "个别剪裁"
+			"txt": "单独位置"
 		},
 		{
 			"id": "mainwindow.croptab.nocrop",
-			"machinetranslated": true,
 			"txt": "不剪裁"
 		},
 		{
 			"id": "mainwindow.masktab.errtwodifferentimages",
-			"machinetranslated": true,
 			"txt": "@mainwindow.tabs.mask@标签显示两个不同的图像。要复制蒙版，请使用图像下方的“复制”按钮。"
 		},
 		{
@@ -1902,22 +1686,18 @@
 		},
 		{
 			"id": "mainwindow.cptab.cptypetoadd",
-			"machinetranslated": true,
 			"txt": "@cptypetoadd@："
 		},
 		{
 			"id": "mainwindow.cptab.generatecphere",
-			"machinetranslated": true,
 			"txt": "在此生成控制点"
 		},
 		{
 			"id": "mainwindow.cptab.twicesameimage",
-			"machinetranslated": true,
 			"txt": "两个窗格都显示相同的图像；要生成控制点，请在左右窗格中选择两个不同的图像。"
 		},
 		{
 			"id": "mainwindow.cptab.addcp",
-			"machinetranslated": true,
 			"txt": "添加控制点"
 		},
 		{
@@ -1932,12 +1712,10 @@
 		},
 		{
 			"id": "mainwindow.optimizertab.advanced",
-			"machinetranslated": true,
 			"txt": "@advanced@"
 		},
 		{
 			"id": "mainwindow.optimizertab.simple",
-			"machinetranslated": true,
 			"txt": "@simple@"
 		},
 		{
@@ -1947,53 +1725,43 @@
 		},
 		{
 			"id": "mainwindow.optimizertab.advancedoptimizer",
-			"machinetranslated": true,
 			"txt": "@mainwindow.optimizertab.advanced@（@optimizer@）"
 		},
 		{
 			"id": "mainwindow.optimizertab.simpleoptimizer",
-			"machinetranslated": true,
 			"txt": "@mainwindow.optimizertab.simple@（@optimizer@）"
 		},
 		{
 			"id": "mainwindow.optimizertab.anchorimage",
-			"machinetranslated": true,
 			"txt": "锚定图像："
 		},
 		{
 			"id": "mainwindow.optimizertab.optimizefocallength",
-			"machinetranslated": true,
 			"txt": "优化镜头焦距："
 		},
 		{
 			"id": "mainwindow.optimizertab.minimizelensdistortion",
-			"machinetranslated": true,
 			"txt": "最小化镜头畸变："
 		},
 		{
 			"id": "mainwindow.optimizertab.minimizelensdistortion.no",
-			"machinetranslated": true,
 			"txt": "无"
 		},
 		{
 			"id": "mainwindow.optimizertab.minimizelensdistortion.medium",
-			"machinetranslated": true,
 			"txt": "中"
 		},
 		{
 			"id": "mainwindow.optimizertab.minimizelensdistortion.heavy",
-			"machinetranslated": true,
 			"txt": "强"
 		},
 		{
 			"id": "mainwindow.optimizertab.minimizelensdistortion.heavyplusshift",
-			"machinetranslated": true,
 			"txt": "强+镜头位移"
 		},
 		{
 			"id": "mainwindow.optimizertab.optimizeglobally",
-			"machinetranslated": true,
-			"txt": "全域优化："
+			"txt": "全局优化："
 		},
 		{
 			"id": "mainwindow.optimizertab.optimizeperimage",
@@ -2001,77 +1769,62 @@
 		},
 		{
 			"id": "mainwindow.optimizertab.usecontrolpointsof",
-			"machinetranslated": true,
-			"txt": "使用控制点："
+			"txt": "使用的控制点："
 		},
 		{
 			"id": "mainwindow.optimizertab.horvertcp",
-			"machinetranslated": true,
 			"txt": "水平/垂直控制点："
 		},
 		{
 			"id": "mainwindow.optimizertab.horvertcp.ignore",
-			"machinetranslated": true,
 			"txt": "忽略"
 		},
 		{
 			"id": "mainwindow.optimizertab.horvertcp.levelinsecondpass",
-			"machinetranslated": true,
-			"txt": "二次水平"
+			"txt": "第二遍中调平"
 		},
 		{
 			"id": "mainwindow.optimizertab.horvertcp.includeinsinglepass",
-			"machinetranslated": true,
-			"txt": "包括在单次"
+			"txt": "包含在单次通过中"
 		},
 		{
 			"id": "mainwindow.optimizertab.linkroll",
-			"machinetranslated": true,
 			"txt": "链接@roll@"
 		},
 		{
 			"id": "mainwindow.optimizertab.linkpitch",
-			"machinetranslated": true,
 			"txt": "链接@pitch@"
 		},
 		{
 			"id": "mainwindow.optimizertab.runoptimizer",
-			"machinetranslated": true,
 			"txt": "运行优化程序"
 		},
 		{
 			"id": "mainwindow.exposurehdrpanel.hdrsection",
-			"machinetranslated": true,
-			"txt": "HDR "
+			"txt": "HDR"
 		},
 		{
 			"id": "mainwindow.exposurehdrpanel.hdrenabled",
-			"machinetranslated": true,
 			"txt": "将包围曝光组合成单独的混合平面（用于 HDR 全景图）"
 		},
 		{
 			"id": "mainwindow.exposurehdrpanel.mergemethod",
-			"machinetranslated": true,
 			"txt": "使用以下方法合并混合平面："
 		},
 		{
 			"id": "mainwindow.exposurehdrpanel.mergemethod.truehdr",
-			"machinetranslated": true,
-			"txt": "真正的 HDR "
+			"txt": "真正的 HDR"
 		},
 		{
 			"id": "mainwindow.exposurehdrpanel.mergemethod.exposurefusion",
-			"machinetranslated": true,
 			"txt": "曝光融合"
 		},
 		{
 			"id": "mainwindow.exposurehdrpanel.hdrdisabled",
-			"machinetranslated": true,
 			"txt": "无包围：所有图像在单个混合平面中混合"
 		},
 		{
 			"id": "mainwindow.exposurehdrpanel.exposurecompensation",
-			"machinetranslated": true,
 			"txt": "曝光补偿（对于在自动曝光模式下拍摄的图像）"
 		},
 		{
@@ -2080,12 +1833,10 @@
 		},
 		{
 			"id": "mainwindow.exposurehdrpanel.autoexpadjustmentsection",
-			"machinetranslated": true,
 			"txt": "自动曝光和颜色调整"
 		},
 		{
 			"id": "mainwindow.exposurehdrpanel.optimizenow",
-			"machinetranslated": true,
 			"txt": "立即优化！"
 		},
 		{
@@ -2095,47 +1846,38 @@
 		},
 		{
 			"id": "mainwindow.exposurehdrpanel.askreoptimize",
-			"machinetranslated": true,
 			"txt": "设置已更改。您想根据更改的设置进行新的优化吗？"
 		},
 		{
 			"id": "mainwindow.exposurehdrpanel.vignettingcurve",
-			"machinetranslated": true,
-			"txt": "渐变曲线："
+			"txt": "渐晕曲线："
 		},
 		{
 			"id": "mainwindow.exposurehdrpanel.cameracurve",
-			"machinetranslated": true,
 			"txt": "相机响应曲线："
 		},
 		{
 			"id": "mainwindow.exposurehdrpanel.finetune",
-			"machinetranslated": true,
 			"txt": "微调"
 		},
 		{
 			"id": "mainwindow.exposurehdrpanel.finetune.exposure",
-			"machinetranslated": true,
 			"txt": "曝光："
 		},
 		{
 			"id": "mainwindow.exposurehdrpanel.finetune.red",
-			"machinetranslated": true,
 			"txt": "红色："
 		},
 		{
 			"id": "mainwindow.exposurehdrpanel.finetune.green",
-			"machinetranslated": true,
 			"txt": "绿色："
 		},
 		{
 			"id": "mainwindow.exposurehdrpanel.finetune.blue",
-			"machinetranslated": true,
 			"txt": "蓝色："
 		},
 		{
 			"id": "mainwindow.exposurehdrpanel.finetune.whitebalance",
-			"machinetranslated": true,
 			"txt": "白平衡："
 		},
 		{
@@ -2150,22 +1892,18 @@
 		},
 		{
 			"id": "mainwindow.exposurehdrpanel.exposurefusionsettings",
-			"machinetranslated": true,
-			"txt": "曝光混和设置"
+			"txt": "曝光融合设置"
 		},
 		{
 			"id": "mainwindow.exposurehdrpanel.tonemapsettings",
-			"machinetranslated": true,
 			"txt": "色调映射设置"
 		},
 		{
 			"id": "mainwindow.exposurehdrpanel.warningmixhdrldr",
-			"machinetranslated": true,
-			"txt": "您的项目包含 HDR 和低动态范围源图像的混合。这很可能会导致意想不到的结果！"
+			"txt": "您的项目包含 HDR 和 LDR 源图像的混合。这很可能会导致意想不到的结果！"
 		},
 		{
 			"id": "mainwindow.exposurehdrpanel.shouldenablehdrmode",
-			"machinetranslated": true,
 			"txt": "您的项目包含 HDR 源图像。应启用 HDR 模式以获得正确的结果！"
 		},
 		{
@@ -2175,7 +1913,6 @@
 		},
 		{
 			"id": "mainwindow.exposurehdrpanel.warnsingleblendplane",
-			"machinetranslated": true,
 			"txt": "所有源图像均采用相同的曝光设置拍摄。要创建 HDR 全景图，请改为使用包围曝光（相同场景的图像，但具有不同的曝光时间）。"
 		},
 		{
@@ -2198,58 +1935,47 @@
 		},
 		{
 			"id": "mainwindow.exposurehdrpanel.warnautoexposure",
-			"machinetranslated": true,
 			"format": "html",
 			"txt": "<red>图像似乎是在相机处于自动曝光模式下拍摄的：相机已调整每组包围曝光的曝光。很可能 PTGui 无法将这些图像正确地拼接成 HDR 全景图。</red>您可以在<a href=0>@mainwindow.tabs.imageparameters@</a>选项卡中查看实际曝光数据。理想情况下，曝光时间应遵循重复模式（例如1 / 25,1 / 100,1 / 400,1 / 25,1 / 100,1 / 400等）。<br><br>拍摄 HDR 全景照片时，请将相机设置为手动曝光模式（相机转盘上的“M”模式），以确保在两次曝光方式曝光之间不会改变曝光。在每次曝光时间，应覆盖完整的全景图。"
 		},
 		{
 			"id": "mainwindow.projectsettings.alignimagesbehavior",
-			"machinetranslated": true,
-			"txt": "'@alignimages@'的行为"
+			"txt": "“@alignimages@”的行为"
 		},
 		{
 			"id": "mainwindow.projectsettings.alignimagesbehavior.subheading",
-			"machinetranslated": true,
 			"txt": "运行'@alignimages@'功能时，请执行以下操作："
 		},
 		{
 			"id": "mainwindow.projectsettings.alignimagesbehavior.generatecp",
-			"machinetranslated": true,
 			"txt": "生成控制点"
 		},
 		{
 			"id": "mainwindow.projectsettings.alignimagesbehavior.prealigned",
-			"machinetranslated": true,
 			"txt": "图像已经大致定位（仅在图像的重叠区域中搜索）"
 		},
 		{
 			"id": "mainwindow.projectsettings.alignimagesbehavior.optimize",
-			"machinetranslated": true,
 			"txt": "优化项目"
 		},
 		{
 			"id": "mainwindow.projectsettings.alignimagesbehavior.roughlyarrange",
-			"machinetranslated": true,
 			"txt": "首先大致排列图像"
 		},
 		{
 			"id": "mainwindow.projectsettings.alignimagesbehavior.straighten",
-			"machinetranslated": true,
 			"txt": "拉直全景"
 		},
 		{
 			"id": "mainwindow.projectsettings.alignimagesbehavior.fit",
-			"machinetranslated": true,
 			"txt": "适合全景"
 		},
 		{
 			"id": "mainwindow.projectsettings.alignimagesbehavior.chooseprojection",
-			"machinetranslated": true,
 			"txt": "选择合适的投影"
 		},
 		{
 			"id": "mainwindow.projectsettings.alignimagesbehavior.optimizeexposure",
-			"machinetranslated": true,
 			"txt": "执行自动曝光和颜色调整"
 		},
 		{
@@ -2259,32 +1985,26 @@
 		},
 		{
 			"id": "mainwindow.projectsettings.hdrdefaults",
-			"machinetranslated": true,
 			"txt": "HDR 默认值"
 		},
 		{
 			"id": "mainwindow.projectsettings.hdrdefaults.subheading",
-			"machinetranslated": true,
 			"txt": "如果检测到包围曝光："
 		},
 		{
 			"id": "mainwindow.projectsettings.hdrdefaults.hdrdefaultmode.link",
-			"machinetranslated": true,
-			"txt": "启用 HDR 模式并链接曝光"
+			"txt": "将包围曝光图像合并为 HDR 并链接位置"
 		},
 		{
 			"id": "mainwindow.projectsettings.hdrdefaults.hdrdefaultmode.dontlink",
-			"machinetranslated": true,
-			"txt": "启用 HDR 模式但不链接图像"
+			"txt": "将包围曝光图像合并为 HDR，但单独对齐"
 		},
 		{
 			"id": "mainwindow.projectsettings.hdrdefaults.hdrdefaultmode.nohdr",
-			"machinetranslated": true,
-			"txt": "不要启用 HDR 模式"
+			"txt": "不启用 HDR 模式"
 		},
 		{
 			"id": "mainwindow.projectsettings.hdrdefaults.dontask",
-			"machinetranslated": true,
 			"txt": "在@mainwindow.tabs.projectassistant@选项卡中单击“@alignimages@”时，不要求这样做"
 		},
 		{
@@ -2293,22 +2013,18 @@
 		},
 		{
 			"id": "mainwindow.projectsettings.batchstitcheractions.align",
-			"machinetranslated": true,
 			"txt": "运行“@alignimages@”并保存修改后的项目"
 		},
 		{
 			"id": "mainwindow.projectsettings.batchstitcheractions.createpanorama",
-			"machinetranslated": true,
 			"txt": "创建全景图"
 		},
 		{
 			"id": "mainwindow.projectsettings.batchstitcheractions.stitchonlyifenoughcontrolpoints",
-			"machinetranslated": true,
 			"txt": "仅限有足够的控制点"
 		},
 		{
 			"id": "mainwindow.projectsettings.filenaming",
-			"machinetranslated": true,
 			"txt": "文件命名"
 		},
 		{
@@ -2318,48 +2034,39 @@
 		},
 		{
 			"id": "mainwindow.projectsettings.filenaming.subheading",
-			"machinetranslated": true,
 			"txt": "对新项目使用以下默认文件名："
 		},
 		{
 			"id": "mainwindow.projectsettings.filenaming.projectfile",
-			"machinetranslated": true,
 			"txt": "项目文件："
 		},
 		{
 			"id": "mainwindow.projectsettings.filenaming.saveas",
-			"machinetranslated": true,
 			"txt": "另存为"
 		},
 		{
 			"id": "mainwindow.projectsettings.filenaming.prefixfirstimagefilename",
-			"machinetranslated": true,
 			"txt": "前缀第一个图像文件名"
 		},
 		{
 			"id": "mainwindow.projectsettings.filenaming.prefixfirstimagefoldername",
-			"machinetranslated": true,
 			"txt": "前缀第一个图像文件夹名称"
 		},
 		{
 			"id": "mainwindow.projectsettings.filenaming.name",
-			"machinetranslated": true,
 			"txt": "名称："
 		},
 		{
 			"id": "mainwindow.projectsettings.filenaming.savein",
-			"machinetranslated": true,
-			"txt": "保存"
+			"txt": "保存到"
 		},
 		{
 			"id": "mainwindow.projectsettings.filenaming.sourceimagefolder",
-			"machinetranslated": true,
 			"txt": "源图像文件夹"
 		},
 		{
 			"id": "mainwindow.projectsettings.filenaming.folder",
-			"machinetranslated": true,
-			"txt": "夹："
+			"txt": "文件夹："
 		},
 		{
 			"id": "browse",
@@ -2368,43 +2075,35 @@
 		},
 		{
 			"id": "mainwindow.projectsettings.filenaming.projectfolderbrowsecaption",
-			"machinetranslated": true,
 			"txt": "保存项目文件的默认文件夹："
 		},
 		{
 			"id": "mainwindow.projectsettings.filenaming.relativepathtxt1",
-			"machinetranslated": true,
-			"txt": "（从源图像文件夹解释任何相对路径）"
+			"txt": "（相对路径均相对于源图像文件夹解释）"
 		},
 		{
 			"id": "mainwindow.projectsettings.filenaming.panorama",
-			"machinetranslated": true,
 			"txt": "全景："
 		},
 		{
 			"id": "mainwindow.projectsettings.filenaming.sameasprojectname",
-			"machinetranslated": true,
 			"txt": "与项目名称相同"
 		},
 		{
 			"id": "mainwindow.projectsettings.filenaming.extensionaddedautomatically",
-			"machinetranslated": true,
 			"txt": "（自动添加扩展名）"
 		},
 		{
 			"id": "mainwindow.projectsettings.filenaming.projectfilefolder",
-			"machinetranslated": true,
 			"txt": "项目文件夹"
 		},
 		{
 			"id": "mainwindow.projectsettings.filenaming.panoramafolderbrowsecaption",
-			"machinetranslated": true,
 			"txt": "拼接全景图的默认文件夹："
 		},
 		{
 			"id": "mainwindow.projectsettings.filenaming.relativepathtxt2",
-			"machinetranslated": true,
-			"txt": "（从项目文件位置解释任何相对路径）"
+			"txt": "（相对路径均相对于项目文件位置解释）"
 		},
 		{
 			"id": "mainwindow.projectsettings.filenaming.outputfileoverriddentxt",
@@ -2412,47 +2111,38 @@
 		},
 		{
 			"id": "mainwindow.projectsettings.filenaming.relativesourceimagepaths",
-			"machinetranslated": true,
 			"txt": "将源图像的相对路径保存在项目文件中"
 		},
 		{
 			"id": "mainwindow.projectsettings.templatebehavior",
-			"machinetranslated": true,
 			"txt": "模板行为"
 		},
 		{
 			"id": "mainwindow.projectsettings.templatebehavior.subheading",
-			"machinetranslated": true,
 			"txt": "将此项目用作模板时，请复制以下设置："
 		},
 		{
 			"id": "mainwindow.projectsettings.templatebehavior.lensandcrop",
-			"machinetranslated": true,
 			"txt": "镜头和剪裁设置"
 		},
 		{
 			"id": "mainwindow.projectsettings.templatebehavior.imageparameters",
-			"machinetranslated": true,
 			"txt": "图像参数"
 		},
 		{
 			"id": "mainwindow.projectsettings.templatebehavior.masks",
-			"machinetranslated": true,
 			"txt": "图像蒙版"
 		},
 		{
 			"id": "mainwindow.projectsettings.templatebehavior.panoramasettings",
-			"machinetranslated": true,
-			"txt": "全景， HDR 和输出设置"
+			"txt": "全景、HDR 和输出设置"
 		},
 		{
 			"id": "mainwindow.projectsettings.templatebehavior.projectsettings",
-			"machinetranslated": true,
 			"txt": "项目设置（此选项卡）"
 		},
 		{
 			"id": "mainwindow.projectsettings.templatebehavior.optimizersettings",
-			"machinetranslated": true,
 			"txt": "优化设置"
 		},
 		{
@@ -2461,87 +2151,70 @@
 		},
 		{
 			"id": "mainwindow.projectsettings.templatebehavior.linkimages",
-			"machinetranslated": true,
 			"txt": "链接目标项目中的图像："
 		},
 		{
 			"id": "mainwindow.projectsettings.templatebehavior.linkimages.asintemplate",
-			"machinetranslated": true,
 			"txt": "与此模板中的相同"
 		},
 		{
 			"id": "mainwindow.projectsettings.templatebehavior.linkimages.autolink",
-			"machinetranslated": true,
 			"txt": "根据曝光自动链接图像（ EXIF ）"
 		},
 		{
 			"id": "mainwindow.projectsettings.templatebehavior.linkimages.dontchange",
-			"machinetranslated": true,
 			"txt": "请勿修改图像的链接方式"
 		},
 		{
 			"id": "mainwindow.projectsettings.batchbuilder",
-			"machinetranslated": true,
 			"txt": "批处理文件生成器行为"
 		},
 		{
 			"id": "mainwindow.projectsettings.batchbuilder.subheading",
-			"machinetranslated": true,
 			"txt": "当批处理生成器将此项目用作模板时："
 		},
 		{
 			"id": "mainwindow.projectsettings.batchbuilder.useexifshort",
-			"machinetranslated": true,
 			"txt": "使用图像中的 EXIF 数据初始化每个项目的镜头设置"
 		},
 		{
 			"id": "mainwindow.projectsettings.batchbuilder.useexif",
-			"machinetranslated": true,
-			"txt": "@mainwindow.projectsettings.batchbuilder.useexifshort@（在此模板中覆盖镜头设置）"
+			"txt": "@mainwindow.projectsettings.batchbuilder.useexifshort@（覆盖此模板中的镜头设置）"
 		},
 		{
 			"id": "mainwindow.projectsettings.misc",
-			"machinetranslated": true,
 			"txt": "杂项"
 		},
 		{
 			"id": "mainwindow.projectsettings.misc.useexiforientation",
-			"machinetranslated": true,
 			"txt": "加载时，使用 EXIF 方向标记物理旋转图像"
 		},
 		{
 			"id": "mainwindow.projectsettings.misc.useexif",
-			"machinetranslated": true,
 			"txt": "添加图像时使用 EXIF 数据自动初始化镜头设置（批处理文件生成器除外）"
 		},
 		{
 			"id": "mainwindow.projectsettings.misc.askinitializeandoptimize",
-			"machinetranslated": true,
 			"txt": "如果优化失败：询问是否应重新初始化项目"
 		},
 		{
 			"id": "mainwindow.projectsettings.misc.supportduallenscameras",
-			"machinetranslated": true,
 			"txt": "支持双鱼眼镜头全景相机："
 		},
 		{
 			"id": "mainwindow.projectsettings.misc.supportduallenscameras.no",
-			"machinetranslated": true,
 			"txt": "否（作为常规图像加载）"
 		},
 		{
 			"id": "mainwindow.projectsettings.misc.supportduallenscameras.yes",
-			"machinetranslated": true,
 			"txt": "是，加载相同的图像两次"
 		},
 		{
 			"id": "mainwindow.projectsettings.misc.switchtoequirectforwideanglesourceimages",
-			"machinetranslated": true,
-			"txt": "在加载广角或球形图像时，将全景图设置为 360°等距长方圆柱投影"
+			"txt": "加载广角或球形图像时，将全景图设置为 360° 等距柱状投影"
 		},
 		{
 			"id": "mainwindow.imageparameters.image",
-			"machinetranslated": true,
 			"txt": "图像"
 		},
 		{
@@ -2550,182 +2223,146 @@
 		},
 		{
 			"id": "mainwindow.imageparameters.blendpriority",
-			"machinetranslated": true,
 			"txt": "混合优先级"
 		},
 		{
 			"id": "mainwindow.imageparameters.vpprefix",
-			"machinetranslated": true,
 			"txt": "视点"
 		},
 		{
 			"id": "mainwindow.imageparameters.vpx",
-			"machinetranslated": true,
-			"txt": "@mainwindow.imageparameters.vpprefix@ X."
+			"txt": "@mainwindow.imageparameters.vpprefix@ X"
 		},
 		{
 			"id": "mainwindow.imageparameters.vpy",
-			"machinetranslated": true,
-			"txt": "@mainwindow.imageparameters.vpprefix@ Y."
+			"txt": "@mainwindow.imageparameters.vpprefix@ Y"
 		},
 		{
 			"id": "mainwindow.imageparameters.vpz",
-			"machinetranslated": true,
-			"txt": "@mainwindow.imageparameters.vpprefix@ Z."
+			"txt": "@mainwindow.imageparameters.vpprefix@ Z"
 		},
 		{
 			"id": "mainwindow.imageparameters.vppan",
-			"machinetranslated": true,
 			"txt": "@mainwindow.imageparameters.vpprefix@ @+pan@"
 		},
 		{
 			"id": "mainwindow.imageparameters.vptilt",
-			"machinetranslated": true,
 			"txt": "@mainwindow.imageparameters.vpprefix@ @+tilt@"
 		},
 		{
 			"id": "mainwindow.imageparameters.lenstype",
-			"machinetranslated": true,
 			"txt": "镜头类型"
 		},
 		{
 			"id": "mainwindow.imageparameters.hfov",
-			"machinetranslated": true,
 			"txt": "视野"
 		},
 		{
 			"id": "mainwindow.imageparameters.focallength",
-			"machinetranslated": true,
 			"txt": "焦距"
 		},
 		{
 			"id": "mainwindow.imageparameters.fisheyefactor",
-			"machinetranslated": true,
 			"txt": "鱼眼因子"
 		},
 		{
 			"id": "mainwindow.imageparameters.longshift",
-			"machinetranslated": true,
 			"txt": "位移（长边）"
 		},
 		{
 			"id": "mainwindow.imageparameters.shortshift",
-			"machinetranslated": true,
 			"txt": "位移（短边）"
 		},
 		{
 			"id": "mainwindow.imageparameters.horzshear",
-			"machinetranslated": true,
 			"txt": "@+shear@（@horz@）"
 		},
 		{
 			"id": "mainwindow.imageparameters.vertshear",
-			"machinetranslated": true,
 			"txt": "@+shear@（@vert@）"
 		},
 		{
 			"id": "mainwindow.imageparameters.exposure",
-			"machinetranslated": true,
 			"txt": "曝光"
 		},
 		{
 			"id": "mainwindow.imageparameters.aperture",
-			"machinetranslated": true,
 			"txt": "光圈"
 		},
 		{
 			"id": "mainwindow.imageparameters.iso",
-			"machinetranslated": true,
 			"txt": "ISO"
 		},
 		{
 			"id": "mainwindow.imageparameters.ev",
-			"machinetranslated": true,
 			"txt": "EV"
 		},
 		{
 			"id": "mainwindow.imageparameters.wbprefix",
-			"machinetranslated": true,
 			"txt": "白平衡"
 		},
 		{
 			"id": "mainwindow.imageparameters.wbred",
-			"machinetranslated": true,
-			"txt": "@mainwindow.imageparameters.wbprefix@红色"
+			"txt": "@mainwindow.imageparameters.wbprefix@ 红色"
 		},
 		{
 			"id": "mainwindow.imageparameters.wbgreen",
-			"machinetranslated": true,
-			"txt": "@mainwindow.imageparameters.wbprefix@绿色"
+			"txt": "@mainwindow.imageparameters.wbprefix@ 绿色"
 		},
 		{
 			"id": "mainwindow.imageparameters.wbblue",
-			"machinetranslated": true,
-			"txt": "@mainwindow.imageparameters.wbprefix@蓝色"
+			"txt": "@mainwindow.imageparameters.wbprefix@ 蓝色"
 		},
 		{
 			"id": "mainwindow.imageparameters.flare",
-			"machinetranslated": true,
 			"txt": "@+flare@"
 		},
 		{
 			"id": "mainwindow.lenssettings.individualparams.lensprofile",
-			"machinetranslated": true,
-			"txt": "轮廓"
+			"txt": "配置文件"
 		},
 		{
 			"id": "mainwindow.lenssettings.individualparams.lenstype",
-			"machinetranslated": true,
-			"txt": "镜片"
+			"txt": "镜头"
 		},
 		{
 			"id": "mainwindow.lenssettings.individualparams.shift",
-			"machinetranslated": true,
 			"txt": "位移"
 		},
 		{
 			"id": "mainwindow.lenssettings.individualparams.shear",
-			"machinetranslated": true,
 			"txt": "@+shear@"
 		},
 		{
 			"id": "mainwindow.lenssettings.individualparams.crop",
-			"machinetranslated": true,
 			"txt": "剪裁"
 		},
 		{
 			"id": "mainwindow.sourceimages.filename",
-			"machinetranslated": true,
 			"txt": "文件名"
 		},
 		{
 			"id": "mainwindow.sourceimages.width",
-			"machinetranslated": true,
 			"txt": "宽度"
 		},
 		{
 			"id": "mainwindow.sourceimages.height",
-			"machinetranslated": true,
 			"txt": "高度"
 		},
 		{
 			"id": "mainwindow.sourceimages.multipleimages",
-			"machinetranslated": true,
 			"txt": "（多个图像）"
 		},
 		{
 			"id": "mainwindow.optimizertab.fovfocallength",
-			"machinetranslated": true,
 			"txt": "视野/焦距"
 		},
 		{
 			"id": "mainwindow.optimizertab.focallength",
-			"machinetranslated": true,
 			"txt": "焦距"
 		},
 		{
 			"id": "mainwindow.optimizertab.fov",
-			"machinetranslated": true,
 			"txt": "视野"
 		},
 		{
@@ -2739,7 +2376,6 @@
 		},
 		{
 			"id": "mainwindow.previewtab.previewbutton",
-			"machinetranslated": true,
 			"txt": "预览"
 		},
 		{
@@ -2754,68 +2390,55 @@
 		},
 		{
 			"id": "mainwindow.metadata.nolatlonginexif",
-			"machinetranslated": true,
 			"format": "html",
 			"txt": "在 EXIF 数据中找不到位置。您可以在此处<a href=\"https://maps.google.com/\">找到位置</a>并输入坐标。"
 		},
 		{
 			"id": "mainwindow.metadata.viewonmap",
-			"machinetranslated": true,
 			"txt": "在地图上查看"
 		},
 		{
 			"id": "mainwindow.metadata.viewonmap1",
-			"machinetranslated": true,
 			"txt": "（在地图上查看）"
 		},
 		{
 			"id": "mainwindow.metadata.entercompassangle",
-			"machinetranslated": true,
 			"txt": "输入全景中心的罗盘角度。北是 0°。"
 		},
 		{
 			"id": "mainwindow.metadata.noorientationfound",
-			"machinetranslated": true,
 			"txt": "EXIF 数据中未找到方向。"
 		},
 		{
 			"id": "mainwindow.metadata.orientation1",
-			"machinetranslated": true,
-			"txt": "指南针角度： %0 °（全景中心为 %1 ）。"
+			"txt": "罗盘角度：%0°（全景中心为 %1）。"
 		},
 		{
 			"id": "mainwindow.metadata.orientation2",
-			"machinetranslated": true,
-			"txt": "全景中心是 %0 。"
+			"txt": "全景中心为 %0。"
 		},
 		{
 			"id": "mainwindow.metadata.compassangle",
-			"machinetranslated": true,
 			"txt": "指南针角度："
 		},
 		{
 			"id": "mainwindow.metadata.gpsdata",
-			"machinetranslated": true,
 			"txt": "GPS 数据"
 		},
 		{
 			"id": "mainwindow.metadata.cameralocation",
-			"machinetranslated": true,
-			"txt": "相机位置："
+			"txt": "相机位置"
 		},
 		{
 			"id": "mainwindow.metadata.useexiflocation",
-			"machinetranslated": true,
 			"txt": "使用源图像的位置数据"
 		},
 		{
 			"id": "mainwindow.metadata.orientation",
-			"machinetranslated": true,
 			"txt": "方向："
 		},
 		{
 			"id": "mainwindow.metadata.useorientationofsourceimages",
-			"machinetranslated": true,
 			"txt": "使用源图像的方向数据"
 		},
 		{
@@ -2860,87 +2483,70 @@
 		},
 		{
 			"id": "mainwindow.metadata.misc",
-			"machinetranslated": true,
 			"txt": "杂项"
 		},
 		{
 			"id": "mainwindow.metadata.resolution",
-			"machinetranslated": true,
 			"txt": "分辨率："
 		},
 		{
 			"id": "mainwindow.metadata.ppipostfix",
-			"machinetranslated": true,
-			"txt": "PPI"
+			"txt": "ppi"
 		},
 		{
 			"id": "mainwindow.createpanoramatab.fixsize",
-			"machinetranslated": true,
-			"txt": "放在："
+			"txt": "固定为："
 		},
 		{
 			"id": "mainwindow.createpanoramatab.fixsize.megapixels",
-			"machinetranslated": true,
 			"txt": "百万像素"
 		},
 		{
 			"id": "mainwindow.createpanoramatab.fixsize.percentofoptimumsize",
-			"machinetranslated": true,
 			"txt": "最佳尺寸的百分比"
 		},
 		{
 			"id": "mainwindow.createpanoramatab.fileformatsettings",
-			"machinetranslated": true,
 			"txt": "设置："
 		},
 		{
 			"id": "mainwindow.createpanoramatab.fileformat",
-			"machinetranslated": true,
 			"txt": "文件格式："
 		},
 		{
 			"id": "mainwindow.createpanoramatab.ldrfileformat",
-			"machinetranslated": true,
-			"txt": "低动态范围文件格式："
+			"txt": "LDR 文件格式："
 		},
 		{
 			"id": "mainwindow.createpanoramatab.hdrfileformat",
-			"machinetranslated": true,
 			"txt": "HDR 文件格式："
 		},
 		{
 			"id": "mainwindow.createpanoramatab.usedefault",
-			"machinetranslated": true,
-			"txt": "默认情况下使用"
+			"txt": "使用默认值"
 		},
 		{
 			"id": "mainwindow.createpanoramatab.view",
-			"machinetranslated": true,
 			"txt": "查看"
 		},
 		{
 			"id": "mainwindow.createpanoramatab.errnooutputfileselected",
-			"machinetranslated": true,
 			"txt": "没有选择输出文件！请先创建全景图。"
 		},
 		{
 			"id": "mainwindow.createpanoramatab.outputfiledoesnotexist",
-			"machinetranslated": true,
 			"txt": "输出文件不存在！请先创建全景图。"
 		},
 		{
 			"id": "mainwindow.createpanoramatab.output",
-			"machinetranslated": true,
 			"txt": "输出："
 		},
 		{
 			"id": "mainwindow.createpanoramatab.output.individuallayers",
-			"machinetranslated": true,
-			"txt": "个别层"
+			"txt": "单独图层"
 		},
 		{
 			"id": "mainwindow.createpanoramatab.output.blendplanes",
-			"machinetranslated": true,
 			"txt": "混合平面"
 		},
 		{
@@ -2963,163 +2569,131 @@
 		},
 		{
 			"id": "mainwindow.createpanoramatab.output.hdrblended",
-			"machinetranslated": true,
 			"txt": "HDR 全景"
 		},
 		{
 			"id": "mainwindow.createpanoramatab.output.hdrlayers",
-			"machinetranslated": true,
 			"txt": "各个 HDR 图层"
 		},
 		{
 			"id": "mainwindow.createpanoramatab.output.hdrblendplanes",
-			"machinetranslated": true,
 			"txt": "HDR 混合平面"
 		},
 		{
 			"id": "mainwindow.createpanoramatab.output.ldr",
-			"machinetranslated": true,
-			"txt": "低动态范围："
+			"txt": "LDR："
 		},
 		{
 			"id": "mainwindow.createpanoramatab.output.hdr",
-			"machinetranslated": true,
-			"txt": "HDR ："
+			"txt": "HDR："
 		},
 		{
 			"id": "mainwindow.createpanoramatab.savedas",
-			"machinetranslated": true,
 			"txt": "保存为"
 		},
 		{
 			"id": "mainwindow.createpanoramatab.layersin",
-			"machinetranslated": true,
 			"txt": "层中"
 		},
 		{
 			"id": "mainwindow.createpanoramatab.layerin",
-			"machinetranslated": true,
 			"txt": "层中"
 		},
 		{
 			"id": "mainwindow.createpanoramatab.tonemappedpanorama",
-			"machinetranslated": true,
 			"txt": "色调映射全景"
 		},
 		{
 			"id": "mainwindow.createpanoramatab.exposurefusedpanorama",
-			"machinetranslated": true,
 			"txt": "曝光融合全景"
 		},
 		{
 			"id": "mainwindow.createpanoramatab.blendedpanorama",
-			"machinetranslated": true,
 			"txt": "混合全景"
 		},
 		{
 			"id": "mainwindow.createpanoramatab.outputfileprefix",
-			"machinetranslated": true,
 			"txt": "输出文件前缀："
 		},
 		{
 			"id": "mainwindow.createpanoramatab.outputfile",
-			"machinetranslated": true,
 			"txt": "输出文件："
 		},
 		{
 			"id": "mainwindow.createpanoramatab.createpanorama",
-			"machinetranslated": true,
 			"txt": "创建全景"
 		},
 		{
 			"id": "mainwindow.createpanoramatab.saveandsendtobatchstitcher",
-			"machinetranslated": true,
 			"txt": "保存并发送到批量拼接器"
 		},
 		{
 			"id": "mainwindow.createpanoramatab.blendusing",
-			"machinetranslated": true,
-			"txt": "混合使用："
+			"txt": "使用以下方式混合："
 		},
 		{
 			"id": "mainwindow.createpanoramatab.blendusing.enblend",
-			"machinetranslated": true,
 			"txt": "Enblend 插件"
 		},
 		{
 			"id": "mainwindow.createpanoramatab.blendusing.smartblend",
-			"machinetranslated": true,
 			"txt": "Smartblend 插件"
 		},
 		{
 			"id": "mainwindow.createpanoramatab.feather",
-			"machinetranslated": true,
-			"txt": "混合锐度："
+			"txt": "羽化："
 		},
 		{
 			"id": "mainwindow.createpanoramatab.feather.sharp",
-			"machinetranslated": true,
 			"txt": "锐利"
 		},
 		{
 			"id": "mainwindow.createpanoramatab.feather.soft",
-			"machinetranslated": true,
 			"txt": "柔和"
 		},
 		{
 			"id": "mainwindow.createpanoramatab.blendmode",
-			"machinetranslated": true,
 			"txt": "混合模式："
 		},
 		{
 			"id": "mainwindow.createpanoramatab.blendmode.multiband",
-			"machinetranslated": true,
 			"txt": "多频段"
 		},
 		{
 			"id": "mainwindow.createpanoramatab.blendmode.alpha",
-			"machinetranslated": true,
 			"txt": "Alpha 混合"
 		},
 		{
 			"id": "mainwindow.createpanoramatab.interpolator",
-			"machinetranslated": true,
 			"txt": "插值："
 		},
 		{
 			"id": "mainwindow.createpanoramatab.interpolator.default",
-			"machinetranslated": true,
 			"txt": "@default@"
 		},
 		{
 			"id": "mainwindow.createpanoramatab.interpolator.bilinear",
-			"machinetranslated": true,
 			"txt": "双线性"
 		},
 		{
 			"id": "mainwindow.createpanoramatab.interpolator.bicubicsofter",
-			"machinetranslated": true,
-			"txt": "二次立方更柔和"
+			"txt": "双三次（柔和）"
 		},
 		{
 			"id": "mainwindow.createpanoramatab.interpolator.bicubicnormal",
-			"machinetranslated": true,
-			"txt": "二次立方正常"
+			"txt": "双三次（标准）"
 		},
 		{
 			"id": "mainwindow.createpanoramatab.interpolator.bicubicsharper",
-			"machinetranslated": true,
-			"txt": "二次立方锐利（Poly3）"
+			"txt": "双三次（锐利）（Poly3）"
 		},
 		{
 			"id": "mainwindow.createpanoramatab.restoredefaults",
-			"machinetranslated": true,
 			"txt": "恢复默认值"
 		},
 		{
 			"id": "mainwindow.createpanoramatab.initializingopencl",
-			"machinetranslated": true,
-			"txt": "初始化 OpenCL ..."
+			"txt": "正在初始化 OpenCL..."
 		},
 		{
 			"id": "cptable.num",
@@ -3416,133 +2990,107 @@
 		},
 		{
 			"id": "options.plugins",
-			"machinetranslated": true,
 			"txt": "插件"
 		},
 		{
 			"id": "options.foldersandfiles",
-			"machinetranslated": true,
 			"txt": "文件夹和文件"
 		},
 		{
 			"id": "options.foldersandfileshtml",
-			"machinetranslated": true,
 			"format": "html",
 			"txt": "文件夹和文件"
 		},
 		{
 			"id": "options.general",
-			"machinetranslated": true,
 			"txt": "常规"
 		},
 		{
 			"id": "options.defaultsettings",
-			"machinetranslated": true,
 			"txt": "默认设置"
 		},
 		{
 			"id": "options.viewers",
-			"machinetranslated": true,
 			"txt": "查看器"
 		},
 		{
 			"id": "options.controlpointeditor",
-			"machinetranslated": true,
 			"txt": "控制点编辑器"
 		},
 		{
 			"id": "options.controlpointgenerator",
-			"machinetranslated": true,
 			"txt": "控制点生成器"
 		},
 		{
 			"id": "options.theme",
-			"machinetranslated": true,
 			"txt": "主题："
 		},
 		{
 			"id": "options.theme.dark",
-			"machinetranslated": true,
-			"txt": "黑暗"
+			"txt": "深色"
 		},
 		{
 			"id": "options.theme.light",
-			"machinetranslated": true,
 			"txt": "明亮"
 		},
 		{
 			"id": "options.requiresrestart",
-			"machinetranslated": true,
 			"txt": "（需要重启）"
 		},
 		{
 			"id": "options.language",
-			"machinetranslated": true,
 			"txt": "语言："
 		},
 		{
 			"id": "options.uisize",
-			"machinetranslated": true,
 			"txt": "字体和图标大小："
 		},
 		{
 			"id": "options.tooltipmode",
-			"machinetranslated": true,
 			"txt": "显示提示窗口："
 		},
 		{
 			"id": "options.tooltipmode.no",
-			"machinetranslated": true,
 			"txt": "停用"
 		},
 		{
 			"id": "options.tooltipmode.yes",
-			"machinetranslated": true,
 			"txt": "启用"
 		},
 		{
 			"id": "options.tooltipmode.onlytoolbars",
-			"machinetranslated": true,
 			"txt": "仅适用于工具栏图标"
 		},
 		{
 			"id": "options.showroundedvalues",
-			"machinetranslated": true,
 			"txt": "当光标不在数字字段中时显示舍入值"
 		},
 		{
 			"id": "options.checkforupdates",
-			"machinetranslated": true,
 			"txt": "自动检查软件更新"
 		},
 		{
 			"id": "options.checkforupdates.beta",
-			"machinetranslated": true,
 			"txt": "包括测试版"
 		},
 		{
 			"id": "options.resetwarnings",
-			"machinetranslated": true,
 			"txt": "重置所有警告消息"
 		},
 		{
 			"id": "options.autoaddrelatedimages.enabled",
-			"machinetranslated": true,
 			"txt": "添加一个图像时，建议添加大约在同一时间拍摄的其他图像"
 		},
 		{
 			"id": "options.autoaddrelatedimages.threshold",
-			"machinetranslated": true,
-			"txt": "检测："
+			"txt": "最多："
 		},
 		{
 			"id": "options.autoaddrelatedimages.secondsbetweenshots",
-			"machinetranslated": true,
 			"txt": "秒之间拍摄的图像"
 		},
 		{
 			"id": "options.autoaddrelatedimages.useexifdate",
-			"machinetranslated": true,
 			"txt": "使用 EXIF 数据的原始拍摄日期/时间"
 		},
 		{
@@ -3559,22 +3107,18 @@
 		},
 		{
 			"id": "options.showintaskbar",
-			"machinetranslated": true,
 			"txt": "在任务栏中显示："
 		},
 		{
 			"id": "options.showintaskbar.mainwindow",
-			"machinetranslated": true,
 			"txt": "只有主窗口"
 		},
 		{
 			"id": "options.showintaskbar.all",
-			"machinetranslated": true,
 			"txt": "所有的窗口"
 		},
 		{
 			"id": "options.mousewheelaction",
-			"machinetranslated": true,
 			"txt": "鼠标滚轮："
 		},
 		{
@@ -3595,12 +3139,10 @@
 		},
 		{
 			"id": "options.disablemouserepositioning",
-			"machinetranslated": true,
 			"txt": "禁用鼠标指针重新定位"
 		},
 		{
 			"id": "options.disablemouserepositioning.txt",
-			"machinetranslated": true,
 			"txt": "（使用平板电脑，画笔或触摸屏时选择）"
 		},
 		{
@@ -3610,222 +3152,178 @@
 		},
 		{
 			"id": "options.defaultfolders",
-			"machinetranslated": true,
 			"txt": "默认文件夹"
 		},
 		{
 			"id": "options.defaultfolders.templates",
-			"machinetranslated": true,
 			"txt": "模板的默认文件夹："
 		},
 		{
 			"id": "options.applytemplateinitialfolder",
-			"machinetranslated": true,
-			"txt": "菜单@menubar.file@ | @menubar.file.applytemplate@ | @menubar.file.applytemplate.other@ ...打开："
+			"txt": "菜单@menubar.file@ | @menubar.file.applytemplate@ | @menubar.file.applytemplate.other@...打开："
 		},
 		{
 			"id": "options.applytemplateinitialfolder.templatesfolder",
-			"machinetranslated": true,
 			"txt": "模板文件夹（如上配置）"
 		},
 		{
 			"id": "options.applytemplateinitialfolder.rememberlast",
-			"machinetranslated": true,
 			"txt": "记住上次使用的文件夹"
 		},
 		{
 			"id": "options.defaultfolders.batchlists",
-			"machinetranslated": true,
-			"txt": "批次列表的默认文件夹："
+			"txt": "批处理列表的默认文件夹："
 		},
 		{
 			"id": "options.defaultfolders.tempfiles",
-			"machinetranslated": true,
 			"txt": "临时文件"
 		},
 		{
 			"id": "options.defaultfolders.tempfiles.txt",
-			"machinetranslated": true,
 			"txt": "选择 PTGui 可能保存临时文件的一个或多个文件夹（在不同的驱动器上）："
 		},
 		{
 			"id": "options.defaultfolders.tempfiles.selectfolder",
-			"machinetranslated": true,
 			"txt": "选择临时文件的文件夹："
 		},
 		{
 			"id": "options.defaultfolders.tempfiles.preferred",
-			"machinetranslated": true,
 			"txt": "首选"
 		},
 		{
 			"id": "options.viewerapps",
-			"machinetranslated": true,
-			"txt": "预览应用程序："
+			"txt": "查看器应用程序："
 		},
 		{
 			"id": "options.viewerapps.select",
-			"machinetranslated": true,
-			"txt": "选择预览应用程序"
+			"txt": "选择查看器应用程序"
 		},
 		{
 			"id": "options.cpeditor.magnifier",
-			"machinetranslated": true,
 			"txt": "放大镜"
 		},
 		{
 			"id": "options.cpeditor.magnifier.size",
-			"machinetranslated": true,
 			"txt": "尺寸："
 		},
 		{
 			"id": "options.cpeditor.magnifier.size.sourceimagepixels",
-			"machinetranslated": true,
 			"txt": "源图像像素"
 		},
 		{
 			"id": "options.cpeditor.magnifier.magnification",
-			"machinetranslated": true,
 			"txt": "放大"
 		},
 		{
 			"id": "options.cpeditor.magnifier.autocontrast",
-			"machinetranslated": true,
 			"txt": "@menubar.controlpoints.autocontrast@："
 		},
 		{
 			"id": "options.cpeditor.magnifier.showcplabels",
-			"machinetranslated": true,
 			"txt": "在放大镜中显示控制点标签"
 		},
 		{
 			"id": "options.cpeditor.magnifier.hidezoomerwhennothovering",
-			"machinetranslated": true,
 			"txt": "仅当鼠标指针在图像中时显示放大镜"
 		},
 		{
 			"id": "options.cpeditor.resetcptabwhenswitchingimages",
-			"machinetranslated": true,
 			"txt": "切换到不同图像时重置'@cptypetoadd@'"
 		},
 		{
 			"id": "options.cpeditor.showimagepickerballoon",
-			"machinetranslated": true,
 			"txt": "将鼠标悬停在缩略图上时，显示链接图像的弹出气球"
 		},
 		{
 			"id": "options.cpgenerator.maxcps",
-			"machinetranslated": true,
 			"txt": "最多生成"
 		},
 		{
 			"id": "options.cpgenerator.maxcps.perimagepair",
-			"machinetranslated": true,
 			"txt": "每个图像对的控制点"
 		},
 		{
 			"id": "options.cpgenerator.maxcps.perproject",
-			"machinetranslated": true,
 			"txt": "每个项目的控制点"
 		},
 		{
 			"id": "options.enblendapp",
-			"machinetranslated": true,
-			"txt": "Enblend 申请："
+			"txt": "Enblend 应用程序："
 		},
 		{
 			"id": "options.smartblendapp",
-			"machinetranslated": true,
 			"txt": "Smartblend 应用程序："
 		},
 		{
 			"id": "options.cmdlineparams",
-			"machinetranslated": true,
 			"txt": "命令行参数："
 		},
 		{
 			"id": "options.smartblend.onlyforwindows",
-			"machinetranslated": true,
 			"txt": "Smartblend 插件仅适用于 Windows。"
 		},
 		{
 			"id": "options.dcrawapp",
-			"machinetranslated": true,
 			"txt": "dcraw 应用程序的位置："
 		},
 		{
 			"id": "options.dcrawapp.orleaveempty",
-			"machinetranslated": true,
 			"txt": "（留空以使用与 PTGui 捆绑在一起的 DCRaw）"
 		},
 		{
 			"id": "options.dcrawapp.version",
-			"machinetranslated": true,
 			"txt": "DCRaw 版本"
 		},
 		{
 			"id": "options.showconsolewindowforplugins",
-			"machinetranslated": true,
 			"txt": "显示插件的控制台窗口"
 		},
 		{
 			"id": "options.useatmost",
-			"machinetranslated": true,
 			"txt": "最多使用"
 		},
 		{
 			"id": "options.mbpostfix",
-			"machinetranslated": true,
 			"txt": "MB"
 		},
 		{
 			"id": "options.ofram",
-			"machinetranslated": true,
 			"txt": "RAM 内存"
 		},
 		{
 			"id": "options.ofvideoram",
-			"machinetranslated": true,
 			"txt": "视频 RAM 内存"
 		},
 		{
 			"id": "options.automatic",
-			"machinetranslated": true,
 			"txt": "自动"
 		},
 		{
 			"id": "options.raminstalled",
-			"machinetranslated": true,
-			"txt": "安装在这台电脑上： %0 MB RAM"
+			"txt": "此计算机上安装的：%0 MB RAM"
 		},
 		{
 			"id": "options.hardwareacceleration",
-			"machinetranslated": true,
 			"txt": "硬件加速"
 		},
 		{
 			"id": "options.gpuacceleration.enabled",
-			"machinetranslated": true,
-			"txt": "启用 GPU 加速（使用 OpenCL ）"
+			"txt": "启用 GPU 加速（使用 OpenCL）"
 		},
 		{
 			"id": "options.gpuacceleration.requiresmacos109",
-			"machinetranslated": true,
-			"txt": "PTGui 仅在 macOS 10.9 或更高版本上支持 OpenCL 。"
+			"txt": "PTGui 仅在 macOS 10.9 或更高版本上支持 OpenCL。"
 		},
 		{
 			"id": "options.gpuacceleration.notsupported",
-			"machinetranslated": true,
-			"txt": "您的计算机不支持 OpenCL 。"
+			"txt": "您的计算机不支持 OpenCL。"
 		},
 		{
 			"id": "options.gpuacceleration.oldclversion",
-			"machinetranslated": true,
-			"txt": "此设备仅支持 OpenCL 版本 %0.%1 。至少需要 %2.%3。"
+			"txt": "此设备仅支持 OpenCL 版本 %0.%1。至少需要 %2.%3。"
 		},
 		{
 			"id": "options.gpuacceleration.cldeviceunavailable",
-			"machinetranslated": true,
 			"txt": "此设备当前无法使用。"
 		},
 		{
@@ -3834,12 +3332,10 @@
 		},
 		{
 			"id": "options.gpuacceleration.noimagesupport",
-			"machinetranslated": true,
 			"txt": "此设备不支持图像处理。"
 		},
 		{
 			"id": "options.gpuacceleration.nofullprofile",
-			"machinetranslated": true,
 			"txt": "此设备不支持完整的 OpenCL 配置文件。"
 		},
 		{
@@ -3852,57 +3348,46 @@
 		},
 		{
 			"id": "options.gpuacceleration.notagpu",
-			"machinetranslated": true,
-			"txt": "这不是 GPU 。"
+			"txt": "这不是 GPU。"
 		},
 		{
 			"id": "options.gpuacceleration.olddriver",
-			"machinetranslated": true,
 			"txt": "安装的驱动程序已过时。请从 %0 下载并安装最新的驱动程序。"
 		},
 		{
 			"id": "options.gpuacceleration.nonesupported",
-			"machinetranslated": true,
 			"txt": "无（没有支持的 GPU 设备可用）"
 		},
 		{
 			"id": "options.gpuacceleration.useforpreviews",
-			"machinetranslated": true,
 			"txt": "对全景编辑窗口和细节查看器使用 GPU 加速"
 		},
 		{
 			"id": "options.gpuacceleration.device",
-			"machinetranslated": true,
 			"txt": "GPU 设备："
 		},
 		{
 			"id": "options.openclversion",
-			"machinetranslated": true,
 			"txt": "OpenCL 版本：%0.%1"
 		},
 		{
 			"id": "options.opencldriverversion",
-			"machinetranslated": true,
 			"txt": "驱动程序版本：%0"
 		},
 		{
 			"id": "options.openclvideorammb",
-			"machinetranslated": true,
-			"txt": "视频 RAM： %0 MB"
+			"txt": "视频 RAM：%0 MB"
 		},
 		{
 			"id": "options.useatownrisk",
-			"machinetranslated": true,
 			"txt": "使用风险由您自己承担 - 当前不支持此设备"
 		},
 		{
 			"id": "options.applications",
-			"machinetranslated": true,
 			"txt": "应用"
 		},
 		{
 			"id": "options.errtxttempfolders",
-			"machinetranslated": true,
 			"txt": "请检查“临时文件”部分中的设置。如果有疑问，只需将“临时文件”部分留空即可。在这种情况下，PTGui 将自动选择合适的文件夹。"
 		},
 		{
@@ -4107,52 +3592,42 @@
 		},
 		{
 			"id": "txt.welcomevideotutorial",
-			"machinetranslated": true,
 			"txt": "欢迎来到 %0 ！如果您是第一次使用 PTGui ，我们建议您观看我们的视频教程。你想现在就观看吗？"
 		},
 		{
 			"id": "txt.welcomevideotutorial.later",
-			"machinetranslated": true,
 			"txt": "没问题。您可以随时选择@menubar.help@ | @menubar.help.videotutorial@观看视频教程。"
 		},
 		{
 			"id": "txt.seewhatsnew",
-			"machinetranslated": true,
 			"txt": "感谢您升级到 %0 版本 %1 ！\n\n你想看看这个版本中的新功能吗？"
 		},
 		{
 			"id": "txt.seewhatsnew.later",
-			"machinetranslated": true,
 			"txt": "没问题。您可以通过选择“@menubar.help@ | @menubar.help.whatsnew@”随时查看此信息。"
 		},
 		{
 			"id": "txt.wouldyouliketogotooptions",
-			"machinetranslated": true,
 			"txt": "你想转到 %0 来纠正这个问题吗？"
 		},
 		{
 			"id": "txt.dontcheckforupdatesanymore",
-			"machinetranslated": true,
 			"txt": "不要再检查更新了"
 		},
 		{
 			"id": "err.failedtocheckforupdates",
-			"machinetranslated": true,
 			"txt": "无法检查更新。请稍后再试，或访问www.ptgui.com查看是否有新版本。"
 		},
 		{
 			"id": "txt.newversionavailable",
-			"machinetranslated": true,
 			"txt": "新版本 %0 %1 可用！你想现在升级吗？"
 		},
 		{
 			"id": "txt.ptguiuptodate",
-			"machinetranslated": true,
 			"txt": "此计算机上的 PTGui 是最新的。"
 		},
 		{
 			"id": "txt.trialversion",
-			"machinetranslated": true,
 			"txt": "试用版"
 		},
 		{
@@ -4170,43 +3645,35 @@
 		},
 		{
 			"id": "txt.optimizerresult",
-			"machinetranslated": true,
 			"format": "html",
 			"txt": "您的全景图优化结果如下：<br><br>平均控制点距离： %0 <br>最小控制点距离： %1 <br>最大控制点距离：%2<br>（以源图像像素测量）<br><br>优化结果是：%3<br><br>是否要接受优化程序所做的更改？"
 		},
 		{
 			"id": "txt.optimizerresult.toogood",
-			"machinetranslated": true,
 			"txt": "极佳"
 		},
 		{
 			"id": "txt.optimizerresult.verygood",
-			"machinetranslated": true,
 			"txt": "很好"
 		},
 		{
 			"id": "txt.optimizerresult.good",
-			"machinetranslated": true,
 			"txt": "好"
 		},
 		{
 			"id": "txt.optimizerresult.notbad",
-			"machinetranslated": true,
 			"txt": "一般"
 		},
 		{
 			"id": "txt.optimizerresult.notsogood",
-			"machinetranslated": true,
 			"txt": "不好"
 		},
 		{
 			"id": "txt.optimizerresult.bad",
-			"machinetranslated": true,
 			"txt": "差"
 		},
 		{
 			"id": "txt.optimizerresult.verybad",
-			"machinetranslated": true,
 			"txt": "很差"
 		},
 		{
@@ -4216,103 +3683,83 @@
 		},
 		{
 			"id": "txt.unknownormanuallens",
-			"machinetranslated": true,
 			"txt": "未知或手动镜头"
 		},
 		{
 			"id": "txt.genericfisheye",
-			"machinetranslated": true,
 			"txt": "通用鱼眼"
 		},
 		{
 			"id": "txt.genericxfisheye",
-			"machinetranslated": true,
 			"txt": "通用 %0 鱼眼镜头"
 		},
 		{
 			"id": "txt.runningx",
-			"machinetranslated": true,
-			"txt": "%0 正在运行……"
+			"txt": "%0 正在运行..."
 		},
 		{
 			"id": "err.blendernotconfigured",
-			"machinetranslated": true,
 			"txt": "未配置 %0。请检查 %1 - @options.plugins@中的设置。"
 		},
 		{
 			"id": "err.blendernotfound",
-			"machinetranslated": true,
 			"txt": "找不到配置的 %0 应用程序。请检查 %1  - @options.plugins@中的设置。"
 		},
 		{
 			"id": "err.blenderfailed",
-			"machinetranslated": true,
 			"txt": "%0 失败，错误代码为 %1。"
 		},
 		{
 			"id": "err.blenderfailed.witherror",
-			"machinetranslated": true,
 			"txt": "%0 失败，错误代码为 %1 ，并报告以下错误：\n\n%2"
 		},
 		{
 			"id": "err.invalidvalue",
-			"machinetranslated": true,
 			"txt": "无效值"
 		},
 		{
 			"id": "err.invalidjpegdata",
-			"machinetranslated": true,
 			"txt": "遇到无效的 JPEG 数据"
 		},
 		{
 			"id": "err.notajpegfile",
-			"machinetranslated": true,
 			"txt": "不是 JPEG 文件"
 		},
 		{
 			"id": "err.jpegtoolarge",
-			"machinetranslated": true,
-			"txt": "JPEG 文件不能比 %0 像素更宽或更高。"
+			"txt": "JPEG 文件的宽或高不能超过 %0 像素。"
 		},
 		{
 			"id": "err.jpeg.exiftoolarge",
-			"machinetranslated": true,
-			"txt": "无法写入 JPEG 文件： EXIF 大小超过 64 千字节"
+			"txt": "无法写入 JPEG 文件：EXIF 大小超过 64 千字节"
 		},
 		{
 			"id": "err.jpeg.unsupportednumcomponents",
-			"machinetranslated": true,
 			"txt": "JPEG 错误：组件数量不受支持： %0 "
 		},
 		{
 			"id": "err.jpegerror",
-			"machinetranslated": true,
 			"txt": "JPEG 错误： %0 "
 		},
 		{
 			"id": "err.hdrrequirespro",
-			"machinetranslated": true,
 			"txt": "只有专业版的 PTGui 支持 HDR 图像。"
 		},
 		{
 			"id": "err.failedtoreadfolder",
-			"machinetranslated": true,
 			"txt": "无法读取文件夹： %0 "
 		},
 		{
 			"id": "err.failedtoopenfileforwriting",
-			"machinetranslated": true,
-			"txt": "无法打开文件写入： %0 "
+			"txt": "无法打开文件进行写入：%0"
 		},
 		{
 			"id": "err.failedtoopenfileforreading",
-			"machinetranslated": true,
-			"txt": "无法打开文件读取： %0 "
+			"txt": "无法打开文件进行读取：%0"
 		},
 		{
 			"id": "err.failedtoopenfileforwriting.containingdirnotexist",
-			"machinetranslated": true,
-			"txt": "无法写入文件：\n %0 \n\n因为包含文件夹不存在：\n %1 "
+			"txt": "无法写入文件：\n%0\n\n因为所在文件夹不存在：\n%1"
 		},
 		{
 			"id": "batchbuilder.err.nosubfolders",
@@ -5115,32 +4562,26 @@
 		},
 		{
 			"id": "errorsframe.caption",
-			"machinetranslated": true,
 			"txt": "错误"
 		},
 		{
 			"id": "err.fileiscorrupt",
-			"machinetranslated": true,
 			"txt": "文件已损坏："
 		},
 		{
 			"id": "err.exposureopt.needtwoimages",
-			"machinetranslated": true,
 			"txt": "对于曝光和颜色优化，项目应包含至少两个重叠图像。"
 		},
 		{
 			"id": "err.exposureopt.couldnotgather",
-			"machinetranslated": true,
 			"txt": "无法收集足够的数据进行优化。可能所选图像没有足够的重叠。"
 		},
 		{
 			"id": "txt.analyzingimages",
-			"machinetranslated": true,
 			"txt": "分析图像"
 		},
 		{
 			"id": "txt.analyzingcontrolpoints",
-			"machinetranslated": true,
 			"txt": "分析控制点"
 		},
 		{
@@ -5149,67 +4590,54 @@
 		},
 		{
 			"id": "txt.convertingtoqtvr",
-			"machinetranslated": true,
 			"txt": "转换为 QTVR"
 		},
 		{
 			"id": "txt.compressingpsd",
-			"machinetranslated": true,
 			"txt": "压缩 Photoshop 输出"
 		},
 		{
 			"id": "txt.finishingoutputfiles",
-			"machinetranslated": true,
 			"txt": "完成输出文件"
 		},
 		{
 			"id": "txt.finishingoutputfile",
-			"machinetranslated": true,
 			"txt": "完成输出文件"
 		},
 		{
 			"id": "err.nooutputfilename",
-			"machinetranslated": true,
 			"txt": "未设置输出文件名。"
 		},
 		{
 			"id": "err.exposureopt.needtwoimages2",
-			"machinetranslated": true,
 			"txt": "对于曝光和颜色优化，应选择至少两个重叠图像进行优化。按@settings@并选择两个或多个图像。"
 		},
 		{
 			"id": "err.notabatchlist",
-			"machinetranslated": true,
-			"txt": "这不是 PTGui 批处理清单。"
+			"txt": "这不是 PTGui 批处理列表。"
 		},
 		{
 			"id": "err.lensparamsincompatiblewithv10",
-			"machinetranslated": true,
 			"txt": "镜头参数与 PTGui 10 不兼容。"
 		},
 		{
 			"id": "err.individuallensparamsincompatiblewithv10",
-			"machinetranslated": true,
 			"txt": "各个镜头参数与 PTGui 10 不兼容。"
 		},
 		{
 			"id": "err.noptguiprojectfile",
-			"machinetranslated": true,
 			"txt": "这似乎不是一个 PTGui 项目文件"
 		},
 		{
 			"id": "err.noptguilensdbfile",
-			"machinetranslated": true,
 			"txt": "这似乎不是 PTGui 镜头数据库文件"
 		},
 		{
 			"id": "err.lensdbfileincompatible",
-			"machinetranslated": true,
 			"txt": "此镜头数据库是使用较新版本的 PTGui 创建的，与此 PTGui 版本不兼容。打开此镜头数据库需要 %0 或更高版本。"
 		},
 		{
 			"id": "err.unexpectedendoffile",
-			"machinetranslated": true,
 			"txt": "遇到意外的文件结尾"
 		},
 		{
@@ -5218,22 +4646,18 @@
 		},
 		{
 			"id": "err.invalidfileformat",
-			"machinetranslated": true,
 			"txt": "文件格式无效"
 		},
 		{
 			"id": "err.missingfield",
-			"machinetranslated": true,
-			"txt": "缺少' %0 '字段"
+			"txt": "缺少“%0”字段"
 		},
 		{
 			"id": "err.couldnotreadprojectfile",
-			"machinetranslated": true,
 			"txt": "无法读取此 PTGui 项目文件："
 		},
 		{
 			"id": "err.couldnotreadlensdbfile",
-			"machinetranslated": true,
 			"txt": "无法读取此 PTGui 镜头数据库文件："
 		},
 		{
@@ -5256,7 +4680,6 @@
 		},
 		{
 			"id": "err.incompatibleprojectfromnewerversion",
-			"machinetranslated": true,
 			"txt": "此项目是使用较新版本的 PTGui 创建的，与此 PTGui 版本不兼容。打开此项目需要 %0 或更高版本。"
 		},
 		{
@@ -5265,7 +4688,6 @@
 		},
 		{
 			"id": "err.outputfoldernotexist",
-			"machinetranslated": true,
 			"txt": "输出文件夹不存在："
 		},
 		{
@@ -5279,8 +4701,7 @@
 		},
 		{
 			"id": "err.nooutputcomponents",
-			"machinetranslated": true,
-			"txt": "没有选择任何输出组件，因此无需运行任何操作。"
+			"txt": "未选择任何输出组件，因此无需执行操作。"
 		},
 		{
 			"id": "warn.cpsmodified",
@@ -5292,32 +4713,26 @@
 		},
 		{
 			"id": "txt.globallensprofile",
-			"machinetranslated": true,
 			"txt": "全局镜头配置文件"
 		},
 		{
 			"id": "txt.ptguiprojects",
-			"machinetranslated": true,
 			"txt": "PTGui 项目"
 		},
 		{
 			"id": "txt.ptswrongextension",
-			"machinetranslated": true,
 			"txt": "所选文件名的扩展名错误。你想把它改成 .pts 吗？"
 		},
 		{
 			"id": "txt.allfiles",
-			"machinetranslated": true,
 			"txt": "全部文件"
 		},
 		{
 			"id": "txt.profilenumber",
-			"machinetranslated": true,
-			"txt": "文件＃"
+			"txt": "配置文件 #"
 		},
 		{
 			"id": "txt.untiltledproject",
-			"machinetranslated": true,
 			"txt": "无标题"
 		},
 		{
@@ -5330,7 +4745,6 @@
 		},
 		{
 			"id": "err.cannotchangephysicallyrotateimages",
-			"machinetranslated": true,
 			"txt": "只能在加载第一张图像之前更改“@mainwindow.projectsettings.misc.useexiforientation@”设置。"
 		},
 		{
@@ -5459,12 +4873,10 @@
 		},
 		{
 			"id": "txt.pleasewait",
-			"machinetranslated": true,
 			"txt": "请稍候"
 		},
 		{
 			"id": "txt.busywouldyouliketoabort",
-			"machinetranslated": true,
 			"txt": "操作仍在运行。你想中止吗？"
 		},
 		{
@@ -5494,208 +4906,167 @@
 		},
 		{
 			"id": "err.externalblender.tiffover4gb",
-			"machinetranslated": true,
 			"txt": "要发送到混合插件的 TIFF 文件超过最大大小 4GB。全景图太大，必须使用内部混合器进行混合。\n\n请选择“@mainwindow.createpanoramatab.blendusing@：PTGui”。"
 		},
 		{
 			"id": "err.filenotfound",
-			"machinetranslated": true,
 			"txt": "找不到文件： %0 "
 		},
 		{
 			"id": "err.notaptguimaskbitmap",
-			"machinetranslated": true,
 			"txt": "这似乎不是 PTGui 蒙版图像。"
 		},
 		{
 			"id": "err.unrecognizedimageformat",
-			"machinetranslated": true,
 			"txt": "无法识别的图像格式"
 		},
 		{
 			"id": "err.readingimage",
-			"machinetranslated": true,
 			"txt": "读取图像时出错：\n %0 "
 		},
 		{
 			"id": "err.readingimage.withname",
-			"machinetranslated": true,
 			"txt": "读取图像 %1 时出错：\n %0 "
 		},
 		{
 			"id": "err.writingimage",
-			"machinetranslated": true,
-			"txt": "写图像时出错：\n %0 "
+			"txt": "写入图像时出错：\n%0"
 		},
 		{
 			"id": "err.writingimage.withname",
-			"machinetranslated": true,
-			"txt": "写入图像 %1 时出错：\n %0 "
+			"txt": "写入图像 %1 时出错：\n%0"
 		},
 		{
 			"id": "err.couldnotdeletefile",
-			"machinetranslated": true,
 			"txt": "无法删除文件： %0 "
 		},
 		{
 			"id": "err.couldnotdeletefolder",
-			"machinetranslated": true,
 			"txt": "无法删除文件夹： %0 "
 		},
 		{
 			"id": "err.copydestfileexists",
-			"machinetranslated": true,
 			"txt": "目标文件已经存在： %0 "
 		},
 		{
 			"id": "err.writefilefailed",
-			"machinetranslated": true,
 			"txt": "无法写入文件。\n文件名： %0 \n目标文件大小： %1 字节；\n错误：%2"
 		},
 		{
 			"id": "err.writefilefailed2",
-			"machinetranslated": true,
 			"txt": "无法写入文件： %0 "
 		},
 		{
 			"id": "err.unlinkfailed",
-			"machinetranslated": true,
 			"txt": "无法删除文件。\n文件名： %0 \n错误： %1 "
 		},
 		{
 			"id": "err.invalidconfigfile",
-			"machinetranslated": true,
 			"txt": "配置文件无效： %0 "
 		},
 		{
 			"id": "err.corruptconfigfile",
-			"machinetranslated": true,
-			"txt": "损坏的配置文件： %0 \n %1 "
+			"txt": "损坏的配置文件：%0\n%1"
 		},
 		{
 			"id": "err.copyfilefailed",
-			"machinetranslated": true,
-			"txt": "无法复制文件\n数据源： %0 \n目的地： %1 \n错误：%2"
+			"txt": "无法复制文件\n源文件：%0\n目标文件：%1\n错误：%2"
 		},
 		{
 			"id": "err.tempfoldernotfound",
-			"machinetranslated": true,
 			"txt": "找不到临时文件夹： %0 "
 		},
 		{
 			"id": "err.renamefilefailed",
-			"machinetranslated": true,
-			"txt": "无法重命名文件\n数据源： %0 \n目的地： %1 "
+			"txt": "无法重命名文件\n源文件：%0\n目标文件：%1"
 		},
 		{
 			"id": "err.couldnotcreatefolder",
-			"machinetranslated": true,
 			"txt": "无法创建文件夹： %0 "
 		},
 		{
 			"id": "err.couldnotcreatefile",
-			"machinetranslated": true,
-			"txt": "无法创建文件： %0 \n %1 "
+			"txt": "无法创建文件：%0\n%1"
 		},
 		{
 			"id": "err.couldnotopenfile",
-			"machinetranslated": true,
-			"txt": "无法打开现有文件： %0 \n %1 "
+			"txt": "无法打开现有文件：%0\n%1"
 		},
 		{
 			"id": "err.foldernotfound",
-			"machinetranslated": true,
 			"txt": "文件夹不存在： %0 "
 		},
 		{
 			"id": "err.unsupportedfiletype",
-			"machinetranslated": true,
-			"txt": "不支持的文件类别"
+			"txt": "不支持的文件类型"
 		},
 		{
 			"id": "err.thumbnailcorrupt",
-			"machinetranslated": true,
 			"txt": "缩略图图像已损坏"
 		},
 		{
 			"id": "err.thumbnailtoolarge",
-			"machinetranslated": true,
 			"txt": "缩略图图像太大"
 		},
 		{
 			"id": "err.nothumbnailfound",
-			"machinetranslated": true,
 			"txt": "找不到缩略图"
 		},
 		{
 			"id": "err.couldnotwritetofolder",
-			"machinetranslated": true,
 			"txt": "无法写入文件夹： %0 "
 		},
 		{
 			"id": "err.unexpectedeof",
-			"machinetranslated": true,
 			"txt": "遇到意外的文件结尾"
 		},
 		{
 			"id": "err.unspportedimagefileformat",
-			"machinetranslated": true,
 			"txt": "不支持的图像文件格式： %0 "
 		},
 		{
 			"id": "err.failedtoreadfromfile",
-			"machinetranslated": true,
 			"txt": "无法从文件中读取"
 		},
 		{
 			"id": "err.failedtoloadfile",
-			"machinetranslated": true,
-			"txt": "无法加载文件 %0 ：\n %1 "
+			"txt": "无法加载文件 %0：\n%1"
 		},
 		{
 			"id": "err.aborted",
-			"machinetranslated": true,
-			"txt": "由用户中止"
+			"txt": "用户中止"
 		},
 		{
 			"id": "err.outofmemory",
-			"machinetranslated": true,
 			"txt": "内存不足"
 		},
 		{
 			"id": "err.unknownerror",
-			"machinetranslated": true,
 			"txt": "出现未知错误"
 		},
 		{
 			"id": "err.anotherinstancerunning",
-			"machinetranslated": true,
 			"txt": "另一个 PTGui 实例似乎正在运行但它没有响应。您可能需要在任务管理器中手动终止它。重新启动计算机也应该解决问题。"
 		},
 		{
 			"id": "txt.mac.mustinstalltoapplicationsfolder",
-			"machinetranslated": true,
 			"txt": "需要先将 %0 安装到计算机的 %1 文件夹中，然后才能运行它。你想现在就这样做吗？"
 		},
 		{
 			"id": "txt.mac.installtoapplicationsfolderalreadyexists",
-			"machinetranslated": true,
 			"txt": "%0 已存在于您的 %1 文件夹中。你想用这个版本替换它吗？"
 		},
 		{
 			"id": "txt.mac.installedtoapplicationsfolder",
-			"machinetranslated": true,
 			"txt": "%0 已安装到 %1 文件夹中。从现在开始，要运行 %0 ，您可以双击 %1 文件夹中的图标。\n\n不再需要 PTGui 安装盘，可以删除。"
 		},
 		{
 			"id": "err.mac.installtoapplicationsfolderfailed",
-			"machinetranslated": true,
 			"txt": "无法将 %0 安装到 %1 文件夹。这很可能是由于权限问题。\n\n要继续安装，请将 %0 从安装磁盘映象拖到 Mac 上的 %1 文件夹中。之后可以删除安装盘映象，并可以从 %1 文件夹启动 %0 。\n\n发生以下错误："
 		},
 		{
 			"id": "err.unknownfiletype",
-			"machinetranslated": true,
-			"txt": "未知文件类别："
+			"txt": "未知文件类型："
 		},
 		{
 			"id": "err.openingbatchlistandotherfiles",
@@ -5703,78 +5074,63 @@
 		},
 		{
 			"id": "err.canonlyopenasinglebatchfile",
-			"machinetranslated": true,
 			"txt": "一次只能打开一个批处理列表。"
 		},
 		{
 			"id": "err.openingprojectfileandimages",
-			"machinetranslated": true,
 			"txt": "您无法同时打开 PTGui 项目文件和图像。"
 		},
 		{
 			"id": "err.openingmultipleprojectfiles",
-			"machinetranslated": true,
 			"txt": "您只能同时打开一个 PTGui 项目文件。"
 		},
 		{
 			"id": "err.levelingfailed1",
-			"machinetranslated": true,
 			"txt": "调平失败：一个或多个控制点位于源图像投影的有效区域之外。"
 		},
 		{
 			"id": "err.levelingrequireshvcps",
-			"machinetranslated": true,
 			"txt": "要拉平全景图，您的项目应包含“@cptable.horizontalline@”或“@cptable.verticalline@”类别的控制点。"
 		},
 		{
 			"id": "err.need2imagesforstraighten",
-			"machinetranslated": true,
 			"txt": "至少需要 2 张图像才能拉直全景图。要调整单个图像，请放置一些“@cptable.verticalline@”控制点并使用@panoeditor.menubar.edit.level@功能。"
 		},
 		{
 			"id": "err.straightenfailed",
-			"machinetranslated": true,
 			"txt": "无法拉直全景。请在全景编辑窗口中手动对齐全景图。"
 		},
 		{
 			"id": "err.initopenclfailed",
-			"machinetranslated": true,
 			"txt": "无法初始化 OpenCL。请访问 www.ptgui.com/kb/100 了解更多信息。\n错误： "
 		},
 		{
 			"id": "err.tempfoldersunavailable",
-			"machinetranslated": true,
 			"txt": "无法使用一个或多个已配置的临时文件夹：\n\n"
 		},
 		{
 			"id": "err.cannotlinkdifferentsize",
-			"machinetranslated": true,
 			"txt": "这些图像无法链接，因为它们具有不同的尺寸。链接的图像应具有相同的像素尺寸。"
 		},
 		{
 			"id": "txt.openclcrashaskdisablegpuacceleration",
-			"machinetranslated": true,
 			"txt": "看来 PTGui 之前在使用 OpenCL 进行 GPU 加速时崩溃了。这可能是由于视频卡驱动程序中的错误造成的。从制造商的网站安装最新的驱动程序可能会解决此问题。\n\n如果问题仍然存在，则必须在没有 GPU 加速的情况下运行 PTGui。你想现在停用 GPU 加速吗？"
 		},
 		{
 			"id": "txt.aligningimages",
-			"machinetranslated": true,
 			"txt": "对齐图像"
 		},
 		{
 			"id": "txt.dontaskthisagain",
-			"machinetranslated": true,
-			"txt": "不再次询问"
+			"txt": "不再询问"
 		},
 		{
 			"id": "txt.dontshowthisagain",
-			"machinetranslated": true,
 			"txt": "不再显示"
 		},
 		{
 			"id": "txt.dontaskthisagainforthisproject",
-			"machinetranslated": true,
-			"txt": "不要再问这个项目了"
+			"txt": "不再为此项目询问"
 		},
 		{
 			"id": "warn.simplemodewillchangesettings",
@@ -5786,37 +5142,30 @@
 		},
 		{
 			"id": "txt.savingproject",
-			"machinetranslated": true,
 			"txt": "保存项目"
 		},
 		{
 			"id": "txt.loadingproject",
-			"machinetranslated": true,
-			"txt": "开启项目"
+			"txt": "正在加载项目"
 		},
 		{
 			"id": "txt.loadingtemplate",
-			"machinetranslated": true,
 			"txt": "加载模板"
 		},
 		{
 			"id": "txt.savingtemplate",
-			"machinetranslated": true,
 			"txt": "保存模板"
 		},
 		{
 			"id": "txt.exportingproject",
-			"machinetranslated": true,
-			"txt": "输出项目"
+			"txt": "正在导出项目"
 		},
 		{
 			"id": "txt.asksavefirsttime",
-			"machinetranslated": true,
 			"txt": "当前项目尚未保存。保存项目能让您从上次的地方继续编辑。\n\n是否保存项目？"
 		},
 		{
 			"id": "txt.asksavechanges",
-			"machinetranslated": true,
 			"txt": "当前的项目已经改变。是否保存对 %0 的更改？"
 		},
 		{
@@ -5825,12 +5174,10 @@
 		},
 		{
 			"id": "err.dragdropmess",
-			"machinetranslated": true,
-			"txt": "您已在 PTGui 上删除了多个文件，包含图像和项目文件。\n\n删除单个 PTGui 项目或一个或多个图像。"
+			"txt": "您将多个文件拖放到 PTGui 上，其中包括图像和项目文件。\n\n请仅拖放单个 PTGui 项目或一个或多个图像。"
 		},
 		{
 			"id": "txt.foundimagesinsamefolder",
-			"machinetranslated": true,
 			"txt": "PTGui 在同一个文件夹中找到 %0 个图像大约在同一时间拍摄。您是否也想将这些添加到您的项目中？"
 		},
 		{
@@ -5840,32 +5187,26 @@
 		},
 		{
 			"id": "err.couldnotloadimage",
-			"machinetranslated": true,
 			"txt": "无法加载图像："
 		},
 		{
 			"id": "err.notfoundaskforfolder1",
-			"machinetranslated": true,
 			"txt": "未找到一个或多个源图像。要在不同的文件夹中寻找图像吗？"
 		},
 		{
 			"id": "err.notfoundaskforfolder2",
-			"machinetranslated": true,
 			"txt": "在给定文件夹中找不到任何图像。你想试试另一个文件夹吗？"
 		},
 		{
 			"id": "err.notfoundaskforfolder3",
-			"machinetranslated": true,
 			"txt": "仍然缺少一个或多个图像。你想试试另一个文件夹吗？"
 		},
 		{
 			"id": "txt.folderforsearchingimages",
-			"machinetranslated": true,
 			"txt": "在以下文件夹中搜索缺失的图像："
 		},
 		{
 			"id": "txt.folderforreplacingimages",
-			"machinetranslated": true,
 			"txt": "替换为以下文件夹中的图像："
 		},
 		{
@@ -5887,13 +5228,11 @@
 		},
 		{
 			"id": "txt.optimizing",
-			"machinetranslated": true,
 			"txt": "优化"
 		},
 		{
 			"id": "err.optimizerfailed",
-			"machinetranslated": true,
-			"txt": "优化器无法实现图像的良好对齐。可能当前图像的错位导致优化器卡住。在这种情况下运行'@menubar.project.initializeandoptimize@'可能有所帮助：这会将镜头设置和图像位置重置为初始状态，并尝试从头开始重新定位图像。\n\n你想跑'@menubar.project.initializeandoptimize@'吗？"
+			"txt": "优化器未能使图像良好对齐。可能是当前图像的错位导致优化器卡住。在这种情况下，运行“@menubar.project.initializeandoptimize@”可能会有所帮助：这会将镜头设置重置为默认值并重新运行优化器。"
 		},
 		{
 			"id": "txt.confirmlinkhdrsets",
@@ -5905,17 +5244,14 @@
 		},
 		{
 			"id": "err.nobracketedfound",
-			"machinetranslated": true,
 			"txt": "未找到 HDR 曝光集。\n\n要使用此功能，项目中的图像应具有重复的包围曝光序列。欲了解更多信息，请参阅：www.ptgui.com/kb/101"
 		},
 		{
 			"id": "txt.confirmoverwrite.one",
-			"machinetranslated": true,
 			"txt": "输出文件 %0 已存在。你想覆盖它吗？"
 		},
 		{
 			"id": "txt.confirmoverwrite.several",
-			"machinetranslated": true,
 			"txt": "文件已存在：\n\n %0 \n你想覆盖这些文件吗？"
 		},
 		{
@@ -5936,8 +5272,7 @@
 		},
 		{
 			"id": "err.removeworstcps.deletingoneworstcontrolpoint",
-			"machinetranslated": true,
-			"txt": "将删除一个最差的控制点（%0 总控制点）。您想继续并重新优化项目吗？"
+			"txt": "将删除一个最差的控制点（共 %0 个）。是否继续并重新优化项目？"
 		},
 		{
 			"id": "err.removeworstcps.deletingsomeworstcontrolpoint",
@@ -5965,23 +5300,19 @@
 		},
 		{
 			"id": "err.generatecphere.notfound",
-			"machinetranslated": true,
 			"txt": "无法在所选区域中找到任何控制点。"
 		},
 		{
 			"id": "err.openclerroroccurred",
-			"machinetranslated": true,
 			"txt": "使用 OpenCL 进行 GPU 加速时，PTGui 遇到了问题。这可能是由于视频卡驱动程序中的错误造成的。从制造商的网站安装最新的 GPU 驱动程序可能会解决问题。\n\n如果问题仍然存在，则必须在没有 GPU 加速的情况下运行 PTGui。你想现在停用 GPU 加速吗？"
 		},
 		{
 			"id": "txt.proceedanyway",
-			"machinetranslated": true,
 			"txt": "你还想继续吗？"
 		},
 		{
 			"id": "err.anotheroperationinprogress",
-			"machinetranslated": true,
-			"txt": "另一项行动正在进行中。"
+			"txt": "另一个操作正在进行中。"
 		},
 		{
 			"id": "err.psd4gb",
@@ -6754,7 +6085,6 @@
 		},
 		{
 			"id": "mainwindow.projectsettings.batchstitcheractions",
-			"machinetranslated": true,
 			"txt": "@batchstitcher@的操作"
 		},
 		{
@@ -6767,7 +6097,6 @@
 		},
 		{
 			"id": "err.blenderfailednooutput",
-			"machinetranslated": true,
 			"txt": "%0 失败：输出文件未生成，原因未知。这可能是由于内存或磁盘空间不足造成的。请尝试以较小的尺寸创建全景图。"
 		},
 		{
@@ -6793,12 +6122,10 @@
 		},
 		{
 			"id": "err.stitcher.imagehasunexpectedsize",
-			"machinetranslated": true,
 			"txt": "此图像的尺寸与项目文件中记录的图像尺寸不同。请重新加载项目。\n\n图像：\n %0 "
 		},
 		{
 			"id": "err.stitcher.imagehasunexpectedpixelformat",
-			"machinetranslated": true,
 			"txt": "此图像的像素格式与项目文件中记录的像素格式不同。请重新加载项目。\n\n图像：\n %0 "
 		},
 		{
@@ -6817,7 +6144,6 @@
 		},
 		{
 			"id": "mainwindow.imageparameters.expoffset",
-			"machinetranslated": true,
 			"txt": "曝光补偿"
 		},
 		{
@@ -6837,7 +6163,6 @@
 		},
 		{
 			"id": "txt.unknown",
-			"machinetranslated": true,
 			"txt": "未知"
 		},
 		{
@@ -6846,17 +6171,14 @@
 		},
 		{
 			"id": "txt.genericfisheyelens",
-			"machinetranslated": true,
 			"txt": "通用鱼眼镜头"
 		},
 		{
 			"id": "options.gpuacceleration.crashwhileloadingopencldll",
-			"machinetranslated": true,
-			"txt": "无法启用 OpenCL ： OpenCL 驱动程序崩溃。您可能需要更新 GPU 驱动程序。"
+			"txt": "无法启用 OpenCL：OpenCL 驱动程序崩溃。您可能需要更新 GPU 驱动程序。"
 		},
 		{
 			"id": "options.gpuacceleration.dontaskdisableopenclifcrashed",
-			"machinetranslated": true,
 			"txt": "永远不要在启动时询问是否应停用 GPU 加速"
 		},
 		{
@@ -6887,28 +6209,23 @@
 		},
 		{
 			"id": "txt.reactivationwarning",
-			"machinetranslated": true,
 			"txt": "@txt.mustbereactivated@有关详细信息，请参阅@menubar.help@ | @menubar.help.licenseinfo@。"
 		},
 		{
 			"id": "txt.licenseinfo.reactivationwarning",
-			"machinetranslated": true,
 			"format": "html",
 			"txt": "@txt.mustbereactivated@立即<a href=0>续订启用...</a>"
 		},
 		{
 			"id": "txt.mustbereactivated",
-			"machinetranslated": true,
 			"txt": "在 %0 之前，必须在此计算机上重新启用 PTGui。"
 		},
 		{
 			"id": "mainwindow.projectsettings.templatebehavior.preservepanoramaorientation",
-			"machinetranslated": true,
 			"txt": "保留全景的原始方向"
 		},
 		{
 			"id": "mainwindow.projectsettings.misc.useorientationsensor",
-			"machinetranslated": true,
 			"txt": "使用相机方向传感器的元数据自动定位图像"
 		},
 		{
@@ -6922,12 +6239,10 @@
 		},
 		{
 			"id": "options.rawfilesupport",
-			"machinetranslated": true,
 			"txt": "Camera RAW 文件支持"
 		},
 		{
 			"id": "options.rawdecoder",
-			"machinetranslated": true,
 			"txt": "使用以下方法解码 RAW 文件："
 		},
 		{
@@ -6936,27 +6251,22 @@
 		},
 		{
 			"id": "options.rawdecoder.dcraw",
-			"machinetranslated": true,
-			"txt": "dcraw 解码"
+			"txt": "DCRaw"
 		},
 		{
 			"id": "menubar.file.mergeproject",
-			"machinetranslated": true,
-			"txt": "附加另一个项目"
+			"txt": "附加其他项目"
 		},
 		{
 			"id": "menubar.tools.openfolder.configfolder",
-			"machinetranslated": true,
 			"txt": "PTGui 配置文件夹"
 		},
 		{
 			"id": "mainwindow.exposurehdrpanel.noisefloor",
-			"machinetranslated": true,
 			"txt": "本底噪声"
 		},
 		{
 			"id": "mainwindow.lensparams.mirrored",
-			"machinetranslated": true,
 			"txt": "水平镜像"
 		},
 		{
@@ -6966,7 +6276,6 @@
 		},
 		{
 			"id": "mainwindow.createpanoramatab.blending",
-			"machinetranslated": true,
 			"txt": "混合："
 		},
 		{
@@ -7000,12 +6309,10 @@
 		},
 		{
 			"id": "mainwindow.projectsettings.templatebehavior.panoramasettings_nonpro",
-			"machinetranslated": true,
 			"txt": "全景和输出设置"
 		},
 		{
 			"id": "mainwindow.projectsettings.misc.useexif_nonpro",
-			"machinetranslated": true,
 			"txt": "添加图像时使用 EXIF 数据自动初始化镜头设置"
 		},
 		{
@@ -7034,18 +6341,15 @@
 		},
 		{
 			"id": "mainwindow.createpanoramatab.outputcolorprofile",
-			"machinetranslated": true,
-			"txt": "输出的色彩空间："
+			"txt": "输出色彩空间："
 		},
 		{
 			"id": "mainwindow.createpanoramatab.usesourcecolorprofile",
-			"machinetranslated": true,
 			"txt": "尽可能使用源图像中的色彩空间"
 		},
 		{
 			"id": "txt.iccprofiles",
-			"machinetranslated": true,
-			"txt": "ICC颜色配置文件"
+			"txt": "ICC 颜色配置文件"
 		},
 		{
 			"id": "txt.openiccprofile",
@@ -7057,8 +6361,7 @@
 		},
 		{
 			"id": "mainwindow.exposurehdrpanel.hdrflow",
-			"machinetranslated": true,
-			"txt": "HDR工作流程："
+			"txt": "HDR 工作流程："
 		},
 		{
 			"id": "mainwindow.exposurehdrpanel.hdrflow.mergethenblend",
@@ -7070,12 +6373,10 @@
 		},
 		{
 			"id": "mainwindow.exposurehdrpanel.mergemethod_short",
-			"machinetranslated": true,
 			"txt": "合并使用："
 		},
 		{
 			"id": "mainwindow.exposurehdrpanel.exposurefusesinglebrackets",
-			"machinetranslated": true,
 			"txt": "为单次曝光启用曝光融合"
 		},
 		{
@@ -7085,22 +6386,18 @@
 		},
 		{
 			"id": "mainwindow.imageparameters.cameracurve",
-			"machinetranslated": true,
-			"txt": "相机曲线"
+			"txt": "相机响应曲线"
 		},
 		{
 			"id": "txt.globalcameracurve",
-			"machinetranslated": true,
 			"txt": "全局相机曲线"
 		},
 		{
 			"id": "txt.cameracurve_n",
-			"machinetranslated": true,
-			"txt": "相机曲线＃%0"
+			"txt": "相机曲线 #%0"
 		},
 		{
 			"id": "txt.cameracurve.linear",
-			"machinetranslated": true,
 			"txt": "线性的"
 		},
 		{
@@ -7114,82 +6411,66 @@
 		},
 		{
 			"id": "txt.toningparameters",
-			"machinetranslated": true,
 			"txt": "调色参数"
 		},
 		{
 			"id": "txt.toningcurve",
-			"machinetranslated": true,
 			"txt": "色调曲线"
 		},
 		{
 			"id": "txt.toningcurve.shape",
-			"machinetranslated": true,
 			"txt": "形状："
 		},
 		{
 			"id": "txt.toningcurve.shift",
-			"machinetranslated": true,
-			"txt": "转移："
+			"txt": "偏移："
 		},
 		{
 			"id": "txt.savetoningparameters",
-			"machinetranslated": true,
 			"txt": "保存@txt.toningparameters@"
 		},
 		{
 			"id": "txt.loadtoningparameters",
-			"machinetranslated": true,
 			"txt": "加载@txt.toningparameters@"
 		},
 		{
 			"id": "txt.saturation",
-			"machinetranslated": true,
-			"txt": "饱和"
+			"txt": "饱和度"
 		},
 		{
 			"id": "txt.saturation.shadows",
-			"machinetranslated": true,
 			"txt": "阴影："
 		},
 		{
 			"id": "txt.saturation.highlights",
-			"machinetranslated": true,
-			"txt": "强调："
+			"txt": "高光："
 		},
 		{
 			"id": "mainwindow.imageparameters.whitebalance",
-			"machinetranslated": true,
 			"txt": "白平衡"
 		},
 		{
 			"id": "txt.asshot",
-			"machinetranslated": true,
-			"txt": "作为原始"
+			"txt": "原样"
 		},
 		{
 			"id": "options.keepmultiplesidebarpanelsopen",
-			"machinetranslated": true,
 			"txt": "在@panoramaeditor@的侧栏中保持多个面板处于打开状态"
 		},
 		{
 			"id": "mainwindow.exposurehdrpanel.blenddatatype",
-			"machinetranslated": true,
-			"txt": "精确："
+			"txt": "精度："
 		},
 		{
 			"id": "mainwindow.exposurehdrpanel.blenddatatype.halffloat",
-			"machinetranslated": true,
-			"txt": "半浮"
+			"txt": "半浮点"
 		},
 		{
 			"id": "mainwindow.exposurehdrpanel.blenddatatype.float",
-			"machinetranslated": true,
-			"txt": "浮动"
+			"txt": "浮点"
 		},
 		{
 			"id": "mainwindow.projectsettings.alignimagesbehavior.optimizeexposure.onlyifalignmentsuccesful",
-			"machinetranslated": true,
 			"txt": "但前提是对齐成功"
 		},
 		{
@@ -7203,52 +6484,42 @@
 		},
 		{
 			"id": "txt.exposurefusionparameters",
-			"machinetranslated": true,
 			"txt": "曝光融合参数"
 		},
 		{
 			"id": "txt.saveexposurefusionparameters",
-			"machinetranslated": true,
 			"txt": "保存@txt.exposurefusionparameters@"
 		},
 		{
 			"id": "txt.loadexposurefusionparameters",
-			"machinetranslated": true,
 			"txt": "加载@txt.exposurefusionparameters@"
 		},
 		{
 			"id": "mainwindow.imageparameters.linked",
-			"machinetranslated": true,
 			"txt": "链接"
 		},
 		{
 			"id": "mainwindow.imageparamstab.linkedhelptxt",
-			"machinetranslated": true,
-			"txt": "控制一组包围的图像组中图像的位置是独立的还是链接的。选中此框可以强制括号内的图像具有相同的@yaw@，@pitch@，@roll@和@viewpoint@参数。如果包围曝光的图像序列是从三脚架上拍摄的，并且图像对齐正确，则可以使用此功能。取消选中此框可使组中的每个图像具有不同的位置。在后一种情况下，必须在组中的图像之间提供控制点，并且优化器将单独对齐它们。具有链接位置的图像也共享相同的蒙版。仅当项目包含链接的图像组时，才会显示@mainwindow.imageparameters.linked@复选框。"
+			"txt": "控制一组包围曝光图像中图像的位置是独立的还是链接的。选中此框可强制包围曝光的图像具有相同的@yaw@、@pitch@、@roll@和@viewpoint@参数。如果包围曝光的图像序列不是从三脚架拍摄的，请取消选中此框。"
 		},
 		{
 			"id": "mainwindow.projectsettings.hdrdefaults.askmode",
-			"machinetranslated": true,
 			"txt": "单击“ @alignimages@”并检测到包围图像："
 		},
 		{
 			"id": "mainwindow.projectsettings.hdrdefaults.askmode.ask",
-			"machinetranslated": true,
-			"txt": "问我该怎么办"
+			"txt": "询问我该怎么做"
 		},
 		{
 			"id": "mainwindow.projectsettings.hdrdefaults.askmode.applywithoutasking",
-			"machinetranslated": true,
-			"txt": "应用上面的而不问"
+			"txt": "不询问直接应用上述设置"
 		},
 		{
 			"id": "mainwindow.projectsettings.hdrdefaults.askmode.ignore",
-			"machinetranslated": true,
-			"txt": "忽视"
+			"txt": "忽略"
 		},
 		{
 			"id": "mainwindow.projectsettings.hdrdefaults.subheading_v2",
-			"machinetranslated": true,
 			"txt": "包围曝光的默认处理："
 		},
 		{
@@ -7340,42 +6611,34 @@
 		},
 		{
 			"id": "options.monitorcolorprofile",
-			"machinetranslated": true,
-			"txt": "电脑屏幕的颜色配置文件："
+			"txt": "显示器颜色配置文件："
 		},
 		{
 			"id": "options.monitorcolorprofile.windowsdefault",
-			"machinetranslated": true,
 			"txt": "使用 Windows 颜色设置"
 		},
 		{
 			"id": "mainwindow.projectsettings.templatebehavior.cameracurve",
-			"machinetranslated": true,
 			"txt": "复制相机响应曲线："
 		},
 		{
 			"id": "mainwindow.projectsettings.templatebehavior.cameracurve.yes",
-			"machinetranslated": true,
 			"txt": "是的"
 		},
 		{
 			"id": "mainwindow.projectsettings.templatebehavior.cameracurve.no",
-			"machinetranslated": true,
 			"txt": "不"
 		},
 		{
 			"id": "mainwindow.projectsettings.templatebehavior.cameracurve.nonraw",
-			"machinetranslated": true,
 			"txt": "是的，RAW 图像除外"
 		},
 		{
 			"id": "txt.failedtocontactactivationserver",
-			"machinetranslated": true,
 			"txt": "无法联系许可证服务器。"
 		},
 		{
 			"id": "txt.failedtocontactactivationserver2",
-			"machinetranslated": true,
 			"txt": "@txt.failedtocontactactivationserver@ 请保存您的工作并重新启动 PTGui。"
 		},
 		{
@@ -7390,42 +6653,34 @@
 		},
 		{
 			"id": "txt.libraw.unsupportedcamera",
-			"machinetranslated": true,
 			"txt": "PTGui 中的原始转换器当前不支持来自此相机 (%0) 的 RAW 文件。要使用这些图像，请在 Adobe Photoshop 或 Adobe Lightroom 等 RAW 转换器中将它们转换为 16 位 TIFF 文件。转换后的 TIFF 文件可以在 PTGui 中加载。"
 		},
 		{
 			"id": "err.activationfromjsonfailed",
-			"machinetranslated": true,
 			"txt": "从 licensekey.json 激活失败：\n\n%0"
 		},
 		{
 			"id": "err.allkeysfailed",
-			"machinetranslated": true,
 			"txt": "没有任何许可证密钥导致成功激活。尝试使用最后一个许可证密钥会导致此错误：\n\n%0"
 		},
 		{
 			"id": "err.errorforlicensekeynumber",
-			"machinetranslated": true,
 			"txt": "许可证密钥 #%0 错误：\n\n%1"
 		},
 		{
 			"id": "err.mustactivateingui",
-			"machinetranslated": true,
 			"txt": "您需要激活 PTGui。这可以通过将 PTGui 作为 GUI 应用程序运行或通过提供 licensekey.json 文件来完成。详情见：https://www.ptgui.com/support.html"
 		},
 		{
 			"id": "err.cannotwritetofolder",
-			"machinetranslated": true,
 			"txt": "无法写入文件夹：%0"
 		},
 		{
 			"id": "txt.contactinglicenseserver",
-			"machinetranslated": true,
 			"txt": "正在联系激活服务器..."
 		},
 		{
 			"id": "txt.done",
-			"machinetranslated": true,
 			"txt": "完毕。"
 		},
 		{
@@ -7616,12 +6871,10 @@
 		},
 		{
 			"id": "menubar.controlpoints.deletenonadjacent",
-			"machinetranslated": true,
 			"txt": "删除不相邻图像之间的控制点"
 		},
 		{
 			"id": "err.controlpoints.deletenonadjacent.didnothing",
-			"machinetranslated": true,
 			"txt": "没有删除控制点。\n\n仅当另一个图像位于两个图像中心之间的直线上时，才会删除控制点。中间图像的每个邻居至少应有 4 个控制点。"
 		},
 		{
@@ -7634,17 +6887,14 @@
 		},
 		{
 			"id": "mainwindow.createpanoramatab.enableblendplanes",
-			"machinetranslated": true,
 			"txt": "启用 @mainwindow.createpanoramatab.output.blendplanes@"
 		},
 		{
 			"id": "txt.disabledfordngoutput",
-			"machinetranslated": true,
 			"txt": "不适用于 DNG 输出"
 		},
 		{
 			"id": "txt.tonemappingexposurefusiondisabledfordngoutput",
-			"machinetranslated": true,
 			"txt": "DNG 输出禁用色调映射和曝光融合"
 		},
 		{
@@ -7663,18 +6913,15 @@
 		},
 		{
 			"id": "options.spacing",
-			"machinetranslated": true,
 			"txt": "间距："
 		},
 		{
 			"id": "options.spacing.regular",
-			"machinetranslated": true,
-			"txt": "常规的"
+			"txt": "标准"
 		},
 		{
 			"id": "options.spacing.narrow",
-			"machinetranslated": true,
-			"txt": "狭窄的"
+			"txt": "紧凑"
 		},
 		{
 			"id": "panoramaeditor.sidebar.postprocess.whitebalance.auto",
@@ -7683,63 +6930,51 @@
 		},
 		{
 			"id": "txt.unkowniccprofile",
-			"machinetranslated": true,
 			"txt": "未知的 ICC 配置文件"
 		},
 		{
 			"id": "err.unsupportediccprofile",
-			"machinetranslated": true,
 			"txt": "ICC 颜色配置文件属于不受支持的类型。"
 		},
 		{
 			"id": "err.unsupportediccprofilesrgbfallback",
-			"machinetranslated": true,
 			"txt": "不支持的 ICC 颜色配置文件：%0。使用 sRGB 代替。"
 		},
 		{
 			"id": "err.unsupportediccprofileforexr",
-			"machinetranslated": true,
 			"txt": "不支持的 ICC 颜色配置文件：%0。对于 OpenEXR 输出，需要线性颜色配置文件。"
 		},
 		{
 			"id": "err.failedtoparseiccprofilergbfallback",
-			"machinetranslated": true,
 			"txt": "无法解析 ICC 颜色配置文件。使用 sRGB 代替。发生以下错误：\n%0"
 		},
 		{
 			"id": "err.corrupticcprofile",
-			"machinetranslated": true,
 			"txt": "ICC 颜色配置文件已损坏。"
 		},
 		{
 			"id": "mainwindow.tabs.preprocess",
-			"machinetranslated": true,
-			"txt": "RAW预处理"
+			"txt": "RAW 预处理"
 		},
 		{
 			"id": "mainwindow.preprocesstab.noisereduction.enabled",
-			"machinetranslated": true,
 			"txt": "应用降噪"
 		},
 		{
 			"id": "mainwindow.preprocesstab.noisereduction.chromaamount",
-			"machinetranslated": true,
 			"txt": "色度降噪："
 		},
 		{
 			"id": "mainwindow.preprocesstab.noisereduction.lumaamount",
-			"machinetranslated": true,
 			"txt": "亮度降噪："
 		},
 		{
 			"id": "mainwindow.preprocesstab.careduction",
-			"machinetranslated": true,
 			"txt": "消除色差"
 		},
 		{
 			"id": "mainwindow.preprocesstab.notarawfile",
-			"machinetranslated": true,
-			"txt": "此图像 (%0) 不是原始文件。"
+			"txt": "此图像 (%0) 不是 RAW 文件。"
 		},
 		{
 			"id": "mainwindow.preprocesstab.hasalpha",
@@ -7756,22 +6991,18 @@
 		},
 		{
 			"id": "menubar.view.gototab",
-			"machinetranslated": true,
 			"txt": "转到选项卡"
 		},
 		{
 			"id": "menubar.view.nexttab",
-			"machinetranslated": true,
 			"txt": "下一个选项卡"
 		},
 		{
 			"id": "menubar.view.previoustab",
-			"machinetranslated": true,
 			"txt": "上一个选项卡"
 		},
 		{
 			"id": "menubar.view.togglesimpleadvanced",
-			"machinetranslated": true,
 			"txt": "切换简单/高级模式"
 		},
 		{
@@ -7786,8 +7017,7 @@
 		},
 		{
 			"id": "txt.viewlicense",
-			"machinetranslated": true,
-			"txt": "执照"
+			"txt": "许可证"
 		},
 		{
 			"id": "mainwindow.imageparamstab.helptextwhitepoint",
@@ -7796,33 +7026,27 @@
 		},
 		{
 			"id": "mainwindow.imageparameters.whitepoint.temperature",
-			"machinetranslated": true,
 			"txt": "@mainwindow.imageparameters.wbprefix@ 温度"
 		},
 		{
 			"id": "mainwindow.imageparameters.whitepoint.tint",
-			"machinetranslated": true,
 			"txt": "@mainwindow.imageparameters.wbprefix@ 色调"
 		},
 		{
 			"id": "mainwindow.exposurehdrpanel.finetune.whitebalance.temperature",
-			"machinetranslated": true,
 			"txt": "温度："
 		},
 		{
 			"id": "mainwindow.exposurehdrpanel.finetune.whitebalance.tint",
-			"machinetranslated": true,
 			"txt": "着色："
 		},
 		{
 			"id": "err.unexpectedcmdlineoption",
-			"machinetranslated": true,
 			"txt": "意外的命令行选项：%0"
 		},
 		{
 			"id": "err.commandlineerror",
-			"machinetranslated": true,
-			"txt": "命令行错误。用途：%0"
+			"txt": "命令行错误。用法：%0"
 		},
 		{
 			"id": "err.ptgui10projectastemplate",
@@ -7969,8 +7193,7 @@
 		},
 		{
 			"id": "menubar.help.upgrade",
-			"machinetranslated": true,
-			"txt": "升级到 PTGui 专业版"
+			"txt": "升级到 PTGui Pro"
 		},
 		{
 			"id": "panoramaeditor.sidebar.blendsettings.seamfindingprecision.warnslow",
@@ -7979,17 +7202,14 @@
 		},
 		{
 			"id": "menubar.images.editinpatchwindow",
-			"machinetranslated": true,
 			"txt": "在 @patchwindow@ 中编辑"
 		},
 		{
 			"id": "txt.confirmeditsourceimage",
-			"machinetranslated": true,
 			"txt": "这将修改并覆盖源图像。你确定吗？"
 		},
 		{
 			"id": "err.saveprojectfilefirst",
-			"machinetranslated": true,
 			"txt": "必须先保存当前项目。您现在愿意这样做吗？"
 		},
 		{
@@ -8004,7 +7224,6 @@
 		},
 		{
 			"id": "err.openfilewithappfailed",
-			"machinetranslated": true,
 			"txt": "无法在 %1 中打开 %0。"
 		},
 		{
@@ -8035,8 +7254,7 @@
 		},
 		{
 			"id": "mainwindow.createpanoramatab.interpolator.nearest",
-			"machinetranslated": true,
-			"txt": "最邻近的邻居"
+			"txt": "最近邻"
 		},
 		{
 			"id": "dng.outputwillbeover4gb",
@@ -8045,7 +7263,6 @@
 		},
 		{
 			"id": "mainwindow.preprocesstab.fringereduction",
-			"machinetranslated": true,
 			"txt": "消除紫边"
 		},
 		{
