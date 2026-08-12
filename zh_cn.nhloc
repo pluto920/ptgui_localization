@@ -21,12 +21,10 @@
 		},
 		{
 			"id": "warn.overwriteptgui10.overwritebutton",
-			"machinetranslated": true,
 			"txt": "覆盖（&V）"
 		},
 		{
 			"id": "warn.overwriteptgui10.renamebutton",
-			"machinetranslated": true,
 			"txt": "重命名（&R）"
 		},
 		{
@@ -59,27 +57,22 @@
 		},
 		{
 			"id": "upto",
-			"machinetranslated": true,
 			"txt": "到"
 		},
 		{
 			"id": "mm",
-			"machinetranslated": true,
 			"txt": "mm"
 		},
 		{
 			"id": "colon",
-			"machinetranslated": true,
 			"txt": "："
 		},
 		{
 			"id": "zoomfit",
-			"machinetranslated": true,
 			"txt": "适应"
 		},
 		{
 			"id": "mmpostfix",
-			"machinetranslated": true,
 			"txt": "@mm@"
 		},
 		{
@@ -109,97 +102,78 @@
 		},
 		{
 			"id": "help",
-			"machinetranslated": true,
 			"txt": "帮助"
 		},
 		{
 			"id": "ok",
-			"machinetranslated": true,
 			"txt": "确定"
 		},
 		{
 			"id": "cancel",
-			"machinetranslated": true,
 			"txt": "取消"
 		},
 		{
 			"id": "delete",
-			"machinetranslated": true,
 			"txt": "删除"
 		},
 		{
 			"id": "reset",
-			"machinetranslated": true,
 			"txt": "重置"
 		},
 		{
 			"id": "defaults",
-			"machinetranslated": true,
 			"txt": "默认值"
 		},
 		{
 			"id": "presetbutton",
-			"machinetranslated": true,
-			"txt": "快速设置"
+			"txt": "预设"
 		},
 		{
 			"id": "saveas",
-			"machinetranslated": true,
 			"txt": "另存为"
 		},
 		{
 			"id": "files",
-			"machinetranslated": true,
 			"txt": "文件"
 		},
 		{
 			"id": "all",
-			"machinetranslated": true,
 			"txt": "所有"
 		},
 		{
 			"id": "default",
-			"machinetranslated": true,
 			"txt": "默认值"
 		},
 		{
 			"id": "yaw",
-			"machinetranslated": true,
-			"txt": "X 轴"
+			"txt": "偏航"
 		},
 		{
 			"id": "pitch",
-			"machinetranslated": true,
-			"txt": "Y 轴"
+			"txt": "俯仰"
 		},
 		{
 			"id": "roll",
-			"machinetranslated": true,
-			"txt": "Z 轴"
+			"txt": "横滚"
 		},
 		{
 			"id": "pan",
-			"machinetranslated": true,
 			"txt": "平移"
 		},
 		{
 			"id": "tilt",
-			"machinetranslated": true,
 			"txt": "倾斜"
 		},
 		{
 			"id": "viewpoint",
-			"machinetranslated": true,
 			"txt": "视点"
 		},
 		{
 			"id": "abort",
-			"machinetranslated": true,
-			"txt": "退出"
+			"txt": "中止"
 		},
 		{
 			"id": "illwait",
-			"machinetranslated": true,
 			"txt": "等待"
 		},
 		{
@@ -364,8 +338,7 @@
 		},
 		{
 			"id": "ptgui10export.warning",
-			"machinetranslated": true,
-			"txt": "请注意，并非 PTGui 10及更早版本支持此版本 PTGui 的所有功能。虽然 PTGui 10 将能够打开输出的项目，但全景图可能看起来不同。"
+			"txt": "请注意，并非此版本 PTGui 的所有功能都受 PTGui 10 及更早版本支持。虽然 PTGui 10 可以打开导出的项目，但全景图可能看起来不同。"
 		},
 		{
 			"id": "menubar.file.makedefault",
@@ -373,7 +346,6 @@
 		},
 		{
 			"id": "makedefault.confirmation",
-			"machinetranslated": true,
 			"txt": "是否要将当前设置用作新项目的默认设置？"
 		},
 		{
@@ -426,17 +398,14 @@
 		},
 		{
 			"id": "batchstitcher.menubar.process",
-			"machinetranslated": true,
 			"txt": "处理"
 		},
 		{
 			"id": "batchstitcher.menubar.process.run",
-			"machinetranslated": true,
-			"txt": "开始"
+			"txt": "运行"
 		},
 		{
 			"id": "batchstitcher.menubar.process.stop",
-			"machinetranslated": true,
 			"txt": "停止"
 		},
 		{
@@ -505,8 +474,7 @@
 		},
 		{
 			"id": "panoramaeditor",
-			"machinetranslated": true,
-			"txt": "全景编辑（Ctrl+E）"
+			"txt": "全景编辑器（Ctrl+E）"
 		},
 		{
 			"id": "menubar.help",
@@ -514,102 +482,82 @@
 		},
 		{
 			"id": "projection.equirectangular",
-			"machinetranslated": true,
-			"txt": "等距长方圆柱"
+			"txt": "等距柱状"
 		},
 		{
 			"id": "projection.stereographic",
-			"machinetranslated": true,
 			"txt": "立体"
 		},
 		{
 			"id": "projection.rectilinear",
-			"machinetranslated": true,
 			"txt": "直线"
 		},
 		{
 			"id": "projection.cylindrical",
-			"machinetranslated": true,
 			"txt": "圆柱"
 		},
 		{
 			"id": "projection.fisheye",
-			"machinetranslated": true,
 			"txt": "鱼眼镜头"
 		},
 		{
 			"id": "projection.circularfisheye",
-			"machinetranslated": true,
 			"txt": "圆形鱼眼"
 		},
 		{
 			"id": "projection.fullframefisheye",
-			"machinetranslated": true,
 			"txt": "全幅鱼眼"
 		},
 		{
 			"id": "projection.transverseequirectangular",
-			"machinetranslated": true,
-			"txt": "横向等长"
+			"txt": "横向等距柱状"
 		},
 		{
 			"id": "projection.transversecylindrical",
-			"machinetranslated": true,
 			"txt": "横向圆柱"
 		},
 		{
 			"id": "projection.mercator",
-			"machinetranslated": true,
-			"txt": "墨卡托（正轴等角圆柱投影）"
+			"txt": "墨卡托"
 		},
 		{
 			"id": "projection.transversemercator",
-			"machinetranslated": true,
 			"txt": "横向墨卡托"
 		},
 		{
 			"id": "projection.stereographicdown",
-			"machinetranslated": true,
 			"txt": "立体投影"
 		},
 		{
 			"id": "projection.transversevedutismo",
-			"machinetranslated": true,
 			"txt": "横向等效透视"
 		},
 		{
 			"id": "projection.vedutismo",
-			"machinetranslated": true,
 			"txt": "等效透视"
 		},
 		{
 			"id": "projectionpreset.spherical",
-			"machinetranslated": true,
-			"txt": "球形：360°×180°@+projection.equirectangular@"
+			"txt": "球形：360° × 180° @+projection.equirectangular@"
 		},
 		{
 			"id": "projectionpreset.littleplanet",
-			"machinetranslated": true,
-			"txt": "小行星：300°@+projection.stereographic@"
+			"txt": "小行星：300° @+projection.stereographic@"
 		},
 		{
 			"id": "projectionpreset.cubeface",
-			"machinetranslated": true,
 			"txt": "立方体面：90°@+projection.rectilinear@"
 		},
 		{
 			"id": "panoramaeditor.menubar.editindividualimages",
-			"machinetranslated": true,
 			"txt": "编辑单个图像"
 		},
 		{
 			"id": "panoramaeditor.menubar.editpano",
-			"machinetranslated": true,
 			"txt": "编辑整个全景图"
 		},
 		{
 			"id": "panoramaeditor.imagexandy",
-			"machinetranslated": true,
 			"txt": "图像 %0 和 %1 "
 		},
 		{
@@ -618,257 +566,206 @@
 		},
 		{
 			"id": "panoramaeditor.editcontrolpoints",
-			"machinetranslated": true,
 			"txt": "控制点"
 		},
 		{
 			"id": "panoramaeditor.excluded",
-			"machinetranslated": true,
 			"txt": "（排除）"
 		},
 		{
 			"id": "panoramaeditor.someexcluded",
-			"machinetranslated": true,
 			"txt": "（部分排除）"
 		},
 		{
 			"id": "panoramaeditor.leftpane",
-			"machinetranslated": true,
 			"txt": "（左窗格）"
 		},
 		{
 			"id": "panoramaeditor.rightpane",
-			"machinetranslated": true,
 			"txt": "（右窗格）"
 		},
 		{
 			"id": "panoramaeditor.closemenu",
-			"machinetranslated": true,
 			"txt": "关闭"
 		},
 		{
 			"id": "panoramaeditor.sidebar.tonemapsettings.enable",
-			"machinetranslated": true,
 			"txt": "应用色调映射"
 		},
 		{
 			"id": "panoramaeditor.sidebar.tonemapsettings.brightness",
-			"machinetranslated": true,
 			"txt": "亮度："
 		},
 		{
 			"id": "panoramaeditor.sidebar.tonemapsettings.boostshadows",
-			"machinetranslated": true,
 			"txt": "增强阴影："
 		},
 		{
 			"id": "panoramaeditor.sidebar.tonemapsettings.reducelights",
-			"machinetranslated": true,
 			"txt": "减少高光："
 		},
 		{
 			"id": "panoramaeditor.sidebar.tonemapsettings.autoboostreduce",
-			"machinetranslated": true,
 			"txt": "自动增强/减少"
 		},
 		{
 			"id": "panoramaeditor.sidebar.tonemapsettings.compression",
-			"machinetranslated": true,
 			"txt": "压缩："
 		},
 		{
 			"id": "panoramaeditor.sidebar.tonemapsettings.contrast",
-			"machinetranslated": true,
-			"txt": "对比："
+			"txt": "对比度："
 		},
 		{
 			"id": "panoramaeditor.sidebar.tonemapsettings.saturation",
-			"machinetranslated": true,
 			"txt": "饱和度："
 		},
 		{
 			"id": "panoramaeditor.sidebar.tonemapsettings.loaddefaults",
-			"machinetranslated": true,
 			"txt": "加载默认"
 		},
 		{
 			"id": "panoramaeditor.sidebar.exposurefusionsettings.sigma",
-			"machinetranslated": true,
-			"txt": "西格玛："
+			"txt": "Sigma："
 		},
 		{
 			"id": "panoramaeditor.sidebar.exposurefusionsettings.defaults",
-			"machinetranslated": true,
 			"txt": "@defaults@"
 		},
 		{
 			"id": "panoramaeditor.sidebar.numericaltransform.heading",
-			"machinetranslated": true,
 			"txt": "全景移动："
 		},
 		{
 			"id": "panoramaeditor.sidebar.numericaltransform.yaw",
-			"machinetranslated": true,
 			"txt": "@+yaw@："
 		},
 		{
 			"id": "panoramaeditor.sidebar.numericaltransform.pitch",
-			"machinetranslated": true,
 			"txt": "@+pitch@："
 		},
 		{
 			"id": "panoramaeditor.sidebar.numericaltransform.roll",
-			"machinetranslated": true,
 			"txt": "@+roll@："
 		},
 		{
 			"id": "panoramaeditor.sidebar.numericaltransform.apply",
-			"machinetranslated": true,
 			"txt": "@txt.apply@"
 		},
 		{
 			"id": "panoramaeditor.sidebar.numericaltransform.reset",
-			"machinetranslated": true,
 			"txt": "@+reset@"
 		},
 		{
 			"id": "panoramaeditor.sidebar.projectionpanel.fov",
-			"machinetranslated": true,
 			"txt": "视野："
 		},
 		{
 			"id": "panoramaeditor.sidebar.projectionpanel.compression",
-			"machinetranslated": true,
 			"txt": "压缩："
 		},
 		{
 			"id": "panoramaeditor.sidebar.projectionpanel.projection",
-			"machinetranslated": true,
 			"txt": "投影："
 		},
 		{
 			"id": "panoramaeditor.sidebar.projectionpanel.horizontal",
-			"machinetranslated": true,
 			"txt": "水平："
 		},
 		{
 			"id": "panoramaeditor.sidebar.projectionpanel.vertical",
-			"machinetranslated": true,
 			"txt": "垂直："
 		},
 		{
 			"id": "panoramaeditor.sidebar.display",
-			"machinetranslated": true,
-			"txt": "显示设置"
+			"txt": "显示"
 		},
 		{
 			"id": "panoramaeditor.sidebar.tonemapping",
-			"machinetranslated": true,
 			"txt": "色调映射"
 		},
 		{
 			"id": "panoramaeditor.sidebar.exposurefusion",
-			"machinetranslated": true,
 			"txt": "曝光融合"
 		},
 		{
 			"id": "panoramaeditor.sidebar.numtransform",
-			"machinetranslated": true,
 			"txt": "数值变换"
 		},
 		{
 			"id": "panoramaeditor.sidebar.projection",
-			"machinetranslated": true,
 			"txt": "投影"
 		},
 		{
 			"id": "panoramaeditor.sidebar.panoramapreviewsettingspanel.exposure",
-			"machinetranslated": true,
 			"txt": "曝光："
 		},
 		{
 			"id": "panoramaeditor.sidebar.panoramapreviewsettingspanel.blendplane",
-			"machinetranslated": true,
 			"txt": "混合平面："
 		},
 		{
 			"id": "panoeditor.menubar.setcenter",
-			"machinetranslated": true,
 			"txt": "设置中心点"
 		},
 		{
 			"id": "panoeditor.menubar.mouseover",
-			"machinetranslated": true,
 			"txt": "选择鼠标指针下的图像"
 		},
 		{
 			"id": "panoeditor.menubar.blended",
-			"machinetranslated": true,
 			"txt": "显示混合全景"
 		},
 		{
 			"id": "panoeditor.menubar.unblended",
-			"machinetranslated": true,
 			"txt": "显示未混合的全景"
 		},
 		{
 			"id": "panoeditor.menubar.showseams",
-			"machinetranslated": true,
 			"txt": "显示接缝"
 		},
 		{
 			"id": "panoeditor.menubar.showimagenumbers",
-			"machinetranslated": true,
 			"txt": "显示图像编号"
 		},
 		{
 			"id": "panoeditor.menubar.mode",
-			"machinetranslated": true,
 			"txt": "模式"
 		},
 		{
 			"id": "panoeditor.menubar.edit.fitpano",
-			"machinetranslated": true,
 			"txt": "自动适配全景"
 		},
 		{
 			"id": "panoeditor.menubar.edit.fitpanohorz",
-			"machinetranslated": true,
 			"txt": "水平适配全景"
 		},
 		{
 			"id": "panoeditor.menubar.edit.fitpanovert",
-			"machinetranslated": true,
 			"txt": "垂直适配全景"
 		},
 		{
 			"id": "panoeditor.menubar.edit.centerpanohorz",
-			"machinetranslated": true,
 			"txt": "全景水平居中"
 		},
 		{
 			"id": "panoeditor.menubar.edit.centerpanovert",
-			"machinetranslated": true,
 			"txt": "全景垂直居中"
 		},
 		{
 			"id": "panoeditor.menubar.edit.straightenpano",
-			"machinetranslated": true,
 			"txt": "拉直全景"
 		},
 		{
 			"id": "panoeditor.menubar.edit.level",
-			"machinetranslated": true,
 			"txt": "使全景水平"
 		},
 		{
 			"id": "panoeditor.menubar.projection",
-			"machinetranslated": true,
 			"txt": "投影"
 		},
 		{
 			"id": "panoeditor.menubar.tools.preview",
-			"machinetranslated": true,
 			"txt": "在查看器中显示"
 		},
 		{
@@ -953,12 +850,10 @@
 		},
 		{
 			"id": "imagesxandy",
-			"machinetranslated": true,
 			"txt": "图像 %0 和 %1 "
 		},
 		{
 			"id": "alignimages",
-			"machinetranslated": true,
 			"txt": "对齐图像"
 		},
 		{
@@ -979,7 +874,6 @@
 		},
 		{
 			"id": "createpanorama",
-			"machinetranslated": true,
 			"txt": "创建全景"
 		},
 		{
@@ -992,13 +886,11 @@
 		},
 		{
 			"id": "batchstitcher",
-			"machinetranslated": true,
 			"txt": "批量拼接器"
 		},
 		{
 			"id": "batchlist",
-			"machinetranslated": true,
-			"txt": "批量清单"
+			"txt": "批处理列表"
 		},
 		{
 			"id": "pressshiftforhelp",
@@ -1006,13 +898,11 @@
 		},
 		{
 			"id": "pressshiftformore",
-			"machinetranslated": true,
 			"txt": "按 Shift 键更多..."
 		},
 		{
 			"id": "preferences",
-			"machinetranslated": true,
-			"txt": "优先"
+			"txt": "偏好设置"
 		},
 		{
 			"id": "options",
@@ -1061,7 +951,6 @@
 		},
 		{
 			"id": "detailviewer",
-			"machinetranslated": true,
 			"txt": "细节查看器"
 		},
 		{
@@ -1070,47 +959,38 @@
 		},
 		{
 			"id": "controlpointstable",
-			"machinetranslated": true,
 			"txt": "控制点列表（Ctrl+B）"
 		},
 		{
 			"id": "numericaltransform",
-			"machinetranslated": true,
 			"txt": "数值变换"
 		},
 		{
 			"id": "controlpointassistant",
-			"machinetranslated": true,
 			"txt": "控制点助手"
 		},
 		{
 			"id": "batchbuilder",
-			"machinetranslated": true,
 			"txt": "批量生成器"
 		},
 		{
 			"id": "ptguiviewer",
-			"machinetranslated": true,
 			"txt": "PTGui 查看器"
 		},
 		{
 			"id": "lensdatabase",
-			"machinetranslated": true,
 			"txt": "镜头数据库"
 		},
 		{
 			"id": "cameradatabase",
-			"machinetranslated": true,
 			"txt": "相机数据库"
 		},
 		{
 			"id": "fillyaw",
-			"machinetranslated": true,
-			"txt": "填写@+yaw@"
+			"txt": "填充@+yaw@"
 		},
 		{
 			"id": "addimages",
-			"machinetranslated": true,
 			"txt": "添加图像"
 		},
 		{
@@ -1211,32 +1091,26 @@
 		},
 		{
 			"id": "batchstitcher.contextmenu.add",
-			"machinetranslated": true,
 			"txt": "添加项目"
 		},
 		{
 			"id": "batchstitcher.contextmenu.open",
-			"machinetranslated": true,
 			"txt": "打开或编辑项目"
 		},
 		{
 			"id": "batchstitcher.contextmenu.remove",
-			"machinetranslated": true,
 			"txt": "删除项目"
 		},
 		{
 			"id": "batchstitcher.contextmenu.markasdone",
-			"machinetranslated": true,
 			"txt": "标记为已完成"
 		},
 		{
 			"id": "batchstitcher.contextmenu.markasnotdone",
-			"machinetranslated": true,
 			"txt": "标记为未完成"
 		},
 		{
 			"id": "batchstitcher.contextmenu.deletewhendone",
-			"machinetranslated": true,
 			"txt": "完成后删除项目"
 		},
 		{
@@ -1297,48 +1171,39 @@
 		},
 		{
 			"id": "imagelist.enablevpcorrection",
-			"machinetranslated": true,
-			"txt": "优化相机对此图像的视点"
+			"txt": "启用此图像的视点优化"
 		},
 		{
 			"id": "batchstitcher.menubar.addprojects",
-			"machinetranslated": true,
 			"txt": "添加项目"
 		},
 		{
 			"id": "batchstitcher.menubar.removeprojects",
-			"machinetranslated": true,
 			"txt": "删除项目"
 		},
 		{
 			"id": "batchstitcher.menubar.openbatchlist",
-			"machinetranslated": true,
-			"txt": "加载批处理列表"
+			"txt": "打开批处理列表"
 		},
 		{
 			"id": "batchstitcher.menubar.recentbatchlists",
-			"machinetranslated": true,
 			"txt": "最近的批处理列表"
 		},
 		{
 			"id": "batchstitcher.menubar.savebatchlist",
-			"machinetranslated": true,
-			"txt": "保存批处理清单"
+			"txt": "保存批处理列表"
 		},
 		{
 			"id": "batchstitcher.menubar.savebatchlistas",
-			"machinetranslated": true,
 			"txt": "将批处理列表另存为"
 		},
 		{
 			"id": "batchstitcher.menubar.autosavebatchlist",
-			"machinetranslated": true,
-			"txt": "自动保存批处理清单"
+			"txt": "自动保存批处理列表"
 		},
 		{
 			"id": "batchstitcher.menubar.closebatchlist",
-			"machinetranslated": true,
-			"txt": "关闭批处理清单"
+			"txt": "关闭批处理列表"
 		},
 		{
 			"id": "mainwindow.projectassistant.loadimages",
@@ -1496,12 +1361,10 @@
 		},
 		{
 			"id": "keep",
-			"machinetranslated": true,
 			"txt": "保持"
 		},
 		{
 			"id": "optimize",
-			"machinetranslated": true,
 			"txt": "优化"
 		},
 		{
@@ -1510,27 +1373,22 @@
 		},
 		{
 			"id": "shear",
-			"machinetranslated": true,
-			"txt": "剪切"
+			"txt": "剪切变形"
 		},
 		{
 			"id": "flare",
-			"machinetranslated": true,
 			"txt": "镜头光晕"
 		},
 		{
 			"id": "lensflare",
-			"machinetranslated": true,
 			"txt": "镜头光晕"
 		},
 		{
 			"id": "horz",
-			"machinetranslated": true,
 			"txt": "水平"
 		},
 		{
 			"id": "vert",
-			"machinetranslated": true,
 			"txt": "垂直"
 		},
 		{
@@ -1567,12 +1425,10 @@
 		},
 		{
 			"id": "save",
-			"machinetranslated": true,
 			"txt": "保存"
 		},
 		{
 			"id": "load",
-			"machinetranslated": true,
 			"txt": "加载"
 		},
 		{
@@ -1681,7 +1537,6 @@
 		},
 		{
 			"id": "cptypetoadd",
-			"machinetranslated": true,
 			"txt": "要添加的控制点类型"
 		},
 		{
@@ -1702,12 +1557,10 @@
 		},
 		{
 			"id": "advanced",
-			"machinetranslated": true,
 			"txt": "高级"
 		},
 		{
 			"id": "simple",
-			"machinetranslated": true,
 			"txt": "简单"
 		},
 		{
@@ -1720,7 +1573,6 @@
 		},
 		{
 			"id": "optimizer",
-			"machinetranslated": true,
 			"txt": "优化"
 		},
 		{
@@ -1841,7 +1693,6 @@
 		},
 		{
 			"id": "settings",
-			"machinetranslated": true,
 			"txt": "设置"
 		},
 		{
@@ -1882,12 +1733,10 @@
 		},
 		{
 			"id": "evpostfix",
-			"machinetranslated": true,
 			"txt": "EV"
 		},
 		{
 			"id": "evprefix",
-			"machinetranslated": true,
 			"txt": "EV "
 		},
 		{
@@ -1980,7 +1829,6 @@
 		},
 		{
 			"id": "resetdefaults",
-			"machinetranslated": true,
 			"txt": "重置默认值"
 		},
 		{
@@ -2029,7 +1877,6 @@
 		},
 		{
 			"id": "panorama",
-			"machinetranslated": true,
 			"txt": "全景"
 		},
 		{
@@ -2070,7 +1917,6 @@
 		},
 		{
 			"id": "browse",
-			"machinetranslated": true,
 			"txt": "浏览"
 		},
 		{
@@ -2371,7 +2217,6 @@
 		},
 		{
 			"id": "pixelspostfix1",
-			"machinetranslated": true,
 			"txt": "像素"
 		},
 		{
@@ -2380,7 +2225,6 @@
 		},
 		{
 			"id": "includeimages",
-			"machinetranslated": true,
 			"txt": "包含图像："
 		},
 		{
@@ -2443,42 +2287,34 @@
 		},
 		{
 			"id": "north",
-			"machinetranslated": true,
 			"txt": "北"
 		},
 		{
 			"id": "northeast",
-			"machinetranslated": true,
 			"txt": "东北"
 		},
 		{
 			"id": "east",
-			"machinetranslated": true,
 			"txt": "东"
 		},
 		{
 			"id": "southeast",
-			"machinetranslated": true,
 			"txt": "东南"
 		},
 		{
 			"id": "south",
-			"machinetranslated": true,
 			"txt": "南"
 		},
 		{
 			"id": "southwest",
-			"machinetranslated": true,
 			"txt": "西南"
 		},
 		{
 			"id": "west",
-			"machinetranslated": true,
 			"txt": "西"
 		},
 		{
 			"id": "northwest",
-			"machinetranslated": true,
 			"txt": "西北"
 		},
 		{
@@ -2559,13 +2395,11 @@
 		},
 		{
 			"id": "hdrlayerwithev",
-			"machinetranslated": true,
 			"txt": "HDR 层 %0（%1）"
 		},
 		{
 			"id": "imagewithindex",
-			"machinetranslated": true,
-			"txt": "图像 %0 "
+			"txt": "图像 %0"
 		},
 		{
 			"id": "mainwindow.createpanoramatab.output.hdrblended",
@@ -2697,137 +2531,110 @@
 		},
 		{
 			"id": "cptable.num",
-			"machinetranslated": true,
 			"txt": "编号"
 		},
 		{
 			"id": "cptable.image",
-			"machinetranslated": true,
 			"txt": "图像"
 		},
 		{
 			"id": "cptable.type",
-			"machinetranslated": true,
 			"txt": "类型"
 		},
 		{
 			"id": "cptable.dist",
-			"machinetranslated": true,
 			"txt": "距离"
 		},
 		{
 			"id": "cptable.distance",
-			"machinetranslated": true,
 			"txt": "距离"
 		},
 		{
 			"id": "cptable.horizontalline",
-			"machinetranslated": true,
 			"txt": "水平线"
 		},
 		{
 			"id": "cptable.verticalline",
-			"machinetranslated": true,
-			"txt": "垂线"
+			"txt": "垂直线"
 		},
 		{
 			"id": "cptable.newline",
-			"machinetranslated": true,
-			"txt": "新加线"
+			"txt": "新直线"
 		},
 		{
 			"id": "cptable.line",
-			"machinetranslated": true,
 			"txt": "线"
 		},
 		{
 			"id": "cptable.linenumber",
-			"machinetranslated": true,
-			"txt": "@cptable.line@ %0 "
+			"txt": "@cptable.line@ %0"
 		},
 		{
 			"id": "cptable.normal",
-			"machinetranslated": true,
 			"txt": "正常"
 		},
 		{
 			"id": "bracketedexposureswindow.title",
-			"machinetranslated": true,
 			"txt": "包围曝光"
 		},
 		{
 			"id": "bracketedexposureswindow.linktxt",
-			"machinetranslated": true,
 			"txt": "如果图像是从三脚架拍摄的，则选择此项，并且它们已经与像素精准对齐。"
 		},
 		{
 			"id": "bracketedexposureswindow.dontlinktxt",
-			"machinetranslated": true,
-			"txt": "如果图像是手持拍摄的，请选择此项。 将尝试对齐包围曝光。"
+			"txt": "如果图像是手持拍摄的，请选择此项。PTGui 将尝试对齐包围曝光。"
 		},
 		{
 			"id": "bracketedexposureswindow.nohdr",
-			"machinetranslated": true,
 			"txt": "这不是 HDR 曝光设置。不要启用 HDR 模式。"
 		},
 		{
 			"id": "bracketedexposureswindow.hdrmethod",
-			"machinetranslated": true,
 			"txt": "HDR 方法："
 		},
 		{
 			"id": "cubefacenaming.egpanorama",
-			"machinetranslated": true,
 			"txt": "例如：全景"
 		},
 		{
 			"id": "cubefacenaming.errfillall",
-			"machinetranslated": true,
 			"txt": "请填写所有字段。"
 		},
 		{
 			"id": "cubefacenaming.errsame",
-			"machinetranslated": true,
 			"txt": "请在每个字段中输入不同的值。"
 		},
 		{
 			"id": "cubefacenaming.title",
-			"machinetranslated": true,
-			"txt": "立方体面部命名"
+			"txt": "立方体面命名"
 		},
 		{
 			"id": "cubefacenaming.heading",
-			"machinetranslated": true,
-			"txt": "立方体面部图像的文件名后缀："
+			"txt": "立方体面图像的文件名后缀："
 		},
 		{
 			"id": "cubefacenaming.front",
-			"machinetranslated": true,
 			"txt": "前面："
 		},
 		{
 			"id": "cubefacenaming.right",
-			"machinetranslated": true,
 			"txt": "右侧："
 		},
 		{
 			"id": "cubefacenaming.back",
-			"machinetranslated": true,
 			"txt": "背面："
 		},
 		{
 			"id": "cubefacenaming.left",
-			"machinetranslated": true,
 			"txt": "左侧："
 		},
 		{
 			"id": "cubefacenaming.top",
-			"machinetranslated": true,
 			"txt": "顶部："
 		},
 		{
 			"id": "cubefacenaming.bottom",
-			"machinetranslated": true,
 			"txt": "底部："
 		},
 		{
@@ -2837,77 +2644,62 @@
 		},
 		{
 			"id": "philosphere.outputsize",
-			"machinetranslated": true,
 			"txt": "输出尺寸："
 		},
 		{
 			"id": "philosphere.start",
-			"machinetranslated": true,
 			"txt": "开始"
 		},
 		{
 			"id": "philosphere.warn_not_2_1",
-			"machinetranslated": true,
-			"txt": "要创建菲洛球，需要 360°x 180° 的横向等长投影的图像。这种图像的宽/高比为 2:1。所选图像具有不同的宽高比；可能不会得到您预期的结果。\n\n是否继续？"
+			"txt": "要创建菲洛球，需要 360° × 180° 等距柱状投影的图像。此类图像的宽/高比为 2:1。所选图像的宽高比不同；可能无法得到预期结果。\n\n是否继续？"
 		},
 		{
 			"id": "philosphere.savepart",
-			"machinetranslated": true,
 			"txt": "保存菲洛球（部分 %0 ）"
 		},
 		{
 			"id": "philosphere.jpgfiles",
-			"machinetranslated": true,
 			"txt": "JPEG 文件"
 		},
 		{
 			"id": "philosphere.creating",
-			"machinetranslated": true,
 			"txt": "创建菲洛球"
 		},
 		{
 			"id": "philosphere.title",
-			"machinetranslated": true,
 			"txt": "创建菲洛球"
 		},
 		{
 			"id": "photometricsettings.onlyifnecessary",
-			"machinetranslated": true,
 			"txt": "只在必要时"
 		},
 		{
 			"id": "photometricsettings.disabled",
-			"machinetranslated": true,
 			"txt": "禁用"
 		},
 		{
 			"id": "photometricsettings.enabled",
-			"machinetranslated": true,
 			"txt": "启用"
 		},
 		{
 			"id": "photometricsettings.optimizeexposure.finetune",
-			"machinetranslated": true,
 			"txt": "启用（仅限微调）"
 		},
 		{
 			"id": "photometricsettings.optimizeexposure.full",
-			"machinetranslated": true,
 			"txt": "启用（完整）"
 		},
 		{
 			"id": "photometricsettings.keepcurrent",
-			"machinetranslated": true,
 			"txt": "保持当前设置"
 		},
 		{
 			"id": "photometricsettings.optimizewhitebalance",
-			"machinetranslated": true,
 			"txt": "优化白平衡："
 		},
 		{
 			"id": "photometricsettings.optimizewhitebalance.info.enabled",
-			"machinetranslated": true,
 			"txt": "您的图像采用自动白平衡拍摄。\n白平衡将得到优化。"
 		},
 		{
@@ -2916,67 +2708,54 @@
 		},
 		{
 			"id": "photometricsettings.optimizeflare",
-			"machinetranslated": true,
 			"txt": "优化@lensflare@："
 		},
 		{
 			"id": "photometricsettings.images",
-			"machinetranslated": true,
 			"txt": "图像："
 		},
 		{
 			"id": "photometricsettings.global",
-			"machinetranslated": true,
 			"txt": "全局："
 		},
 		{
 			"id": "photometricsettings.percamera",
-			"machinetranslated": true,
 			"txt": "每相机/镜头："
 		},
 		{
 			"id": "photometricsettings.perimage",
-			"machinetranslated": true,
 			"txt": "每张图像："
 		},
 		{
 			"id": "photometricsettings.optimizevignetting",
-			"machinetranslated": true,
-			"txt": "优化渐变："
+			"txt": "优化渐晕："
 		},
 		{
 			"id": "photometricsettings.cameraresponsecurve",
-			"machinetranslated": true,
 			"txt": "相机响应曲线："
 		},
 		{
 			"id": "photometricsettings.cameraresponsecurve.automatic",
-			"machinetranslated": true,
 			"txt": "自动"
 		},
 		{
 			"id": "photometricsettings.cameraresponsecurve.generate",
-			"machinetranslated": true,
 			"txt": "新生成"
 		},
 		{
 			"id": "photometricsettings.cameraresponsecurve.usedefault",
-			"machinetranslated": true,
 			"txt": "使用默认曲线"
 		},
 		{
 			"id": "photometricsettings.title",
-			"machinetranslated": true,
 			"txt": "曝光和颜色调整设置"
 		},
 		{
 			"id": "previewappselector.openinptguiviewer",
-			"machinetranslated": true,
 			"txt": "在@ptguiviewer@中打开"
 		},
 		{
 			"id": "previewappselector.openin",
-			"machinetranslated": true,
 			"txt": "在 %0 中打开"
 		},
 		{
@@ -2985,7 +2764,6 @@
 		},
 		{
 			"id": "previewappselector.openoutputfolder",
-			"machinetranslated": true,
 			"txt": "打开输出文件夹"
 		},
 		{
@@ -3392,32 +3170,26 @@
 		},
 		{
 			"id": "about.version",
-			"machinetranslated": true,
-			"txt": "版"
+			"txt": "版本"
 		},
 		{
 			"id": "about.websiteandsupport",
-			"machinetranslated": true,
-			"txt": "网站和支持："
+			"txt": "网站与支持："
 		},
 		{
 			"id": "licenseinfo.personal.singlecomputer",
-			"machinetranslated": true,
 			"txt": "您正在为单台计算机使用个人许可证。PTGui 只能由 %0 使用。"
 		},
 		{
 			"id": "licenseinfo.personal.multipleecomputers",
-			"machinetranslated": true,
 			"txt": "您正在使用个人许可证。它可以在 %1 计算机上启用，但 PTGui 只能在这些计算机上由 %0 使用。"
 		},
 		{
 			"id": "licenseinfo.company.singlecomputer",
-			"machinetranslated": true,
 			"txt": "您正在使用公司许可证。每个许可证密钥都可以在 %0 拥有的单台计算机上启用。此计算机上的每个用户都可以使用 PTGui。"
 		},
 		{
 			"id": "licenseinfo.company.multipleecomputers",
-			"machinetranslated": true,
 			"txt": "您正在使用公司许可证。它可以在 %0 拥有的 %1 计算机上启用。此计算机上的每个用户都可以使用 PTGui。"
 		},
 		{
@@ -3426,32 +3198,26 @@
 		},
 		{
 			"id": "licenseinfo.expiretxt",
-			"machinetranslated": true,
 			"txt": "这是临时许可证，将于 %0 到期。"
 		},
 		{
 			"id": "licenseinfo.expiredtxt",
-			"machinetranslated": true,
 			"txt": "这是一个临时许可证，已在 %0 到期。"
 		},
 		{
 			"id": "licenseinfo.expiredtxt1",
-			"machinetranslated": true,
 			"txt": "这是一个临时许可证，已过期。"
 		},
 		{
 			"id": "licenseinfo.invalidkey",
-			"machinetranslated": true,
 			"txt": "这不是有效的许可证密钥。"
 		},
 		{
 			"id": "licenseinfo.deactivate",
-			"machinetranslated": true,
 			"txt": "停用"
 		},
 		{
 			"id": "licenseinfo.deactivatetxt",
-			"machinetranslated": true,
 			"txt": "按@licenseinfo.deactivate@将此许可证移至另一台计算机，或在此计算机上使用其他许可证密钥。"
 		},
 		{
@@ -3460,52 +3226,42 @@
 		},
 		{
 			"id": "licenseinfo.manageactivations",
-			"machinetranslated": true,
-			"txt": "管理启用"
+			"txt": "管理激活"
 		},
 		{
 			"id": "licenseinfo.hardwarechanges",
-			"machinetranslated": true,
 			"txt": "由于硬件配置的更改，必须重新启用软件。"
 		},
 		{
 			"id": "licenseinfo.needprokey",
-			"machinetranslated": true,
 			"txt": "您的许可证密钥仅对标准版本的 PTGui 有效。请输入 PTGui Pro 的许可证密钥，或者下载标准版本。"
 		},
 		{
 			"id": "licenseinfo.oldkey",
-			"machinetranslated": true,
 			"txt": "这是旧的许可证密钥，对此版本的 PTGui 无效。"
 		},
 		{
 			"id": "licenseinfo.needvalidate",
-			"machinetranslated": true,
 			"txt": "您的许可证必须经过验证。"
 		},
 		{
 			"id": "licenseinfo.activating",
-			"machinetranslated": true,
 			"txt": "激活"
 		},
 		{
 			"id": "licenseinfo.deactivating",
-			"machinetranslated": true,
 			"txt": "停用"
 		},
 		{
 			"id": "licenseinfo.checkinglicense",
-			"machinetranslated": true,
 			"txt": "检查许可证"
 		},
 		{
 			"id": "licenseinfo.failedtocontactactivation",
-			"machinetranslated": true,
 			"txt": "无法联系许可服务器。\n\n错误信息： %0 "
 		},
 		{
 			"id": "activateoffline",
-			"machinetranslated": true,
 			"txt": "离线激活"
 		},
 		{
@@ -3514,12 +3270,10 @@
 		},
 		{
 			"id": "licenseinfo.deactivationfailed",
-			"machinetranslated": true,
 			"txt": "停用失败： %0 "
 		},
 		{
 			"id": "licenseinfo.offlineactivation1",
-			"machinetranslated": true,
 			"txt": "在另一台计算机上，转到 %0 \n\n在那里，输入您的注册名称和密钥以及以下代码：\n\n"
 		},
 		{
@@ -3528,47 +3282,38 @@
 		},
 		{
 			"id": "licenseinfo.offlineactivation3",
-			"machinetranslated": true,
 			"txt": "输入启用网页提供的响应代码。"
 		},
 		{
 			"id": "licenseinfo.installforallusers",
-			"machinetranslated": true,
 			"txt": "您是否要为此计算机上的所有用户安装此许可证？"
 		},
 		{
 			"id": "licenseinfo.offlineactivation.errnostartmarker",
-			"machinetranslated": true,
 			"txt": "响应代码应该以：\n %0 \n\n请输入整个回复，包括此行。"
 		},
 		{
 			"id": "licenseinfo.offlineactivation.errnoendmarker",
-			"machinetranslated": true,
 			"txt": "响应代码应以：\n %0 \n\n请输入整个回复，包括此行。"
 		},
 		{
 			"id": "licenseinfo.offlineactivation.errinvalidresponse",
-			"machinetranslated": true,
 			"txt": "响应代码无效。请确保复制/粘贴代码没有错误。"
 		},
 		{
 			"id": "licenseagreement.title",
-			"machinetranslated": true,
 			"txt": "许可协议"
 		},
 		{
 			"id": "licenseagreement.save",
-			"machinetranslated": true,
 			"txt": "保存许可协议"
 		},
 		{
 			"id": "licenseagreement.accept",
-			"machinetranslated": true,
 			"txt": "我理解并接受此许可协议"
 		},
 		{
 			"id": "licenseagreement.useissubject",
-			"machinetranslated": true,
 			"txt": "使用本软件须遵守以下条件："
 		},
 		{
@@ -3582,12 +3327,10 @@
 		},
 		{
 			"id": "licenseagreement.thanksforusing",
-			"machinetranslated": true,
 			"txt": "感谢您使用 %0 ！"
 		},
 		{
 			"id": "licenseagreement.thanksfortrying",
-			"machinetranslated": true,
 			"txt": "感谢您试用 %0 ！"
 		},
 		{
@@ -3678,8 +3421,7 @@
 		},
 		{
 			"id": "systeminformation.heading",
-			"machinetranslated": true,
-			"txt": "电脑系统信息："
+			"txt": "关于您的计算机的信息："
 		},
 		{
 			"id": "txt.unknownormanuallens",
@@ -3763,132 +3505,106 @@
 		},
 		{
 			"id": "batchbuilder.err.nosubfolders",
-			"machinetranslated": true,
 			"txt": "文件夹中没有找到子文件夹： %0 "
 		},
 		{
 			"id": "batchbuilder.err.nosubfoldersstartingwith",
-			"machinetranslated": true,
-			"txt": "没有文件夹中的'%1'开头的子文件夹： %0 "
+			"txt": "在文件夹 %0 中找不到以“%1”开头的子文件夹："
 		},
 		{
 			"id": "batchbuilder.err.nosubfolders2",
-			"machinetranslated": true,
 			"txt": "此模式要求存在多个子文件夹，每个子文件夹具有相同数量的图像。"
 		},
 		{
 			"id": "batchbuilder.err.subfoldershavedifferetnumberofimages",
-			"machinetranslated": true,
 			"txt": "子文件夹包含不同数量的图像。每个子文件夹应包含相同数量的图像。\n\n文件夹'%0'包含 %1 图像；\n文件夹'%2'包含%3图像。"
 		},
 		{
 			"id": "batchbuilder.err.noimagefiles",
-			"machinetranslated": true,
 			"txt": "在文件夹中找不到图像文件： %0 "
 		},
 		{
 			"id": "batchbuilder.err.noimagefileswithextension",
-			"machinetranslated": true,
-			"txt": "没有找到文件夹中的扩展名为 %1 的图像文件： %0 "
+			"txt": "在文件夹 %0 中找不到扩展名为 %1 的图像文件。"
 		},
 		{
 			"id": "batchbuilder.generatingprojects",
-			"machinetranslated": true,
 			"txt": "生成项目文件"
 		},
 		{
 			"id": "batchbuilder.detectpanoramas",
-			"machinetranslated": true,
 			"txt": "检测全景图"
 		},
 		{
 			"id": "batchbuilder.selectimagesmanually",
-			"machinetranslated": true,
 			"txt": "手动选择图像"
 		},
 		{
 			"id": "batchbuilder.generateprojects",
-			"machinetranslated": true,
 			"txt": "生成项目"
 		},
 		{
 			"id": "batchbuilder.generateprojects1",
-			"machinetranslated": true,
 			"txt": "@batchbuilder.generateprojects@："
 		},
 		{
 			"id": "batchbuilder.usetemplate",
-			"machinetranslated": true,
 			"txt": "使用模板："
 		},
 		{
 			"id": "batchbuilder.alignmode",
-			"machinetranslated": true,
 			"txt": "批量拼接器："
 		},
 		{
 			"id": "batchbuilder.savetobatchlist",
-			"machinetranslated": true,
-			"txt": "保存到批处理清单："
+			"txt": "保存到批处理列表："
 		},
 		{
 			"id": "batchbuilder.removeproject",
-			"machinetranslated": true,
 			"txt": "删除项目"
 		},
 		{
 			"id": "batchbuilder.removeprojects",
-			"machinetranslated": true,
 			"txt": "删除项目"
 		},
 		{
 			"id": "batchbuilder.combineprojects",
-			"machinetranslated": true,
-			"txt": "结合项目"
+			"txt": "合并项目"
 		},
 		{
 			"id": "batchbuilder.addimagestoproject",
-			"machinetranslated": true,
 			"txt": "将图像添加到项目中"
 		},
 		{
 			"id": "batchbuilder.showinfinder",
-			"machinetranslated": true,
-			"txt": "在查看器中显示"
+			"txt": "在访达中显示"
 		},
 		{
 			"id": "batchbuilder.showinexplorer",
-			"machinetranslated": true,
 			"txt": "在资源管理器里显示"
 		},
 		{
 			"id": "batchbuilder.usecurrentastemplate",
-			"machinetranslated": true,
 			"txt": "使用当前项目作为模板"
 		},
 		{
 			"id": "batchbuilder.currentproject",
-			"machinetranslated": true,
 			"txt": "当前项目： %0 "
 		},
 		{
 			"id": "batchbuilder.other",
-			"machinetranslated": true,
 			"txt": "@menubar.file.applytemplate.other@："
 		},
 		{
 			"id": "batchbuilder.batchlistof",
-			"machinetranslated": true,
-			"txt": "%0 的批处理清单"
+			"txt": "%0 的批处理列表"
 		},
 		{
 			"id": "batchbuilder.findingpanoramas",
-			"machinetranslated": true,
 			"txt": "查找全景图"
 		},
 		{
 			"id": "batchbuilder.err.notemplateselected",
-			"machinetranslated": true,
 			"txt": "没有选择模板"
 		},
 		{
@@ -3897,122 +3613,98 @@
 		},
 		{
 			"id": "batchbuilder.or",
-			"machinetranslated": true,
 			"txt": "或者"
 		},
 		{
 			"id": "batchbuilder.newemptyproject",
-			"machinetranslated": true,
 			"txt": "新的空项目"
 		},
 		{
 			"id": "batchbuilderdetect.title",
-			"machinetranslated": true,
-			"txt": "用于检测全景图的设置"
+			"txt": "检测全景图设置"
 		},
 		{
 			"id": "batchbuilderdetect.method",
-			"machinetranslated": true,
 			"txt": "方法："
 		},
 		{
 			"id": "batchbuilderdetect.method.oneperfolder",
-			"machinetranslated": true,
 			"txt": "每个文件夹一个全景"
 		},
 		{
 			"id": "batchbuilderdetect.method.fixednumimages",
-			"machinetranslated": true,
 			"txt": "每个文件夹具有固定数量图像的多个全景图"
 		},
 		{
 			"id": "batchbuilderdetect.method.shootingdate",
-			"machinetranslated": true,
 			"txt": "合并大约在同一时间拍摄的图像"
 		},
 		{
 			"id": "batchbuilderdetect.method.subfolderpercamera",
-			"machinetranslated": true,
-			"txt": "多个摄象头，每个摄象头一个子文件夹"
+			"txt": "多台相机，每台相机一个子文件夹"
 		},
 		{
 			"id": "batchbuilderdetect.sourcefolder",
-			"machinetranslated": true,
 			"txt": "源文件夹："
 		},
 		{
 			"id": "batchbuilderdetect.subfolderprefix",
-			"machinetranslated": true,
-			"txt": "子文件夹名称应以："
+			"txt": "子文件夹名称前缀："
 		},
 		{
 			"id": "batchbuilderdetect.subfolderprefixtxt",
-			"machinetranslated": true,
 			"txt": "（仅使用名称以此前缀开头的子文件夹。保留空以使用所有子文件夹）"
 		},
 		{
 			"id": "batchbuilderdetect.imagefileextension",
-			"machinetranslated": true,
 			"txt": "图像扩展名："
 		},
 		{
 			"id": "batchbuilderdetect.imagefileextensiontxt",
-			"machinetranslated": true,
 			"txt": "（例如 JPG，或留空）"
 		},
 		{
 			"id": "batchbuilderdetect.imagesperpanorama",
-			"machinetranslated": true,
 			"txt": "每幅全景图像："
 		},
 		{
 			"id": "batchbuilderdetect.ormore",
-			"machinetranslated": true,
 			"txt": "或者更多"
 		},
 		{
 			"id": "batchbuilderdetect.secondsbetweenshots",
-			"machinetranslated": true,
 			"txt": "最大拍摄时间间隔："
 		},
 		{
 			"id": "batchbuilderdetect.seconds",
-			"machinetranslated": true,
 			"txt": "秒"
 		},
 		{
 			"id": "batchbuilderdetect.to",
-			"machinetranslated": true,
 			"txt": "@upto@"
 		},
 		{
 			"id": "batchbuilderdetect.samefocallength",
-			"machinetranslated": true,
 			"txt": "只有焦距相同的图像"
 		},
 		{
 			"id": "batchbuilderdetect.sameexposuretime",
-			"machinetranslated": true,
 			"txt": "只有曝光时间相同的图像"
 		},
 		{
 			"id": "batchbuilderdetect.sameaperture",
-			"machinetranslated": true,
 			"txt": "只有具有相同光圈的图像"
 		},
 		{
 			"id": "batchbuilderdetect.sameiso",
-			"machinetranslated": true,
 			"txt": "仅具有相同 ISO 的图像"
 		},
 		{
 			"id": "batchstitcher.err.onlyoneimage",
-			"machinetranslated": true,
 			"txt": "因为只有一个图像，所以无法生成控制点。"
 		},
 		{
 			"id": "batchstitcher.nocpsfoundwarning",
-			"machinetranslated": true,
 			"txt": "无法找到所有图像的控制点；生成的全景图包含未对齐的图像。请在 PTGui 中打开项目以添加缺少的控制点。"
 		},
 		{
@@ -4021,87 +3713,70 @@
 		},
 		{
 			"id": "batchstitcher.asksave",
-			"machinetranslated": true,
 			"txt": "当前批处理列表已更改。是否保存对 %0 的更改？"
 		},
 		{
 			"id": "batchstitcher.errnoprojectfile",
-			"machinetranslated": true,
-			"txt": "预用 PTGui 项目文件（.pts 扩展名）。"
+			"txt": "需要 PTGui 项目文件（.pts 扩展名）。"
 		},
 		{
 			"id": "batchstitcher.project",
-			"machinetranslated": true,
 			"txt": "项目"
 		},
 		{
 			"id": "batchstitcher.log",
-			"machinetranslated": true,
 			"txt": "日志："
 		},
 		{
 			"id": "blendplaneselector.heading",
-			"machinetranslated": true,
 			"txt": "应该为哪些图像添加控制点？"
 		},
 		{
 			"id": "blendplaneselector.image",
-			"machinetranslated": true,
 			"txt": "图像"
 		},
 		{
 			"id": "blendplaneselector.title",
-			"machinetranslated": true,
 			"txt": "选择图像"
 		},
 		{
 			"id": "sensorsizedialog.title",
-			"machinetranslated": true,
 			"txt": "相机传感器尺寸"
 		},
 		{
 			"id": "sensorsizedialog.cropfactor",
-			"machinetranslated": true,
-			"txt": "剪裁数值/增距镜："
+			"txt": "裁剪系数/焦距乘数："
 		},
 		{
 			"id": "sensorsizedialog.choosepreset",
-			"machinetranslated": true,
-			"txt": "选择默认"
+			"txt": "选择预设"
 		},
 		{
 			"id": "sensorsizedialog.choosepreset.35mm",
-			"machinetranslated": true,
 			"txt": "35mm 全画幅"
 		},
 		{
 			"id": "sensorsizedialog.choosepreset.compact",
-			"machinetranslated": true,
 			"txt": "小型相机/运动相机"
 		},
 		{
 			"id": "sensorsizedialog.choosepreset.phone",
-			"machinetranslated": true,
 			"txt": "手机/平板电脑"
 		},
 		{
 			"id": "sensorsizedialog.choosepreset.notapplicable",
-			"machinetranslated": true,
 			"txt": "不适用，或不适用相机（例如3D效果图）"
 		},
 		{
 			"id": "sensorsizedialog.diagonal",
-			"machinetranslated": true,
 			"txt": "传感器对角线："
 		},
 		{
 			"id": "sensorsizedialog.sensorsize",
-			"machinetranslated": true,
 			"txt": "传感器尺寸："
 		},
 		{
 			"id": "sensorsizedialog.alwayuse.noexif",
-			"machinetranslated": true,
 			"txt": "始终将此数据用于来自未识别相机的图像"
 		},
 		{
@@ -4110,18 +3785,15 @@
 		},
 		{
 			"id": "sensorsizedialog.heading1",
-			"machinetranslated": true,
-			"txt": "需要知道相机的传感器尺寸，但图像的 EXIF 数据不包含任何信息。"
+			"txt": "PTGui 需要知道相机的传感器尺寸，但图像的 EXIF 数据不包含任何相关信息。"
 		},
 		{
 			"id": "sensorsizedialog.heading2",
-			"machinetranslated": true,
-			"txt": "无法识别您的相机传感器尺寸。"
+			"txt": "PTGui 需要知道相机的传感器尺寸，但无法识别您的相机。"
 		},
 		{
 			"id": "sensorsizedialog.heading3",
-			"machinetranslated": true,
-			"txt": "请填写以下字段之一。\n如果您不知道，请在@sensorsizedialog.choosepreset@按钮并选择最合适的设置。"
+			"txt": "请填写以下字段之一。\n如果您不知道，请单击@sensorsizedialog.choosepreset@按钮并选择最合适的设置。"
 		},
 		{
 			"id": "sensorsizedialog.txtsubmitexif",
@@ -4130,160 +3802,129 @@
 		},
 		{
 			"id": "cptablewindow.images",
-			"machinetranslated": true,
 			"txt": "图像："
 		},
 		{
 			"id": "cptablewindow.type",
-			"machinetranslated": true,
 			"txt": "类型："
 		},
 		{
 			"id": "cptablewindow.all",
-			"machinetranslated": true,
 			"txt": "（所有）"
 		},
 		{
 			"id": "cptablewindow.any",
-			"machinetranslated": true,
 			"txt": "所有"
 		},
 		{
 			"id": "cptablewindow.allexceptnormal",
-			"machinetranslated": true,
 			"txt": "除正常外"
 		},
 		{
 			"id": "cpassistant.noimages",
-			"machinetranslated": true,
 			"txt": "没有图像"
 		},
 		{
 			"id": "cpassistant.emptyproject",
-			"machinetranslated": true,
 			"txt": "项目是空的。"
 		},
 		{
 			"id": "cpassistant.onlyoneimage",
-			"machinetranslated": true,
 			"txt": "项目只有一个图像；不需要控制点。"
 		},
 		{
 			"id": "cpassistant.enoughcontrolpoints",
-			"machinetranslated": true,
 			"txt": "足够的控制点"
 		},
 		{
 			"id": "cpassistant.allimageslinked",
-			"machinetranslated": true,
 			"txt": "所有图像都通过控制点链接。"
 		},
 		{
 			"id": "cpassistant.suggestionsforimprovement",
-			"machinetranslated": true,
-			"txt": "建议改善结果"
+			"txt": "改进结果的建议"
 		},
 		{
 			"id": "cpassistant.showsuggestionsforimprovement",
-			"machinetranslated": true,
-			"txt": "显示改善结果的建议"
+			"txt": "显示改进结果的建议"
 		},
 		{
 			"id": "cpassistant.hide",
-			"machinetranslated": true,
 			"txt": "隐藏"
 		},
 		{
 			"id": "cpassistant.misalignedcps",
-			"machinetranslated": true,
 			"txt": "控制点未对齐"
 		},
 		{
 			"id": "cpassistant.misalignedcpstext",
-			"machinetranslated": true,
 			"txt": "某些控制点具有较大的优化错误，这意味着优化程序无法完美地对齐控制点。这可能是由（例如）错位的控制点，移动物体上的控制点或大的视差错误引起的。"
 		},
 		{
 			"id": "cpassistant.toimprovegotocptable",
-			"machinetranslated": true,
 			"format": "html",
 			"txt": "要改善结果，请转到<a href=0>@controlpointstable@</a>并检查具有最高距离值的控制点的位置。"
 		},
 		{
 			"id": "cpassistant.nocontrolpoints",
-			"machinetranslated": true,
 			"txt": "没有控制点"
 		},
 		{
 			"id": "cpassistant.nocontrolpointstxt",
-			"machinetranslated": true,
 			"txt": "您的项目还没有任何控制点。"
 		},
 		{
 			"id": "cpassistant.ptguicangeneratecps",
-			"machinetranslated": true,
 			"format": "html",
 			"txt": "PTGui 可以通过运行<a href=0>@alignimages@</a>为您生成控制点。"
 		},
 		{
 			"id": "cpassistant.and",
-			"machinetranslated": true,
 			"txt": "和"
 		},
 		{
 			"id": "cpassistant.orphanedimages",
-			"machinetranslated": true,
 			"txt": "孤立的图像"
 		},
 		{
 			"id": "cpassistant.imagedoesnothaveanycps",
-			"machinetranslated": true,
 			"txt": "图像 %0 还没有任何控制点。"
 		},
 		{
 			"id": "cpassistant.imagesdonothaveanycps",
-			"machinetranslated": true,
 			"txt": "图像 %0 还没有任何控制点。"
 		},
 		{
 			"id": "cpassistant.clusters",
-			"machinetranslated": true,
 			"txt": "集群"
 		},
 		{
 			"id": "cpassistant.clusterstxt",
-			"machinetranslated": true,
 			"txt": "在以下组中，图像通过每个组内的控制点链接，但是没有控制点链接在一个组中的图像和另一个组中的图像之间。您需要在每个组中的图像之间添加一些控制点："
 		},
 		{
 			"id": "cpassistant.toofewcps",
-			"machinetranslated": true,
 			"txt": "控制点太少"
 		},
 		{
 			"id": "cpassistant.imagehastoofewcps",
-			"machinetranslated": true,
 			"txt": "图像 %0 的控制点少于 4 个。确保每个图像至少通过 4 个控制点链接到其他图像。"
 		},
 		{
 			"id": "cpassistant.imageshavetoofewcps",
-			"machinetranslated": true,
 			"txt": "图像 %0 的控制点少于 4 个。确保每个图像至少通过 4 个控制点链接到其他图像。"
 		},
 		{
 			"id": "cpassistant.missingcontrolpoints",
-			"machinetranslated": true,
 			"txt": "缺少控制点"
 		},
 		{
 			"id": "cpassistant.multiplemissingcontrolpointstxt",
-			"machinetranslated": true,
 			"format": "html",
 			"txt": "以下图像对重叠，但没有控制点：<br> %0 <br>"
 		},
 		{
 			"id": "cpassistant.singlepairmissingcontrolpointstxt",
-			"machinetranslated": true,
 			"format": "html",
 			"txt": "图像 %0 重叠，但没有控制点。"
 		},
@@ -4293,69 +3934,56 @@
 		},
 		{
 			"id": "cpassistant.multiplepairstoofewcontrolpointstxt",
-			"machinetranslated": true,
 			"format": "html",
 			"txt": "以下图像对重叠并且控制点少于 4 个：<br> %0 <br>"
 		},
 		{
 			"id": "cpassistant.singlepairtoofewcontrolpointstxt",
-			"machinetranslated": true,
 			"format": "html",
 			"txt": "图像 %0 重叠并且控制点少于 4 个。"
 		},
 		{
 			"id": "cpassistant.pairstoofewcontrolpointsbottomtxt",
-			"machinetranslated": true,
 			"txt": "如果每对重叠图像具有至少 4 个控制点，则获得最佳结果。"
 		},
 		{
 			"id": "fileformatsettings.bitsperchannel",
-			"machinetranslated": true,
 			"txt": "每通道 %0 位"
 		},
 		{
 			"id": "fileformatsettings.bits",
-			"machinetranslated": true,
 			"txt": "%0 位"
 		},
 		{
 			"id": "fileformatsettings.32bitsfloatingpoints",
-			"machinetranslated": true,
 			"txt": "32 位浮点"
 		},
 		{
 			"id": "fileformatsettings.fileformatoptionstxt",
-			"machinetranslated": true,
 			"txt": "%0 选项"
 		},
 		{
 			"id": "fileformatsettings.bitdepth",
-			"machinetranslated": true,
 			"txt": "位深度："
 		},
 		{
 			"id": "fileformatsettings.compression",
-			"machinetranslated": true,
 			"txt": "压缩："
 		},
 		{
 			"id": "fileformatsettings.compression.none",
-			"machinetranslated": true,
-			"txt": "没有"
+			"txt": "无"
 		},
 		{
 			"id": "fileformatsettings.alpha",
-			"machinetranslated": true,
 			"txt": "Alpha 通道（透明度）："
 		},
 		{
 			"id": "fileformatsettings.alpha.associated",
-			"machinetranslated": true,
 			"txt": "正常（相关）"
 		},
 		{
 			"id": "fileformatsettings.alpha.unassociated",
-			"machinetranslated": true,
 			"txt": "未关联"
 		},
 		{
@@ -4372,108 +4000,87 @@
 		},
 		{
 			"id": "fileformatsettings.layers",
-			"machinetranslated": true,
 			"txt": "图层："
 		},
 		{
 			"id": "fileformatsettings.layers.layered",
-			"machinetranslated": true,
 			"txt": "分层"
 		},
 		{
 			"id": "fileformatsettings.layers.flattened",
-			"machinetranslated": true,
 			"txt": "扁平"
 		},
 		{
 			"id": "fillyaw.yawoffirstimage",
-			"machinetranslated": true,
-			"txt": "@+yaw@的第一张图像："
+			"txt": "第一张图像的@+yaw@："
 		},
 		{
 			"id": "fillyaw.yawoflastimage",
-			"machinetranslated": true,
-			"txt": "@+yaw@的最后一张图像："
+			"txt": "最后一张图像的@+yaw@："
 		},
 		{
 			"id": "fillyaw.yawincrement",
-			"machinetranslated": true,
 			"txt": "@+yaw@增量："
 		},
 		{
 			"id": "fillyaw.imagesperrow",
-			"machinetranslated": true,
 			"txt": "每行图像："
 		},
 		{
 			"id": "fillyaw.clockwise",
-			"machinetranslated": true,
 			"txt": "顺时针"
 		},
 		{
 			"id": "fillyaw.counterclockwise",
-			"machinetranslated": true,
 			"txt": "逆时针"
 		},
 		{
 			"id": "focallengthdialog.heading.unknownlenstype",
-			"machinetranslated": true,
 			"txt": "PTGui 需要知道图像是用鱼眼镜头还是普通镜头拍摄的，但这不能从 EXIF 数据中确定。请告诉我们使用了哪种镜头："
 		},
 		{
 			"id": "focallengthdialog.heading.unknownfocallength",
-			"machinetranslated": true,
-			"txt": "无法从 EXIF 数据中获取镜头类别和焦距。请选择使用了哪种镜头："
+			"txt": "无法从 EXIF 数据确定焦距和镜头类型。请选择使用的镜头："
 		},
 		{
 			"id": "focallengthdialog.regularlens",
-			"machinetranslated": true,
 			"txt": "普通镜头（不是鱼眼）"
 		},
 		{
 			"id": "focallengthdialog.caption",
-			"machinetranslated": true,
-			"txt": "镜头&焦距"
+			"txt": "焦距"
 		},
 		{
 			"id": "focallengthdialog.exiflens",
-			"machinetranslated": true,
 			"txt": "EXIF 镜头： %0 "
 		},
 		{
 			"id": "focallengthdialog.loadfromdb",
-			"machinetranslated": true,
-			"txt": "镜头数据库："
+			"txt": "从镜头数据库加载："
 		},
 		{
 			"id": "focallengthdialog.choosepreset",
-			"machinetranslated": true,
-			"txt": "选择默认"
+			"txt": "选择预设"
 		},
 		{
 			"id": "focallengthdialog.choosepreset.tele",
-			"machinetranslated": true,
 			"txt": "远摄镜头"
 		},
 		{
 			"id": "focallengthdialog.choosepreset.normal",
-			"machinetranslated": true,
 			"txt": "普通镜头"
 		},
 		{
 			"id": "focallengthdialog.choosepreset.wide",
-			"machinetranslated": true,
 			"txt": "广角镜头"
 		},
 		{
 			"id": "focallengthdialog.choosepreset.ultrawide",
-			"machinetranslated": true,
 			"txt": "超广角镜头"
 		},
 		{
 			"id": "focallengthdialog.lenstype",
-			"machinetranslated": true,
-			"txt": "镜头类别："
+			"txt": "镜头类型："
 		},
 		{
 			"id": "focallengthdialog.alwaysusefor",
@@ -4481,32 +4088,26 @@
 		},
 		{
 			"id": "lensdatabase.xony",
-			"machinetranslated": true,
-			"txt": "%1 上的 %0 "
+			"txt": "%0（用于 %1）"
 		},
 		{
 			"id": "lensdatabase.unknowncameranoexif",
-			"machinetranslated": true,
 			"txt": "未知的相机（没有 EXIF 数据）"
 		},
 		{
 			"id": "lensdatabase.name",
-			"machinetranslated": true,
 			"txt": "名称"
 		},
 		{
 			"id": "lensdatabase.exiflens",
-			"machinetranslated": true,
 			"txt": "EXIF 镜头"
 		},
 		{
 			"id": "lensdatabase.additemtxt",
-			"machinetranslated": true,
 			"txt": "要添加项目，请单击@mainwindow.tabs.lenssettings@选项卡中的@mainwindow.lensparams.lensdatabasebutton@按钮，然后选择@save@。要查看@mainwindow.tabs.lenssettings@选项卡，PTGui 必须处于高级模式。"
 		},
 		{
 			"id": "lensdatabase.addmappingtxt",
-			"machinetranslated": true,
 			"txt": "要将这些镜头设置用作具有某些 EXIF 数据的图像的默认设置：加载图像并转到@mainwindow.tabs.lenssettings@选项卡（ PTGui 应处于高级模式）。可以通过' EXIF  - @mainwindow.lensparams.makeexifassociation@'添加关联。"
 		},
 		{
@@ -4527,37 +4128,30 @@
 		},
 		{
 			"id": "lensdatabase.croppingcircle",
-			"machinetranslated": true,
-			"txt": "剪裁圈"
+			"txt": "裁剪圆："
 		},
 		{
 			"id": "lensdatabase.cropped",
-			"machinetranslated": true,
 			"txt": "剪裁"
 		},
 		{
 			"id": "lensdatabase.lensshift",
-			"machinetranslated": true,
 			"txt": "镜头位移："
 		},
 		{
 			"id": "lensdatabase.longside",
-			"machinetranslated": true,
 			"txt": "（长边）"
 		},
 		{
 			"id": "lensdatabase.shortside",
-			"machinetranslated": true,
 			"txt": "（短边）"
 		},
 		{
 			"id": "lensdatabase.shear",
-			"machinetranslated": true,
 			"txt": "@+shear@："
 		},
 		{
 			"id": "lensdatabase.exifassociationsheading",
-			"machinetranslated": true,
 			"txt": "加载包含以下 EXIF 数据的图像时，将自动应用这些设置："
 		},
 		{
@@ -4670,12 +4264,10 @@
 		},
 		{
 			"id": "warn.compat.needspro",
-			"machinetranslated": true,
-			"txt": "当您运行标准版本的 PTGui 时，此项目是使用专业版 PTGui 创建的。"
+			"txt": "此项目是使用 PTGui Pro 版创建的，而您正在运行标准版。"
 		},
 		{
 			"id": "warn.compat.txt2",
-			"machinetranslated": true,
 			"txt": "因此，并非所有功能都可用，并且得到的全景可能看起来与原始不同。"
 		},
 		{
@@ -4692,8 +4284,7 @@
 		},
 		{
 			"id": "warn.psb300000",
-			"machinetranslated": true,
-			"txt": "虽然 PTGui 可以创建宽大于或高于 300000 像素的 Photoshop 大文文件（.psb）文件，但 Photoshop 将无法打开如此大的图像。"
+			"txt": "虽然 PTGui 可以创建宽或高超过 300000 像素的 Photoshop 大型文档（.psb）文件，但 Photoshop 将无法打开如此大的图像。"
 		},
 		{
 			"id": "err.jpg65500",
@@ -4749,103 +4340,83 @@
 		},
 		{
 			"id": "month.january",
-			"machinetranslated": true,
 			"txt": "1月"
 		},
 		{
 			"id": "month.february",
-			"machinetranslated": true,
 			"txt": "2月"
 		},
 		{
 			"id": "month.march",
-			"machinetranslated": true,
 			"txt": "3月"
 		},
 		{
 			"id": "month.april",
-			"machinetranslated": true,
 			"txt": "4月"
 		},
 		{
 			"id": "month.may",
-			"machinetranslated": true,
 			"txt": "5月"
 		},
 		{
 			"id": "month.june",
-			"machinetranslated": true,
 			"txt": "6月"
 		},
 		{
 			"id": "month.july",
-			"machinetranslated": true,
 			"txt": "7月"
 		},
 		{
 			"id": "month.august",
-			"machinetranslated": true,
 			"txt": "8月"
 		},
 		{
 			"id": "month.september",
-			"machinetranslated": true,
 			"txt": "9月"
 		},
 		{
 			"id": "month.october",
-			"machinetranslated": true,
 			"txt": "10月"
 		},
 		{
 			"id": "month.november",
-			"machinetranslated": true,
 			"txt": "11月"
 		},
 		{
 			"id": "month.december",
-			"machinetranslated": true,
 			"txt": "12月"
 		},
 		{
 			"id": "dcraw.err.unexpectedeof",
-			"machinetranslated": true,
 			"txt": "dcraw 错误：文件过早结束"
 		},
 		{
 			"id": "dcraw.err.thumbnailreaderror",
-			"machinetranslated": true,
 			"txt": "无法从文件 %0 中提取缩略图\ndcraw 错误： %1 "
 		},
 		{
 			"id": "dcraw.err.failedwithexitcode",
-			"machinetranslated": true,
 			"txt": "dcraw 失败，退出代码为 %0 "
 		},
 		{
 			"id": "dcraw.err.failedwithtxt",
-			"machinetranslated": true,
 			"txt": "dcraw 错误： %0 "
 		},
 		{
 			"id": "dcraw.err.dcrawnotfound",
-			"machinetranslated": true,
 			"txt": "找不到 RAW 文件支持所需的 dcraw 应用程序"
 		},
 		{
 			"id": "dcraw.err.dcrawnotfound.withfilename",
-			"machinetranslated": true,
 			"txt": "@dcraw.err.dcrawnotfound@：\n %0 "
 		},
 		{
 			"id": "hdrradiance.err.invalid",
-			"machinetranslated": true,
-			"txt": "这不是有效的 HDR 曝光文件。"
+			"txt": "这不是有效的 HDR Radiance 文件。"
 		},
 		{
 			"id": "hdrradiance.err.unsupported.xy",
-			"machinetranslated": true,
-			"txt": "不支持的 HDR 曝光文件。仅支持“-Y + X”配置中的文件。"
+			"txt": "不支持的 HDR Radiance 文件。仅支持“-Y +X”配置的文件。"
 		},
 		{
 			"id": "hdrradiance.err.unsupported.encoding",
@@ -4853,22 +4424,18 @@
 		},
 		{
 			"id": "papywizard.err.noxml",
-			"machinetranslated": true,
 			"txt": "无法打开文件或无效的 XML：\n %0 "
 		},
 		{
 			"id": "papywizard.err.invalid",
-			"machinetranslated": true,
 			"txt": "不是有效的 Papywizard 数据文件：\n %0 "
 		},
 		{
 			"id": "png.err.invalid",
-			"machinetranslated": true,
 			"txt": "不是有效的 PNG 文件"
 		},
 		{
 			"id": "png.err.unspportedformat",
-			"machinetranslated": true,
 			"txt": "不支持的 PNG 格式： %0 "
 		},
 		{
@@ -4881,28 +4448,23 @@
 		},
 		{
 			"id": "tiff.outputover4gb",
-			"machinetranslated": true,
 			"txt": "TIFF 文件已超过 4GB 的最大可能大小。"
 		},
 		{
 			"id": "tiff.err.unspportedformat",
-			"machinetranslated": true,
 			"txt": "不支持的 TIFF 格式： %0 "
 		},
 		{
 			"id": "tiff.err.invalid",
-			"machinetranslated": true,
 			"txt": "无效的 TIFF 文件： %0 "
 		},
 		{
 			"id": "psd.err.max30000",
-			"machinetranslated": true,
 			"txt": "Photoshop PSD 文件不能宽于或高于 30000 像素。"
 		},
 		{
 			"id": "psd.err.over4gb",
-			"machinetranslated": true,
-			"txt": "Photoshop.psd 文件的大小已超过规范允许的最大文件大小 4GB。请改为选择 Photoshop 大型文文件（.psb）格式。"
+			"txt": "Photoshop .psd 文件的大小已超过规范允许的最大文件大小 4GB。请改为选择 Photoshop 大型文档（.psb）格式。"
 		},
 		{
 			"id": "err.externalblender.tiffover4gb",
@@ -5182,7 +4744,6 @@
 		},
 		{
 			"id": "cubefacereconstructedpostfix",
-			"machinetranslated": true,
 			"txt": "重建"
 		},
 		{
@@ -5215,7 +4776,6 @@
 		},
 		{
 			"id": "warn.somereplacementimagesnotfound",
-			"machinetranslated": true,
 			"txt": "在所选文件夹中找不到一个或多个图像。这些图像尚未修改。"
 		},
 		{
@@ -5280,22 +4840,18 @@
 		},
 		{
 			"id": "papywizardimport.noimages",
-			"machinetranslated": true,
 			"txt": "Papywizard 数据文件无图像，或格式无效。"
 		},
 		{
 			"id": "papywizardimport.numimagesmismatch",
-			"machinetranslated": true,
 			"txt": "Papywizard 数据文件包含 %0 图像，而当前的 PTGui 项目包含 %1 图像。你确定这是对的吗？"
 		},
 		{
 			"id": "papywizardimport.numimagesmismatchbracketed",
-			"machinetranslated": true,
-			"txt": "Papywizard数据文件包含 %0 设置的范围曝光，而当前的 PTGui 项目设置了 %1 。你确定这是对的吗？"
+			"txt": "Papywizard 数据文件包含 %0 组包围曝光，而当前的 PTGui 项目包含 %1 组。您确定这是对的吗？"
 		},
 		{
 			"id": "papywizardimport.firstloadimages",
-			"machinetranslated": true,
 			"txt": "要使用此功能，首先需要加载图像。"
 		},
 		{
@@ -5324,22 +4880,18 @@
 		},
 		{
 			"id": "fileformatsettings.qualitytxt",
-			"machinetranslated": true,
 			"txt": "质量： %0 %%"
 		},
 		{
 			"id": "fileformatsettings.packbitscompression",
-			"machinetranslated": true,
 			"txt": "packbits 压缩"
 		},
 		{
 			"id": "fileformatsettings.lzwcompression",
-			"machinetranslated": true,
 			"txt": "LZW 压缩"
 		},
 		{
 			"id": "fileformatsettings.nocompression",
-			"machinetranslated": true,
 			"txt": "无压缩"
 		},
 		{
@@ -5352,92 +4904,74 @@
 		},
 		{
 			"id": "fileformatsettings.withalpha",
-			"machinetranslated": true,
-			"txt": "带有 Alpha 层"
+			"txt": "含 Alpha"
 		},
 		{
 			"id": "fileformatsettings.noalpha",
-			"machinetranslated": true,
-			"txt": "没有 Alpha 层"
+			"txt": "不含 Alpha"
 		},
 		{
 			"id": "fileformatsettings.nolayers",
-			"machinetranslated": true,
-			"txt": "没有层"
+			"txt": "无图层"
 		},
 		{
 			"id": "publishtowebsite.usecustomtemplate",
-			"machinetranslated": true,
 			"txt": "使用自定义模板"
 		},
 		{
 			"id": "publishtowebsite.missingtemplatefile",
-			"machinetranslated": true,
-			"txt": "选择“@publishtowebsite.usecustomtemplate@”，但未给出模板文件。"
+			"txt": "已选择“@publishtowebsite.usecustomtemplate@”，但未提供模板文件。"
 		},
 		{
 			"id": "publishtowebsite.templatefiledoesnotexist",
-			"machinetranslated": true,
 			"txt": "模板文件不存在： %0 "
 		},
 		{
 			"id": "publishtowebsite.invalidtemplate",
-			"machinetranslated": true,
 			"txt": "模板文件无效： %0 \n\n模板应包含以下标记：\n %1 \n有关更多信息，请参阅帮助"
 		},
 		{
 			"id": "publishtowebsite.megapixelstxt",
-			"machinetranslated": true,
 			"txt": "%0 百万像素"
 		},
 		{
 			"id": "publishtowebsite.onlyimagestxt",
-			"machinetranslated": true,
 			"txt": "只有图像"
 		},
 		{
 			"id": "publishtowebsite.sourcefiles",
-			"machinetranslated": true,
 			"txt": "源文件："
 		},
 		{
 			"id": "publishtowebsite.projection",
-			"machinetranslated": true,
 			"txt": "投影："
 		},
 		{
 			"id": "publishtowebsite.output",
-			"machinetranslated": true,
 			"txt": "输出："
 		},
 		{
 			"id": "publishtowebsite.savetosamefolder",
-			"machinetranslated": true,
 			"txt": "保存到源图像文件夹中具有相同名称的文件"
 		},
 		{
 			"id": "publishtowebsite.saveas",
-			"machinetranslated": true,
 			"txt": "另存为："
 		},
 		{
 			"id": "publishtowebsite.multiplefiles",
-			"machinetranslated": true,
 			"txt": "多个文件"
 		},
 		{
 			"id": "publishtowebsite.saveforweb",
-			"machinetranslated": true,
-			"txt": "发布至网络"
+			"txt": "为 Web 保存"
 		},
 		{
 			"id": "publishtowebsite.settings",
-			"machinetranslated": true,
 			"txt": "设置"
 		},
 		{
 			"id": "publishtowebsite.converting",
-			"machinetranslated": true,
 			"txt": "转换为 Web"
 		},
 		{
@@ -5446,152 +4980,122 @@
 		},
 		{
 			"id": "publishtowebsite.filename",
-			"machinetranslated": true,
 			"txt": "文件名"
 		},
 		{
 			"id": "publishtowebsite.filescreated",
-			"machinetranslated": true,
 			"txt": "创建的文件："
 		},
 		{
 			"id": "publishtowebsite.hfov",
-			"machinetranslated": true,
 			"txt": "水平视野："
 		},
 		{
 			"id": "publishtowebsite.create",
-			"machinetranslated": true,
 			"txt": "创建："
 		},
 		{
 			"id": "publishtowebsite.create.all",
-			"machinetranslated": true,
 			"txt": "所有文件（图像，网页和查看器文件）"
 		},
 		{
 			"id": "publishtowebsite.create.images",
-			"machinetranslated": true,
 			"txt": "仅限图像"
 		},
 		{
 			"id": "publishtowebsite.create.resolution",
-			"machinetranslated": true,
 			"txt": "分辨率："
 		},
 		{
 			"id": "publishtowebsite.create.megapixels",
-			"machinetranslated": true,
 			"txt": "百万像素"
 		},
 		{
 			"id": "publishtowebsite.create.sizelimitmobile",
-			"machinetranslated": true,
 			"txt": "移动设备的大小限制："
 		},
 		{
 			"id": "publishtowebsite.create.sizelimitmobile.txt",
-			"machinetranslated": true,
 			"txt": "百万像素（太大会使浏览器崩溃）"
 		},
 		{
 			"id": "publishtowebsite.autorotate",
-			"machinetranslated": true,
 			"txt": "自动旋转："
 		},
 		{
 			"id": "publishtowebsite.autorotate.enabled",
-			"machinetranslated": true,
 			"txt": "启用"
 		},
 		{
 			"id": "publishtowebsite.autorotate.speed",
-			"machinetranslated": true,
 			"txt": "速度："
 		},
 		{
 			"id": "publishtowebsite.autorotate.degreespersecond",
-			"machinetranslated": true,
 			"txt": "度/秒"
 		},
 		{
 			"id": "publishtowebsite.autorotate.resumeafter",
-			"machinetranslated": true,
 			"txt": "继续之后"
 		},
 		{
 			"id": "publishtowebsite.autorotate.secondsofinactivity",
-			"machinetranslated": true,
 			"txt": "几秒钟不活动"
 		},
 		{
 			"id": "publishtowebsite.showfullscreen",
-			"machinetranslated": true,
 			"txt": "显示全屏按钮："
 		},
 		{
 			"id": "publishtowebsite.showfullscreen.yes",
-			"machinetranslated": true,
 			"txt": "是"
 		},
 		{
 			"id": "publishtowebsite.showfullscreen.no",
-			"machinetranslated": true,
 			"txt": "否"
 		},
 		{
 			"id": "publishtowebsite.gyroscope",
-			"machinetranslated": true,
 			"txt": "陀螺仪导航："
 		},
 		{
 			"id": "publishtowebsite.gyroscope.enabled",
-			"machinetranslated": true,
 			"txt": "已启用（在支持的设备上）"
 		},
 		{
 			"id": "publishtowebsite.mousenav",
-			"machinetranslated": true,
 			"txt": "鼠标导航："
 		},
 		{
 			"id": "publishtowebsite.mousenav.drag",
-			"machinetranslated": true,
 			"txt": "拖动"
 		},
 		{
 			"id": "publishtowebsite.mousenav.moveto",
-			"machinetranslated": true,
-			"txt": "搬去"
+			"txt": "移动"
 		},
 		{
 			"id": "publishtowebsite.webpagetitle",
-			"machinetranslated": true,
 			"txt": "网页标题："
 		},
 		{
 			"id": "publishtowebsite.description",
-			"machinetranslated": true,
 			"txt": "描述："
 		},
 		{
 			"id": "publishtowebsite.createtemplate",
-			"machinetranslated": true,
 			"txt": "创建模板"
 		},
 		{
 			"id": "trialversion.title",
-			"machinetranslated": true,
 			"txt": "试用版"
 		},
 		{
 			"id": "trialversion.buyptgui",
-			"machinetranslated": true,
 			"txt": "购买 PTGui"
 		},
 		{
 			"id": "cubicconverter.convertto",
-			"machinetranslated": true,
 			"txt": "转换成："
 		},
 		{
@@ -5600,32 +5104,26 @@
 		},
 		{
 			"id": "cubicconverter.convertto.cubefacestrip",
-			"machinetranslated": true,
-			"txt": "立方体面条（6x1）"
+			"txt": "立方体面条带（6x1）"
 		},
 		{
 			"id": "cubicconverter.convertto.cubefaces",
-			"machinetranslated": true,
 			"txt": "立方体面，6 个单独的文件"
 		},
 		{
 			"id": "cubicconverter.savetosamefolder",
-			"machinetranslated": true,
 			"txt": "保存到源图像文件夹"
 		},
 		{
 			"id": "cubicconverter.err.maxjpegsize",
-			"machinetranslated": true,
 			"txt": "JPEG 文件不能宽于 %0 像素。请改为选择 TIFF 输出格式。"
 		},
 		{
 			"id": "cubicconverter.converting",
-			"machinetranslated": true,
 			"txt": "转换图像"
 		},
 		{
 			"id": "cubicconverter.singlefilealreadyexists",
-			"machinetranslated": true,
 			"txt": "输出文件已存在：\n %0 \n想要覆盖它吗？"
 		},
 		{
@@ -5634,17 +5132,14 @@
 		},
 		{
 			"id": "cameradatabase.camera",
-			"machinetranslated": true,
 			"txt": "相机"
 		},
 		{
 			"id": "cameradatabase.diagonal",
-			"machinetranslated": true,
 			"txt": "传感器对角线"
 		},
 		{
 			"id": "cameradatabase.toadd",
-			"machinetranslated": true,
 			"txt": "要将相机添加到此列表，请加载图像并转到@mainwindow.tabs.lenssettings@选项卡（PTGui 应处于高级模式）。在那里，选择@cameradatabase@ - @mainwindow.lensparams.savetocameradatabase@。"
 		},
 		{
@@ -5657,222 +5152,178 @@
 		},
 		{
 			"id": "qtvrsettings.cubefacesizetxt",
-			"machinetranslated": true,
 			"txt": "@qtvrsettings.cubefacesize@ %0 像素"
 		},
 		{
 			"id": "gridsetup.grid",
-			"machinetranslated": true,
 			"txt": "格"
 		},
 		{
 			"id": "gridsetup.grid1",
-			"machinetranslated": true,
 			"txt": "@gridsetup.grid@："
 		},
 		{
 			"id": "gridsetup.applyto",
-			"machinetranslated": true,
 			"txt": "适用于："
 		},
 		{
 			"id": "gridsetup.allimages",
-			"machinetranslated": true,
 			"txt": "所有图像"
 		},
 		{
 			"id": "gridsetup.imagerange",
-			"machinetranslated": true,
 			"txt": "图像"
 		},
 		{
 			"id": "gridsetup.imagerangeto",
-			"machinetranslated": true,
 			"txt": "@upto@"
 		},
 		{
 			"id": "gridsetup.row",
-			"machinetranslated": true,
 			"txt": "行"
 		},
 		{
 			"id": "gridsetup.rows",
-			"machinetranslated": true,
 			"txt": "行"
 		},
 		{
 			"id": "gridsetup.column",
-			"machinetranslated": true,
 			"txt": "列"
 		},
 		{
 			"id": "gridsetup.columns",
-			"machinetranslated": true,
 			"txt": "列"
 		},
 		{
 			"id": "gridsetup.image",
-			"machinetranslated": true,
 			"txt": "图像"
 		},
 		{
 			"id": "gridsetup.images",
-			"machinetranslated": true,
 			"txt": "图像"
 		},
 		{
 			"id": "gridsetup.of",
-			"machinetranslated": true,
 			"txt": "的"
 		},
 		{
 			"id": "gridsetup.shootingconfiguration",
-			"machinetranslated": true,
 			"txt": "拍摄配置"
 		},
 		{
 			"id": "gridsetup.byrow",
-			"machinetranslated": true,
 			"txt": "按行"
 		},
 		{
 			"id": "gridsetup.bycolumn",
-			"machinetranslated": true,
 			"txt": "按列"
 		},
 		{
 			"id": "gridsetup.direction",
-			"machinetranslated": true,
 			"txt": "方向："
 		},
 		{
 			"id": "gridsetup.direction.Unidirectional",
-			"machinetranslated": true,
 			"txt": "单向"
 		},
 		{
 			"id": "gridsetup.direction.zigzag",
-			"machinetranslated": true,
 			"txt": "之字形"
 		},
 		{
 			"id": "gridsetup.startat",
-			"machinetranslated": true,
 			"txt": "开始于："
 		},
 		{
 			"id": "gridsetup.startat.topleft",
-			"machinetranslated": true,
 			"txt": "左上方"
 		},
 		{
 			"id": "gridsetup.startat.topright",
-			"machinetranslated": true,
 			"txt": "右上"
 		},
 		{
 			"id": "gridsetup.startat.bottomleft",
-			"machinetranslated": true,
 			"txt": "左下方"
 		},
 		{
 			"id": "gridsetup.startat.bottomright",
-			"machinetranslated": true,
 			"txt": "右下角"
 		},
 		{
 			"id": "gridsetup.horizontalaxis",
-			"machinetranslated": true,
 			"txt": "横轴"
 		},
 		{
 			"id": "gridsetup.centerhorizontally",
-			"machinetranslated": true,
 			"txt": "水平居中"
 		},
 		{
 			"id": "gridsetup.yawangle",
-			"machinetranslated": true,
 			"txt": "@+yaw@角度："
 		},
 		{
 			"id": "gridsetup.leftmostyawangle",
-			"machinetranslated": true,
 			"txt": "最左边的@yaw@角度："
 		},
 		{
 			"id": "gridsetup.rightmostyawangle",
-			"machinetranslated": true,
 			"txt": "最右边的@yaw@角度："
 		},
 		{
 			"id": "gridsetup.spacing",
-			"machinetranslated": true,
 			"txt": "间距："
 		},
 		{
 			"id": "gridsetup.spacedby",
-			"machinetranslated": true,
 			"txt": "隔开"
 		},
 		{
 			"id": "gridsetup.overlapof",
-			"machinetranslated": true,
 			"txt": "重叠"
 		},
 		{
 			"id": "gridsetup.stretch360",
-			"machinetranslated": true,
 			"txt": "伸展到 360°全景"
 		},
 		{
 			"id": "gridsetup.verticalaxis",
-			"machinetranslated": true,
 			"txt": "垂直轴"
 		},
 		{
 			"id": "gridsetup.centervertically",
-			"machinetranslated": true,
 			"txt": "垂直居中"
 		},
 		{
 			"id": "gridsetup.pitchangle",
-			"machinetranslated": true,
 			"txt": "@+pitch@角度："
 		},
 		{
 			"id": "gridsetup.topmostpitchangle",
-			"machinetranslated": true,
-			"txt": "最顶级的@pitch@角度："
+			"txt": "最上方的@pitch@角度："
 		},
 		{
 			"id": "gridsetup.bottommostpitchangle",
-			"machinetranslated": true,
 			"txt": "最底部@pitch@角度："
 		},
 		{
 			"id": "gridsetup.orientation",
-			"machinetranslated": true,
 			"txt": "方向"
 		},
 		{
 			"id": "gridsetup.rollangle",
-			"machinetranslated": true,
 			"txt": "@+roll@角度"
 		},
 		{
 			"id": "gridsetup.dontchange",
-			"machinetranslated": true,
 			"txt": "不要更改"
 		},
 		{
 			"id": "gridsetup.setto",
-			"machinetranslated": true,
 			"txt": "设置"
 		},
 		{
 			"id": "gridsetup.adjustfov",
-			"machinetranslated": true,
 			"txt": "调整全景视野和投影以适应全景"
 		},
 		{
@@ -5882,92 +5333,74 @@
 		},
 		{
 			"id": "gridsetup.warn1image",
-			"machinetranslated": true,
 			"txt": "网格设置有 1 个图像；只会修改第一张图像。"
 		},
 		{
 			"id": "gridsetup.warnnumimage",
-			"machinetranslated": true,
 			"txt": "网格设置有 %0 图像；只会修改第一张 %0 图像。"
 		},
 		{
 			"id": "gridsetup.warnproject1image",
-			"machinetranslated": true,
 			"txt": "网格设置具有 %0 图像，但仅修改第一个图像。"
 		},
 		{
 			"id": "gridsetup.warndifnumimages",
-			"machinetranslated": true,
 			"txt": "网格设置具有 %0 图像，但只会修改第一张 %1 图像。"
 		},
 		{
 			"id": "gridsetup.errapplytoinvalidrange",
-			"machinetranslated": true,
 			"txt": "适用于图像：第二个数字不能小于第一个数字。"
 		},
 		{
 			"id": "gridsetup.erremptyproject",
-			"machinetranslated": true,
-			"txt": "当前的项目是空的；请先装入一些图像。"
+			"txt": "当前项目为空；请先加载一些图像。"
 		},
 		{
 			"id": "gridsetup.errtoofewimages",
-			"machinetranslated": true,
 			"txt": "应用于图像： %0 图像的指定范围大于实际图像数（%1）。"
 		},
 		{
 			"id": "gridsetup.erremptyrange",
-			"machinetranslated": true,
 			"txt": "指定了空的图像范围"
 		},
 		{
 			"id": "gridsetup.errwiderthan360byoverlap",
-			"machinetranslated": true,
 			"txt": "您的设置将导致全景宽度超过 360°。如果这是 360°全景，请启用“@gridsetup.stretch360@”复选框。否则，增加水平重叠百分比，使图像更加靠近。"
 		},
 		{
 			"id": "gridsetup.errwiderthan360byspacing",
-			"machinetranslated": true,
 			"txt": "您的设置将导致全景宽度超过 360°。如果这是 360°全景，请启用“@gridsetup.stretch360@”复选框。否则，减小水平间隔角度，使图像更加靠近。"
 		},
 		{
 			"id": "gridsetup.errhigherthan180byoverlap",
-			"machinetranslated": true,
 			"txt": "您的设置将导致全景高于 180°。增加垂直重叠百分比，使图像更加接近。"
 		},
 		{
 			"id": "gridsetup.errhigherthan180byspacing",
-			"machinetranslated": true,
 			"txt": "您的设置将导致全景宽度超过 180°。减小垂直间隔角度，使图像更加靠近。"
 		},
 		{
 			"id": "qtvrsettings.cubefacesize",
-			"machinetranslated": true,
 			"txt": "立方体面大小："
 		},
 		{
 			"id": "qtvrsettings.initial",
-			"machinetranslated": true,
 			"txt": "初始："
 		},
 		{
 			"id": "qtvrsettings.minimum",
-			"machinetranslated": true,
 			"txt": "最低："
 		},
 		{
 			"id": "qtvrsettings.maximum",
-			"machinetranslated": true,
 			"txt": "最大："
 		},
 		{
 			"id": "qtvrsettings.pan",
-			"machinetranslated": true,
 			"txt": "@+pan@："
 		},
 		{
 			"id": "qtvrsettings.tilt",
-			"machinetranslated": true,
 			"txt": "@+tilt@："
 		},
 		{
@@ -5976,43 +5409,35 @@
 		},
 		{
 			"id": "jpegquality",
-			"machinetranslated": true,
-			"txt": "JPEG 品质："
+			"txt": "JPEG 质量："
 		},
 		{
 			"id": "quality",
-			"machinetranslated": true,
-			"txt": "品质："
+			"txt": "质量："
 		},
 		{
 			"id": "qtvrsettings.initialwindowsize",
-			"machinetranslated": true,
 			"txt": "初始窗口大小："
 		},
 		{
 			"id": "activationdialog.activate",
-			"machinetranslated": true,
 			"txt": "激活 %0 "
 		},
 		{
 			"id": "activationdialog.heading",
-			"machinetranslated": true,
-			"txt": "请输入您的注册名称和注册码，启用您的 %0 副本："
+			"txt": "请输入您的注册名称和注册码，以激活您的 %0 副本："
 		},
 		{
 			"id": "activationdialog.tx1",
-			"machinetranslated": true,
 			"txt": "注册密钥包含在您购买 %0 许可证后发送给您的订单确认电子邮件中。"
 		},
 		{
 			"id": "activationdialog.txt2_mac",
-			"machinetranslated": true,
-			"txt": "请使用复制/粘贴输入许可证密钥：在电子邮件应用程序中选择密钥，然后按 Cmd + C.然后单击上面的文本字段并按 Cmd + V粘贴代码。"
+			"txt": "请使用复制/粘贴输入许可证密钥：在电子邮件应用程序中选择密钥并按 Cmd+C。然后点击上方文本字段并按 Cmd+V 粘贴代码。"
 		},
 		{
 			"id": "activationdialog.txt2_nonmac",
-			"machinetranslated": true,
-			"txt": "请使用复制/粘贴输入许可证密钥：在电子邮件应用程序中选择密钥，然后按 Ctrl + C.然后单击上面的文本字段并按 Ctrl + V粘贴代码。"
+			"txt": "请使用复制/粘贴输入许可证密钥：在电子邮件应用程序中选择密钥并按 Ctrl+C。然后点击上方文本字段并按 Ctrl+V 粘贴代码。"
 		},
 		{
 			"id": "activationdialog.txt3",
@@ -6021,57 +5446,46 @@
 		},
 		{
 			"id": "activationdialog.txt4",
-			"machinetranslated": true,
-			"txt": "启用需要互联网连接。如果未连接此电脑或遇到连接问题，请按@activateoffline@按钮。"
+			"txt": "激活需要互联网连接。如果此计算机未连接或遇到连接问题，请按@activateoffline@按钮。"
 		},
 		{
 			"id": "activationdialog.regname",
-			"machinetranslated": true,
 			"txt": "注册名称："
 		},
 		{
 			"id": "activationdialog.regkey",
-			"machinetranslated": true,
 			"txt": "注册密钥："
 		},
 		{
 			"id": "activationdialog.manageactivations",
-			"machinetranslated": true,
-			"txt": "管理启用"
+			"txt": "管理激活"
 		},
 		{
 			"id": "ptguiviewer.title",
-			"machinetranslated": true,
 			"txt": "@ptguiviewer@"
 		},
 		{
 			"id": "ptguiviewer.warnopenmanyfiles",
-			"machinetranslated": true,
 			"txt": "您正在尝试同时打开 %0 文件。你确定这是你想做的吗？"
 		},
 		{
 			"id": "ptguiviewer.openpanorama",
-			"machinetranslated": true,
 			"txt": "@txt.openpanorama@"
 		},
 		{
 			"id": "ptguiviewer.allfiles",
-			"machinetranslated": true,
 			"txt": "全部文件"
 		},
 		{
 			"id": "ptguiviewer.newwindow",
-			"machinetranslated": true,
 			"txt": "新窗口"
 		},
 		{
 			"id": "ptguiviewer.requiresopenglversion",
-			"machinetranslated": true,
 			"txt": "此应用程序需要 OpenGL %0.%1 ，您的系统似乎不支持。"
 		},
 		{
 			"id": "ptguiviewer.initopenglfailed",
-			"machinetranslated": true,
 			"txt": "无法初始化 OpenGL： %0 "
 		},
 		{
@@ -6080,7 +5494,6 @@
 		},
 		{
 			"id": "batchstitcher.menubar.closebatchstitcherwhenfinished",
-			"machinetranslated": true,
 			"txt": "完成后关闭@batchstitcher@"
 		},
 		{
@@ -6139,7 +5552,6 @@
 		},
 		{
 			"id": "gridsetup.order",
-			"machinetranslated": true,
 			"txt": "顺序："
 		},
 		{
@@ -6148,17 +5560,14 @@
 		},
 		{
 			"id": "cubicconverter.convertingmultiple",
-			"machinetranslated": true,
 			"txt": "转换 %1 的图像 %0 "
 		},
 		{
 			"id": "panoeditor.menubar.edit.centerpano",
-			"machinetranslated": true,
 			"txt": "使全景居中"
 		},
 		{
 			"id": "cubicconverter.cubefacenaming",
-			"machinetranslated": true,
 			"txt": "立方体面的命名"
 		},
 		{
@@ -6183,27 +5592,22 @@
 		},
 		{
 			"id": "batchstitcher.menubar.appendbatchlist",
-			"machinetranslated": true,
 			"txt": "附加批处理列表"
 		},
 		{
 			"id": "batchstitcher.askmergebatchlist.replace",
-			"machinetranslated": true,
 			"txt": "替换"
 		},
 		{
 			"id": "batchstitcher.askmergebatchlist.append",
-			"machinetranslated": true,
 			"txt": "附加"
 		},
 		{
 			"id": "batchstitcher.askmergebatchlist",
-			"machinetranslated": true,
 			"txt": "当前批处理列表尚未完全处理。是否要关闭当前批处理列表并将其替换为此列表？或者，此批处理列表中的项目是否应附加到当前批处理列表？"
 		},
 		{
 			"id": "batchbuilder.helptext.appendbatchlist",
-			"machinetranslated": true,
 			"format": "html",
 			"txt": "使用@menubar.file@ | @batchstitcher.menubar.appendbatchlist@合并两个批处理列表。所选批处理列表中的项目将附加到当前活动的批处理列表中。"
 		},
@@ -6230,7 +5634,6 @@
 		},
 		{
 			"id": "batchbuilder.deleteprojectswhendone",
-			"machinetranslated": true,
 			"txt": "批处理后删除项目文件"
 		},
 		{
@@ -6271,7 +5674,6 @@
 		},
 		{
 			"id": "lensdatabase.mirrored",
-			"machinetranslated": true,
 			"txt": "水平镜像"
 		},
 		{
@@ -6280,12 +5682,10 @@
 		},
 		{
 			"id": "panoramaeditor.sidebar.blendsettings.seamfinding",
-			"machinetranslated": true,
 			"txt": "寻找最佳接缝"
 		},
 		{
 			"id": "panoramaeditor.sidebar.blendsettings.blending",
-			"machinetranslated": true,
 			"txt": "跨接缝融合"
 		},
 		{
@@ -6294,17 +5694,14 @@
 		},
 		{
 			"id": "panoramaeditor.sidebar.blendsettings.redmaskmode.maketransparent",
-			"machinetranslated": true,
 			"txt": "使透明"
 		},
 		{
 			"id": "panoramaeditor.sidebar.blendsettings.redmaskmode.onlyforseamplacement",
-			"machinetranslated": true,
 			"txt": "仅用于调整接缝"
 		},
 		{
 			"id": "panoramaeditor.sidebar.blendsettings.fillholes",
-			"machinetranslated": true,
 			"txt": "填充空洞"
 		},
 		{
@@ -6317,22 +5714,18 @@
 		},
 		{
 			"id": "panoramaeditor.sidebar.blendsettings",
-			"machinetranslated": true,
-			"txt": "拼接设置"
+			"txt": "混合设置"
 		},
 		{
 			"id": "panoramaeditor.sidebar.blendsettings.exposurecompensation",
-			"machinetranslated": true,
 			"txt": "曝光补偿"
 		},
 		{
 			"id": "photometricsettings.optimizeexposure",
-			"machinetranslated": true,
 			"txt": "优化亮度："
 		},
 		{
 			"id": "photometricsettings.optimizeexposure.info.enabled",
-			"machinetranslated": true,
 			"txt": "图像的曝光时间未知。\n亮度将得到优化。"
 		},
 		{
@@ -6381,7 +5774,6 @@
 		},
 		{
 			"id": "panoramaeditor.sidebar.exposurefusionsettings.enable",
-			"machinetranslated": true,
 			"txt": "应用曝光融合"
 		},
 		{
@@ -6406,8 +5798,7 @@
 		},
 		{
 			"id": "panoramaeditor.sidebar.postprocess",
-			"machinetranslated": true,
-			"txt": "后期过程"
+			"txt": "后期处理"
 		},
 		{
 			"id": "txt.toningparameters",
@@ -6479,7 +5870,6 @@
 		},
 		{
 			"id": "panoramaeditor.sidebar.blendsettings.seamfindingprecision",
-			"machinetranslated": true,
 			"txt": "精确："
 		},
 		{
@@ -6500,7 +5890,7 @@
 		},
 		{
 			"id": "mainwindow.imageparamstab.linkedhelptxt",
-			"txt": "控制一组包围曝光图像中图像的位置是独立的还是链接的。选中此框可强制包围曝光的图像具有相同的@yaw@、@pitch@、@roll@和@viewpoint@参数。如果包围曝光的图像序列不是从三脚架拍摄的，请取消选中此框。"
+			"txt": "控制一组包围曝光图像中图像的位置是独立的还是链接的。选中此框可强制包围曝光序列中的图像具有相同的@yaw@、@pitch@、@roll@和@viewpoint@参数。这适用于包围曝光序列在三脚架上拍摄且图像完美对齐的情况。取消选中此框允许组中每张图像具有不同的位置。在后一种情况下，必须在组内图像之间提供控制点，优化器将单独对齐它们。位置链接的图像也共享同一蒙版。仅当项目包含链接图像组时，@mainwindow.imageparameters.linked@复选框才会显示。"
 		},
 		{
 			"id": "mainwindow.projectsettings.hdrdefaults.askmode",
@@ -6524,27 +5914,22 @@
 		},
 		{
 			"id": "panoramaeditor.sidebar.blendsettings.blender",
-			"machinetranslated": true,
-			"txt": "搅拌机："
+			"txt": "混合器："
 		},
 		{
 			"id": "panoramaeditor.sidebar.blendsettings.blender.zerooverlap",
-			"machinetranslated": true,
 			"txt": "零重叠"
 		},
 		{
 			"id": "panoramaeditor.sidebar.blendsettings.blender.multiband",
-			"machinetranslated": true,
 			"txt": "多频"
 		},
 		{
 			"id": "panoramaeditor.sidebar.blendsettings.blender.none",
-			"machinetranslated": true,
 			"txt": "不要融合"
 		},
 		{
 			"id": "activationdialog.heading_v2",
-			"machinetranslated": true,
 			"txt": "必须在此计算机上激活%0。请输入您的许可证密钥："
 		},
 		{
@@ -6557,19 +5942,16 @@
 		},
 		{
 			"id": "activationdialog.txt3_v2",
-			"machinetranslated": true,
 			"format": "html",
 			"txt": "如果您丢失了许可证密钥，<a href=0>请单击此处检索您的密钥。</a>"
 		},
 		{
 			"id": "licenseinfo.offlineactivation1_v2",
-			"machinetranslated": true,
 			"txt": "在另一台计算机上，转到%0\n\n在此输入以下代码和您的许可证密钥：\n\n"
 		},
 		{
 			"id": "licenseinfo.expiretxt_v2",
-			"machinetranslated": true,
-			"txt": "您的订阅将于%0到期。 "
+			"txt": "您的订阅将于 %0 到期。"
 		},
 		{
 			"id": "mainwindow.imageparamstab.helptext2",
@@ -6578,12 +5960,10 @@
 		},
 		{
 			"id": "proxysettings.button",
-			"machinetranslated": true,
 			"txt": "代理服务器..."
 		},
 		{
 			"id": "proxysettings.caption",
-			"machinetranslated": true,
 			"txt": "代理服务器"
 		},
 		{
@@ -6592,17 +5972,14 @@
 		},
 		{
 			"id": "proxysettings.proxyserverurl",
-			"machinetranslated": true,
 			"txt": "代理服务器网址："
 		},
 		{
 			"id": "proxysettings.proxyserverusername",
-			"machinetranslated": true,
 			"txt": "代理用户名："
 		},
 		{
 			"id": "proxysettings.proxyserverpassword",
-			"machinetranslated": true,
 			"txt": "代理密码："
 		},
 		{
@@ -6643,12 +6020,10 @@
 		},
 		{
 			"id": "licenseinfo.floating.singlecomputer",
-			"machinetranslated": true,
 			"txt": "您正在使用浮动许可证。 PTGui 一次可以在一台计算机上运行。"
 		},
 		{
 			"id": "licenseinfo.floating.multipleecomputers",
-			"machinetranslated": true,
 			"txt": "您正在使用浮动许可证。 PTGui 可以同时在 %0 台计算机上运行。"
 		},
 		{
@@ -6685,12 +6060,10 @@
 		},
 		{
 			"id": "panoramaeditor.sidebar.exposurefusionsettings.algorithm",
-			"machinetranslated": true,
 			"txt": "算法："
 		},
 		{
 			"id": "panoramaeditor.sidebar.exposurefusionsettings.algorithm.default",
-			"machinetranslated": true,
 			"txt": "默认"
 		},
 		{
@@ -6703,37 +6076,30 @@
 		},
 		{
 			"id": "detailviewer.sidebar.view.yaw",
-			"machinetranslated": true,
 			"txt": "@+yaw@："
 		},
 		{
 			"id": "detailviewer.sidebar.view.pitch",
-			"machinetranslated": true,
 			"txt": "@+pitch@："
 		},
 		{
 			"id": "detailviewer.sidebar.view.fov",
-			"machinetranslated": true,
 			"txt": "@panoramaeditor.sidebar.projectionpanel.fov@"
 		},
 		{
 			"id": "detailviewer.sidebar.view.diagonal",
-			"machinetranslated": true,
 			"txt": "（对角线）"
 		},
 		{
 			"id": "detailviewer.sidebar.view",
-			"machinetranslated": true,
-			"txt": "看法"
+			"txt": "视图"
 		},
 		{
 			"id": "detailviewer.sidebar.patch",
-			"machinetranslated": true,
 			"txt": "修补"
 		},
 		{
 			"id": "detailviewer.sidebar.extract",
-			"machinetranslated": true,
 			"txt": "快照"
 		},
 		{
@@ -6742,17 +6108,14 @@
 		},
 		{
 			"id": "detailviewer.sidebar.patch.createpatch",
-			"machinetranslated": true,
 			"txt": "创建补丁"
 		},
 		{
 			"id": "patchwindow",
-			"machinetranslated": true,
-			"txt": "补丁编辑器"
+			"txt": "修补编辑器"
 		},
 		{
 			"id": "patchwindow.openimage",
-			"machinetranslated": true,
 			"txt": "打开图像"
 		},
 		{
@@ -6761,17 +6124,14 @@
 		},
 		{
 			"id": "patchwindow.autosave",
-			"machinetranslated": true,
 			"txt": "自动保存"
 		},
 		{
 			"id": "patchwindow.saveimageas",
-			"machinetranslated": true,
 			"txt": "图像另存为"
 		},
 		{
 			"id": "patchwindow.saving",
-			"machinetranslated": true,
 			"txt": "保存..."
 		},
 		{
@@ -6780,7 +6140,6 @@
 		},
 		{
 			"id": "patchwindow.err.saveunsupportedfiletype",
-			"machinetranslated": true,
 			"txt": "不支持的文件类型：.%0。"
 		},
 		{
@@ -6789,84 +6148,68 @@
 		},
 		{
 			"id": "patchwindow.deletepoint",
-			"machinetranslated": true,
 			"txt": "删除此点"
 		},
 		{
 			"id": "patchwindow.deletepatch",
-			"machinetranslated": true,
 			"txt": "删除这个补丁"
 		},
 		{
 			"id": "patchwindow.addpoint",
-			"machinetranslated": true,
 			"txt": "添加一个点"
 		},
 		{
 			"id": "detailviewer.sidebar.onlyavailableinperspectivemode",
-			"machinetranslated": true,
 			"format": "html",
 			"txt": "此功能仅在<a href=0>透视模式</a>下可用。"
 		},
 		{
 			"id": "detailviewer.sidebar.patch.size",
-			"machinetranslated": true,
 			"txt": "尺寸："
 		},
 		{
 			"id": "detailviewer.sidebar.patch.resolution",
-			"machinetranslated": true,
-			"txt": "解决："
+			"txt": "分辨率："
 		},
 		{
 			"id": "detailviewer.sidebar.patch.format",
-			"machinetranslated": true,
 			"txt": "格式："
 		},
 		{
 			"id": "detailviewer.sidebar.patch.saveas.auto",
-			"machinetranslated": true,
 			"txt": "保存在项目文件夹中"
 		},
 		{
 			"id": "detailviewer.sidebar.patch.saveas.custom",
-			"machinetranslated": true,
 			"txt": "选择位置..."
 		},
 		{
 			"id": "detailviewer.sidebar.patch.notavailableinblendplanemode",
-			"machinetranslated": true,
 			"format": "html",
 			"txt": "使用混合平面时此功能不可用。<a href=0>禁用混合平面。</a>"
 		},
 		{
 			"id": "patchwindow.mode.patch",
-			"machinetranslated": true,
 			"txt": "修补"
 		},
 		{
 			"id": "patchwindow.mode.cut",
-			"machinetranslated": true,
-			"txt": "切"
+			"txt": "剪切"
 		},
 		{
 			"id": "fileformatsettings.alpha.withalpha",
-			"machinetranslated": true,
-			"txt": "与阿尔法"
+			"txt": "含 Alpha"
 		},
 		{
 			"id": "fileformatsettings.jpeg2000.compressiontxt",
-			"machinetranslated": true,
 			"txt": "%0x 压缩"
 		},
 		{
 			"id": "fileformatsettings.jpeg2000.lossless",
-			"machinetranslated": true,
-			"txt": "无损的"
+			"txt": "无损"
 		},
 		{
 			"id": "fileformatsettings.jpeg2000.compressionlabel",
-			"machinetranslated": true,
 			"txt": "压缩："
 		},
 		{
@@ -6899,12 +6242,10 @@
 		},
 		{
 			"id": "trialversion.trystandard",
-			"machinetranslated": true,
 			"txt": "尝试 PTGui（标准版）"
 		},
 		{
 			"id": "trialversion.trypro",
-			"machinetranslated": true,
 			"txt": "尝试 PTGui Pro"
 		},
 		{
@@ -6925,7 +6266,6 @@
 		},
 		{
 			"id": "panoramaeditor.sidebar.postprocess.whitebalance.auto",
-			"machinetranslated": true,
 			"txt": "自动的"
 		},
 		{
@@ -7007,13 +6347,11 @@
 		},
 		{
 			"id": "fileformatsettings.exrzipcompressionlevel",
-			"machinetranslated": true,
-			"txt": "ZIP压缩级别："
+			"txt": "ZIP 压缩级别："
 		},
 		{
 			"id": "fileformatsettings.exrdwacompressionlevel",
-			"machinetranslated": true,
-			"txt": "DWA压缩级别："
+			"txt": "DWA 压缩级别："
 		},
 		{
 			"id": "txt.viewlicense",
@@ -7054,43 +6392,35 @@
 		},
 		{
 			"id": "batchbuilder.generatingproject",
-			"machinetranslated": true,
 			"txt": "生成项目文件"
 		},
 		{
 			"id": "panoramaeditor.sidebar.hdrpostprocess",
-			"machinetranslated": true,
 			"txt": "HDR 曝光"
 		},
 		{
 			"id": "panoramaeditor.sidebar.hdrpostprocess.exposurereference",
-			"machinetranslated": true,
 			"txt": "参考："
 		},
 		{
 			"id": "panoramaeditor.sidebar.hdrpostprocess.exposurereference.middle",
-			"machinetranslated": true,
 			"txt": "中曝光"
 		},
 		{
 			"id": "panoramaeditor.sidebar.hdrpostprocess.exposurereference.brightest",
-			"machinetranslated": true,
 			"txt": "最亮曝光"
 		},
 		{
 			"id": "panoramaeditor.sidebar.hdrpostprocess.exposurereference.absolute",
-			"machinetranslated": true,
 			"txt": "绝对曝光"
 		},
 		{
 			"id": "panoramaeditor.sidebar.hdrpostprocess.absexposure",
-			"machinetranslated": true,
 			"txt": "EV @@100ISO："
 		},
 		{
 			"id": "panoramaeditor.sidebar.hdrpostprocess.exposureoffset",
-			"machinetranslated": true,
-			"txt": "抵消："
+			"txt": "偏移："
 		},
 		{
 			"id": "panoramaeditor.sidebar.hdrpostprocess.exposurereference.absolute.helptext",
@@ -7099,76 +6429,62 @@
 		},
 		{
 			"id": "panoramaeditor.toolbar.dropper",
-			"machinetranslated": true,
 			"txt": "颜色采样器"
 		},
 		{
 			"id": "panoramaeditor.dropper.setwhitebalance",
-			"machinetranslated": true,
 			"txt": "调整白平衡（单击灰色区域）"
 		},
 		{
 			"id": "panoramaeditor.dropper.adjusthdrexposure",
-			"machinetranslated": true,
 			"txt": "调整 HDR 曝光"
 		},
 		{
 			"id": "panoramaeditor.dropper.adjusthdrexposure.label",
-			"machinetranslated": true,
 			"txt": "调整 HDR 曝光，使该像素具有亮度："
 		},
 		{
 			"id": "panoramaeditor.dropper.selectnonblack",
-			"machinetranslated": true,
 			"txt": "这是一个黑色像素。请选择一个非黑色像素。"
 		},
 		{
 			"id": "panoramapreviewsettingspanel.previewmode",
-			"machinetranslated": true,
-			"txt": "展示："
+			"txt": "显示："
 		},
 		{
 			"id": "panoramapreviewsettingspanel.previewmode.ldr",
-			"machinetranslated": true,
-			"txt": "LDR全景图"
+			"txt": "LDR 全景图"
 		},
 		{
 			"id": "panoramapreviewsettingspanel.previewmode.hdr",
-			"machinetranslated": true,
-			"txt": "HDR全景"
+			"txt": "HDR 全景图"
 		},
 		{
 			"id": "panoramaeditor.sidebar.hdrpostprocess.warnifldrpreview",
-			"machinetranslated": true,
 			"format": "html",
 			"txt": "这些设置仅影响 HDR 输出。您当前正在查看 LDR 全景图。<a href=\"0\">切换到 HDR 预览</a>"
 		},
 		{
 			"id": "panoramaeditor.sidebar.warnifhdrpreview",
-			"machinetranslated": true,
 			"format": "html",
 			"txt": "这些设置仅影响 LDR 输出。您当前正在查看 HDR 全景图。<a href=\"0\">切换到 LDR 预览</a>"
 		},
 		{
 			"id": "panoramaeditor.sidebar.warnifpreviewexposure",
-			"machinetranslated": true,
 			"format": "html",
 			"txt": "预览曝光调整已激活：<a href=\"0\">重置</a>"
 		},
 		{
 			"id": "panoramaeditor.sidebar.whitebalance",
-			"machinetranslated": true,
 			"txt": "白平衡"
 		},
 		{
 			"id": "linkbracketcustomdialog.caption.prefix",
-			"machinetranslated": true,
 			"txt": "链接组："
 		},
 		{
 			"id": "linkbracketcustomdialog.caption.postfix",
-			"machinetranslated": true,
-			"txt": "括号内的图像"
+			"txt": "包围曝光图像"
 		},
 		{
 			"id": "linkbracketcustomdialog.err.toofewimages",
@@ -7188,7 +6504,6 @@
 		},
 		{
 			"id": "licenseinfo.upgradedtopro",
-			"machinetranslated": true,
 			"txt": "您的许可证已升级到 PTGui Pro。要激活 Pro 功能，PTGui 需要重新启动。您想保存您的工作并立即重新启动 PTGui 吗？"
 		},
 		{
@@ -7197,7 +6512,6 @@
 		},
 		{
 			"id": "panoramaeditor.sidebar.blendsettings.seamfindingprecision.warnslow",
-			"machinetranslated": true,
 			"txt": "在 1/%0 处寻找接缝需要很长时间！"
 		},
 		{
@@ -7218,7 +6532,6 @@
 		},
 		{
 			"id": "panoramaeditor.sidebar.warnifforcedhdrpreview",
-			"machinetranslated": true,
 			"format": "html",
 			"txt": "这些设置仅影响 LDR 输出。您当前正在查看 HDR 全景图。"
 		},
@@ -7228,27 +6541,22 @@
 		},
 		{
 			"id": "detailviewer.sidebar.patch.openin",
-			"machinetranslated": true,
-			"txt": "编辑补丁图像："
+			"txt": "在以下位置编辑修补图像："
 		},
 		{
 			"id": "detailviewer.sidebar.patch.openin.patcheditor",
-			"machinetranslated": true,
 			"txt": "PTGui @patchwindow@"
 		},
 		{
 			"id": "detailviewer.sidebar.patch.openin.application",
-			"machinetranslated": true,
 			"txt": "应用："
 		},
 		{
 			"id": "detailviewer.sidebar.patch.openin.explorer",
-			"machinetranslated": true,
 			"txt": "打开文件所在位置"
 		},
 		{
 			"id": "detailviewer.sidebar.patch.wrongblendsettings",
-			"machinetranslated": true,
 			"format": "html",
 			"txt": "仅当使用 @panoramaeditor.sidebar.blendsettings.blender.zerooverlap@ 混合器并启用曝光补偿时，此功能才可用。<a href=0>立即修复。</a>"
 		},
@@ -7258,7 +6566,6 @@
 		},
 		{
 			"id": "dng.outputwillbeover4gb",
-			"machinetranslated": true,
 			"txt": "DNG 输出文件将大于 4 GB。许多应用程序无法加载大于 4 GB 的 DNG 文件，并且可能会报告文件已损坏。"
 		},
 		{
@@ -7267,7 +6574,6 @@
 		},
 		{
 			"id": "about.thirdpartyinfo",
-			"machinetranslated": true,
 			"txt": "致谢和第三方许可信息："
 		},
 		{
@@ -7308,17 +6614,14 @@
 		},
 		{
 			"id": "fileformatsettings.effort",
-			"machinetranslated": true,
-			"txt": "努力："
+			"txt": "压缩强度："
 		},
 		{
 			"id": "fileformatsettings.effort.fastest",
-			"machinetranslated": true,
 			"txt": "%0（最快）"
 		},
 		{
 			"id": "fileformatsettings.effort.best",
-			"machinetranslated": true,
 			"txt": "%0（最小文件）"
 		},
 		{
@@ -7341,12 +6644,10 @@
 		},
 		{
 			"id": "batchstitcher.menubar.closebatchlist",
-			"machinetranslated": true,
 			"helptext": "关闭当前批处理列表并清除项目列表。"
 		},
 		{
 			"id": "batchstitcher.menubar.autosavebatchlist",
-			"machinetranslated": true,
 			"helptext": "自动保持当前批处理列表文件为最新。"
 		},
 		{
@@ -7355,22 +6656,18 @@
 		},
 		{
 			"id": "mainwindow.maskmenu.fill",
-			"machinetranslated": true,
 			"helptext": "使用填充工具填充封闭区域。"
 		},
 		{
 			"id": "mainwindow.maskmenu.draw",
-			"machinetranslated": true,
 			"helptext": "使用画笔工具绘制线条。按住 Shift 键的同时单击以绘制直线。"
 		},
 		{
 			"id": "mainwindow.maskmenu.eraser",
-			"machinetranslated": true,
 			"helptext": "橡皮擦 - 这将删除红色和绿色绘制区域。"
 		},
 		{
 			"id": "mainwindow.maskmenu.red",
-			"machinetranslated": true,
 			"helptext": "涂上红色。红色绘制区域不会用于混合全景图。"
 		},
 		{
@@ -7379,27 +6676,22 @@
 		},
 		{
 			"id": "menubar.images.unlinkall",
-			"machinetranslated": true,
 			"helptext": "取消链接任何链接的图像。"
 		},
 		{
 			"id": "menubar.images.linkbracketed",
-			"machinetranslated": true,
-			"helptext": "检测括号内的曝光并将它们链接起来。"
+			"helptext": "检测包围曝光并链接它们。"
 		},
 		{
 			"id": "menubar.images.reverseorder",
-			"machinetranslated": true,
 			"helptext": "颠倒图像的顺序。"
 		},
 		{
 			"id": "menubar.images.sort",
-			"machinetranslated": true,
 			"helptext": "按字母文件名顺序对所有图像进行排序。"
 		},
 		{
 			"id": "menubar.images.removeexcluded",
-			"machinetranslated": true,
 			"helptext": "从全景图中删除所有标记为已排除的图像。"
 		},
 		{
@@ -7412,27 +6704,22 @@
 		},
 		{
 			"id": "menubar.images.include",
-			"machinetranslated": true,
 			"helptext": "在全景图中包含所选图像。"
 		},
 		{
 			"id": "menubar.images.exclude",
-			"machinetranslated": true,
 			"helptext": "从全景图中排除所选图像。"
 		},
 		{
 			"id": "menubar.images.moveup",
-			"machinetranslated": true,
 			"helptext": "在列表中向上移动所选图像。或者可以通过在列表中拖动图像来重新排列图像。"
 		},
 		{
 			"id": "menubar.images.movedown",
-			"machinetranslated": true,
 			"helptext": "在列表中向下移动所选图像。或者可以通过在列表中拖动图像来重新排列图像。"
 		},
 		{
 			"id": "menubar.images.opencontainingfolder",
-			"machinetranslated": true,
 			"helptext": "打开包含所选源图像的文件夹。"
 		},
 		{
@@ -7441,32 +6728,26 @@
 		},
 		{
 			"id": "menubar.images.remove",
-			"machinetranslated": true,
 			"helptext": "从项目中删除选定的图像。"
 		},
 		{
 			"id": "addimages",
-			"machinetranslated": true,
 			"helptext": "将源图像添加到项目中。"
 		},
 		{
 			"id": "lensdatabase",
-			"machinetranslated": true,
 			"helptext": "镜头数据库可用于保存和检索自定义镜头参数。"
 		},
 		{
 			"id": "cameradatabase",
-			"machinetranslated": true,
 			"helptext": "相机数据库可用于保存 PTGui 无法自动识别的相机的传感器尺寸。"
 		},
 		{
 			"id": "ptguiviewer",
-			"machinetranslated": true,
 			"helptext": "PTGui Viewer 是一个用于查看球形全景图的应用程序。"
 		},
 		{
 			"id": "batchbuilder",
-			"machinetranslated": true,
 			"helptext": "批处理生成器可用于为包含图像的文件夹自动生成项目文件。"
 		},
 		{
@@ -7475,7 +6756,6 @@
 		},
 		{
 			"id": "numericaltransform",
-			"machinetranslated": true,
 			"helptext": "按给定角度移动或旋转全景图。"
 		},
 		{
@@ -7488,12 +6768,10 @@
 		},
 		{
 			"id": "menubar.tools.openfolder.projectfolder",
-			"machinetranslated": true,
 			"helptext": "打开包含当前项目文件的文件夹。"
 		},
 		{
 			"id": "menubar.tools.openfolder.sourceimages",
-			"machinetranslated": true,
 			"helptext": "打开包含当前项目的源图像的文件夹。"
 		},
 		{
@@ -7502,17 +6780,14 @@
 		},
 		{
 			"id": "menubar.tools.philosphere",
-			"machinetranslated": true,
 			"helptext": "将球形全景图打印，切割并粘合成“菲洛球”。"
 		},
 		{
 			"id": "menubar.tools.converttocubic",
-			"machinetranslated": true,
 			"helptext": "将球形全景转换为 6 个立方体面。"
 		},
 		{
 			"id": "menubar.tools.publishtowebsite",
-			"machinetranslated": true,
 			"helptext": "创建一个网页，用于交互式查看球形全景图。"
 		},
 		{
@@ -7521,57 +6796,46 @@
 		},
 		{
 			"id": "menubar.project.preview",
-			"machinetranslated": true,
 			"helptext": "创建全景图的低分辨率预览，并在全景查看器中打开此图像。"
 		},
 		{
 			"id": "menubar.project.initializeandoptimize",
-			"machinetranslated": true,
 			"helptext": "重置镜头参数并重新初始化所有源图像的位置。"
 		},
 		{
 			"id": "menubar.project.aligntogrid",
-			"machinetranslated": true,
 			"helptext": "将当前项目中的图像排列为行和列的网格。"
 		},
 		{
 			"id": "menubar.controlpoints.deleteworst",
-			"machinetranslated": true,
 			"helptext": "删除那些具有高于平均值错误的控制点。"
 		},
 		{
 			"id": "menubar.controlpoints.generateforoverlapping",
-			"machinetranslated": true,
 			"helptext": "为所有重叠图像对生成控制点。图像应该已经大致对齐。"
 		},
 		{
 			"id": "panoeditor.menubar.edit.level",
-			"machinetranslated": true,
-			"helptext": "调整全景图。这需要@cptable.verticalline@或@cptable.horizontalline@类别的控制点。"
+			"helptext": "使全景图水平。这需要@cptable.verticalline@或@cptable.horizontalline@类别的控制点。"
 		},
 		{
 			"id": "menubar.controlpoints.generate",
-			"machinetranslated": true,
 			"helptext": "分析项目中的所有图像并生成控制点。"
 		},
 		{
 			"id": "menubar.view.previousblendplane",
-			"machinetranslated": true,
 			"helptext": "在一组包围曝光中切换到之前的曝光。"
 		},
 		{
 			"id": "menubar.view.nextblendplane",
-			"machinetranslated": true,
 			"helptext": "在一组包围曝光中切换到下一次曝光。"
 		},
 		{
 			"id": "mainwindow.file.import.papywizard",
-			"machinetranslated": true,
 			"helptext": "根据 Papywizard XML 规范中的文件定位图像。"
 		},
 		{
 			"id": "menubar.file.saveprojectas",
-			"machinetranslated": true,
 			"helptext": "以不同的名称保存当前项目。"
 		},
 		{
@@ -7580,27 +6844,22 @@
 		},
 		{
 			"id": "menubar.file.export.ptgui10project",
-			"machinetranslated": true,
 			"helptext": "将当前项目输出为 PTGui 10 项目文件"
 		},
 		{
 			"id": "menubar.file.makedefault",
-			"machinetranslated": true,
 			"helptext": "使用当前项目设置作为新项目的默认设置"
 		},
 		{
 			"id": "menubar.file.resetdefault",
-			"machinetranslated": true,
 			"helptext": "恢复 PTGui 的原始默认项目设置。这将删除@menubar.file.makedefault@所做的任何自定义设置。"
 		},
 		{
 			"id": "menubar.file.newinstance",
-			"machinetranslated": true,
 			"helptext": "在新窗口中启动新项目，而不关闭当前项目"
 		},
 		{
 			"id": "menubar.file.closewindow",
-			"machinetranslated": true,
 			"helptext": "关闭此窗口"
 		},
 		{
@@ -7609,13 +6868,11 @@
 		},
 		{
 			"id": "mainwindow.toolbar.newproject",
-			"machinetranslated": true,
 			"label": "@menubar.file.newproject@",
 			"helptext": "启动一个新的空白 PTGui 项目。"
 		},
 		{
 			"id": "mainwindow.toolbar.openproject",
-			"machinetranslated": true,
 			"label": "@menubar.file.openproject@",
 			"helptext": "打开现有的 PTGui 项目。"
 		},
@@ -7632,42 +6889,34 @@
 		},
 		{
 			"id": "mainwindow.toolbar.undo",
-			"machinetranslated": true,
 			"label": "@menubar.edit.undo@"
 		},
 		{
 			"id": "mainwindow.toolbar.redo",
-			"machinetranslated": true,
 			"label": "@menubar.edit.redo@"
 		},
 		{
 			"id": "mainwindow.toolbar.preferences",
-			"machinetranslated": true,
 			"label": "参数设置"
 		},
 		{
 			"id": "mainwindow.toolbar.options",
-			"machinetranslated": true,
 			"label": "选项（Ctrl+P）"
 		},
 		{
 			"id": "mainwindow.toolbar.zoomin",
-			"machinetranslated": true,
 			"label": "@menubar.view.zoomin@"
 		},
 		{
 			"id": "mainwindow.toolbar.zoomout",
-			"machinetranslated": true,
 			"label": "@menubar.view.zoomout@"
 		},
 		{
 			"id": "mainwindow.toolbar.previousimage",
-			"machinetranslated": true,
 			"label": "@menubar.view.previousimage@"
 		},
 		{
 			"id": "mainwindow.toolbar.nextimage",
-			"machinetranslated": true,
 			"label": "@menubar.view.nextimage@"
 		},
 		{
@@ -7677,7 +6926,6 @@
 		},
 		{
 			"id": "mainwindow.toolbar.controlpointstable",
-			"machinetranslated": true,
 			"label": "@controlpointstable@",
 			"helptext": "这将列出当前项目中的所有控制点。"
 		},
@@ -7688,31 +6936,26 @@
 		},
 		{
 			"id": "mainwindow.toolbar.help",
-			"machinetranslated": true,
 			"label": "@help@",
 			"helptext": "显示当前所选选项卡的帮助信息。"
 		},
 		{
 			"id": "projectassistant.loadimages",
-			"machinetranslated": true,
 			"helptext": "加载全景图的源图像。",
 			"morehelptext": "<br><br> PTGui 可以拼接由多行图像组成的全景图。只需一次加载所有源图像，PTGui 将找出它们重叠的方式。<br><br>另见： <a href='helppage:mainwindow.projectassistant'>@mainwindow.tabs.projectassistant@</a>"
 		},
 		{
 			"id": "projectassistant.images",
-			"machinetranslated": true,
 			"helptext": "全景图的源图像。",
 			"morehelptext": "<br><br>要添加，删除或重新排列源图像，请转到@mainwindow.tabs.sourceimages@选项卡。<br><br>标有红叉的图像将从全景中排除。 <optional product='pro'>标有“VP”的图像启用了视点校正。</optional>右键点击<optional platform='mac'>（或按住Ctrl键并单击）</optional>在上下文菜单的图像上更改这些设置。<br><br>另见： <a href='helppage:mainwindow.projectassistant'>@mainwindow.tabs.projectassistant@</a>"
 		},
 		{
 			"id": "projectassistant.rotateccw",
-			"machinetranslated": true,
 			"label": "逆时针旋转",
 			"helptext": "逆时针旋转所有图像。如果图像已经对齐，则会将全景图旋转为整体。"
 		},
 		{
 			"id": "projectassistant.rotatecw",
-			"machinetranslated": true,
 			"label": "顺时针旋转",
 			"helptext": "顺时针旋转所有图像。如果图像已经对齐，则会将全景图旋转为整体。"
 		},
@@ -7722,7 +6965,6 @@
 		},
 		{
 			"id": "projectassistant.alignimages",
-			"machinetranslated": true,
 			"helptext": "设置全景图。",
 			"morehelptext": "<br><br> PTGui 将首先分析所有图像并将控制点放置在图像上的相同特征上。接下来，优化器使用控制点来对齐图像。PTGui 还将为全景图选择合适的投影并调整视野。<br><br>另见： <a href='helppage:mainwindow.projectassistant'>@mainwindow.tabs.projectassistant@</a>"
 		},
@@ -7738,23 +6980,19 @@
 		},
 		{
 			"id": "lensparams.globallens.add",
-			"machinetranslated": true,
 			"label": "添加镜头配置文件"
 		},
 		{
 			"id": "lensparams.globallens.remove",
-			"machinetranslated": true,
 			"label": "删除所选镜头配置文件"
 		},
 		{
 			"id": "lensparams.lenstype",
-			"machinetranslated": true,
-			"helptext": "镜头类别。在大多数情况下，PTGui 可以通过检查图像的 EXIF 数据自动确定。",
+			"helptext": "镜头类型。在大多数情况下，PTGui 可以通过检查图像的 EXIF 数据自动确定。",
 			"morehelptext": "<br><br><b>@+projection.rectilinear@：</b>最常见的镜头类别；场景中的直线在图像中显示为直线。<br><br><b>@+projection.cylindrical@：</b>可用于将圆柱全景图像加载为源图像。<br><br><b>@+projection.fisheye@</b>镜头通常具有比普通镜头更宽的视野，但是直线在图像中被投影为曲线。 <b>@projection.circularfisheye@</b>镜头具有180°或更大的视野，并投射出不覆盖整个框架的圆形图像。 <b>@projection.fullframefisheye@</b>镜头具有较窄的视野并覆盖整个图像。<br><br><b>@+projection.equirectangular@：</b>将已缝合的球形全景图加载为源图像。"
 		},
 		{
 			"id": "lensparams.lensdatabasebutton",
-			"machinetranslated": true,
 			"helptext": "镜头参数可以保存到镜头数据库中以备将来使用。",
 			"morehelptext": "<br><br>镜头数据库最初是空的，您可以使用它来保存您自己的设置。每个记录包括镜头参数，shift和@shear@参数以及裁剪参数。使用@save@将当前选定的设置保存到镜头数据库，或使用@load@从镜头数据库中读取设置。<br><br>镜头数据库记录可以与当前加载的图像的 EXIF 数据相关联，以便在加载类似图像时自动应用镜头设置。这可以通过单击下面的 EXIF 按钮来完成。<br><br>可以通过@menubar.tools@菜单打开镜头数据库。另请参阅： <a href='helppage:lensdatabase'>使用镜头数据库</a>"
 		},
@@ -7787,13 +7025,11 @@
 		},
 		{
 			"id": "lensparams.shear",
-			"machinetranslated": true,
-			"helptext": "@+shear@：仅用于平板扫描仪；对于相机图像，应将其设置为0。",
+			"helptext": "@+shear@：仅用于平板扫描仪；对于相机图像应设置为 0。",
 			"morehelptext": "<br><br>狭缝扫描仪可能在扫描轴和移动轴之间呈现出一些非垂直性。这些值可以弥补这一点。如果启用了@shear@优化，则由优化程序确定。"
 		},
 		{
 			"id": "lensparams.reset",
-			"machinetranslated": true,
 			"helptext": "将所有镜头校正参数重置为0。"
 		},
 		{
@@ -7813,25 +7049,21 @@
 		},
 		{
 			"id": "lensparams.individualparams",
-			"machinetranslated": true,
 			"helptext": "覆盖单个图像的上述设置。",
 			"morehelptext": "<br><br>默认情况下，相同的镜头，移位，@shear@和裁剪设置用于项目中的所有图像。选中下面的复选框以对各个图像使用不同的设置。然后，可以在@mainwindow.tabs.imageparameters@选项卡中设置各个参数。优化器将单独优化所选参数。<br><br>如果定义了多个镜头配置文件，则可以为每个源图像选择镜头配置文件。"
 		},
 		{
 			"id": "portraitorientation.shutterup",
-			"machinetranslated": true,
-			"helptext": "相机纵向：逆时针",
+			"helptext": "相机竖拍方向：逆时针",
 			"morehelptext": "<br><br>如果项目包含纵向和横向的混合图像，PTGui 需要知道相机从横向旋转到纵向的方向。这使得镜头偏移校正以适当的方向应用。<br><br>如果相机从横向逆时针旋转到纵向，请选择此按钮。在大多数相机上，快门按钮位于镜头上方（如图标所示）。"
 		},
 		{
 			"id": "portraitorientation.shutterdown",
-			"machinetranslated": true,
-			"helptext": "相机纵向：顺时针",
+			"helptext": "相机竖拍方向：顺时针",
 			"morehelptext": "<br><br>如果项目包含纵向和横向的混合图像，PTGui 需要知道相机从横向旋转到纵向的方向。这使得镜头偏移校正以适当的方向应用。<br><br>如果相机从横向顺时针旋转到纵向，请选择此按钮。在大多数相机上，快门按钮位于镜头下方（如图标所示）。"
 		},
 		{
 			"id": "croptab.cropcoords",
-			"machinetranslated": true,
 			"helptext": "裁剪区域的坐标（以像素为单位）。"
 		},
 		{
@@ -7840,36 +7072,30 @@
 		},
 		{
 			"id": "croptab.individualcrop",
-			"machinetranslated": true,
 			"helptext": "对此图像使用单独的裁剪偏移。",
 			"morehelptext": "<br><br>默认情况下，所有图像（或使用相同镜头配置文件的所有图像）将使用相同的裁剪设置。通过选中此框，可以移动该特定图像的裁剪区域。这对于多摄象机装备和单次360摄象机非常有用，其中每个镜头将具有相同的投影但具有不同的偏移。<br><br>这只会<b>移动</b>种植区域；它的大小仍然与其他图像相同。如果需要不同尺寸的裁剪，请为此图像使用单独的镜头参数。<br><br>对应于@mainwindow.tabs.lenssettings@选项卡中“@mainwindow.lensparams.useindividual@”部分中的“裁剪”复选框。"
 		},
 		{
 			"id": "croptab.nocrop",
-			"machinetranslated": true,
 			"helptext": "重置裁剪区域以覆盖整个图像。"
 		},
 		{
 			"id": "rotatetoolbar.counterclockwise",
-			"machinetranslated": true,
 			"label": "逆时针旋转",
 			"helptext": "仅影响此处显示的图像，全景图不会更改。"
 		},
 		{
 			"id": "rotatetoolbar.auto",
-			"machinetranslated": true,
 			"label": "自动旋转",
 			"helptext": "启用后，此处显示的图像旋转与全景图像的方向匹配。"
 		},
 		{
 			"id": "rotatetoolbar.clockwise",
-			"machinetranslated": true,
 			"label": "顺时针旋转",
 			"helptext": "仅影响此处显示的图像，全景图不会更改。"
 		},
 		{
 			"id": "zoomtoolbar.zoomlevel",
-			"machinetranslated": true,
 			"label": "缩放级别",
 			"helptext": "输入百分比（100％是原始大小），或“@zoomfit@”完全缩小。",
 			"morehelptext": "<br><br><optional platform='windows'>也可以使用鼠标滚轮进行缩放。</optional><optional platform='mac'>也可以使用触控板上的两个手指轻扫来完成缩放。</optional>并且有几个用于缩放的键盘快捷键（参见@menubar.view@菜单）"
@@ -7901,19 +7127,16 @@
 		},
 		{
 			"id": "masktoolbar.fill",
-			"machinetranslated": true,
 			"label": "@mainwindow.maskmenu.fill@ [F]",
 			"helptext": "在封闭区域内单击以填充当前选定的颜色。"
 		},
 		{
 			"id": "masktoolbar.onepane",
-			"machinetranslated": true,
 			"label": "显示一个窗格",
 			"helptext": "仅显示单个图像。"
 		},
 		{
 			"id": "masktoolbar.twopanes",
-			"machinetranslated": true,
 			"label": "显示两个窗格",
 			"helptext": "同时显示两个图像。"
 		},
@@ -7924,7 +7147,6 @@
 		},
 		{
 			"id": "masktoolbar.radius",
-			"machinetranslated": true,
 			"label": "画笔尺寸[K / L]",
 			"helptext": "绘图工具的画笔大小。"
 		},
@@ -7941,9 +7163,8 @@
 		},
 		{
 			"id": "maskimagetoolbar.clearmask",
-			"machinetranslated": true,
 			"label": "@clearmask@",
-			"helptext": "删除所有掩蔽。"
+			"helptext": "清除所有蒙版。"
 		},
 		{
 			"id": "maskimagetoolbar.copymask",
@@ -7952,21 +7173,18 @@
 		},
 		{
 			"id": "maskimagetoolbar.pastemask",
-			"machinetranslated": true,
 			"label": "@pastemask@",
 			"helptext": "从剪贴板粘贴蒙版。",
 			"morehelptext": "首先使用@copymask@功能将蒙板复制到剪贴板。<br><br>可以同时将相同的蒙版粘贴到多个图像：转到@mainwindow.tabs.sourceimages@选项卡，选择图像并从右键单击上下文菜单中选择@pastemask@。<br><br>粘贴的蒙版与任何现有蒙版合并。如果必须完全更换现有的面罩，请先使用@clearmask@功能将其取下。"
 		},
 		{
 			"id": "cptoolbar.autojump",
-			"machinetranslated": true,
 			"label": "@menubar.controlpoints.autojump@",
 			"helptext": "放置控制点对的第一个点后，将鼠标光标移动到另一个图像。",
 			"morehelptext": "基于两个图像中的其他控制点的位置来计算鼠标移动到的确切位置。因此，此功能仅在此对图像的两个或更多现有控制点之后才起作用。"
 		},
 		{
 			"id": "cptoolbar.autoadd",
-			"machinetranslated": true,
 			"label": "@menubar.controlpoints.autoadd@",
 			"helptext": "放置第一个点后，尝试自动添加第二个点。",
 			"morehelptext": "现有控制点用于计算匹配点的近似预期位置。因此，此功能仅在此对图像的两个或更多现有控制点之后才起作用。然后通过分析图像确定确切的位置。"
@@ -7978,7 +7196,6 @@
 		},
 		{
 			"id": "cptoolbar.autocontrast",
-			"machinetranslated": true,
 			"label": "@menubar.controlpoints.autocontrast@",
 			"helptext": "在浮动缩放器窗口中增加图像对比度。"
 		},
@@ -7989,20 +7206,17 @@
 		},
 		{
 			"id": "cptab.cptypetoadd",
-			"machinetranslated": true,
-			"helptext": "接下来要添加的控制点类别。",
+			"helptext": "接下来要添加的控制点类型。",
 			"morehelptext": "<br><br><b>@cptable.normal@：</b>常规控制点，用于对齐图像。优化器调整图像的位置和其他参数，使得两个源图像中的相同控制点在最终全景图中重合。仅当左侧和右侧窗格中显示不同的图像时，才能添加正常控制点。<br><br><b>@cptable.horizontalline@和@cptable.verticalline@：</b>这些是一种特殊类别的控制点，用于调平全景图。通常，在左侧和右侧窗格中选择相同的图像。在垂直或水平特征的左窗格中单击，然后在右窗格中单击同一特征上的其他位置。<br><br>优化器（以及全景编辑窗口中的@panoeditor.menubar.edit.level@功能）将调整全景图，使得两个点在全景投影中形成垂直或水平线。<br><br>因为equirectangular投影通常用于球形全景，并且因为equirectangular投影仅保留所有直线垂直线但不保留水平线，通常应使用@cptable.verticalline@类别控制点来平整全景。 @cptable.horizontalline@控制点应仅放置在场景的地平线上（例如，在海景全景图中），因为地平线是唯一的水平线，在等长的全景中保持笔直。<br><br><b>@cptable.newline@：</b> PTGui 还支持通用直线型控制点。优化器将尝试对齐图像，使得这些点在全景图中形成直线（不一定是水平或垂直）。这对于对齐诸如架空电线之类的功能非常有用，因为这些功能无法识别特定点。选择@cptable.newline@开始新的一行。单击左右手图像中的两个点。名称将更改为第1行，并且可以为同一行添加更多点。<br><br>右键单击控制点标记可以更改现有控制点的类别。"
 		},
 		{
 			"id": "cptab.cptable",
-			"machinetranslated": true,
 			"label": "@controlpointstable@",
 			"helptext": "列出所选图像对的所有控制点。",
 			"morehelptext": "<br><br>'@cptable.dist@'列显示控制点距离。控制点距离表示全景对齐的程度：较低的距离意味着更好的对齐。距离以源图像像素测量。可以通过单击列上方的标题对表进行排序。<br><br>通常，低于5的距离是好的。需要注意距离为 20 或更高的点；这些可能是未对齐的控制点，例如在移动物体上。<br><br>如果有很多高距离的控制点，这通常是视差的标志。具有视差的图像无法完美拼接。应该通过从完全相同的视点拍摄所有图像来避免视差。特别是在室内，使用全景三脚架头是必要的。"
 		},
 		{
 			"id": "optimizertab.advancedbutton",
-			"machinetranslated": true,
 			"helptext": "切换到高级优化器界面。"
 		},
 		{
@@ -8011,47 +7225,39 @@
 		},
 		{
 			"id": "optimizertab.optimizefocallength",
-			"machinetranslated": true,
 			"helptext": "如果启用，PTGui 将调整镜头焦距以改善对齐。",
 			"morehelptext": "<br><br>对于360°全景图，应始终启用此功能。<br><br>从使用长焦镜头拍摄的图像拼接局部全景图时，图像不包含优化器确定精确焦距的线索。在这种情况下，您可以选择将焦距固定为默认值并停用优化。<br><br>而且，遭受视差的图像可以被优化为错误的焦距值。这可以通过停用焦距优化来防止。"
 		},
 		{
 			"id": "optimizertab.minimizelensdistortion",
-			"machinetranslated": true,
-			"helptext": "实现镜头失真和镜头位移的优化。",
+			"helptext": "启用镜头失真和镜头位移的优化。",
 			"morehelptext": "<br><br>启用后，优化程序将调整@mainwindow.tabs.lenssettings@选项卡中的适用设置。<br><br><b>@mainwindow.optimizertab.minimizelensdistortion.no@：</b>镜头失真不会优化。当使用预校准的镜头数据时，这可能很有用。<br><br><b>@mainwindow.optimizertab.minimizelensdistortion.medium@：</b>仅优化镜头失真'b'参数。如果只有很少的控制点，或者图像遭受视差错误，可以使用，以降低过度拟合的风险。<br><br><b>@mainwindow.optimizertab.minimizelensdistortion.heavy@：</b>完全优化镜头失真（a，b和c）。<br><br><b>@mainwindow.optimizertab.minimizelensdistortion.heavyplusshift@（推荐设置）：</b>完全优化镜头失真并优化镜头位移。这将生成最精确的缝合。"
 		},
 		{
 			"id": "optimizertab.simplebutton",
-			"machinetranslated": true,
 			"helptext": "切换到简单的优化器界面。"
 		},
 		{
 			"id": "optimizertab.optimizeglobally",
-			"machinetranslated": true,
 			"helptext": "选择要优化的全局镜头设置。",
 			"morehelptext": "<br><br>选中复选框后，优化程序将调整@mainwindow.tabs.lenssettings@选项卡中的适用设置。<br><br><b>@mainwindow.optimizertab.fovfocallength@：</b>如果选择，则优化视野（或焦距）。对于360°全景图，应始终启用此功能。从使用长焦镜头拍摄的图像拼接局部全景图时，图像不包含优化器确定精确焦距的线索。在这种情况下，您可以选择将焦距固定为默认值并停用优化。而且，遭受视差的图像可以被优化为错误的焦距值。这可以通过停用焦距优化来防止。<br><br><b>a / b / c：</b>如果选择，则优化镜头失真校正。如果使用预校准的镜头数据，则可以停用此功能。但一般来说，应优化a，b和c以获得最精确的拼接。<br><br><b>@mainwindow.imageparameters.fisheyefactor@：</b>如果选择此选项，请优化@mainwindow.tabs.lenssettings@选项卡中的@mainwindow.imageparameters.fisheyefactor@参数（仅适用于使用鱼眼镜头时）。通常这不应该优化，PTGui 将根据 EXIF 数据中检测到的镜头模型将鱼眼因子设置为默认值。但是，如果您希望优化此参数，则必须避免镜头失真校正造成的干扰。因此，在优化鱼眼因子之前，请在@mainwindow.tabs.lenssettings@选项卡中将a，b和c重置为0。可以优化a / b / c或鱼眼因子，而不是两者同时因为它们相互干扰。<br><br><b>@mainwindow.imageparameters.longshift@ / @mainwindow.imageparameters.shortshift@：</b>如果选择，则优化镜头位移参数。在大多数情况下，应启用此功能。仅对于具有大视差的图像，可以停用移位优化以防止过度拟合。<br><br><b>@+shear@：</b>如果选择，则优化@shear@。来自数码相机的图像不会出现@shear@失真；这应仅用于狭缝扫描相机或平板扫描仪的图像。只应优化水平或垂直@shear@，而不是同时优化两者。<br><br>如果在@mainwindow.tabs.lenssettings@选项卡中创建了多个镜头配置文件，则可以分别控制每个镜头配置文件的优化。"
 		},
 		{
 			"id": "optimizertab.optimizeperimage",
-			"machinetranslated": true,
 			"helptext": "每图像优化设置。",
 			"morehelptext": "<br><br>一般情况下，@yaw@，@pitch@和@roll@必须针对除一个以外的所有图像（选择的“锚点”图像）进行优化。<br><br><b>@+yaw@</b>是摄象机在水平面上的旋转， <b>@+pitch@</b>对应上/下倾斜角度， <b>@+roll@</b>是摄象机绕镜头轴旋转。 <optional product='pro'><br><br><b>@+viewpoint@</b>控制视点优化： <b>@+reset@</b>停用视点优化，并在下次优化时将视点参数重置为0。 <b>@+keep@</b>停用进一步的视点优化，但保留图像的当前视点设置。 <b>@+optimize@</b>可为此图像启用视点优化。</optional><br><br>如果已启用单个参数（请参阅@mainwindow.tabs.lenssettings@选项卡 - '@mainwindow.lensparams.useindividual@'），则可以在优化中包含或排除这些参数。"
 		},
 		{
 			"id": "optimizertab.usecontrolpointsof",
-			"machinetranslated": true,
 			"helptext": "仅使用所选图像的控制点。"
 		},
 		{
 			"id": "optimizertab.linkroll",
-			"machinetranslated": true,
-			"helptext": "对启用了@roll@优化的所有图像运行相同的@roll@角度。"
+			"helptext": "对启用了@roll@优化的所有图像强制使用相同的@roll@角度。"
 		},
 		{
 			"id": "optimizertab.linkpitch",
-			"machinetranslated": true,
-			"helptext": "对启用了@pitch@优化的所有图像运行相同的@pitch@角度。"
+			"helptext": "对启用了@pitch@优化的所有图像强制使用相同的@pitch@角度。"
 		},
 		{
 			"id": "optimizertab.runoptimizer",
@@ -8059,53 +7265,44 @@
 		},
 		{
 			"id": "exposurehdrtab.groupintoblendplanes",
-			"machinetranslated": true,
 			"helptext": "启用 HDR 模式。",
 			"morehelptext": "<br><br>如果启用，PTGui 将按照曝光值（曝光时间，光圈和ISO）对所有图像进行分组。可以在@mainwindow.tabs.imageparameters@选项卡中看到EV值。具有相同EV的所有图像将被缝合并混合到单独的“混合平面”中。每个混合平面都是一定曝光等级的完整全景图。最后，将混合平面合并为单个 HDR 图像，或色调映射/曝光融合图像。"
 		},
 		{
 			"id": "exposurehdrtab.truehdrmode",
-			"machinetranslated": true,
 			"helptext": "将混合平面合并为高动态范围图像。",
 			"morehelptext": "<br><br> HDR 图像捕获从全景的最暗部分到最亮部分的完整动态范围。它可以选择性地进行色调映射，以创建适合于显示或打印的低动态范围图像。<br><br>可以在全景编辑窗口的侧栏中调整设置。"
 		},
 		{
 			"id": "exposurehdrtab.exposurefusionmode",
-			"machinetranslated": true,
 			"helptext": "使用曝光融合合并混合平面。",
 			"morehelptext": "<br><br>曝光融合将混合平面直接合并到色调映射的低动态范围图像中。这绕过了首先为色调映射创建高动态范围图像的步骤。<br><br>可以在全景编辑窗口的侧栏中调整设置。"
 		},
 		{
 			"id": "exposurehdrtab.dontgroupintoblendplanes",
-			"machinetranslated": true,
 			"helptext": "停用 HDR 模式。将所有图像合并为一个全景图。"
 		},
 		{
 			"id": "exposurehdrtab.tonemapldrpanorama",
-			"machinetranslated": true,
 			"helptext": "启用色调映射。",
 			"morehelptext": "<br><br>色调映射通常在 HDR 图像的背景下是已知的，但是它也可以用于常规的低动态范围图像。色调映射通过增强阴影和变暗高光来减少动态范围，类似于图像编辑软件中的阴影/高光校正。这导致更令人愉悦的图像，尤其是对于高对比度场景。<br><br>可以在全景编辑窗口的侧栏中调整设置。"
 		},
 		{
 			"id": "exposurehdrtab.exposurecompensation",
-			"machinetranslated": true,
 			"helptext": "调整自动曝光引起的曝光差异。",
 			"morehelptext": "<br><br>搅拌器可以稍微补偿曝光差异，但是为了获得最佳结果，重叠图像应该具有大致相同的曝光。<br><br>如果启用了自动曝光（例如，使用相机的Av模式时），相邻图像可能具有不同的曝光等级。曝光补偿检查 EXIF 数据并将每张图像的曝光量调整为混合前的平均曝光量。可与色调映射结合使用以应对高对比度场景。"
 		},
 		{
 			"id": "exposurehdrtab.optimizenow",
-			"machinetranslated": true,
 			"helptext": "运行曝光优化。",
 			"morehelptext": "<br><br>分析来自不同图像的重叠像素。根据@settings@窗口中启用的内容，这将调整渐变，曝光，相机响应曲线，白平衡和@lensflare@补偿，直到重叠像素之间的差异最小化。<br><br>因为它需要分析实际的重叠像素，所以只有在全景图准确对齐后才能使用此功能。"
 		},
 		{
 			"id": "exposurehdrtab.settings",
-			"machinetranslated": true,
 			"helptext": "更改曝光优化设置。"
 		},
 		{
 			"id": "exposurehdrtab.resetoptimizations",
-			"machinetranslated": true,
 			"helptext": "重置所有曝光优化参数并将曲线重置为默认值。"
 		},
 		{
@@ -8114,34 +7311,28 @@
 		},
 		{
 			"id": "exposurehdrtab.vignettinggraph",
-			"machinetranslated": true,
-			"helptext": "渐变曲线",
+			"helptext": "渐晕曲线",
 			"morehelptext": "<br><br>曲线显示检测到的镜头渐变曲线。图的左侧对应于镜头的中心，右侧对应于图像的角。通常，光量会朝向角落下降，因此图形将向右倾斜。<br><br> PTGui 应用逆校正来补偿光线衰减。"
 		},
 		{
 			"id": "exposurehdrtab.cameracurvegraph",
-			"machinetranslated": true,
 			"helptext": "相机响应曲线",
 			"morehelptext": "<br><br>该曲线显示从真实光强度到像素值的映射。横轴表示像素值，左侧是像素值0，右侧表示最大像素值（例如，对于8位图像为255）。<br><br>纵轴表示光强度。这在EV中显示，因此这是对数刻度。<br><br>需要相机曲线来运行曝光和渐变校正；这些校正必须应用于实际光强度，而不是像素值。"
 		},
 		{
 			"id": "exposurehdrtab.exposureoffset",
-			"machinetranslated": true,
 			"helptext": "全域曝光补偿。使全景变亮或变暗。"
 		},
 		{
 			"id": "exposurehdrtab.whitebalance",
-			"machinetranslated": true,
 			"helptext": "调整整个全景的白平衡。"
 		},
 		{
 			"id": "exposurehdrtab.resetexposureoffset",
-			"machinetranslated": true,
 			"helptext": "将曝光补偿重置为 0。"
 		},
 		{
 			"id": "exposurehdrtab.resetwhitebalance",
-			"machinetranslated": true,
 			"helptext": "重置白平衡校正。"
 		},
 		{
@@ -8151,18 +7342,15 @@
 		},
 		{
 			"id": "projectsettingstab.alignimages.generatecp",
-			"machinetranslated": true,
 			"helptext": "分析图像并生成控制点。这通常是必需的。"
 		},
 		{
 			"id": "projectsettingstab.alignimages.prealigned",
-			"machinetranslated": true,
 			"helptext": "如果启用，控制点生成器将仅搜索图像重叠区域中的控制点。",
 			"morehelptext": "<br><br>启用后，PTGui 不必在任何图像对之间查找匹配的特征，而只需在已知重叠图像对之间查找。这不仅快得多，而且还降低了在对称房间中找到错误控制点的风险。<br><br>只有在运行'@alignimages@'之前全景已经大致对齐时才选择此选项。"
 		},
 		{
 			"id": "projectsettingstab.alignimages.optimize",
-			"machinetranslated": true,
 			"helptext": "找到控制点后运行优化器。这通常是必需的。"
 		},
 		{
@@ -8172,19 +7360,16 @@
 		},
 		{
 			"id": "projectsettingstab.alignimages.straighten",
-			"machinetranslated": true,
 			"helptext": "尝试拉直全景",
 			"morehelptext": "<br><br>矫直将移动或旋转全景图，使得所有图像具有大致相同的@roll@角度（对于多行全景图），或者所有图像具有大致相同的@pitch@角度（对于单行全景图）。如果相机已正确调平，则应生成水平图像。<br><br>如果相机不是水平，则需要使用@cptable.verticalline@控制点进行额外调平（参见@mainwindow.tabs.controlpoints@标签）。<br><br>也可以从中访问此功能<optional platform='windows'>全景编辑器窗口中的菜单栏（@menubar.edit@ | @panoeditor.menubar.edit.straightenpano@）。</optional><optional platform='mac'>菜单栏：全景编辑窗口 | @menubar.edit@ | @panoeditor.menubar.edit.straightenpano@。</optional>"
 		},
 		{
 			"id": "projectsettingstab.alignimages.fit",
-			"machinetranslated": true,
 			"helptext": "调整全景视野，使图像填满整个画面。",
 			"morehelptext": "<br><br>也可以从中访问此功能<optional platform='windows'>全景编辑器窗口中的菜单栏（@menubar.edit@ | @panoeditor.menubar.edit.fitpano@）。</optional><optional platform='mac'>菜单栏：全景编辑窗口 | @menubar.edit@ | @panoeditor.menubar.edit.fitpano@。</optional>"
 		},
 		{
 			"id": "projectsettingstab.alignimages.chooseprojection",
-			"machinetranslated": true,
 			"helptext": "为全景视野选择合适的投影。",
 			"morehelptext": "<br><br>窄全景图将使用直线投影。对于宽全景图，将使用圆柱投影。全球形全景图将使用标准的360°x 180°equirectangular投影。"
 		},
@@ -8211,13 +7396,11 @@
 		},
 		{
 			"id": "projectsettingstab.filenaming.projectfile",
-			"machinetranslated": true,
 			"helptext": "此部分配置新项目文件的默认名称和位置。",
 			"morehelptext": "<br><br>这将在保存新项目时确定默认建议的文件名。在保存生成的项目时，批处理文件生成器也将使用此命名。<br><br>如果生成的文件名已存在，则会自动附加括号中的数字，例如：Panorama（1）.pts"
 		},
 		{
 			"id": "projectsettingstab.filenaming.outputfile",
-			"machinetranslated": true,
 			"helptext": "此部分配置拼接全景图像文件的默认名称和位置。",
 			"morehelptext": "<br><br>可以在输出文件的@mainwindow.tabs.createpanorama@选项卡中覆盖实际输出文件名，但是否则将使用此处配置的默认值。<br><br>输入不带扩展名的文件名；将根据在@mainwindow.tabs.createpanorama@选项卡中选择的输出文件格式自动添加扩展名（例如.jpg）。"
 		},
@@ -8239,7 +7422,6 @@
 		},
 		{
 			"id": "projectsettingstab.templatebehavior.panoramasettings",
-			"machinetranslated": true,
 			"helptext": "如果启用，则将所有输出和投影相关参数复制到目标项目。",
 			"morehelptext": "复制以下参数：<br><br>•全景投影和视野<br>•输出裁剪<br>•输出尺寸（宽x高）<br>•输出文件格式和相关设置<br>•混合器设置<br>• HDR ，曝光融合和色调映射设置<br>•插补器<br>•曝光优化设置（用于曝光和渐变校正）<br>•全局白平衡和曝光补偿<br>•全景图的元数据设置"
 		},
@@ -8249,30 +7431,25 @@
 		},
 		{
 			"id": "projectsettingstab.templatebehavior.optimizersettings",
-			"machinetranslated": true,
 			"helptext": "如果启用，请将优化程序设置复制到目标项目"
 		},
 		{
 			"id": "projectsettingstab.templatebehavior.linkimages",
-			"machinetranslated": true,
 			"helptext": "控制将此项目用作模板时是否以及如何影响图像的链接。",
 			"morehelptext": "<br><br>对于 HDR 全景图，可以链接包围曝光的曝光。链接的图像被迫具有相同的图像参数，因此它们被有效地视为单个图像。在应用模板时，目标项目中的方包围曝光可能尚未链接，或者目标项目与模板项目相比具有不同数量的方包围曝光。<br><br>因此，PTGui Pro可以在应用模板时更改图像的链接。此设置还会影响批生成器：生成项目文件时，图像将根据此设置进行链接。<br><br><b>@mainwindow.projectsettings.templatebehavior.linkimages.asintemplate@：</b>完全按照模板项目链接目标项目中的图像（即假设目标项目中的图像具有相同数量的包围曝光）。<br><br><b>@mainwindow.projectsettings.templatebehavior.linkimages.autolink@：</b>通过查找源图像曝光参数中的重复串行来检测包围曝光。运行功能@menubar.images.linkbracketed@ - @menubar.images.linkbracketed@。<br><br><b>@mainwindow.projectsettings.templatebehavior.linkimages.dontchange@：</b>保持目标项目不变。<br><br>链接图像后，模板的设置将应用于每个链接图像组的目标项目。在模板和目标项目中，括号内曝光的数量可能不同。"
 		},
 		{
 			"id": "projectsettingstab.batchbuilder.useexif",
-			"machinetranslated": true,
 			"helptext": "如果启用，批处理生成器将使用自动镜头设置来生成项目。",
 			"morehelptext": "<br><br>这将覆盖模板项目的镜头设置，并使用与将图像添加到新项目时相同的默认镜头参数。如果要对使用不同相机或镜头拍摄的图像使用相同模板，请使用此选项。<br><br>批处理构建器将遵守在镜头数据库和相机数据库中创建的任何 EXIF 关联。<br><br>如果停用，则忽略图像中的 EXIF 数据，并简单地从模板项目中复制镜头参数。"
 		},
 		{
 			"id": "projectsettingstab.misc.useexiforientation",
-			"machinetranslated": true,
 			"helptext": "控制如何使用 EXIF 纵向标记处理图像。",
 			"morehelptext": "<br><br>当以纵向拍摄图像时，许多相机实际上以横向方向输出图像，并添加了 EXIF 方向标记。 Orientation标签通知图像阅读器图像的实际方向。此设置控制 PTGui 处理这些图像的方式：<br><br><b>取消选择：</b>忽略方向，将图像作为风景图像加载。将此类图像添加到新的 PTGui 项目时，会应用适当的@roll@角度将图像置于纵向，但从技术上讲，它被视为横向图像。<br><br><b>选中：</b>加载时应用正确的方向，因此图像将以纵向方式加载。<br><br>最初添加此设置是为了与不支持Orientation标记的其他应用程序兼容。因为现在大多数应用程序都支持Orientation标记，所以建议启用此设置。<br><br>加载图像后无法更改此设置，必须在加载第一张图像之前进行设置。"
 		},
 		{
 			"id": "projectsettingstab.misc.useexif",
-			"machinetranslated": true,
 			"helptext": "将图像添加到项目时自动初始化镜头设置。",
 			"morehelptext": "<br><br>如果选择此选项，PTGui 将分析图像的 EXIF 数据以确定相机和镜头的类别。镜头设置将根据此数据进行初始化。可以通过在镜头数据库和摄象机数据库中创建关联来自定义或覆盖默认设置。<br><br>这仅适用于通过按“@mainwindow.projectassistant.loadimages@”按钮或通过将图像拖放到 PTGui 窗口上添加到项目中的图像。<br><br>如果停用，则忽略 EXIF 数据，并在向此项目添加图像时保留当前镜头设置。<br><br>对于批处理文件生成器，可以使用单独的设置，参见上面的@mainwindow.projectsettings.batchbuilder@。"
 		},
@@ -8282,8 +7459,7 @@
 		},
 		{
 			"id": "projectsettingstab.misc.supportduallenscameras",
-			"machinetranslated": true,
-			"helptext": "配置支持一次性360°相机。",
+			"helptext": "配置单镜头 360° 相机的支持。",
 			"morehelptext": "<br><br>存在几种类别的360°一次全景相机，生成包含两个并排的圆形鱼眼图像的单个图像文件。对于拼接，图像的每一半都需要作为单独的源图像加载到项目中。<br><br>如果启用，当 PTGui 检测到双镜头鱼眼图像添加到项目中时，它将加载相同的图像文件两次。两个副本中的每一个将具有单独的掩模和裁剪圆，以从组合图像中提取相应的部分。副本将位于-90°和+ 90°@yaw@。<br><br>批处理文件生成器支持相同的行为。<br><br>仍然需要微调：由于制造公差，相同类别的各个相机之间将存在小的差异，导致图像圆的偏移略微不同。可以通过拍摄照片（外部，没有物体靠近相机），添加控制点和优化来为每个单独的相机创建模板。然后做@menubar.file@ | @menubar.file.saveastemplate@。此模板可以通过@menubar.file@ | @menubar.file.applytemplate@使用，也可以在批处理文件生成器中使用。"
 		},
 		{
@@ -8292,61 +7468,50 @@
 		},
 		{
 			"id": "previewtab.size",
-			"machinetranslated": true,
 			"helptext": "生成的预览图像的大小（以像素为单位）。"
 		},
 		{
 			"id": "previewtab.previewbutton",
-			"machinetranslated": true,
 			"helptext": "拼接并显示预览。拼接之前，PTGui 会询问您使用哪个应用程序进行预览。",
 			"morehelptext": "<br><br>预览始终生成为 JPEG 图像。对于其他格式，请使用常规@mainwindow.createpanoramatab.createpanorama@功能。<br><br>可以在@optionspreferences@ | @options.foldersandfileshtml@中配置其他预览应用程序。"
 		},
 		{
 			"id": "previewtab.includeimages",
-			"machinetranslated": true,
 			"helptext": "仅在生成的预览中包含这些图像。"
 		},
 		{
 			"id": "metadatatab.uselocationofsourceimages",
-			"machinetranslated": true,
 			"helptext": "将位置数据从源图像复制到全景图（如果有）。源图像应包含 EXIF GPS数据。"
 		},
 		{
 			"id": "metadatatab.latlon",
-			"machinetranslated": true,
 			"helptext": "输入拍摄全景图的 GPS 坐标。",
 			"morehelptext": "<br><br>应始终输入位置作为纬度，后跟经度，用逗号分隔。负坐标用于南半球和东经。支持所有常用坐标格式：坐标可以作为小数度度，度数和小数分数，或度数，分锺和秒输入。句点（。）应该用作小数分隔符。符号°''用于分隔度，分和秒。<br><br>例如，以下坐标有效，并且所有坐标都指向相同的位置：<br><br>40.78，-73.96715<br>40.78°， - 73.96715°<br>40°46.8'， - 73°58.029'<br>40°46'48“， - 73°58'01”<br><br>查找坐标的一种方法是转到<a href=\"https://maps.google.com/\">Google地图</a>并单击某个位置。弹出窗口将显示GPS坐标。"
 		},
 		{
 			"id": "metadatatab.useorientationofsourceimages",
-			"machinetranslated": true,
 			"helptext": "使用源图像中的 EXIF 罗盘数据计算全景中心的罗盘角度。"
 		},
 		{
 			"id": "metadatatab.imagedirection",
-			"machinetranslated": true,
-			"helptext": "指南针角度全景中心指向。北面0°，东面90°，南面180°，西面-90°。"
+			"helptext": "全景中心朝向的罗盘角度。北为 0°，东为 90°，南为 180°，西为 -90°。"
 		},
 		{
 			"id": "metadatatab.resolution",
-			"machinetranslated": true,
 			"helptext": "插入全景图 EXIF 数据中的分辨率值（以每英寸像素为单位）。",
 			"morehelptext": "<br><br>分辨率值只是一个指示值，表示要在一英寸内打印的像素数。它不会改变结果图像中的实际大小或细节水平，但在需要控制所得打印图像的物理尺寸的工作流程中它可能很有用。"
 		},
 		{
 			"id": "createpanoramatab.widthheight",
-			"machinetranslated": true,
 			"helptext": "拼接全景的大小（以像素为单位）。"
 		},
 		{
 			"id": "createpanoramatab.fixsize",
-			"machinetranslated": true,
 			"helptext": "输出大小可以设置为像素数，或者设置为最佳大小（或其一小部分）。",
 			"morehelptext": "<br><br><b>@mainwindow.createpanoramatab.fixsize@ ... @mainwindow.createpanoramatab.fixsize.megapixels@：</b>输出大小将保持在给定的像素数。如果宽高比改变（例如，由于改变投影，全景视野或输出裁剪），宽度和高度可能会改变，但像素的总数将保持不变。对于球形全景图，通常使用2：1的等距矩形投影，因此该选项将生成固定的宽度和高度。<br><br><b>@mainwindow.createpanoramatab.fixsize@ ... @mainwindow.createpanoramatab.fixsize.percentofoptimumsize@：</b>将全景图保持在最佳尺寸或最佳尺寸的给定百分比。<br><br>最佳尺寸是全景分辨率等于源图像分辨率的输出尺寸。换句话说，源图像中的细节不会丢失。<br><br>由于整个全景图像变形不均匀，因此没有真正的最佳尺寸：源图像的某些部分可能会变大，而其他部分可能会缩小。因此，有点任意，PTGui 认为最佳尺寸是源图像中心的角分辨率等于全景中心的角分辨率的尺寸。如果使用来自多个镜头的图像，则该计算将基于具有最高分辨率的源图像。<br><br>由于最佳尺寸取决于几个参数，包括通常由优化器调整的镜头焦距，因此在每次优化后，最佳尺寸可能略有不同。这还取决于控制点的位置。如果不希望出现这种波动，请选择所需的尺寸并选择“@mainwindow.createpanoramatab.fixsize@ ... @mainwindow.createpanoramatab.fixsize.megapixels@”。"
 		},
 		{
 			"id": "createpanoramatab.hundredpercent",
-			"machinetranslated": true,
 			"helptext": "将输出大小设置为最佳大小。",
 			"morehelptext": "<br><br>最佳尺寸是全景分辨率等于源图像分辨率的输出尺寸。换句话说，源图像中的细节不会丢失。<br><br>由于整个全景图像变形不均匀，因此没有真正的最佳尺寸：源图像的某些部分可能会变大，而其他部分可能会缩小。因此，有点任意，PTGui 认为最佳尺寸是源图像中心的角分辨率等于全景中心的角分辨率的尺寸。如果使用来自多个镜头的图像，则该计算将基于具有最高分辨率的源图像。"
 		},
@@ -8361,7 +7526,6 @@
 		},
 		{
 			"id": "createpanoramatab.hdrfileformat",
-			"machinetranslated": true,
 			"helptext": "用于 HDR 输出的文件格式。",
 			"morehelptext": "<br><br>由 PTGui 生成的 HDR 文件能够支持场景中光强度的整个动态范围。PTGui 支持 HDR 输出的以下文件格式：<br><br><b> TIFF ：</b>每通道浮点 32 位，具有无损压缩和透明支持。传统的 TIFF 限制为每个文件 4GB ，但只要文件变大，PTGui 就会自动使用 Big TIFF 方言。请注意，并非所有支持 TIFF 的应用程序都支持 32 位浮点图像或 Big TIFF 文件。<br><br><b> Photoshop （.psd 和 .psb）：</b>与 TIFF 一样，每通道浮点数为 32 位，具有无损压缩和透明支持。 photoshop 格式的主要优点是分层输出： PTGui 可以输出包含混合 HDR 全景的单个文件，扭曲的 HDR 源图像和 HDR 混合平面在不同的层中。这样可以在 Photoshop 中轻松修饰全景图并进行 HDR 反虚反射。通常应使用 .psb 格式，因为 .psd 限制为 4GB 文件大小和30000 像素宽度和高度。<br><br><b>OpenEXR：</b>这种格式最初由 Industrial Light and Magic（LucasFilm）为视觉效果行业开发。PTGui 可以创建16位“半浮点”和每通道 32 位浮点图像。支持透明度，以及几种不同的无损和有损压缩算法。这是 HDR 图像的行业标准格式。<br><br><b> HDR Radiance：</b>最初由 Greg Ward 在他的 Radiance 软件套件中为 HDR 提供支持。像素保存为具有公共指数的红色/绿色/蓝色三元组，因此该格式也称为 RGBE。不支持透明度。公共指数编码无法表示某些饱和色，因此应将其视为有损压缩格式。"
 		},
@@ -8380,12 +7544,10 @@
 		},
 		{
 			"id": "createpanoramatab.outputfilebrowse",
-			"machinetranslated": true,
 			"helptext": "打开@txt.savepanorama@窗口以交互方式选择输出文件名。"
 		},
 		{
 			"id": "createpanoramatab.viewoutputfile",
-			"machinetranslated": true,
 			"helptext": "打开生成的输出文件。",
 			"morehelptext": "<br><br> PTGui 会询问您使用哪个应用程序进行预览。可以在@optionspreferences@ | @options.foldersandfileshtml@中配置其他预览应用程序。"
 		},
@@ -8395,17 +7557,14 @@
 		},
 		{
 			"id": "createpanoramatab.components.tonemapped",
-			"machinetranslated": true,
 			"helptext": "在色调映射后保存最终的全景。"
 		},
 		{
 			"id": "createpanoramatab.components.exposurefused",
-			"machinetranslated": true,
 			"helptext": "曝光融合后保存最终的全景图。"
 		},
 		{
 			"id": "createpanoramatab.components.blended",
-			"machinetranslated": true,
 			"helptext": "保存最终混合全景图。"
 		},
 		{
@@ -8426,12 +7585,10 @@
 		},
 		{
 			"id": "createpanoramatab.components.hdrblendplanes",
-			"machinetranslated": true,
 			"helptext": "保存混合平面，转换为 HDR 格式。亮度将与合并的 HDR 全景图的亮度相匹配。"
 		},
 		{
 			"id": "createpanoramatab.createpanoramabutton",
-			"machinetranslated": true,
 			"helptext": "拼接全景。"
 		},
 		{
@@ -8441,13 +7598,11 @@
 		},
 		{
 			"id": "createpanoramatab.includeimages",
-			"machinetranslated": true,
 			"helptext": "仅在全景图中包含所选图像。",
 			"morehelptext": "<br><br>使用@mainwindow.tabs.projectassistant@和@mainwindow.tabs.sourceimages@选项卡中的右键单击上下文菜单也可以包含/排除图像。<br><br>并且可以在全景编辑窗口和细节查看器中右键单击以在单击的位置排除图像。 <optional product='pro'><br><br>对于 HDR 全景图，可以使用@menubar.images@ | @menubar.images.select@ | @menubar.images.select.blendplane@选择特定曝光水平的所有图像，并使用@menubar.images@ | @menubar.images.include@ / @menubar.images.exclude@包含或排除</optional>"
 		},
 		{
 			"id": "createpanoramatab.blendertype",
-			"machinetranslated": true,
 			"helptext": "选择要使用的混合器。",
 			"morehelptext": "<br><br>除了自己的混合器，PTGui 还支持两个混合插件：Smartblend 和 Enblend。这些必须首先在@optionspreferences@ | @options.plugins@中配置。请记住，混合插件有一些限制：它们比 PTGui 混合器慢，可能在天底和天顶中提供混合工件，并且不支持非常大的全景图。 <optional product='pro'>此外，绿色蒙板仅由 PTGui 混合器支持。</optional>"
 		},
@@ -8457,13 +7612,11 @@
 		},
 		{
 			"id": "createpanoramatab.blendingmode",
-			"machinetranslated": true,
-			"helptext": "混合算法使用。",
+			"helptext": "要使用的混合算法。",
 			"morehelptext": "<br><br><b>@mainwindow.createpanoramatab.blendmode.multiband@：</b>精细的细节以小的幅度重叠混合，而缓慢变化的细节和色差则以较宽的重叠幅度混合<br><br><b>@mainwindow.createpanoramatab.blendmode.alpha@：</b>运行简单的线性混合。<br><br>通常，@mainwindow.createpanoramatab.blendmode.multiband@混合可提供优异的结果。但在这些情况下，alpha 混合更可取：<br>•合成相邻图像时没有重叠（例如，将立方体图像组合成全景图时）<br>•混合未正确曝光匹配的 32 位 HDR 源图像时。在这种情况下，@mainwindow.createpanoramatab.blendmode.multiband@混合可能会生成暗晕。"
 		},
 		{
 			"id": "createpanoramatab.interpolator",
-			"machinetranslated": true,
 			"helptext": "控制用于计算实际源图像像素之间的像素的方法。",
 			"morehelptext": "<br><br>当将图像变形为全景图时，需要在源图像中的“像素之间”计算像素值。此过程称为插值。PTGui 提供了几种插值算法。每种算法都有其优点和缺点；这是最好的插补器是一个品味的问题，取决于实际的图像。插值器之间的差异可能很微妙，但它们在对角线（更平滑或略带锯齿）周围以及高对比度区域（或多或少的“光晕”伪像）周围是显而易见的。<br><br><b>@mainwindow.createpanoramatab.interpolator.nearest@：</b>该内插器简单地选择最接近要计算的像素位置的像素。该算法非常快，但结果非常差。<br><br><b>@mainwindow.createpanoramatab.interpolator.bilinear@：</b>通过平均所需像素位置周围的 4 个像素来完成插值。相对较快且比最近邻好，但不建议用于生产。<br><br><b>Bicubic：</b>使用4x4内核，即所需像素位置周围的 16 个像素用于计算全景图中的每个像素。可提供三种不同级别的锐化。使用 HDR 源图像时，建议使用@mainwindow.createpanoramatab.interpolator.bicubicsofter@插值器，因为它不包含负系数。其他插值器确实具有负系数，这可能导致 HDR 全景图中高对比度区域周围的晕圈。<br><br><b>Lanczos和Spline：</b>更复杂的内插器，内核更大。较大的内核提供更平滑的对角线，但更有可能在高对比度物体周围生成可见光晕。<br><br><b>@default@：</b>将Lanczos2用于常规源图像，或将@mainwindow.createpanoramatab.interpolator.bicubicsofter@用于 32 位 HDR 源图像。"
 		},
@@ -8478,33 +7631,28 @@
 		},
 		{
 			"id": "panoeditor.toolbar.help",
-			"machinetranslated": true,
 			"label": "帮助",
 			"helptext": "显示全景编辑器的帮助信息。"
 		},
 		{
 			"id": "panoeditor.toolbar.editimages",
-			"machinetranslated": true,
 			"label": "编辑单个图像",
 			"helptext": "使用此模式可以移动或旋转单个图像。",
 			"morehelptext": "<br><br>通过使用鼠标左键拖动，可以在输出区域中移动图像。在引擎盖下，这会改变图像的@yaw@和@pitch@角度。<br><br>用鼠标右键拖动<optional platform='mac'>（或Ctrl +拖动）</optional>图像旋转。这会修改图像的@roll@角度。<br><br>工具栏左侧的“@panoeditor.menubar.mouseover@”按钮可切换图像的选择方式。如果启用，则将鼠标悬停在图像上时会选择图像。如果停用，可以通过单击全景图上方的图像图标来选择图像。"
 		},
 		{
 			"id": "panoeditor.toolbar.editpano",
-			"machinetranslated": true,
 			"label": "编辑全景图",
 			"helptext": "使用此模式可以整体移动或旋转全景图。",
 			"morehelptext": "<br><br>使用鼠标左键拖动可移动整个全景图。用鼠标右键拖动<optional platform='mac'>（或Ctrl +拖动）</optional>围绕其中心旋转整个全景。<br><br> PTGui 通过将所有图像的@yaw@，@pitch@和@roll@角度修改在一起来运行编辑。"
 		},
 		{
 			"id": "panoeditor.toolbar.setcenter",
-			"machinetranslated": true,
 			"label": "设置中心",
 			"helptext": "使用此模式可以重新定位全景图。单击全景图中的所需点。"
 		},
 		{
 			"id": "panoeditor.toolbar.fitpano",
-			"machinetranslated": true,
 			"label": "全景适合画面",
 			"helptext": "使全景图填满整个画面。这是通过调整水平和垂直视野来完成的。"
 		},
@@ -8515,9 +7663,8 @@
 		},
 		{
 			"id": "panoeditor.toolbar.straightenpano",
-			"machinetranslated": true,
 			"label": "拉直全景",
-			"helptext": "移动或旋转全景图，使其直接显示。"
+			"helptext": "移动或旋转全景图，使其水平显示。"
 		},
 		{
 			"id": "panoeditor.toolbar.rectilinear",
@@ -8526,56 +7673,47 @@
 		},
 		{
 			"id": "panoeditor.toolbar.cylindrical",
-			"machinetranslated": true,
 			"label": "圆柱投影",
-			"helptext": "切换到圆柱投影。适合360°全景。"
+			"helptext": "切换到圆柱投影。适合 360° 全景图。"
 		},
 		{
 			"id": "panoeditor.toolbar.equirectangular",
-			"machinetranslated": true,
 			"label": "@+projection.equirectangular@投影",
-			"helptext": "切换到equirectangular投影。这是用于球形360°x 180°全景图的投影。"
+			"helptext": "切换到等距柱状投影。这是球形 360° × 180° 全景图使用的投影。"
 		},
 		{
 			"id": "panoeditor.toolbar.otherprojection",
-			"machinetranslated": true,
 			"label": "更多预测"
 		},
 		{
 			"id": "panoeditor.toolbar.detailviewer",
-			"machinetranslated": true,
 			"label": "显示详细信息查看器",
 			"helptext": "细节查看器可用于放大全景图。",
 			"morehelptext": "<br><br>全景编辑器中将显示放大镜以指示详细信息查看器的位置。可以移动此图标以缩放特定位置。<br><br>对于球形全景图，细节查看器对于检查全景图的最低点和天顶非常有用，因为它显示了透视校正查看。"
 		},
 		{
 			"id": "panoeditor.toolbar.preview",
-			"machinetranslated": true,
 			"label": "在外部查看器中打开",
-			"helptext": "获取全景编辑器的屏幕截屏并打开此外部查看器。",
+			"helptext": "对全景编辑器截图，并在外部查看器中打开。",
 			"morehelptext": "<br><br>用于在 PTGui Viewer 中以交互方式预览球形全景图。将以当前显示的尺寸拍摄全景编辑器的屏幕截屏。PTGui 将询问您必须在哪个应用程序中打开图像。可以在@optionspreferences@ | @options.foldersandfileshtml@中配置其他应用程序。<br><br>请注意，这提供了快速但低分辨率的预览。要获得更高质量的预览，请使用主窗口中的@menubar.project.preview@选项卡。"
 		},
 		{
 			"id": "panoeditor.toolbar.blended",
-			"machinetranslated": true,
 			"label": "混合",
 			"helptext": "显示混合全景"
 		},
 		{
 			"id": "panoeditor.toolbar.noblend",
-			"machinetranslated": true,
 			"label": "单幅",
 			"helptext": "显示未混合的全景"
 		},
 		{
 			"id": "panoeditor.toolbar.showseams",
-			"machinetranslated": true,
 			"label": "显示接缝",
 			"helptext": "接缝的位置用红线表示。"
 		},
 		{
 			"id": "panoeditor.toolbar.showimagenumbers",
-			"machinetranslated": true,
 			"label": "显示图像编号"
 		},
 		{
@@ -8585,32 +7723,27 @@
 		},
 		{
 			"id": "panoeditor.gridbutton",
-			"machinetranslated": true,
 			"label": "调整网格覆盖"
 		},
 		{
 			"id": "panoeditor.vfovslider",
-			"machinetranslated": true,
 			"label": "垂直视野",
 			"helptext": "向下移动以垂直扩大查看，向上移动以使其更窄。"
 		},
 		{
 			"id": "panoeditor.hfovslider",
-			"machinetranslated": true,
 			"label": "水平视野",
 			"helptext": "向右移动可水平扩宽查看，向左移动可使其更窄。"
 		},
 		{
 			"id": "detailviewer.toolbar.displayzoom",
-			"machinetranslated": true,
 			"label": "显示模式：缩放",
 			"helptext": "在此模式下，细节查看器在实际投影中显示全景图的缩放裁剪。"
 		},
 		{
 			"id": "detailviewer.toolbar.displayperspective",
-			"machinetranslated": true,
 			"label": "显示模式：透视",
-			"helptext": "在该模式中，示出了全景的透视校正查看，类似于交互式全景查看器。"
+			"helptext": "在此模式下显示全景图的透视校正视图，类似于交互式全景查看器。"
 		},
 		{
 			"id": "detailviewer.toolbar.dragandhold",
@@ -8619,31 +7752,26 @@
 		},
 		{
 			"id": "detailviewer.toolbar.dragtomove",
-			"machinetranslated": true,
 			"label": "导航模式：拖动移动",
 			"helptext": "要导航，请按所需方向拖动全景图。"
 		},
 		{
 			"id": "detailviewer.toolbar.blended",
-			"machinetranslated": true,
 			"label": "混合",
 			"helptext": "显示混合全景"
 		},
 		{
 			"id": "detailviewer.toolbar.noblend",
-			"machinetranslated": true,
 			"label": "单幅",
 			"helptext": "显示未混合的全景"
 		},
 		{
 			"id": "detailviewer.toolbar.showseams",
-			"machinetranslated": true,
 			"label": "显示接缝",
 			"helptext": "接缝的位置用红线表示。"
 		},
 		{
 			"id": "detailviewer.toolbar.showimagenumbers",
-			"machinetranslated": true,
 			"label": "显示图像编号"
 		},
 		{
@@ -8653,7 +7781,6 @@
 		},
 		{
 			"id": "detailviewer.toolbar.help",
-			"machinetranslated": true,
 			"label": "帮帮我",
 			"helptext": "显示详细信息查看器的帮助信息。"
 		},
@@ -8664,13 +7791,11 @@
 		},
 		{
 			"id": "tonemapsettings.enable",
-			"machinetranslated": true,
 			"helptext": "启用色调映射。",
 			"morehelptext": "<br><br>色调映射通常在 HDR 图像的背景下是已知的，但是它也可以用于常规的低动态范围图像。色调映射通过增强阴影和变暗高光来减少动态范围，类似于图像编辑软件中的阴影/高光校正。这导致更令人愉悦的图像，尤其是对于高对比度场景。"
 		},
 		{
 			"id": "tonemapsettings.brightness",
-			"machinetranslated": true,
 			"helptext": "设置色调映射图像的整体亮度。 0是黑色，1是白色。"
 		},
 		{
@@ -8683,8 +7808,7 @@
 		},
 		{
 			"id": "tonemapsettings.autoboostreduce",
-			"machinetranslated": true,
-			"helptext": "使用自动值增强阴影和上面的灯光。"
+			"helptext": "为上面的增强阴影和降低高光使用自动值。"
 		},
 		{
 			"id": "tonemapsettings.compression",
@@ -8692,22 +7816,18 @@
 		},
 		{
 			"id": "tonemapsettings.contrast",
-			"machinetranslated": true,
 			"helptext": "增加或减少图像对比度。"
 		},
 		{
 			"id": "tonemapsettings.saturation",
-			"machinetranslated": true,
 			"helptext": "增加或减少色调映射图像中颜色的活力。"
 		},
 		{
 			"id": "exposurefusionsettings.brightness",
-			"machinetranslated": true,
 			"helptext": "设置曝光融合图像的整体亮度。 0是黑色，1是白色。"
 		},
 		{
 			"id": "exposurefusionsettings.boostshadows",
-			"machinetranslated": true,
 			"helptext": "另外增加阴影。这也将放大图像噪声。"
 		},
 		{
@@ -8720,46 +7840,38 @@
 		},
 		{
 			"id": "numericaltransform.yaw",
-			"machinetranslated": true,
 			"helptext": "向左或向右移动全景。"
 		},
 		{
 			"id": "numericaltransform.pitch",
-			"machinetranslated": true,
 			"helptext": "向上或向下移动全景。"
 		},
 		{
 			"id": "numericaltransform.roll",
-			"machinetranslated": true,
 			"helptext": "旋转全景图。"
 		},
 		{
 			"id": "projectionpanel.projection",
-			"machinetranslated": true,
-			"helptext": "投影用于全景。",
+			"helptext": "全景图使用的投影。",
 			"morehelptext": "<br><br>见<a href='helppage:projections'>预测</a>"
 		},
 		{
 			"id": "projectionpanel.hfov",
-			"machinetranslated": true,
 			"helptext": "水平视野。",
 			"morehelptext": "<br><br>也可以使用此窗口底部的滑块进行调整。见<a href='helppage:projections'>预测</a>"
 		},
 		{
 			"id": "projectionpanel.vfov",
-			"machinetranslated": true,
 			"helptext": "垂直视野。",
 			"morehelptext": "<br><br>也可以使用此窗口左侧的滑块进行调整。见<a href='helppage:projections'>预测</a>"
 		},
 		{
 			"id": "projectionpanel.compression",
-			"machinetranslated": true,
 			"helptext": "投影压缩。",
 			"morehelptext": "<br><br>见<a href='helppage:projections'>预测</a>"
 		},
 		{
 			"id": "projectionpanel.preset",
-			"machinetranslated": true,
 			"helptext": "一些默认投影。",
 			"morehelptext": "<br><br><b>@projectionpreset.spherical@：</b>这是球形全景图的标准投影。<br><br><b>@projectionpreset.littleplanet@：</b>它使用'@projection.stereographicdown@'投影，使图像在最低点周围居中。得到的全景看起来象是在一个小行星上拍摄的，因此得名。<br><br><b>@projectionpreset.cubeface@：</b>将全景图投影到立方体的一个表面上。"
 		},
@@ -8769,37 +7881,31 @@
 		},
 		{
 			"id": "panoramapreviewsettingspanel.blendplane",
-			"machinetranslated": true,
 			"helptext": "对于 HDR 全景图：仅显示所选的混合平面，而不是显示色调映射/曝光融合全景。"
 		},
 		{
 			"id": "publishtoweb.sourcefiles",
-			"machinetranslated": true,
 			"helptext": "要处理的全景图。可以批量处理多个全景图。",
 			"morehelptext": "<br><br>单击下面的+按钮，或将文件拖放到列表中，将全景图添加到列表中。有关更多信息，请参阅<a href='helppage:publishtowebsite'>使用发布到网站</a>"
 		},
 		{
 			"id": "publishtoweb.sourcefiles.add",
-			"machinetranslated": true,
 			"label": "添加",
 			"helptext": "将全景图添加到要处理的文件列表中。"
 		},
 		{
 			"id": "publishtoweb.sourcefiles.remove",
-			"machinetranslated": true,
 			"label": "移除",
 			"helptext": "从列表中删除所选文件。"
 		},
 		{
 			"id": "publishtoweb.projection",
-			"machinetranslated": true,
-			"helptext": "全景投影。球面全景图通常是等长矩形投影。",
+			"helptext": "全景图投影。球形全景图通常使用等距柱状投影。",
 			"morehelptext": "<br><br>有关更多信息，请参阅<a href='helppage:publishtowebsite'>使用发布到网站</a>"
 		},
 		{
 			"id": "publishtoweb.hfov",
-			"machinetranslated": true,
-			"helptext": "全景的水平的看法。对于球形全景图，请输入360°。",
+			"helptext": "全景图的水平视野。对于球形全景图请输入 360°。",
 			"morehelptext": "<br><br>有关更多信息，请参阅<a href='helppage:publishtowebsite'>使用发布到网站</a>"
 		},
 		{
@@ -8808,40 +7914,33 @@
 		},
 		{
 			"id": "publishtoweb.saveas",
-			"machinetranslated": true,
 			"helptext": "用于生成的文件的文件和文件夹名称。",
 			"morehelptext": "<br><br>将生成多个文件，PTGui 将附加不同的后缀和扩展名。如果输入相对路径，则将相对于源图像文件夹进行解释。"
 		},
 		{
 			"id": "publishtoweb.defaults",
-			"machinetranslated": true,
 			"helptext": "将此处的所有设置重置为默认值。"
 		},
 		{
 			"id": "publishtoweb.convert",
-			"machinetranslated": true,
 			"helptext": "转换图像并生成用于 Web 发布的所有文件。"
 		},
 		{
 			"id": "publishtowebsettings.createcomponents",
-			"machinetranslated": true,
 			"helptext": "配置要创建的文件。",
 			"morehelptext": "<br><br><b>@txt.allfiles@：</b>生成 Web 发布所需的所有文件：图像切片，html 文件和查看器小程序。<br><br><b>@publishtowebsite.create.images@：</b>仅将图像转换为图块。如果html文件和查看器小程序已经上传到网站，请使用此选项。"
 		},
 		{
 			"id": "publishtowebsettings.resolution",
-			"machinetranslated": true,
 			"helptext": "生成的.jpg图块的百万像素组合大小。",
 			"morehelptext": "<br><br>使用@options.automatic@选择不会出现质量损失的最佳尺寸。使用较小的尺寸会缩短全景显示全景图之前的下载时间，但也会降低图像质量。使用@options.automatic@设置时，输出全景尺寸限制为60万像素。这可以通过取消选择@options.automatic@来覆盖，但是这样的大型全景图无法在每台计算机上可靠地显示。通过降低下面的 JPEG 质量也可以减少下载时间。"
 		},
 		{
 			"id": "publishtowebsettings.automaticresolution",
-			"machinetranslated": true,
 			"helptext": "使用分辨率匹配全景的原始分辨率。"
 		},
 		{
 			"id": "publishtowebsettings.mobileresolution",
-			"machinetranslated": true,
 			"helptext": "在移动设备（Android，iOS）上使用较小的磁贴。",
 			"morehelptext": "<br><br>移动设备的内存有限。如果全景图太大（即像素太多），则设备上的Web浏览器内存不足，可能会在没有警告的情况下关闭。此设置指示浏览器在显示之前缩小图像大小。在实践中，4.5百万像素是一个安全的限制。"
 		},
@@ -8851,13 +7950,11 @@
 		},
 		{
 			"id": "publishtowebsettings.angles",
-			"machinetranslated": true,
 			"helptext": "初始查看参数和限制。",
 			"morehelptext": "<br><br><b>@+pan@</b>设置和限制水平观察方向：0° 是全景的中心，-180° 是最左侧，180° 是最右侧。<br><br><b>@+tilt@</b>设置和限制垂直观察方向：0°是地平线，90°是天顶，-90°是天底。<br><br>选择<b>@options.automatic@</b>自动设置@pan@和@tilt@限制，使可见区域限制为全景的边界。<br><br><b>@panoramaeditor.sidebar.projectionpanel.fov@</b>设置和限制缩放：较低的值放大，而较高的值缩小。在实践中，90°是良好的初始视场，120°是合适的最大值。"
 		},
 		{
 			"id": "publishtowebsettings.autorotate.enabled",
-			"machinetranslated": true,
 			"helptext": "启用自动旋转：显示网页时，全景图将自动开始旋转。"
 		},
 		{
@@ -8870,88 +7967,73 @@
 		},
 		{
 			"id": "publishtowebsettings.autorotate.resumedelay",
-			"machinetranslated": true,
-			"helptext": "以秒为单位的时间，自动旋转将接管。"
+			"helptext": "自动旋转接管前的等待时间（秒）。"
 		},
 		{
 			"id": "publishtowebsettings.enablefullscreen",
-			"machinetranslated": true,
 			"helptext": "启用或停用查看器右上角的全屏幕按钮。",
 			"morehelptext": "<br><br><b>@publishtowebsite.showfullscreen.yes@：</b>启用全屏幕支持。<br><br><b>@publishtowebsite.showfullscreen.no@：</b>停用全屏幕支持。<br><br>全屏幕显示使用 HTML5 全屏幕API。当前大多数网络浏览器都支持此功能，但iOS上的Safari除外。在不支持的设备上，通过展开全景图以填充整个网页来仿真全屏幕显示。这通常可以正常工作，除非在IFRAME中显示全景：在这种情况下，全景图将展开以填充整个iframe，而不是整个浏览器窗口。"
 		},
 		{
 			"id": "publishtowebsettings.enablegyroscope",
-			"machinetranslated": true,
 			"helptext": "在移动设备上，通过旋转和倾斜设备来导航全景图。"
 		},
 		{
 			"id": "publishtowebsettings.navigatemode",
-			"machinetranslated": true,
 			"helptext": "如何使用鼠标导航全景图。",
 			"morehelptext": "<br><br><b>@publishtowebsite.mousenav.drag@：</b>按住鼠标按钮并沿所需方向拖动全景图。<br><br><b>@publishtowebsite.mousenav.moveto@：</b>按住并移开鼠标：全景图将开始向相反方向旋转，直到松开鼠标按钮。<br><br>此设置仅适用于基于鼠标的设备；在移动设备上，无论此设置如何，都可以通过滑动来导航全景图。"
 		},
 		{
 			"id": "publishtowebsettings.webpage.title",
-			"machinetranslated": true,
 			"helptext": "显示在全景图上方的网页标题。"
 		},
 		{
 			"id": "publishtowebsettings.webpage.description",
-			"machinetranslated": true,
 			"helptext": "说明，显示在全景图下方的网页上。"
 		},
 		{
 			"id": "publishtowebsettings.webpage.customtemplate.enabled",
-			"machinetranslated": true,
 			"helptext": "使用自定义 HTML 模板。如果启用，则应选择模板文件。",
 			"morehelptext": "<br><br>有关更多信息，请参阅<a href='helppage:publishtowebsite'>使用发布到网站</a>"
 		},
 		{
 			"id": "publishtowebsettings.webpage.customtemplate.filename",
-			"machinetranslated": true,
 			"helptext": "要使用的 HTML 模板的文件名。按<b>@publishtowebsite.createtemplate@</b>创建一个可编辑的。",
 			"morehelptext": "<br><br>有关更多信息，请参阅<a href='helppage:publishtowebsite'>使用发布到网站</a>"
 		},
 		{
 			"id": "publishtowebsettings.webpage.customtemplate.browse",
-			"machinetranslated": true,
 			"helptext": "选择您创建的 HTML 模板的文件名。",
 			"morehelptext": "<br><br>有关更多信息，请参阅<a href='helppage:publishtowebsite'>使用发布到网站</a>"
 		},
 		{
 			"id": "publishtowebsettings.webpage.customtemplate.createtemplate",
-			"machinetranslated": true,
 			"helptext": "创建一个新的 HTML 模板。可以通过编辑 html 内容来自定义模板。",
 			"morehelptext": "<br><br>有关更多信息，请参阅<a href='helppage:publishtowebsite'>使用发布到网站</a>"
 		},
 		{
 			"id": "converttocubic.sourcefiles",
-			"machinetranslated": true,
 			"helptext": "要处理的全景图。可以批量处理多个全景图。",
 			"morehelptext": "<br><br>单击下面的+按钮，或将文件拖放到列表中，将全景图添加到列表中。有关更多信息，请参阅<a href='helppage:converttocubic'>@menubar.tools.converttocubic@</a>"
 		},
 		{
 			"id": "converttocubic.sourcefiles.add",
-			"machinetranslated": true,
 			"label": "添加",
 			"helptext": "将全景图添加到要处理的文件列表中。"
 		},
 		{
 			"id": "converttocubic.sourcefiles.remove",
-			"machinetranslated": true,
 			"label": "移除",
 			"helptext": "从列表中删除所选文件。"
 		},
 		{
 			"id": "converttocubic.projection",
-			"machinetranslated": true,
-			"helptext": "全景投影。球面全景图通常是等长矩形投影。",
+			"helptext": "全景图投影。球形全景图通常使用等距柱状投影。",
 			"morehelptext": "<br><br>有关更多信息，请参阅<a href='helppage:converttocubic'>@menubar.tools.converttocubic@</a>"
 		},
 		{
 			"id": "converttocubic.hfov",
-			"machinetranslated": true,
-			"helptext": "全景的水平的看法。对于球形全景图，请输入360°。",
+			"helptext": "全景图的水平视野。对于球形全景图请输入 360°。",
 			"morehelptext": "<br><br>有关更多信息，请参阅<a href='helppage:converttocubic'>@menubar.tools.converttocubic@</a>"
 		},
 		{
@@ -8960,44 +8042,36 @@
 		},
 		{
 			"id": "converttocubic.saveas",
-			"machinetranslated": true,
 			"helptext": "用于生成的文件的文件和文件夹名称。",
 			"morehelptext": "<br><br> PTGui 将附加适当的后缀或扩展名。如果输入相对路径，则将相对于源图像文件夹进行解释。"
 		},
 		{
 			"id": "converttocubic.defaults",
-			"machinetranslated": true,
 			"helptext": "将此处的所有设置重置为默认值。"
 		},
 		{
 			"id": "converttocubic.convert",
-			"machinetranslated": true,
 			"helptext": "转换图像并生成所有文件。"
 		},
 		{
 			"id": "converttocubic.targetformat",
-			"machinetranslated": true,
 			"helptext": "要转换为的目标格式。",
 			"morehelptext": "<br><br><b>@cubicconverter.convertto.qtvr@：</b> QTVR 是 QuickTime .mov视频格式的一种特殊方言，支持球形全景的交互式播放。多年来，这一直是在网页中嵌入全景图的首选格式： QuickTime 插件安装在每台Mac和许多Windows计算机上（它包含在iTunes for Windows中）。 2009年，Apple已经放弃了对 QuickTime 的 QTVR 支持，所以现在应该将其视为传统格式。<br><br><b>@cubicconverter.convertto.cubefacestrip@：</b>转换为6个立方体面，作为水平条放置在单个图像中。<br><br><b>@cubicconverter.convertto.cubefaces@：</b>转换为6个单独的立方体面部图像。"
 		},
 		{
 			"id": "converttocubic.fileformat",
-			"machinetranslated": true,
 			"helptext": "创建的图像的文件格式。"
 		},
 		{
 			"id": "converttocubic.cubefacenames",
-			"machinetranslated": true,
-			"helptext": "为6个创建的映象配置文件名后缀。"
+			"helptext": "为 6 个生成的图像配置文件名后缀。"
 		},
 		{
 			"id": "converttocubicsettings.cubefacesize",
-			"machinetranslated": true,
 			"helptext": "生成的立方体面的宽度和高度（以像素为单位）。选择@options.automatic@以使用最佳尺寸。"
 		},
 		{
 			"id": "converttocubicsettings.autocubefacesize",
-			"machinetranslated": true,
 			"helptext": "使用最佳立方体面大小。在此尺寸下，输出分辨率与全景图像的分辨率相匹配。"
 		},
 		{
@@ -9010,55 +8084,45 @@
 		},
 		{
 			"id": "converttocubicsettings.angles",
-			"machinetranslated": true,
 			"helptext": "初始查看参数和限制。",
 			"morehelptext": "<br><br><b>@+pan@</b>设置和限制水平观察方向：0°是全景的中心，-180°是最左侧，180°是最右侧。<br><br><b>@+tilt@</b>设置和限制垂直观察方向：0°是地平线，90°是天顶，-90°是天底。<br><br>选择<b>@options.automatic@</b>自动设置@pan@和@tilt@限制，使可见区域限制为全景的边界。<br><br><b>@panoramaeditor.sidebar.projectionpanel.fov@</b>设置和限制缩放：较低的值放大，而较高的值缩小。在实践中，90°是良好的初始视场，120°是合适的最大值。"
 		},
 		{
 			"id": "cptable.filterimage",
-			"machinetranslated": true,
 			"helptext": "过滤表格以仅显示所选图像的控制点。"
 		},
 		{
 			"id": "cptable.filtertype",
-			"machinetranslated": true,
 			"helptext": "过滤表格以仅显示特定类别的控制点。",
 			"morehelptext": "<br><br> PTGui 支持4种不同的控制点类别：@cptable.normal@，@cptable.horizontalline@，@cptable.verticalline@和@cptable.line@。使用此过滤器仅显示特定类别的控制点。"
 		},
 		{
 			"id": "cptable.table",
-			"machinetranslated": true,
 			"morehelptext": "@controlpointstable@。 <a href='helppage:cptable'>阅读更多...</a>"
 		},
 		{
 			"id": "batchbuilder.detect",
-			"machinetranslated": true,
 			"helptext": "通过分析带有图像的文件夹来检测全景图。"
 		},
 		{
 			"id": "batchbuilder.selectmanually",
-			"machinetranslated": true,
 			"helptext": "选择多个图像并将其作为单个项目添加到列表中。"
 		},
 		{
 			"id": "batchbuilder.projectslist",
-			"machinetranslated": true,
 			"morehelptext": "项目列表，每个生成的项目一行。 <a href='helppage:batchbuilder'>阅读更多...</a>"
 		},
 		{
 			"id": "batchbuilder.templatelist",
-			"machinetranslated": true,
 			"helptext": "用于生成项目文件的模板。",
 			"morehelptext": "<br><br>批处理文件生成器通过先加载一组源图像然后应用此处选择的模板来生成项目。生成的项目将另存为新项目文件。<br><br>默认模板文件夹中的所有模板都显示在列表中。此外，还显示以下选项：<br><br><b>@batchbuilder.newemptyproject@：</b>不要应用任何模板。这与启动新项目和添加源图像的结果相同。当发送到批处理器时，它将运行'@alignimages@'，然后缝合全景图。如果使用@menubar.file@ | @menubar.file.makedefault@更改了默认设置，将使用修改后的默认值。<br><br><b>@batchbuilder.usecurrentastemplate@：</b>使用当前打开的项目并在添加源图像后将其作为模板应用。<br><br><b>@menubar.file.applytemplate.other@：</b>从磁盘中选择一个项目文件作为模板。"
 		},
 		{
 			"id": "batchbuilder.templatefilename",
-			"machinetranslated": true,
 			"helptext": "要使用的模板的文件名。单击@browse@选择一个。"
 		},
 		{
 			"id": "batchbuilder.alignimages",
-			"machinetranslated": true,
 			"helptext": "配置批量拼接器是否应在拼接前分析和对齐图像。",
 			"morehelptext": "<br><br>默认情况下，这对应于模板项目中@mainwindow.tabs.projectsettings@ - @mainwindow.projectsettings.batchstitcheractions@下的设置。此处重复此设置，可以覆盖此设置，因为它是常见的混肴源。<br><br>可以将批处理拼接器配置为在拼接全景图之前运行“@alignimages@”。如果启用，批处理混合器将首先分析图像，生成控制点，优化项目等。在@mainwindow.tabs.projectsettings@ - 对齐图像行为下的模板中将配置完成的具体操作。对齐后，更新的项目文件将保存到磁盘。<br><br>如果停用，项目将与模板中的完全拼接，因此模板应包含正确对齐的图像。<br><br>基本上，批处理文件生成器有两种不同的用例：<br><br>1.使用完全相同的设置缝合许多全景图，而不生成控制点。这可以用于例如多相机装备，其中所有全景图保证具有相同的图像取向。在这种情况下，必须跳过“@alignimages@”。<br><br>2.或者通过将 PTGui 指向包含图像的文件夹来自动拼接多个全景图。例如通过在全景三脚架头上旋转相机来拍摄图像。在这种情况下，每个全景图中的图像位置通常会略有不同。即使全景头具有咔嗒声停止，机械公差也会导致每个全景图像中的图像方向发生微小变化。为了补偿这一点，PTGui 应该分析每个全景图像并生成控制点，因此必须在缝合之前运行“@alignimages@”。"
 		},
@@ -9072,35 +8136,29 @@
 		},
 		{
 			"id": "batchbuilder.generate",
-			"machinetranslated": true,
 			"helptext": "运行批处理文件生成器以生成项目文件。"
 		},
 		{
 			"id": "batchbuilderdetect.method",
-			"machinetranslated": true,
 			"helptext": "用于查找全景图的方法。",
 			"morehelptext": "<br><br>批处理文件生成器可以通过以下方式之一检测全景图：<br><br><b>@batchbuilderdetect.method.oneperfolder@：</b>如果您已将源图像组织在每个全景图的单独文件夹中，请使用此选项。PTGui Pro将查看所选文件夹，所有子文件夹，子子文件夹等，并为包含一个或多个图像的每个文件夹生成项目文件。每个项目文件将包含该文件夹中找到的所有图像。<br><br><b>@batchbuilderdetect.method.fixednumimages@：</b>如果所有源图像都在一个文件夹中，并且所有全景图应具有固定数量的图像，请使用此方法。例如，如果文件夹包含100个图像并且每个全景图像的数量设置为7，则结果将是15个项目，每个项目包含7个图像（最后一个除外）。图像按字母顺序排序和分组。<br><br><b>@batchbuilderdetect.method.shootingdate@：</b>将根据拍摄日期/时间检测项目：如果在指定的秒数内拍摄图像，则会认为图像形成全景。其他滤镜条件允许您根据焦距进行滤镜，并且仅限定具有相同焦距，曝光时间，光圈和/或ISO值的后续图像。<br><br><b>@batchbuilderdetect.method.subfolderpercamera@：</b>此方法可用于从多个摄象机创建延时全景图。可以将每个摄象机的保存卡复制到单独的子文件夹中。每个子文件夹应包含相同数量的图像，以相同的升序数字顺序排列。生成的项目文件将从每个子文件夹中获取一个图像（子文件夹名称按字母顺序排列）。"
 		},
 		{
 			"id": "batchbuilderdetect.folder",
-			"machinetranslated": true,
 			"helptext": "要扫描的根文件夹。按@browse@进行选择。"
 		},
 		{
 			"id": "batchbuilderdetect.subfolderprefix",
-			"machinetranslated": true,
 			"helptext": "仅扫描名称以这些字符开头的子文件夹。",
 			"morehelptext": "<br><br>例如，如果包含图像的子文件夹名为“camera1”，“camera2”等，请输入“camera”以仅扫描这些文件夹。"
 		},
 		{
 			"id": "batchbuilderdetect.filterextension",
-			"machinetranslated": true,
 			"helptext": "仅使用此扩展名的图像文件名。",
 			"morehelptext": "<br><br>输入没有句点的扩展名（JPG，而不是.JPG）。过滤不区分大小写，因此这将匹配image.jpg和image.JPG<br><br>可以输入多个扩展名，用逗号分隔。例如：tif，jpg"
 		},
 		{
 			"id": "batchbuilderdetect.imagesperpanorama",
-			"machinetranslated": true,
 			"helptext": "每幅全景图像的数量。",
 			"morehelptext": "<br><br>例如，如果文件夹包含100个图像并且设置为7，则结果将是14个项目，每个项目包含7个图像，一个项目包含2个图像。按字母顺序按文件名对图像进行排序和分组。"
 		},
@@ -9110,32 +8168,26 @@
 		},
 		{
 			"id": "batchbuilderdetect.focallength",
-			"machinetranslated": true,
 			"helptext": "仅在此范围内使用具有记录焦距（在 EXIF 数据中）的图像。留空以忽略焦距。"
 		},
 		{
 			"id": "batchbuilderdetect.samefocallength",
-			"machinetranslated": true,
 			"helptext": "如果图像具有与前一图像不同的焦距（根据 EXIF 数据），则启动新项目。"
 		},
 		{
 			"id": "batchbuilderdetect.sameexposuretime",
-			"machinetranslated": true,
 			"helptext": "如果图像的曝光时间（根据 EXIF 数据）与前一图像的曝光时间不同，则启动新项目。"
 		},
 		{
 			"id": "batchbuilderdetect.sameaperture",
-			"machinetranslated": true,
 			"helptext": "如果图像具有与前一图像不同的光圈（根据 EXIF 数据），则启动新项目。"
 		},
 		{
 			"id": "batchbuilderdetect.sameiso",
-			"machinetranslated": true,
 			"helptext": "如果图像具有与前一图像不同的ISO值（根据 EXIF 数据），则启动新项目。"
 		},
 		{
 			"id": "batchbuilderdetect.run",
-			"machinetranslated": true,
 			"helptext": "开始扫描全景图。"
 		},
 		{
@@ -9144,77 +8196,62 @@
 		},
 		{
 			"id": "aligntogrid.imagerange",
-			"machinetranslated": true,
-			"helptext": "要应用网格的图像范围。项目的第一个图像的编号为1.范围包括最后一个编号。"
+			"helptext": "要应用网格的图像范围。项目的第一张图像编号为 1。范围包含最后一个编号。"
 		},
 		{
 			"id": "aligntogrid.rowscolumns",
-			"machinetranslated": true,
 			"helptext": "网格中的行数和列数。使用@presetbutton@按钮从列表中进行选择。"
 		},
 		{
 			"id": "aligntogrid.rowscolumns.preset",
-			"machinetranslated": true,
 			"helptext": "选择行数和列数。此列表基于网格中包含的图像总数。"
 		},
 		{
 			"id": "aligntogrid.shootingconfig",
-			"machinetranslated": true,
 			"helptext": "共支持 16 种不同的拍摄配置。箭头表示所选的拍摄顺序。"
 		},
 		{
 			"id": "aligntogrid.horizontal.center",
-			"machinetranslated": true,
 			"helptext": "将全景水平居中于@yaw@ = 0°附近"
 		},
 		{
 			"id": "aligntogrid.horizontal.offset",
-			"machinetranslated": true,
 			"helptext": "配置列的水平（@yaw@）偏移。"
 		},
 		{
 			"id": "aligntogrid.horizontal.spacedby",
-			"machinetranslated": true,
 			"helptext": "列之间的水平间隔（以@yaw@为单位）。"
 		},
 		{
 			"id": "aligntogrid.horizontal.overlap",
-			"machinetranslated": true,
 			"helptext": "列的水平重叠（以图像宽度的％表示）。"
 		},
 		{
 			"id": "aligntogrid.horizontal.stretch360",
-			"machinetranslated": true,
-			"helptext": "将色谱柱均匀分布，使它们形成360°全景。"
+			"helptext": "将列均匀分布，使其形成 360° 全景图。"
 		},
 		{
 			"id": "aligntogrid.vertical.center",
-			"machinetranslated": true,
 			"helptext": "使全景垂直居中于@pitch@ = 0°附近"
 		},
 		{
 			"id": "aligntogrid.vertical.offset",
-			"machinetranslated": true,
 			"helptext": "配置行的垂直（@pitch@）偏移。"
 		},
 		{
 			"id": "aligntogrid.vertical.spacedby",
-			"machinetranslated": true,
 			"helptext": "行之间的垂直间隔（以@pitch@为单位）。"
 		},
 		{
 			"id": "aligntogrid.vertical.overlap",
-			"machinetranslated": true,
 			"helptext": "行的垂直重叠（以图像高度的百分比表示）。"
 		},
 		{
 			"id": "aligntogrid.roll.dontchange",
-			"machinetranslated": true,
 			"helptext": "保持所有@roll@角度。"
 		},
 		{
 			"id": "aligntogrid.roll.set",
-			"machinetranslated": true,
 			"helptext": "将所选图像的所有@roll@角度设置为此值。"
 		},
 		{
@@ -9227,19 +8264,16 @@
 		},
 		{
 			"id": "batchstitcher.toolbar.addproject",
-			"machinetranslated": true,
 			"label": "@batchstitcher.menubar.addprojects@",
 			"helptext": "将项目添加到队列中。"
 		},
 		{
 			"id": "batchstitcher.toolbar.removeproject",
-			"machinetranslated": true,
 			"label": "@batchstitcher.menubar.removeprojects@",
 			"helptext": "从队列中删除所选项目。"
 		},
 		{
 			"id": "batchstitcher.toolbar.openbatchlist",
-			"machinetranslated": true,
 			"label": "@batchstitcher.menubar.openbatchlist@",
 			"helptext": "加载批处理列表。批处理列表保存作业列表，包括每个作业的“完成/未完成”状态。"
 		},
@@ -9260,17 +8294,14 @@
 		},
 		{
 			"id": "batchstitcher.toolbar.help",
-			"machinetranslated": true,
 			"label": "@help@"
 		},
 		{
 			"id": "batchstitcher.clearlog",
-			"machinetranslated": true,
 			"label": "清除日志"
 		},
 		{
 			"id": "batchstitcher.projectslist",
-			"machinetranslated": true,
 			"morehelptext": "工作队列。请参阅： <a href='helppage:batchstitcher'>使用批处理混合器</a>"
 		},
 		{
@@ -9279,70 +8310,58 @@
 		},
 		{
 			"id": "philosphere.start",
-			"machinetranslated": true,
 			"helptext": "开始转换。系统将提示您输入源图像文件，并询问保存两个结果图像的位置。"
 		},
 		{
 			"id": "lensdatabase.entries",
-			"machinetranslated": true,
 			"morehelptext": "镜头数据库记录。请参阅： <a href='helppage:lensdatabase'>使用镜头数据库</a>"
 		},
 		{
 			"id": "lensdatabase.entries.add",
-			"machinetranslated": true,
 			"label": "添加",
 			"morehelptext": "<br><br>可以从主窗口的@mainwindow.tabs.lenssettings@选项卡添加镜头数据库记录。请参阅： <a href='helppage:lensdatabase'>使用镜头数据库</a>"
 		},
 		{
 			"id": "lensdatabase.entries.remove",
-			"machinetranslated": true,
 			"label": "移除",
 			"helptext": "删除选定的镜头数据库记录。"
 		},
 		{
 			"id": "lensdatabase.mappings",
-			"machinetranslated": true,
 			"helptext": "所选镜头数据库记录的 EXIF 关联。",
 			"morehelptext": "<br><br>镜头数据库记录可与 EXIF 数据相关联，以自动将自定义设置应用于来自特定相机/镜头组合的图像。请参阅： <a href='helppage:lensdatabase'>使用镜头数据库</a>"
 		},
 		{
 			"id": "lensdatabase.mappings.add",
-			"machinetranslated": true,
 			"label": "添加 EXIF 关联",
 			"morehelptext": "<br><br>可以在主窗口的@mainwindow.tabs.lenssettings@选项卡中进行关联。请参阅： <a href='helppage:lensdatabase'>使用镜头数据库</a>"
 		},
 		{
 			"id": "lensdatabase.mappings.remove",
-			"machinetranslated": true,
 			"label": "删除 EXIF 关联",
 			"morehelptext": "删除选定的关联。从本相机/镜头加载图像时，将不再自动应用镜头设置。请参阅： <a href='helppage:lensdatabase'>使用镜头数据库</a>"
 		},
 		{
 			"id": "cameradatabase.entries",
-			"machinetranslated": true,
 			"morehelptext": "相机数据库记录。请参阅： <a href='helppage:cameradatabase'>使用摄象机数据库</a>"
 		},
 		{
 			"id": "cameradatabase.entries.add",
-			"machinetranslated": true,
 			"label": "添加",
 			"morehelptext": "<br><br>可以从主窗口的@mainwindow.tabs.lenssettings@选项卡添加摄象机数据库记录。请参阅： <a href='helppage:cameradatabase'>使用摄象机数据库</a>"
 		},
 		{
 			"id": "cameradatabase.entries.remove",
-			"machinetranslated": true,
 			"label": "移除",
 			"helptext": "删除选定的相机数据库记录。"
 		},
 		{
 			"id": "focallengthdialog.loadfromlensdb",
-			"machinetranslated": true,
 			"helptext": "使用镜头数据库中的镜头数据。",
 			"morehelptext": "<br><br>您可以使用镜头数据库保存自定义镜头设置。从此列表中选择以初始化镜头数据库中的所有镜头参数。镜头数据库可以通过@menubar.tools@ | @lensdatabase@打开。另请参阅： <a href='helppage:lensdatabase'>使用镜头数据库</a>"
 		},
 		{
 			"id": "focallengthdialog.focallength",
-			"machinetranslated": true,
 			"helptext": "镜头的焦距以毫米为单位。",
 			"morehelptext": "<br><br>输入实际焦距，而不是35mm等效焦距。<br><br>输入焦距后，“@focallengthdialog.lenstype@”列表将使用匹配镜头进行更新。从列表中选择合适的镜头类别。"
 		},
@@ -9352,42 +8371,35 @@
 		},
 		{
 			"id": "focallengthdialog.lenstype",
-			"machinetranslated": true,
-			"helptext": "选择镜头类别。此列表按上面输入的焦距进行过滤，因此请先输入焦距。",
+			"helptext": "选择镜头类型。此列表按上面输入的焦距过滤，因此请先输入焦距。",
 			"morehelptext": "<br><br>根据输入的焦距，此列表可能会显示以下镜头类别：<br><br><b>@focallengthdialog.regularlens@：</b>对于非鱼眼镜头，除焦距外，PTGui 不需要知道任何特定数据。因此，应为所有非鱼眼镜头选择此项目。<br><br><b>@txt.genericfisheye@：</b>如果您的镜头是鱼眼镜头但是特定镜头型号未在列表中显示，请选择此选项。PTGui 将镜头参数初始化为@projection.fullframefisheye@或@projection.circularfisheye@，具体取决于裁剪圆是否在图像中可见。对于等固体鱼眼投影，鱼眼因子将设置为-0.5；这是最常见的类别。<br><br><b>特定的鱼眼镜头型号：</b>根据输入的焦距，显示可能的鱼眼镜头列表。如果您的镜头在列表中，请在此处选择它。PTGui 会将镜头参数初始化为@projection.fullframefisheye@或@projection.circularfisheye@，具体取决于裁剪圆是否在图像中可见。鱼眼因子和裁剪圈将从已知值适当初始化。如果您的镜头是鱼眼镜头并且此处未显示，请向我们发送样本图像，以便我们将其包含在下一版本的 PTGui 中。<br><br>有关镜头参数的更多信息：转到主窗口中的@mainwindow.tabs.lenssettings@选项卡。如果未显示@mainwindow.tabs.lenssettings@选项卡，请先单击@advanced@。"
 		},
 		{
 			"id": "focallengthdialog.alwaysuse",
-			"machinetranslated": true,
-			"helptext": "为镜头数据库添加关联，以获取这些镜头设置和图像的 EXIF 数据。",
+			"helptext": "为这些镜头设置和图像的 EXIF 数据添加镜头数据库关联。",
 			"morehelptext": "<br><br>通过在镜头数据库中进行关联，下次加载来自同一镜头/相机的图像时，将自动加载这些设置。有关更多信息，请参阅： <a href='helppage:lensdatabase'>使用镜头数据库</a>"
 		},
 		{
 			"id": "sensorsizedialog.sensorsize",
-			"machinetranslated": true,
 			"helptext": "在此处输入相机传感器尺寸。",
 			"morehelptext": "<br><br>要计算镜头的投影，PTGui 不仅需要知道焦距，还需要知道相机的传感器尺寸。在不知道传感器尺寸的情况下，焦距是无意义的值。传感器尺寸可以通过3种方式输入：<br><br><b>@sensorsizedialog.cropfactor@</b>与传统的全画幅24 x 36 mm传感器格式相比，这是相对传感器尺寸。 1x对应于全帧传感器，较高的值对应于较小的传感器尺寸。<br><br><b>@sensorsizedialog.diagonal@</b>传感器左上角和右下角之间的距离。<br><br><b>@sensorsizedialog.sensorsize@</b>传感器的宽度和高度（以mm为单位）。"
 		},
 		{
 			"id": "sensorsizedialog.preset",
-			"machinetranslated": true,
 			"helptext": "如果您不知道相机传感器尺寸，请从此列表中选择最合适的项目。"
 		},
 		{
 			"id": "sensorsizedialog.alwaysuse",
-			"machinetranslated": true,
-			"helptext": "根据给定的传感器大小和图像的 EXIF 数据，将记录添加到相机数据库。",
+			"helptext": "根据给定的传感器尺寸和图像的 EXIF 数据，向相机数据库添加记录。",
 			"morehelptext": "<br><br>通过向摄象机数据库添加记录，下次加载来自同一摄象机的图像时，将自动加载这些设置。有关更多信息，请参阅： <a href='helppage:cameradatabase'>使用摄象机数据库</a>"
 		},
 		{
 			"id": "options.tooltipmode",
-			"machinetranslated": true,
 			"helptext": "配置是否显示工具提示。你现在正在看这样一个工具提示。",
 			"morehelptext": "<br><br>当鼠标指针保持在输入字段上方一秒钟时，会显示工具提示。<br><br><b>@options.tooltipmode.no@：</b>根本不显示工具提示。<br><br><b>@options.tooltipmode.onlytoolbars@：</b>仅显示工具栏图标和其他没有任何文本的按钮的工具提示。<br><br><b>@options.tooltipmode.yes@：</b>显示所有工具提示。"
 		},
 		{
 			"id": "options.contentscalefactor",
-			"machinetranslated": true,
 			"helptext": "使用此因子放大或缩小所有用户界面元素。",
 			"morehelptext": "<br><br>设置为100％以使用默认大小。必须重新启动 PTGui 才能使更改生效。 <optional platform='windows'>由于Windows的限制，菜单栏的字体大小不受影响。</optional>"
 		},
@@ -9397,7 +8409,6 @@
 		},
 		{
 			"id": "options.checkforupdates",
-			"machinetranslated": true,
 			"helptext": "如果启用，PTGui 将每周最多检查一次是否有新版本的软件可用。",
 			"morehelptext": "<br><br>如果有新版本，将弹出通知。您也可以使用@menubar.help@ | @menubar.help.checkforupdates@随时手动检查更新。"
 		},
@@ -9415,7 +8426,6 @@
 		},
 		{
 			"id": "options.autoaddrelatedimages.threshold",
-			"machinetranslated": true,
 			"helptext": "仅考虑在此时间范围内拍摄的图像。"
 		},
 		{
@@ -9428,7 +8438,6 @@
 		},
 		{
 			"id": "options.showintaskbar",
-			"machinetranslated": true,
 			"morehelptext": "<b>@options.showintaskbar.mainwindow@：</b> PTGui 主窗口的任务栏中只显示一个按钮。<br><br><b>@options.showintaskbar.all@：</b>每个窗口在任务栏中都有一个单独的按钮。请注意，Windows任务栏选项具有将同一应用程序的所有任务栏按钮组合到一个按钮的设置。应停用此选项以查看单独的任务栏图标。"
 		},
 		{
@@ -9473,7 +8482,6 @@
 		},
 		{
 			"id": "options.cpeditor.zoomermagnification",
-			"machinetranslated": true,
 			"helptext": "@mainwindow.tabs.controlpoints@选项卡中浮动放大镜窗口的缩放系数。"
 		},
 		{
@@ -9491,7 +8499,6 @@
 		},
 		{
 			"id": "options.cpeditor.resetcptabwhenswitchingimages",
-			"machinetranslated": true,
 			"helptext": "在@mainwindow.tabs.controlpoints@选项卡中切换到不同图像时，控制“@cptypetoadd@”的行为。",
 			"morehelptext": "<br><br>如果启用，只要显示不同的图像，'@cptypetoadd@'将重置为默认设置。默认设置为@cptable.normal@，或者如果两个面板中显示相同的图像，则为@cptable.verticalline@。<br><br>如果停用，将保留当前设置。"
 		},
@@ -9506,14 +8513,12 @@
 		},
 		{
 			"id": "options.cpgenerator.maxcpsperproject",
-			"machinetranslated": true,
 			"helptext": "将为整个项目生成的最大控制点数。",
 			"morehelptext": "<br><br>对于由许多图像组成的项目，每个图像对需要更少的控制点。这是因为所有图像的控制点一起用于估计镜头参数。限制控制点的总数将减少优化程序所需的时间。<br><br>无论此设置如何，PTGui 将为每个图像对保留至少5个控制点，因为这些是准确定位图像所需的。因此，对于大型项目，实际上可能会生成比此处配置的更多控制点。"
 		},
 		{
 			"id": "options.plugins.enblend.application",
-			"machinetranslated": true,
-			"helptext": "选择Enblend可运行文件的路径，或单击@browse@在磁盘上选择它。",
+			"helptext": "选择 Enblend 可执行文件的路径，或单击@browse@在磁盘上选择。",
 			"morehelptext": "<br><br>Enblend是第三方全景融合应用程序。可以选择Enblend用于@mainwindow.tabs.createpanorama@选项卡中的混合，位于'@mainwindow.createpanoramatab.blendusing@'。"
 		},
 		{
@@ -9522,19 +8527,16 @@
 		},
 		{
 			"id": "options.plugins.smartblend.application",
-			"machinetranslated": true,
-			"helptext": "选择Smartblend可运行文件的路径，或单击@browse@在磁盘上选择它。",
+			"helptext": "选择 Smartblend 可执行文件的路径，或单击@browse@在磁盘上选择。",
 			"morehelptext": "<br><br>Smartblend是第三方全景融合应用程序。可以选择Smartblend用于@mainwindow.tabs.createpanorama@选项卡中的混合，位于“@mainwindow.createpanoramatab.blendusing@”。"
 		},
 		{
 			"id": "options.plugins.smartblend.cmdline",
-			"machinetranslated": true,
-			"helptext": "可选的。输入必须传递给Smartblend的任何命令行参数。"
+			"helptext": "可选。输入必须传递给 Smartblend 的任何命令行参数。"
 		},
 		{
 			"id": "options.plugins.dcraw.application",
-			"machinetranslated": true,
-			"helptext": "输入自定义dcraw可运行文件的位置。留空以使用与 PTGui 捆绑的dcraw。",
+			"helptext": "输入自定义 dcraw 可执行文件的位置。留空以使用与 PTGui 捆绑的 dcraw。",
 			"morehelptext": "<br><br>对于加载相机RAW文件，PTGui 使用开源DCRaw应用程序。PTGui 附带了一份DCRaw，但可以通过在此处输入可运行文件的完整路径来配置为使用不同版本的DCRaw。如果可以使用比 PTGui 附带的更新版本的DCRaw，这可能很有用。<br><br>将此字段留空以使用与 PTGui 捆绑的DCRaw应用程序；每次升级 PTGui 都会包含更新版本的DCRaw。"
 		},
 		{
@@ -9549,33 +8551,27 @@
 		},
 		{
 			"id": "options.advanced.automaxram",
-			"machinetranslated": true,
-			"helptext": "为要使用的最大RAM量选择合适的值。如果要覆盖此选项，请取消选择。"
+			"helptext": "为要使用的最大 RAM 量选择合适的值。如果要覆盖此选项，请取消选择。"
 		},
 		{
 			"id": "options.advanced.gpuacceleration.enabled",
-			"machinetranslated": true,
-			"helptext": "如果启用，PTGui 将尽可能使用图形卡（ GPU ）进行图像处理。",
+			"helptext": "启用后，PTGui 将尽可能使用显卡（GPU）进行图像处理。",
 			"morehelptext": "<br><br>强大的 GPU 可以多次加速拼接。要使用 GPU 缝合支持 OpenCL 1.1的视频卡，至少需要512 MB视频RAM。建议至少使用2 GB的视频RAM。支持AMD和NVIDIA最新的 GPU 。不支持整合图形（整合在CPU中的图形处理器）；一般来说，这些比在CPU上缝合要慢。"
 		},
 		{
 			"id": "options.advanced.gpuacceleration.enableforpreview",
-			"machinetranslated": true,
 			"helptext": "如果在使用全景编辑窗口或细节查看器时遇到问题或崩溃，请停用此功能。"
 		},
 		{
 			"id": "options.advanced.gpuacceleration.device",
-			"machinetranslated": true,
 			"helptext": "如果您的计算机有多个 GPU ，请在此处选择要使用的设备。"
 		},
 		{
 			"id": "options.advanced.gpuacceleration.maxvideoram",
-			"machinetranslated": true,
 			"helptext": "PTGui 使用的最大视频 RAM 量。"
 		},
 		{
 			"id": "options.advanced.gpuacceleration.automaxvideoram",
-			"machinetranslated": true,
 			"helptext": "让 PTGui 决定使用多少视频 RAM。"
 		},
 		{
@@ -9590,34 +8586,28 @@
 		},
 		{
 			"id": "photometricsettings.images",
-			"machinetranslated": true,
 			"helptext": "左侧的设置仅针对所选图像进行调整。"
 		},
 		{
 			"id": "photometricsettings.lensprofile",
-			"machinetranslated": true,
-			"helptext": "使用多个镜头轮廓；从列表中选择镜头配置文件以编辑右侧的设置"
+			"helptext": "使用多个镜头配置文件；从列表中选择一个镜头配置文件以编辑右侧的设置"
 		},
 		{
 			"id": "photometricsettings.optimizevignetting",
-			"machinetranslated": true,
-			"helptext": "配置是否优化渐变。",
+			"helptext": "配置是否优化渐晕。",
 			"morehelptext": "<br><br>渐变也被称为“光线脱落”。渐变导致图像朝向角落变暗。这是镜头的神器；通常，在较大的孔径（较低的f值值）下效果更强。渐变是全景曝光不匹配的主要原因。<br><br><b>停用：</b>渐变不会被优化，渐变曲线将在下一次优化时重置为零。<br><br><b>@photometricsettings.enabled@：</b>将优化渐变。<br><br><b>@photometricsettings.keepcurrent@：</b>将保留当前的渐变参数。"
 		},
 		{
 			"id": "photometricsettings.optimizecameracurve",
-			"machinetranslated": true,
 			"helptext": "配置是否优化相机响应曲线。",
 			"morehelptext": "<br><br>常规图像文件中的像素值不代表场景的实际真实光强度。相反，每个相机根据特定曲线将每个像素的记录亮度映射为数值。曝光校正和 HDR 生成对真实世界的光强度进行操作，因此必须知道相机响应曲线。PTGui Pro可以通过分析多个重叠图像来确定响应曲线。如果在不同曝光时间下拍摄重叠图像，则可获得最准确的结果。<br><br><b>@photometricsettings.cameraresponsecurve.generate@：</b>分析图像以确定响应曲线。如果项目包含在不同曝光设置下拍摄的重叠像素，则只能准确确定相机曲线。因此，此选项仅应用于 HDR 项目。<br><br><b>@photometricsettings.cameraresponsecurve.usedefault@：</b>不要试图确定响应曲线；改为使用标准曲线。<br><br><b>@photometricsettings.keepcurrent@：</b>将保留当前响应曲线。<br><br><b>@options.automatic@（默认）：</b>对于 HDR 项目，将确定摄象机响应曲线；对于非 HDR 项目，使用默认曲线。"
 		},
 		{
 			"id": "photometricsettings.defaults",
-			"machinetranslated": true,
 			"helptext": "将所有设置重置为默认值。"
 		},
 		{
 			"id": "optimizertab.horvertcpmode",
-			"machinetranslated": true,
 			"helptext": "控制优化程序如何处理@cptable.horizontalline@和@cptable.verticalline@控制点。",
 			"morehelptext": "<br><br>“@cptable.horizontalline@”和“@cptable.verticalline@”类别的控制点可用于调平全景。可以通过在@mainwindow.tabs.controlpoints@选项卡的“@cptypetoadd@”框中选择相应的类别来添加它们。此设置仅适用于@cptable.horizontalline@和@cptable.verticalline@类别，而不适用于通用线型控制点。<br><br><b>@mainwindow.optimizertab.horvertcp.ignore@：</b>优化器将忽略任何@cptable.horizontalline@和@cptable.verticalline@控制点。<br><br><b>@mainwindow.optimizertab.horvertcp.levelinsecondpass@：</b>优化器最初只使用常规控制点来对齐图像。然后，@panoeditor.menubar.edit.level@将作为单独的步骤运行。这样可以旋转并移动全景图，直到@cptable.horizontalline@和@cptable.verticalline@控制点水平和垂直对齐。这是推荐选项：@cptable.horizontalline@和@cptable.verticalline@控制点仅用于调平，它们不会影响图像的对齐或镜头参数。<br><br><b>@mainwindow.optimizertab.horvertcp.includeinsinglepass@：</b>优化器使用所有控制点（包括@cptable.horizontalline@和@cptable.verticalline@控制点）来对齐图像并确定镜头参数。使用此选项，例如，如果要在单个图像中拉直水平和垂直线条，则必须调整镜头参数以实现完美拉直。"
 		},
@@ -9640,7 +8630,6 @@
 		},
 		{
 			"id": "batchbuilder.sendtobatchstitcher",
-			"machinetranslated": true,
 			"helptext": "点击“@batchbuilder.generateprojects@”后，将启动批量拼接器处理项目。"
 		},
 		{
@@ -9649,12 +8638,10 @@
 		},
 		{
 			"id": "menubar.tools.openfolder.configfolder",
-			"machinetranslated": true,
 			"helptext": "打开 PTGui 存储其配置文件的文件夹。"
 		},
 		{
 			"id": "exposurehdrtab.noisefloor",
-			"machinetranslated": true,
 			"helptext": "合并到 HDR 时，补偿源图像中的图像噪声。",
 			"morehelptext": "<br><br>将包围曝光的图像合并为 HDR 时，PTGui 从每个重叠的源图像中获取“最佳”像素。对于曝光时间最长的图像以外的所有图像，低于某个亮度的像素将被忽略，因为这些暗像素可能是图像噪点。此滑块设置用于丢弃那些有噪声像素的阈值。如果源图像有噪点（例如，以高ISO拍摄），并且在 HDR 全景中可见噪点，请向右移动滑块，直到噪点消失。但是请注意，这可能会增加运动对象周围的 HDR 伪像，因此为了获得最佳效果，请将滑块尽可能向左移动，直到开始出现噪点为止。可以在“详细信息查看器”中观察结果。<br><br>即使在最亮的曝光下，在黑色的全景部分中仍可能会看到图像噪点。为减少噪点，应在更长的曝光时间添加更多的包围曝光的图像。"
 		},
@@ -9664,12 +8651,10 @@
 		},
 		{
 			"id": "panoramaeditor.sidebar.blendsettings.seamfinding",
-			"machinetranslated": true,
 			"helptext": "分析重叠的图像，并放置接缝，以使其最不明显。"
 		},
 		{
 			"id": "panoramaeditor.sidebar.blendsettings.blending",
-			"machinetranslated": true,
 			"helptext": "均衡接缝两侧的颜色和亮度，以使接缝不可见。"
 		},
 		{
@@ -9679,7 +8664,6 @@
 		},
 		{
 			"id": "panoramaeditor.sidebar.blendsettings.fillholes",
-			"machinetranslated": true,
 			"helptext": "用与周围区域相似的颜色填充全景图中的所有透明区域。",
 			"morehelptext": "<br><br>如果启用，则全景图的所有透明区域都将填充平滑的颜色渐变。如果未拍摄到天底或天顶图像，则可用于例如填充全景的天空或地面。<br><br>它也可以与@mainwindow.tabs.mask@工具一起使用，以模糊全景图的某些部分。例如，模糊人脸以使其无法识别，或去除照片中的灰尘斑点。"
 		},
@@ -9690,25 +8674,21 @@
 		},
 		{
 			"id": "mainwindow.createpanoramatab.outputcolorprofile",
-			"machinetranslated": true,
-			"helptext": "为生成的全景图选择ICC颜色配置文件。",
+			"helptext": "为生成的全景图选择 ICC 颜色配置文件。",
 			"morehelptext": "<br><br>通常通过组合不同数量的红色，绿色和蓝色来产生数字图像中的颜色。但是，红色，绿色和蓝色值的给定组合并不能唯一地描述物理颜色：实际再现的颜色取决于显示器的物理属性。换句话说：不同的显示设备使用略有不同的红色，绿色和蓝色基色。没有更多信息，图像在每个屏幕上看起来可能会有所不同。通过包括颜色配置文件，图像中的像素值与实际的物理颜色匹配。 PTGui会将所有颜色转换为选定的颜色空间，并将ICC颜色配置文件包含在图像文件中。<br><br>常见的颜色配置文件是：<br><br><b>sRGB</b> ：这是数字图像的实际标准色彩空间。该图像在未校准的显示器上以及未进行颜色管理的应用程序中将显得合理。如果您的全景图将发布在Internet上，则sRGB是一个不错的选择。另一方面，sRGB是相对狭窄的色彩空间。某些可以打印在纸上的颜色不属于sRGB颜色空间。<br><br><b>Adobe RGB（1998）</b> ：此颜色空间具有比sRGB更大的色域，并且涵盖了几乎所有可以在纸上打印的颜色。如果要打印全景图，这是一个不错的选择。<br><br><b>ProPhoto RGB</b>和<b>宽色域RGB</b> ：这些色域具有很大的色域，涵盖了人类可以感知的几乎所有可能的颜色。但是，由于它们覆盖的颜色范围比sRGB大得多，因此必须在颜色管理的应用程序中查看生成的图像，否则颜色将显得很暗淡。<br><br>宽色域色彩空间通常应与16位输出一起使用。 8位分辨率不足以覆盖所有可用的颜色，并且平滑的颜色渐变可能具有“后置”外观。因此，JPEG是不合适的格式，因为它被限制为8位。<br><br>请记住，输出到比源图像的色彩空间更宽的色彩空间没有任何好处。将sRGB图像转换为宽色域色彩空间不会改善图像。因此，PTGui提供了使用与源图像相同的颜色配置文件的选项。如果全景图中的所有图像都具有相同的颜色配置文件，则默认情况下会执行此操作。<br><br>对于RAW图像，必须明确选择色彩空间。此颜色空间将在原始转换期间使用。"
 		},
 		{
 			"id": "mainwindow.createpanoramatab.usesourcecolorprofile",
-			"machinetranslated": true,
 			"helptext": "如果所有图像都具有相同的色彩空间，则将使用此色彩空间（而不是上面选择的色彩空间）。",
 			"morehelptext": "<br><br>请注意，对于RAW源图像，此设置将被忽略。 RAW图像将始终转换为上面选择的色彩空间。"
 		},
 		{
 			"id": "mainwindow.exposurehdrpanel.hdrflow",
-			"machinetranslated": true,
 			"helptext": "配置如何处理包围曝光。",
 			"morehelptext": "<br><br>包围曝光可以通过两种方式处理：<br><br><b>@mainwindow.exposurehdrpanel.hdrflow.mergethenblend@：</b> PTGui首先将每组包围曝光的图像组合到HDR图像中（或使用Exposure Fusion将其组合）。然后，将合并的图像混合成全景图。<br><br><b>@mainwindow.exposurehdrpanel.hdrflow.blendthenmerge@：</b>首先，创建了所谓的“混合平面”。混合平面是一种曝光水平下的完整全景图（即，所有在相同曝光时间，光圈和ISO下拍摄的图像）。最后，将单独的混合平面合并为HDR图像或曝光融合图像。此方法仅应用于以手动曝光模式拍摄的全景图。它要求在每个曝光级别都完全覆盖整个全景。<br><br><b>@options.automatic@：</b>为当前项目选择最佳选项。如果图像是在手动曝光模式下拍摄的，则将创建混合平面。否则，将先合并包围的图像，然后再融合。"
 		},
 		{
 			"id": "mainwindow.exposurehdrpanel.mergemethod",
-			"machinetranslated": true,
 			"helptext": "配置如何合并包围曝光。",
 			"morehelptext": "包围曝光（用于HDR）将合并为一张图像。 PTGui可以通过两种不同的方式执行此操作：<br><br><b>@mainwindow.exposurehdrpanel.mergemethod.truehdr@：先将包围</b>曝光的图像合成为真正的高动态范围图像。此HDR图像涵盖了所有源图像的整个动态范围，从最暗的图像到最亮的图像。然后，通常将使用色调映射将其转换为适合显示或打印的低动态范围图像。<br><br><b>@mainwindow.exposurehdrpanel.mergemethod.exposurefusion@：</b>包围曝光直接组合为色调映射的低动态范围图像。这跳过了首先创建用于色调映射的高动态范围图像的步骤。<br><br>可以在Panorama Editor的侧边栏中调整色调映射和曝光融合的设置。"
 		},
@@ -9719,8 +8699,7 @@
 		},
 		{
 			"id": "panoramaeditor.sidebar.exposurefusionsettings.enable",
-			"machinetranslated": true,
-			"helptext": "使用Exposure Fusion组合包围曝光",
+			"helptext": "使用曝光融合组合包围曝光",
 			"morehelptext": "<br><br>曝光融合用于将多个包围式曝光组合成一个动态范围减小的图像。通过为同一张图像创建人造的较暗和较亮的副本，也可以在单个非包围式图像上使用Exposure Fusion。与色调映射类似，这会增加阴影和高光中的可见细节。"
 		},
 		{
@@ -9741,19 +8720,16 @@
 		},
 		{
 			"id": "mainwindow.exposurehdrpanel.blenddatatype",
-			"machinetranslated": true,
 			"helptext": "处理管道的内部精度。",
 			"morehelptext": "<br><br><b>@mainwindow.exposurehdrpanel.blenddatatype.halffloat@：</b>所有内部处理<b>均以</b>每通道16位（每像素64位）“半”浮点格式完成。<br><br><b>@mainwindow.exposurehdrpanel.blenddatatype.float@：</b>所有内部处理<b>均以</b>每个通道32位（每个像素128位）浮点格式进行。<br><br>通常，“ @mainwindow.exposurehdrpanel.blenddatatype.halffloat@”就足够了。仅当使用极高的动态范围图像（16档或更多）时，才可能需要使用“ @mainwindow.exposurehdrpanel.blenddatatype.float@”来防止突出显示高光，但是处理将花费更长的时间，并且需要两倍的内存和临时磁盘空间。"
 		},
 		{
 			"id": "mainwindow.projectsettings.alignimagesbehavior.optimizeexposure.onlyifalignmentsuccesful",
-			"machinetranslated": true,
 			"helptext": "如果图像无法对齐，请跳过自动曝光和色彩调整。",
 			"morehelptext": "<br><br>通过比较重叠图像中的像素来完成自动曝光和颜色调整。因此，必须正确对齐图像。如果启用此选项，并且PTGui无法对齐图像（例如，因为找不到控制点），则将跳过自动曝光和颜色调整。"
 		},
 		{
 			"id": "panoramaeditor.sidebar.blendsettings.seamfindingprecision",
-			"machinetranslated": true,
 			"helptext": "最佳接缝算法的精度",
 			"morehelptext": "<br><br>如果启用了<b>@panoramaeditor.sidebar.blendsettings.seamfinding@</b> ，则PTGui尝试将接缝放置在最<b>不易</b>察觉的位置。 PTGui检查图像重叠的区域，并将接缝穿过重叠图像最相似的区域。该滑块将接缝查找算法的分辨率配置为全景图最佳尺寸的一部分。默认情况下，接缝查找以最佳尺寸的1/8进行。这足以修复大多数针迹错误，例如由移动物体引起的针迹错误。在某些情况下，可以通过更精细地调整接缝来进一步改善针迹。但是，以全分辨率执行最佳接缝查找需要很长时间，并且会占用大量内存。"
 		},
@@ -9764,47 +8740,38 @@
 		},
 		{
 			"id": "txt.saveexposurefusionparameters",
-			"machinetranslated": true,
 			"label": "@txt.saveexposurefusionparameters@"
 		},
 		{
 			"id": "txt.loadexposurefusionparameters",
-			"machinetranslated": true,
 			"label": "@txt.loadexposurefusionparameters@"
 		},
 		{
 			"id": "txt.savetonemapsettings",
-			"machinetranslated": true,
 			"label": "@txt.savetonemapsettings@"
 		},
 		{
 			"id": "txt.loadtonemapsettings",
-			"machinetranslated": true,
 			"label": "@txt.loadtonemapsettings@"
 		},
 		{
 			"id": "txt.savetoningparameters",
-			"machinetranslated": true,
 			"label": "@txt.savetoningparameters@"
 		},
 		{
 			"id": "txt.loadtoningparameters",
-			"machinetranslated": true,
 			"label": "@txt.loadtoningparameters@"
 		},
 		{
 			"id": "txt.savecameraresponsecurve",
-			"machinetranslated": true,
 			"label": "@txt.savecameraresponsecurve@"
 		},
 		{
 			"id": "txt.loadcameraresponsecurve",
-			"machinetranslated": true,
 			"label": "@txt.loadcameraresponsecurve@"
 		},
 		{
 			"id": "defaults",
-			"machinetranslated": true,
 			"label": "@defaults@"
 		},
 		{
@@ -9814,80 +8781,66 @@
 		},
 		{
 			"id": "panoramaeditor.sidebar.blendsettings.blender",
-			"machinetranslated": true,
 			"helptext": "要使用的混合算法。",
 			"morehelptext": "<br><br><b>@panoramaeditor.sidebar.blendsettings.blender.zerooverlap@：</b>此混合算法适用于两个图像之间的接缝。亮度和色差分布在整个图像上，以使图像在接缝处汇合的任何差异最小化。图像不必重叠；接缝外不使用像素。<br><br><b>@panoramaeditor.sidebar.blendsettings.blender.multiband@：</b>这是经典的全景混合算法（在以前的PTGui版本中使用）。通过平滑图像重叠区域中的颜色和亮度差异来完成融合。精细的细节在狭窄的重叠带中融合，纯色与渐进的重叠融合。<br><br><b>@panoramaeditor.sidebar.blendsettings.blender.none@：完全</b>不要混合。颜色和亮度差异将保持可见。<br><br>通常，“ @panoramaeditor.sidebar.blendsettings.blender.zerooverlap@”将提供最佳结果，尤其是如果使用“ @panoramaeditor.sidebar.blendsettings.seamfinding@”（仅适用于PTGui Pro）。接缝外部的所有对象都将被完全隐藏，而“ @panoramaeditor.sidebar.blendsettings.blender.multiband@”可能会导致接缝外部的对象出现重影，因为整个重叠区域都用于混合。另一方面，“ @panoramaeditor.sidebar.blendsettings.blender.multiband@”在混合非常精细的重复图案（例如在天花板或地毯中）时可能会产生更好的结果，并且如果将移动物体通过接缝切成两半，则可能会产生更好的结果。<br><br>“ @panoramaeditor.sidebar.blendsettings.blender.none@”可用于不需要融合的情况，例如，从（非重叠）立方体面重建全景时。"
 		},
 		{
 			"id": "exposurehdrtab.cameracurvegraph_v2",
-			"machinetranslated": true,
 			"helptext": "相机响应曲线",
 			"morehelptext": "<br><br>该曲线显示了从真实光强度到像素值的映射。横轴表示光强度（场景亮度）。垂直轴是线性色彩空间中的像素强度（在应用ICC配置文件的伽玛曲线之前）。通常，PTGui将曲线应用两次：在混合之前，应用反曲线将像素值转换为线性光强度。然后，在线性色彩空间中执行混合，曝光/渐晕校正和HDR合并。然后再次沿相反方向应用曲线，以将线性亮度转换为像素值。最后，在保存图像时，将根据ICC颜色配置文件进行伽玛校正。<br><br>一个项目可以包含多个相机曲线：对于每个源图像，可以在@mainwindow.tabs.imageparameters@选项卡的“ @mainwindow.imageparameters.cameracurve@”列中分配一个相机曲线。如果已知源图像包含线性数据，则也可以将@mainwindow.imageparameters.cameracurve@字段设置为“ @txt.cameracurve.linear@”。默认情况下，PTGui假定RAW和HDR源图像是线性的。如果所有源图像都是线性的，则此处没有摄像机曲线。<br><br>如果配置了多个或零个摄像机曲线，则可以在@panoramaeditor.sidebar.postprocess@面板的@panoramaeditor@中配置要用于输出的曲线。<br><br>PTGui可以将相机响应曲线确定为@mainwindow.exposurehdrpanel.autoexpadjustmentsection@的一部分。按下@mainwindow.exposurehdrpanel.optimizenow@按钮。这就需要使用包围曝光的图像：通过比较不同曝光图像中的相同像素来确定相机响应曲线。对于单张（无包围曝光）曝光，PTGui将使用默认曲线，通常可以正常工作。<br><br>使用上方工具栏中的按钮来编辑，加载，保存或删除曲线，或向项目中添加其他相机曲线。"
 		},
 		{
 			"id": "txt.addcameraresponsecurve",
-			"machinetranslated": true,
 			"helptext": "添加相机响应曲线",
 			"morehelptext": "<br><br>将摄像机响应曲线添加到项目。一个项目可以包含多个相机曲线；对于每个源图像，可以在@mainwindow.tabs.imageparameters@选项卡的“ @mainwindow.imageparameters.cameracurve@”列中分配一条相机曲线。"
 		},
 		{
 			"id": "txt.removecameraresponsecurve",
-			"machinetranslated": true,
 			"helptext": "删除相机响应曲线",
 			"morehelptext": "<br><br>从项目中删除此相机响应曲线。仅当项目中未使用曲线时，才可以将其删除：不得在@mainwindow.tabs.imageparameters@选项卡的“ @mainwindow.imageparameters.cameracurve@”列中选择该曲线。"
 		},
 		{
 			"id": "txt.editcameraresponsecurve",
-			"machinetranslated": true,
 			"helptext": "编辑相机响应曲线"
 		},
 		{
 			"id": "panoramaeditor.sidebar.postprocess.toningcurve",
-			"machinetranslated": true,
 			"helptext": "@txt.toningcurve@",
 			"morehelptext": "<br><br>该曲线显示了从光强度到像素值的映射。横轴表示光强度（场景亮度）。垂直轴是线性色彩空间中的像素值（在应用ICC配置文件的伽玛曲线之前）。可以调整此曲线以更改全景的对比度和亮度。"
 		},
 		{
 			"id": "toningcurve.shapeshift",
-			"machinetranslated": true,
 			"helptext": "调整曲线",
 			"morehelptext": "<br><br>使用“形状”和“移动”滑块调整曲线。形状参数可调整曲线以使其大致呈S形。 Shift参数应用指数函数，有效地将曲线向左或向右移动。"
 		},
 		{
 			"id": "panoramaeditor.sidebar.postprocess.saturation",
-			"machinetranslated": true,
 			"helptext": "增加或减少全景颜色的鲜艳度。"
 		},
 		{
 			"id": "txt.savevignettingcurve",
-			"machinetranslated": true,
 			"helptext": "保存渐晕曲线"
 		},
 		{
 			"id": "txt.loadvignettingcurve",
-			"machinetranslated": true,
-			"helptext": "负载渐晕曲线"
+			"helptext": "加载渐晕曲线"
 		},
 		{
 			"id": "exposurehdrtab.whitebalance_v2",
-			"machinetranslated": true,
 			"helptext": "调整整个全景的白平衡。",
 			"morehelptext": "<br><br><b>@txt.asshot@：</b>如果选择，则不会调整白平衡。图像将以原始颜色混合。<br><br>如果未选择@txt.asshot@，则可以选择所需的全景色温（以开尔文为单位）。白平衡将从原始色温调整为所选色温。每个源图像的原始色温在@mainwindow.tabs.imageparameters@选项卡的“ @mainwindow.imageparameters.whitebalance@”列中进行配置。如果没有为源图像提供色温，则假定为5000K。"
 		},
 		{
 			"id": "proxysettings.proxyserverurl",
-			"machinetranslated": true,
 			"helptext": "代理服务器的地址，协议和端口",
 			"morehelptext": "<br><br>输入代理服务器的URL，包括协议和端口号。例如：<br><br><b>http://proxy.example.com:8888</b>（HTTP代理）<br><b>socks5://proxy.example.com:1080</b>（SOCKS代理）<br><br>代理服务器应配置为允许HTTPS CONNECT。如果计算机无需代理服务器即可连接到Internet，则将该字段保留为空。"
 		},
 		{
 			"id": "proxysettings.proxyserverusername",
-			"machinetranslated": true,
 			"helptext": "如果代理服务器需要身份验证，请输入用户名。"
 		},
 		{
 			"id": "proxysettings.proxyserverpassword",
-			"machinetranslated": true,
 			"helptext": "如果代理服务器需要身份验证，请输入密码。"
 		},
 		{
@@ -9902,77 +8855,64 @@
 		},
 		{
 			"id": "mainwindow.projectsettings.templatebehavior.cameracurve",
-			"machinetranslated": true,
 			"helptext": "控制是否从模板复制相机响应曲线。",
 			"morehelptext": "<br><br><b>@mainwindow.projectsettings.templatebehavior.cameracurve.yes@：</b>所有相机响应曲线均从模板项目中复制，@mainwindow.tabs.imageparameters@ 选项卡中的 @mainwindow.imageparameters.cameracurve@ 字段从模板中复制。<br><br><b>@mainwindow.projectsettings.templatebehavior.cameracurve.nonraw@：</b>从模板复制相机响应曲线，并复制 @mainwindow.tabs.imageparameters@ 选项卡中的 @mainwindow.imageparameters.cameracurve@ 字段，RAW 图像除外。对于 RAW 图像，即使模板使用优化的相机曲线，@mainwindow.tabs.imageparameters@ 选项卡中的 @mainwindow.imageparameters.cameracurve@ 字段仍将设置为 @txt.cameracurve.linear@。这是推荐的设置；它将确保相同的模板可用于 RAW 和常规图像。<br><br><b>@mainwindow.projectsettings.templatebehavior.cameracurve.no@：</b>目标项目中的相机响应曲线设置不会被修改。"
 		},
 		{
 			"id": "projectsettingstab.alignimages.hdrdefaultmode",
-			"machinetranslated": true,
 			"helptext": "检测到包围曝光时的默认设置。",
 			"morehelptext": "<br><br>控制在包围式曝光中运行“@alignimages@”时出现的弹出窗口的默认设置。<br><br><b>@mainwindow.projectsettings.hdrdefaults.hdrdefaultmode.link@：</b>合并包围曝光的图像（形成 HDR 全景图）。此外，通过选中 @mainwindow.tabs.imageparameters@ 选项卡中的 @mainwindow.imageparameters.linked@ 复选框，强制每个括号集中的图像具有相同的 @yaw@ / @pitch@ / @roll@ 设置。如果拍摄时使用了稳定的三脚架，请使用此选项。<br><br><b>@mainwindow.projectsettings.hdrdefaults.hdrdefaultmode.dontlink@：</b>组合包围曝光的图像以形成 HDR 全景图，但未选中 @mainwindow.tabs.imageparameters@ 选项卡中的 @mainwindow.imageparameters.linked@ 复选框。这意味着每个图像都有自己的 @yaw@ / @pitch@ / @roll@ 角度。如果包围曝光不完全重叠，例如手持拍摄时，请使用此选项。<br><br><b>@mainwindow.projectsettings.hdrdefaults.hdrdefaultmode.nohdr@：</b>忽略检测到包围曝光的事实。图像没有合并，也没有生成 HDR 全景图。"
 		},
 		{
 			"id": "panoramaeditor.sidebar.exposurefusionsettings.algorithm",
-			"machinetranslated": true,
 			"helptext": "用于曝光融合的算法",
 			"morehelptext": "<br><br>PTGui 12.0 至 12.20 使用与 PTGui 11 及更早版本不同的曝光融合算法。在 PTGui 12.21 及更高版本中，旧算法再次可用，并且默认使用它，因为它提供了更好的结果。<br><br><b>@panoramaeditor.sidebar.exposurefusionsettings.algorithm.ptgui12@：</b>使用 PTGui 12.0 到 12.20 中使用的曝光融合算法。出于与在 PTGui 12.0 至 12.20 中创建的项目的兼容性原因，此选项可用，不应用于新项目。<br><br><b>@panoramaeditor.sidebar.exposurefusionsettings.algorithm.default@：</b>这是原始的曝光融合算法。这会提供最佳结果，并且是新项目的推荐选项。"
 		},
 		{
 			"id": "detailviewer.sidebar.patch.createpatch",
-			"machinetranslated": true,
 			"helptext": "为当前视图创建补丁。",
 			"morehelptext": "<br><br>捕获当前视图并将其保存为补丁图像。补丁图像将添加到项目中并覆盖在全景图上。 @patchwindow@ 将开放来编辑补丁。<br><br>该补丁可用于删除全景图中不需要的部分，例如删除三脚架或人物。该补丁还可用于填充源图像未覆盖的任何孔洞，例如最低点或最高点。"
 		},
 		{
 			"id": "detailviewer.sidebar.extract",
-			"machinetranslated": true,
 			"helptext": "以全分辨率创建当前视图的快照"
 		},
 		{
 			"id": "detailviewer.sidebar.view",
-			"machinetranslated": true,
 			"helptext": "检查或编辑 @detailviewer@ 的视角"
 		},
 		{
 			"id": "patchwindow.openimage",
-			"machinetranslated": true,
 			"label": "打开图像",
 			"helptext": "打开图像进行修饰。"
 		},
 		{
 			"id": "patchwindow.saveimage",
-			"machinetranslated": true,
 			"label": "保存图片",
 			"helptext": "保存编辑后的图像。"
 		},
 		{
 			"id": "patchwindow.autosave",
-			"machinetranslated": true,
 			"label": "自动保存",
 			"helptext": "每次更改后自动保存编辑后的图像。"
 		},
 		{
 			"id": "patchwindow.saveimageas",
-			"machinetranslated": true,
 			"label": "图像另存为",
 			"helptext": "以不同的名称保存编辑后的图像。"
 		},
 		{
 			"id": "detailviewer.sidebar.patch.notavailableinblendplanemode",
-			"machinetranslated": true,
 			"helptext": "修补工具不可与混合平面一起使用。",
 			"morehelptext": "<br><br>修补工具捕获当前视图并将其保存为修补图像。补丁图像将添加到项目中并覆盖在全景图上。仅当项目具有单个混合平面时才可能实现。<br><br>可以通过切换到 @mainwindow.tabs.exposurehdr@ 选项卡中的工作流程“@mainwindow.exposurehdrpanel.hdrflow.mergethenblend@”来禁用混合平面。<br><br>或者，也可以先完成并缝合全景图。然后可以通过在新的 PTGui 项目中加载完成的全景图来使用修补工具。"
 		},
 		{
 			"id": "detailviewer.sidebar.patch.format",
-			"machinetranslated": true,
 			"helptext": "用于图像的文件格式。",
 			"morehelptext": "<br><br>图像可以保存为 JPEG、TIFF 或 JPEG2000 格式：<br><br>建议使用<b>TIFF</b>以获得最高图像质量，但文件可能非常大。如果源图像限制为每通道 8 位且具有相同的曝光，则可以使用 8 位 TIFF。否则，应使用 16 位 TIFF 来保留完整的动态范围。<br><br><b>JPEG</b>限制为每像素8位，并且不支持透明度，但补丁图像的文件大小会小得多。<br><br><b>JPEG2000</b>支持透明度以及每通道 8 和 16 位。由于有损压缩，文件大小比 TIFF 小得多。"
 		},
 		{
 			"id": "detailviewer.sidebar.patch.format.settings",
-			"machinetranslated": true,
 			"label": "设置"
 		},
 		{
@@ -9981,71 +8921,59 @@
 		},
 		{
 			"id": "detailviewer.sidebar.extractsave",
-			"machinetranslated": true,
 			"helptext": "创建并保存当前视图的快照。系统将提示您输入文件名。"
 		},
 		{
 			"id": "detailviewer.sidebar.view.pitch.down",
-			"machinetranslated": true,
 			"helptext": "将俯仰角设置为 -90°，以查看最低点。"
 		},
 		{
 			"id": "detailviewer.sidebar.view.pitch.middle",
-			"machinetranslated": true,
 			"helptext": "将俯仰角设置为 0°。"
 		},
 		{
 			"id": "detailviewer.sidebar.view.pitch.up",
-			"machinetranslated": true,
 			"helptext": "将俯仰角设置为 90°，以查看天顶。"
 		},
 		{
 			"id": "patchwindow.file.openimage",
-			"machinetranslated": true,
 			"label": "打开图像",
 			"helptext": "打开图像进行修饰。"
 		},
 		{
 			"id": "patchwindow.file.autosave",
-			"machinetranslated": true,
 			"label": "自动保存",
 			"helptext": "每次更改后，自动保存编辑后的图像。"
 		},
 		{
 			"id": "patchwindow.file.save",
-			"machinetranslated": true,
 			"label": "保存图片",
 			"helptext": "保存编辑后的图像。"
 		},
 		{
 			"id": "patchwindow.mode.cut",
-			"machinetranslated": true,
 			"label": "方式: 切孔",
-			"helptext": "在图像上切一个洞以去除不需要的部分。",
+			"helptext": "在图像中切出一个孔以移除不需要的部分。",
 			"morehelptext": "<br><br>单击图像以创建一个封闭区域。图像的这部分将变得透明。在添加补丁之前，使用此功能删除图像中不需要的部分。"
 		},
 		{
 			"id": "patchwindow.mode.patch",
-			"machinetranslated": true,
 			"label": "模式：补丁",
 			"helptext": "通过复制补丁来修饰图像。",
 			"morehelptext": "<br><br>要创建补丁，请在图像中单击以创建封闭区域。该区域将用作补丁的目标。接下来，将补丁拖到应用作补丁源的位置。补丁将从源区域复制到目标区域。"
 		},
 		{
 			"id": "patchwindow.findoptimumseams",
-			"machinetranslated": true,
 			"label": "找到最佳接缝",
 			"helptext": "尝试找到补丁和底层图像之间的最佳接缝。",
 			"morehelptext": "<br><br>如果启用，补丁图像和底层图像之间的接缝将穿过补丁图像和底层图像最相似的区域。这将创造最无缝的结果。您需要首先使用“切孔”模式来指示底层图像的哪些部分在最终结果中不可见。<br><br>如果禁用，补丁将作为一个整体覆盖。边缘仍会混合，但结果不会那么无缝。"
 		},
 		{
 			"id": "patchwindow.help",
-			"machinetranslated": true,
 			"label": "帮助"
 		},
 		{
 			"id": "menubar.controlpoints.deletenonadjacent",
-			"machinetranslated": true,
 			"helptext": "仅保留直接相邻图像之间的控制点。"
 		},
 		{
@@ -10054,19 +8982,16 @@
 		},
 		{
 			"id": "panoramaeditor.sidebar.postprocess.whitebalance",
-			"machinetranslated": true,
 			"helptext": "调整全景的白平衡。",
 			"morehelptext": "<br><br><b>@panoramaeditor.sidebar.postprocess.whitebalance.auto@：</b>如果选择，将以平均源图像的白平衡创建全景图。如果所有图像具有相同的白平衡，则不进行白平衡转换。<br><br>如果未选择 @panoramaeditor.sidebar.postprocess.whitebalance.auto@，则可以选择全景图所需的色温（以开氏度为单位）。白平衡将从原始色温调整为所选色温。每个源图像的原始色温在 @mainwindow.tabs.imageparameters@ 选项卡的“@mainwindow.imageparameters.whitebalance@”列中配置。如果任何源图像的色温均未知，则假定为 5000K。"
 		},
 		{
 			"id": "preprocesstab.noisereduction.chromaamount",
-			"machinetranslated": true,
 			"helptext": "色度（颜色）噪声的降噪强度"
 		},
 		{
 			"id": "preprocesstab.noisereduction.lumaamount",
-			"machinetranslated": true,
-			"helptext": "亮度（亮度）噪声的降噪强度"
+			"helptext": "亮度噪声的降噪强度"
 		},
 		{
 			"id": "fileformatsettings.exrzipcompressionlevel",
@@ -10078,43 +9003,36 @@
 		},
 		{
 			"id": "panoramaeditor.sidebar.hdrpostprocess.exposurereference",
-			"machinetranslated": true,
 			"helptext": "设置生成的 HDR 图像的亮度。",
 			"morehelptext": "<br><br>HDR 图像具有（实际上）无限的动态范围。对于常规低动态范围图像，白色对应于可以存储的最大像素值。但对于 HDR 图像，不存在“白色”这样的东西，需要选择参考亮度。 PTGui 可以通过以下方式缩放生成的 HDR 图像的亮度：<br><br><b>@panoramaeditor.sidebar.hdrpostprocess.exposurereference.middle@：</b>如果全景图是从包围图像生成的，则 HDR 全景图中的值 1.0 对应于中间曝光的白色。例如，如果使用 0/-2/+2 包围曝光，则 0EV 曝光中的白色像素在全景图中的像素值为 1.0。生成的 HDR 全景图通常包含比 1 更亮的像素。这是默认设置。<br><br><b>@panoramaeditor.sidebar.hdrpostprocess.exposurereference.brightest@：</b>如果全景图是从包围图像生成的，则最亮源图像中的白色将对应于 HDR 全景图中的 1.0。因此，HDR 图像的所有像素都将介于 0 和 1 之间。<br><br><b>@panoramaeditor.sidebar.hdrpostprocess.exposurereference.absolute@：</b> @panoramaeditor.sidebar.hdrpostprocess.exposurereference.absolute.helptext@<br><br>请注意，这只是为 HDR 图像设置任意参考亮度。 HDR图像无法直接显示，1.0像素值的实际含义取决于应用程序。 HDR 图像不存在曝光过度的风险：如果 HDR 图像太亮，可以在生成后按比例缩小。与常规图像相反，HDR 图像中不会发生高光剪切。"
 		},
 		{
 			"id": "panoramaeditor.sidebar.hdrpostprocess.absexposure",
-			"machinetranslated": true,
 			"helptext": "@panoramaeditor.sidebar.hdrpostprocess.exposurereference.absolute.helptext@"
 		},
 		{
 			"id": "panoramaeditor.sidebar.hdrpostprocess.exposureoffset",
-			"machinetranslated": true,
-			"helptext": "在 EV 中对 HDR 图像的亮度应用额外的偏移。",
+			"helptext": "对 HDR 图像的亮度应用额外的偏移。",
 			"morehelptext": "<br><br>正值会增加亮度，类似于相机上的曝光补偿。"
 		},
 		{
 			"id": "panoramaeditor.dropper.adjusthdrexposure",
-			"machinetranslated": true,
-			"helptext": "更改 HDR 全景图的曝光度，使该像素在 HDR 全景图中具有指定的亮度。",
+			"helptext": "更改 HDR 全景图的曝光，使该像素在 HDR 全景图中具有指定的亮度。",
 			"morehelptext": "<br><br>这仅影响 HDR 全景的亮度。 LDR 全景（色调映射或曝光融合）不受影响。可以在 @panoramaeditor@ 的“@panoramaeditor.sidebar.hdrpostprocess@”侧栏中手动调整 HDR 曝光。<br><br>一种可能的应用是拍摄具有已知反射率的灰卡，并将 HDR 曝光与灰卡位置处的场景光强度进行匹配。"
 		},
 		{
 			"id": "panoramaeditor.toolbar.dropper",
-			"machinetranslated": true,
 			"helptext": "颜色采样器",
 			"morehelptext": "<br><br>在全景图中单击以选择颜色。支持以下功能：<br><br><b>白平衡调整：</b>单击场景中的灰色物体。将调整白平衡，使所选对象变为中性灰色。<optional product='pro'><br><br><b>调整 HDR 曝光：</b>调整 HDR 全景图的曝光度，使所选像素具有一定的亮度。</optional>"
 		},
 		{
 			"id": "panoramapreviewsettingspanel.previewmode",
-			"machinetranslated": true,
 			"helptext": "在 HDR 和 LDR 预览之间切换。",
 			"morehelptext": "<br><br>生成 HDR 全景图时，选择 @panoramaeditor@ 和 @detailviewer@ 是显示高动态范围全景图还是低动态范围全景图。<br><br><b>@panoramapreviewsettingspanel.previewmode.ldr@</b> 显示低动态范围输出，对应于 @mainwindow.tabs.createpanorama@ 选项卡中的“@mainwindow.createpanoramatab.output.ldr@ @mainwindow.createpanoramatab.blendedpanorama@”输出选项。这将预览色调映射的结果以及 @panoramaeditor@ 中 @panoramaeditor.sidebar.postprocess@ 面板中应用的任何设置。<br><br><b>@panoramapreviewsettingspanel.previewmode.hdr@</b> 显示高动态范围输出的预览，对应于 @mainwindow.tabs.createpanorama@ 选项卡中的“@mainwindow.createpanoramatab.output.hdrblended@”输出选项。可以通过调整下面的“曝光”滑块来检查 HDR 图像的完整动态范围。将应用 @panoramaeditor@ 中 @panoramaeditor.sidebar.hdrpostprocess@ 面板中的设置。未应用色调曲线，因此与 LDR 预览相比，图像会显得暗淡。"
 		},
 		{
 			"id": "mainwindow.createpanoramatab.hdroutputnotavailablewithexpfuseinfo",
-			"machinetranslated": true,
-			"helptext": "使用 Exposure Fusion 时，HDR 输出不可用。",
+			"helptext": "使用曝光融合时，HDR 输出不可用。",
 			"morehelptext": "<br><br>通过 Exposure Fusion，包围式图像会合并到 LDR，而无需先生成高动态范围图像。要启用 HDR 输出，请在 @panoramaeditor@ 侧栏中禁用曝光融合。"
 		},
 		{
@@ -10127,7 +9045,6 @@
 		},
 		{
 			"id": "detailviewer.sidebar.patch.openin",
-			"machinetranslated": true,
 			"helptext": "选择用于编辑生成的补丁图像的应用程序。",
 			"morehelptext": "<br><br><b>@detailviewer.sidebar.patch.openin.patcheditor@：</b>编辑 PTGui 附带的 @patchwindow@ 中的补丁映像。<br><br><b>@detailviewer.sidebar.patch.openin.application@：</b>选择外部应用程序来编辑补丁图像。这里列出了所有注册来处理补丁映像文件类型的应用程序。<br><br><b>@detailviewer.sidebar.patch.openin.explorer@：</b>打开 @txt.finderorexplorer@ 中包含补丁映像的文件夹。"
 		},
